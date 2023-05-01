@@ -1,5 +1,6 @@
 ---  
 share: True  
+path: index  
 ---  
     
 ![[logo.svg|200]]  
