@@ -1,7 +1,7 @@
 ---  
 share: True  
 ---  
-[[Chơi là sự thử nghiệm các kỹ năng mới học trong những môi trường mới]]  
+[Chơi là sự thử nghiệm các kỹ năng mới học trong những môi trường mới](./Ch%C6%A1i%20l%C3%A0%20s%E1%BB%B1%20th%E1%BB%AD%20nghi%E1%BB%87m%20c%C3%A1c%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%20h%E1%BB%8Dc%20trong%20nh%E1%BB%AFng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20m%E1%BB%9Bi.md)  
   
 Tới đây, chúng ta sẽ gặp phải một trong những hạn chế đặc trưng của con người. Nhiều trường hợp người chơi không thể dự đoán giá trị của kỹ năng mới. Miễn là có một kỹ năng mới với giá trị tiềm năng trong phạm vi dự đoán, người chơi sẽ theo đuổi nó. Kĩ năng có thể không mang lại ích lợi lâu dài thực tế nào khác ngoài niềm vui của trải nghiệm, nhưng chúng ta không quan tâm. Chừng nào những phản hồi thú vị và những phần thưởng ngắn hạn còn xuất hiện, chúng ta sẽ còn nỗ lực để theo đuổi kĩ năng đó.  
   
