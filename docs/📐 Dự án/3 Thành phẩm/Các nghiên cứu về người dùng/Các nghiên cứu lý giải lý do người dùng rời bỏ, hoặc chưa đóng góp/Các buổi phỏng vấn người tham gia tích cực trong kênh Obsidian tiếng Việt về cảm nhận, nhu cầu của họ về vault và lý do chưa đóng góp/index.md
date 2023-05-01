@@ -41,4 +41,4 @@ Thành phẩm nhỏ hơn:
   
 - Lúc thấy trên nhóm họ đã thấy thế nào? Vì sao lúc đó họ không nói gì nhiều?  
   
-[Hướng dẫn phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20t%C3%ADch%20c%E1%BB%B1c%20trong%20k%C3%AAnh%20Obsidian%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md#)  
+[Hướng dẫn phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20t%C3%ADch%20c%E1%BB%B1c%20trong%20k%C3%AAnh%20Obsidian%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)  
