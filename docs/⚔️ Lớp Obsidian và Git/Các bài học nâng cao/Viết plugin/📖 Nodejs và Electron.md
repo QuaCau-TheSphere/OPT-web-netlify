@@ -9,6 +9,6 @@ tags:
 #tt/chưa-hoàn-thành  
 #file/bài-học  
 %%  
-# Bài tiếp theo : [](.md) ➡️  
+# Bài tiếp theo : [[]] ➡️  
   
 > [!tip] Mẹo  

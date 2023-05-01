@@ -16,4 +16,4 @@ share: True
 >   
 > Funnily enough, it also fits our definition of a metaphor. _Programming is just a giant stack of metaphors._ Each layer of the metaphorical stack moves us further away from machine world, and closer to human world.  
   
-Nguồn:: [Maggie Appleton](../%CE%9E%20Ngu%E1%BB%93n/Maggie%20Appleton.md), [How to Draw Invisible Programming Concepts: Part I](https://maggieappleton.com/drawinginvisibles1)  
+Nguồn:: [[Maggie Appleton]], [How to Draw Invisible Programming Concepts: Part I](https://maggieappleton.com/drawinginvisibles1)  
