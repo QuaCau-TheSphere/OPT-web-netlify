@@ -1,6 +1,11 @@
----  
-share: True  
----  
+---  
+share: true  
+tags:  
+  - file_thành-quả  
+  - tt_chưa-làm  
+  - đct_thấp  
+---  
+  
 %%  
 #file/thành-quả  
 %%  
