@@ -13,4 +13,4 @@ c. **Nếu không được:** Bấm vào nút <kbd>Add Remote Device</kbd> và d
 >1. **Tạo một thư mục riêng trước khi đồng bộ**, nếu không sẽ bị tràn file ra ngoài   
 >2. **Đảm bảo thư mục đó sau này không phải di chuyển sang chỗ khác.** Vì sau khi nhấn accept thì Syncthing sẽ không cho đổi sang thư mục khác. Nếu muốn đổi thì phải xóa đi làm lại từ đầu nếu muốn tiếp tục đồng bộ  
   
-Bài đọc thêm:: [📖 Khi nào thì nên dùng Syncthing？Khi nào thì nên dùng Git？](./%F0%9F%93%96%20B%C3%A0i%20%C4%91%E1%BB%8Dc%20th%C3%AAm/%F0%9F%93%96%20Khi%20n%C3%A0o%20th%C3%AC%20n%C3%AAn%20d%C3%B9ng%20Syncthing%EF%BC%9FKhi%20n%C3%A0o%20th%C3%AC%20n%C3%AAn%20d%C3%B9ng%20Git%EF%BC%9F.md)  
+Bài đọc thêm:: [[📖 Khi nào thì nên dùng Syncthing？Khi nào thì nên dùng Git？]]  
