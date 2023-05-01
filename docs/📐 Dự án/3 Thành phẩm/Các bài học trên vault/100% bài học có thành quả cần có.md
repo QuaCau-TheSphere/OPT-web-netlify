@@ -1,6 +1,9 @@
----  
-share: True  
----  
+---  
+share: true  
+tags:  
+  - file_thành-quả  
+---  
+  
 %%#file/thành-quả%%  
 Phục vụ cho thành quả:  
   
