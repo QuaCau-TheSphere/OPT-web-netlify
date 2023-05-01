@@ -1,7 +1,7 @@
 ---  
 share: True  
 ---  
-Loại:: [[Quán có phòng riêng]]  
+Loại:: [Quán có phòng riêng](./index.md#)  
 Địa chỉ:: [5 Cao Thắng, Q1]    
 Có loa mic:: ✔  
 Giá thuê:: 50k/giờ  
