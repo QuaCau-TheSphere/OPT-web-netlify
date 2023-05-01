@@ -1,14 +1,14 @@
 ---  
 share: True  
 ---  
-[Nhu cầu là những impact](./Nhu%20c%E1%BA%A7u%20l%C3%A0%20nh%E1%BB%AFng%20impact.md)  
-[Thành quả (outcome) là kết quả mà chúng ta thu được do sự thay đổi về hành vi của người dùng khi tương tác với sản phẩm đã được cải tiến (hoặc sản phẩm mới)](./Th%C3%A0nh%20qu%E1%BA%A3%20(outcome)%20l%C3%A0%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%C3%A0%20ch%C3%BAng%20ta%20thu%20%C4%91%C6%B0%E1%BB%A3c%20do%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20v%E1%BB%81%20h%C3%A0nh%20vi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20khi%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A3i%20ti%E1%BA%BFn%20(ho%E1%BA%B7c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20m%E1%BB%9Bi).md)   
+[[Nhu cầu là những impact]]  
+[[Thành quả (outcome) là kết quả mà chúng ta thu được do sự thay đổi về hành vi của người dùng khi tương tác với sản phẩm đã được cải tiến (hoặc sản phẩm mới)]]   
 Output là sản phẩm nhỏ hơn  
-[Thành phẩm (output) là các kết quả trực tiếp của các công việc](./Th%C3%A0nh%20ph%E1%BA%A9m%20(output)%20l%C3%A0%20c%C3%A1c%20k%E1%BA%BFt%20qu%E1%BA%A3%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20c%E1%BB%A7a%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c.md)  
+[[Thành phẩm (output) là các kết quả trực tiếp của các công việc]]  
   
-[Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức](./S%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%A0%20s%E1%BB%B1%20b%E1%BB%93i%20t%E1%BB%A5%20c%E1%BB%A7a%20c%C3%A1c%20d%C3%B2ng%20h%E1%BA%A3i%20l%C6%B0u%20nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BFt%20tinh%20c%E1%BB%A7a%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), trong khi sản phẩm nhỏ hơn là output.   
+[[Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức]], trong khi sản phẩm nhỏ hơn là output.   
   
-[Các cấp trong tổ chức nên nói chuyện với nhau bằng thành quả](./C%C3%A1c%20c%E1%BA%A5p%20trong%20t%E1%BB%95%20ch%E1%BB%A9c%20n%C3%AAn%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20nhau%20b%E1%BA%B1ng%20th%C3%A0nh%20qu%E1%BA%A3.md)  
+[[Các cấp trong tổ chức nên nói chuyện với nhau bằng thành quả]]  
 Những outcome nào liên quan đến nhau thì sẽ là để phục vụ cho một outcome lớn hơn  
 Tầm nhìn chắc là outcome tổng  
   
