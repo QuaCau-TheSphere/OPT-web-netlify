@@ -1,89 +1,89 @@
 ---  
 share: True  
 ---  
-- [Hình thức quản lý dữ liệu](./H%C3%ACnh%20th%E1%BB%A9c%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/index.md)  
-- [Wiki cá nhân](./H%C3%ACnh%20th%E1%BB%A9c%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/Wiki%20c%C3%A1%20nh%C3%A2n.md)  
-- [Loại hình dự án](./Lo%E1%BA%A1i%20h%C3%ACnh%20d%E1%BB%B1%20%C3%A1n.md)  
-- [Công viên](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%A1c/C%C3%B4ng%20vi%C3%AAn.md)  
-- [Nhà Ân](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%A1c/Nh%C3%A0%20%C3%82n.md)  
-- [Khác](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%A1c/index.md)  
-- [Sân vườn chung cư GoldView](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%A1c/S%C3%A2n%20v%C6%B0%E1%BB%9Dn%20chung%20c%C6%B0%20GoldView.md)  
-- [Flat White](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%B4ng%20gian%20l%C3%A0m%20vi%E1%BB%87c%20chung/Flat%20White.md)  
-- [Geek Hub](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%B4ng%20gian%20l%C3%A0m%20vi%E1%BB%87c%20chung/Geek%20Hub.md)  
-- [Không gian làm việc chung](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%B4ng%20gian%20l%C3%A0m%20vi%E1%BB%87c%20chung/index.md)  
-- [SiHub](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Kh%C3%B4ng%20gian%20l%C3%A0m%20vi%E1%BB%87c%20chung/SiHub.md)  
-- [Offline](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Offline.md)  
-- [Hộp họp](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Ph%C3%B2ng%20h%E1%BB%8Dp%20ri%C3%AAng/H%E1%BB%99p%20h%E1%BB%8Dp.md)  
-- [Phòng họp riêng](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Ph%C3%B2ng%20h%E1%BB%8Dp%20ri%C3%AAng/index.md)  
-- [Phòng sinh hoạt chung cư GoldView](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Ph%C3%B2ng%20h%E1%BB%8Dp%20ri%C3%AAng/Ph%C3%B2ng%20sinh%20ho%E1%BA%A1t%20chung%20c%C6%B0%20GoldView.md)  
-- [UAC](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Ph%C3%B2ng%20h%E1%BB%8Dp%20ri%C3%AAng/UAC.md)  
-- [Viễn Đông (địa điểm họp)](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Ph%C3%B2ng%20h%E1%BB%8Dp%20ri%C3%AAng/Vi%E1%BB%85n%20%C4%90%C3%B4ng%20(%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20h%E1%BB%8Dp).md)  
-- [Hơi Béo](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/H%C6%A1i%20B%C3%A9o.md)  
-- [Quán có phòng riêng](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/index.md)  
-- [ME](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/ME.md)  
-- [Tonkin cottage](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/Tonkin%20cottage.md)  
-- [Chuk](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20kh%C3%B4ng%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/Chuk.md)  
-- [Mr Bean](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20kh%C3%B4ng%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/Mr%20Bean.md)  
-- [Nhà hàng Ấn](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20kh%C3%B4ng%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/Nh%C3%A0%20h%C3%A0ng%20%E1%BA%A4n.md)  
-- [Quán không có phòng riêng](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20kh%C3%B4ng%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/index.md)  
-- [Sigon Cafe](./N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20offline/Qu%C3%A1n%20kh%C3%B4ng%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng/Sigon%20Cafe.md)  
-- [Discord (chat nhóm)](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Discord%20(chat%20nh%C3%B3m).md)  
-- [Gather](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Gather.md)  
-- [Messenger (chat nhóm)](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Messenger%20(chat%20nh%C3%B3m).md)  
-- [Zalo (chat nhóm)](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Zalo%20(chat%20nh%C3%B3m).md)  
-- [Butter](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Butter.md)  
-- [Discord (gọi online)](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Discord%20(g%E1%BB%8Di%20online).md)  
-- [Gather](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Gather.md)  
-- [Google Meet](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Google%20Meet.md)  
-- [Messenger](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Messenger.md)  
-- [Microsoft Teams](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Microsoft%20Teams.md)  
-- [Phần mềm gọi video](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/index.md)  
-- [Zoom](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Zoom.md)  
-- [Figma](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20minh%20ho%E1%BA%A1%20cho%20nh%C3%B3m/Figma.md)  
-- [Google Jamboard](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20minh%20ho%E1%BA%A1%20cho%20nh%C3%B3m/Google%20Jamboard.md)  
-- [Miro](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20minh%20ho%E1%BA%A1%20cho%20nh%C3%B3m/Miro.md)  
-- [Airtable](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/Airtable.md)  
-- [Fibery](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/Fibery.md)  
-- [Google Drive](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/Google%20Drive.md)  
-- [Notion](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/Notion.md)  
-- [Obsidian](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/Obsidian.md)  
-- [Tana](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/Tana.md)  
-- [Group Facebook](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Group%20Facebook.md)  
-- [Group Zalo](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Group%20Zalo.md)  
-- [Phần mềm xây dựng cộng đồng](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)  
-- [Server Discord](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Server%20Discord.md)  
-- [Quản lý lập luận](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Qu%E1%BA%A3n%20l%C3%BD%20l%E1%BA%ADp%20lu%E1%BA%ADn.md)  
-- [Obsidian lưu dữ liệu nằm trên máy của người dùng và ở định dạng đơn giản](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20n%E1%BA%B1m%20tr%C3%AAn%20m%C3%A1y%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20v%C3%A0%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)  
-- [Có thể dùng kết hợp Obsidian với các giải pháp xử lý dữ liệu khác](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/C%C3%B3%20th%E1%BB%83%20d%C3%B9ng%20k%E1%BA%BFt%20h%E1%BB%A3p%20Obsidian%20v%E1%BB%9Bi%20c%C3%A1c%20gi%E1%BA%A3i%20ph%C3%A1p%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20kh%C3%A1c.md)  
-- [Obsidian có thể tạo biến tại bất cứ vị trí nào trong ghi chú](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20c%C3%B3%20th%E1%BB%83%20t%E1%BA%A1o%20bi%E1%BA%BFn%20t%E1%BA%A1i%20b%E1%BA%A5t%20c%E1%BB%A9%20v%E1%BB%8B%20tr%C3%AD%20n%C3%A0o%20trong%20ghi%20ch%C3%BA.md)  
-- [Cộng đồng Obsidian rất mạnh](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20Obsidian%20r%E1%BA%A5t%20m%E1%BA%A1nh.md)  
-- [Khả năng tuỳ biến của Obsidian rất cao](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Kh%E1%BA%A3%20n%C4%83ng%20tu%E1%BB%B3%20bi%E1%BA%BFn%20c%E1%BB%A7a%20Obsidian%20r%E1%BA%A5t%20cao.md)  
-- [Obsidian không gọi vốn để theo đúng định hướng của mình](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B4ng%20g%E1%BB%8Di%20v%E1%BB%91n%20%C4%91%E1%BB%83%20theo%20%C4%91%C3%BAng%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng%20c%E1%BB%A7a%20m%C3%ACnh.md)  
-- [Obsidian miễn phí, không có chức năng nào phải trả tiền hay tính theo đầu người](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20mi%E1%BB%85n%20ph%C3%AD,%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%A9c%20n%C4%83ng%20n%C3%A0o%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n%20hay%20t%C3%ADnh%20theo%20%C4%91%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di.md)  
-- [Obsidian cực kỳ dễ mở rộng tính năng](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20c%E1%BB%B1c%20k%E1%BB%B3%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20t%C3%ADnh%20n%C4%83ng.md)  
-- [Obsidian phù hợp cho các dự án nhỏ, không có nhiều tiền](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20ph%C3%B9%20h%E1%BB%A3p%20cho%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20nh%E1%BB%8F,%20kh%C3%B4ng%20c%C3%B3%20nhi%E1%BB%81u%20ti%E1%BB%81n.md)  
-- [Obsidian xem liên kết là công dân hạng nhất](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20xem%20li%C3%AAn%20k%E1%BA%BFt%20l%C3%A0%20c%C3%B4ng%20d%C3%A2n%20h%E1%BA%A1ng%20nh%E1%BA%A5t.md)  
-- [Đồ thị giúp thấy được bức tranh tổng thể của nhóm](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/%C4%90%E1%BB%93%20th%E1%BB%8B%20gi%C3%BAp%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%A9c%20tranh%20t%E1%BB%95ng%20th%E1%BB%83%20c%E1%BB%A7a%20nh%C3%B3m.md)  
-- [Obsidian khó tạo liên kết hai chiều được](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B3%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20hai%20chi%E1%BB%81u%20%C4%91%C6%B0%E1%BB%A3c.md)  
-- [Việc hợp tác qua mạng trên Obsidian tốt nhất là qua Git](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Vi%E1%BB%87c%20h%E1%BB%A3p%20t%C3%A1c%20qua%20m%E1%BA%A1ng%20tr%C3%AAn%20Obsidian%20t%E1%BB%91t%20nh%E1%BA%A5t%20l%C3%A0%20qua%20Git.md)  
-- [Obsidian lưu dữ liệu ở định dạng đơn giản](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)  
-- [Đơn vị nhỏ nhất của Obsidian là file, không phải block](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90%C6%A1n%20v%E1%BB%8B%20nh%E1%BB%8F%20nh%E1%BA%A5t%20c%E1%BB%A7a%20Obsidian%20l%C3%A0%20file,%20kh%C3%B4ng%20ph%E1%BA%A3i%20block.md)  
-- [Chơi game](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20m%E1%BB%A5c%20%C4%91%C3%ADch%20x%C3%A2y%20d%E1%BB%B1ng%20vault/Ch%C6%A1i%20game.md)  
-- [Mạng kết nối nhu cầu](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20m%E1%BB%A5c%20%C4%91%C3%ADch%20x%C3%A2y%20d%E1%BB%B1ng%20vault/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)  
-- [Nghiên cứu](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20m%E1%BB%A5c%20%C4%91%C3%ADch%20x%C3%A2y%20d%E1%BB%B1ng%20vault/Nghi%C3%AAn%20c%E1%BB%A9u.md)  
-- [Quản lý cuộc sống cá nhân](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20m%E1%BB%A5c%20%C4%91%C3%ADch%20x%C3%A2y%20d%E1%BB%B1ng%20vault/Qu%E1%BA%A3n%20l%C3%BD%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%C3%A1%20nh%C3%A2n.md)  
-- [Quản lý dự án](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20m%E1%BB%A5c%20%C4%91%C3%ADch%20x%C3%A2y%20d%E1%BB%B1ng%20vault/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n.md)  
-- [Wiki chuyên ngành](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20m%E1%BB%A5c%20%C4%91%C3%ADch%20x%C3%A2y%20d%E1%BB%B1ng%20vault/Wiki%20chuy%C3%AAn%20ng%C3%A0nh.md)  
-- [Canvas](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Canvas.md)  
-- [Excalidraw](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Excalidraw.md)  
-- [Slide](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Slide.md)  
-- [Ghi chú trên YouTube](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Ghi%20ch%C3%BA%20tr%C3%AAn%20YouTube.md)  
-- [Trello, Notion, Discord](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Trello,%20Notion,%20Discord.md)  
-- [Theo tính năng của plugin](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/index.md)  
-- [Tạo bảng](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/T%E1%BA%A1o%20b%E1%BA%A3ng.md)  
-- [Tạo nút](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/T%E1%BA%A1o%20n%C3%BAt.md)  
-- [Viết bình luận](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Vi%E1%BA%BFt%20b%C3%ACnh%20lu%E1%BA%ADn.md)  
-- [Vẽ đồ thị](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/V%E1%BA%BD%20%C4%91%E1%BB%93%20th%E1%BB%8B.md)  
-- [Xuất bản trên web](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Xu%E1%BA%A5t%20b%E1%BA%A3n%20tr%C3%AAn%20web.md)  
-- [Chèn bản đồ](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/Ch%C3%A8n%20b%E1%BA%A3n%20%C4%91%E1%BB%93.md)  
-- [💎 Giới thiệu về Obsidian](./%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/index.md)  
+- [[📜 Tài nguyên/Hình thức quản lý dữ liệu/Hình thức quản lý dữ liệu.md|Hình thức quản lý dữ liệu]]  
+- [[📜 Tài nguyên/Hình thức quản lý dữ liệu/Wiki cá nhân.md|Wiki cá nhân]]  
+- [[📜 Tài nguyên/Loại hình dự án.md|Loại hình dự án]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Khác/Công viên.md|Công viên]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Khác/Nhà Ân.md|Nhà Ân]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Khác/Khác.md|Khác]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Khác/Sân vườn chung cư GoldView.md|Sân vườn chung cư GoldView]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Không gian làm việc chung/Flat White.md|Flat White]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Không gian làm việc chung/Geek Hub.md|Geek Hub]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Không gian làm việc chung/Không gian làm việc chung.md|Không gian làm việc chung]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Không gian làm việc chung/SiHub.md|SiHub]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Offline.md|Offline]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Phòng họp riêng/Hộp họp.md|Hộp họp]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Phòng họp riêng/Phòng họp riêng.md|Phòng họp riêng]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Phòng họp riêng/Phòng sinh hoạt chung cư GoldView.md|Phòng sinh hoạt chung cư GoldView]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Phòng họp riêng/UAC.md|UAC]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Phòng họp riêng/Viễn Đông (địa điểm họp).md|Viễn Đông (địa điểm họp)]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán có phòng riêng/Hơi Béo.md|Hơi Béo]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán có phòng riêng/Quán có phòng riêng.md|Quán có phòng riêng]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán có phòng riêng/ME.md|ME]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán có phòng riêng/Tonkin cottage.md|Tonkin cottage]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán không có phòng riêng/Chuk.md|Chuk]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán không có phòng riêng/Mr Bean.md|Mr Bean]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán không có phòng riêng/Nhà hàng Ấn.md|Nhà hàng Ấn]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán không có phòng riêng/Quán không có phòng riêng.md|Quán không có phòng riêng]]  
+- [[📜 Tài nguyên/Nơi gặp mặt offline/Quán không có phòng riêng/Sigon Cafe.md|Sigon Cafe]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm chat nhóm/Discord (chat nhóm).md|Discord (chat nhóm)]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm chat nhóm/Gather.md|Gather]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm chat nhóm/Messenger (chat nhóm).md|Messenger (chat nhóm)]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm chat nhóm/Zalo (chat nhóm).md|Zalo (chat nhóm)]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Butter.md|Butter]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Discord (gọi online).md|Discord (gọi online)]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Gather.md|Gather]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Google Meet.md|Google Meet]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Messenger.md|Messenger]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Microsoft Teams.md|Microsoft Teams]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Phần mềm gọi video.md|Phần mềm gọi video]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm gọi video/Zoom.md|Zoom]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm minh hoạ cho nhóm/Figma.md|Figma]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm minh hoạ cho nhóm/Google Jamboard.md|Google Jamboard]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm minh hoạ cho nhóm/Miro.md|Miro]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Airtable.md|Airtable]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Fibery.md|Fibery]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Google Drive.md|Google Drive]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Notion.md|Notion]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Obsidian.md|Obsidian]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Tana.md|Tana]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm xây dựng cộng đồng/Group Facebook.md|Group Facebook]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm xây dựng cộng đồng/Group Zalo.md|Group Zalo]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm xây dựng cộng đồng/Phần mềm xây dựng cộng đồng.md|Phần mềm xây dựng cộng đồng]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Phần mềm xây dựng cộng đồng/Server Discord.md|Server Discord]]  
+- [[📜 Tài nguyên/Phần mềm làm việc nhóm (groupware)/Quản lý lập luận.md|Quản lý lập luận]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Obsidian lưu dữ liệu nằm trên máy của người dùng và ở định dạng đơn giản.md|Obsidian lưu dữ liệu nằm trên máy của người dùng và ở định dạng đơn giản]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Có thể dùng kết hợp Obsidian với các giải pháp xử lý dữ liệu khác.md|Có thể dùng kết hợp Obsidian với các giải pháp xử lý dữ liệu khác]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Obsidian có thể tạo biến tại bất cứ vị trí nào trong ghi chú.md|Obsidian có thể tạo biến tại bất cứ vị trí nào trong ghi chú]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Cộng đồng Obsidian rất mạnh.md|Cộng đồng Obsidian rất mạnh]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Khả năng tuỳ biến của Obsidian rất cao.md|Khả năng tuỳ biến của Obsidian rất cao]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Obsidian không gọi vốn để theo đúng định hướng của mình.md|Obsidian không gọi vốn để theo đúng định hướng của mình]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Obsidian miễn phí, không có chức năng nào phải trả tiền hay tính theo đầu người.md|Obsidian miễn phí, không có chức năng nào phải trả tiền hay tính theo đầu người]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Obsidian cực kỳ dễ mở rộng tính năng.md|Obsidian cực kỳ dễ mở rộng tính năng]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Obsidian phù hợp cho các dự án nhỏ, không có nhiều tiền.md|Obsidian phù hợp cho các dự án nhỏ, không có nhiều tiền]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Obsidian xem liên kết là công dân hạng nhất.md|Obsidian xem liên kết là công dân hạng nhất]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Đồ thị giúp thấy được bức tranh tổng thể của nhóm.md|Đồ thị giúp thấy được bức tranh tổng thể của nhóm]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm yếu của Obsidian/Obsidian khó tạo liên kết hai chiều được.md|Obsidian khó tạo liên kết hai chiều được]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm yếu của Obsidian/Việc hợp tác qua mạng trên Obsidian tốt nhất là qua Git.md|Việc hợp tác qua mạng trên Obsidian tốt nhất là qua Git]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Obsidian lưu dữ liệu ở định dạng đơn giản.md|Obsidian lưu dữ liệu ở định dạng đơn giản]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Đơn vị nhỏ nhất của Obsidian là file, không phải block.md|Đơn vị nhỏ nhất của Obsidian là file, không phải block]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo mục đích xây dựng vault/Chơi game.md|Chơi game]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo mục đích xây dựng vault/Mạng kết nối nhu cầu.md|Mạng kết nối nhu cầu]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo mục đích xây dựng vault/Nghiên cứu.md|Nghiên cứu]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo mục đích xây dựng vault/Quản lý cuộc sống cá nhân.md|Quản lý cuộc sống cá nhân]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo mục đích xây dựng vault/Quản lý dự án.md|Quản lý dự án]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo mục đích xây dựng vault/Wiki chuyên ngành.md|Wiki chuyên ngành]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Canvas.md|Canvas]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Excalidraw.md|Excalidraw]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Slide.md|Slide]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Ghi chú trên YouTube.md|Ghi chú trên YouTube]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Trello, Notion, Discord.md|Trello, Notion, Discord]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Theo tính năng của plugin.md|Theo tính năng của plugin]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Tạo bảng.md|Tạo bảng]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Tạo nút.md|Tạo nút]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Viết bình luận.md|Viết bình luận]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Vẽ đồ thị.md|Vẽ đồ thị]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Xuất bản trên web.md|Xuất bản trên web]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Chèn bản đồ.md|Chèn bản đồ]]  
+- [[📜 Tài nguyên/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian.md|💎 Giới thiệu về Obsidian]]  
