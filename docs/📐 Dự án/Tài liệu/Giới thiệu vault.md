@@ -5,7 +5,7 @@ share: True
   
 Nơi đây sẽ chứa những insight mà những người đang tự học quản lý dự án nhiều khi cũng lờ mờ nhận ra nhưng không có ai ở ngay đó để đẩy vấn đề đi xa hơn, còn những người mới học thì thấy quá tải, nhức đầu vì những lời khuyên, bài viết trên mạng dù hay đến mấy cũng rời rạc. Nhiều cái rất bình thường và hiển nhiên với người có kinh nghiệm, lại là những thử gây trắc trở với những người mới. Có thể ở đâu đó có những bài viết chất lượng, đậm đặc insight, nhưng nó lại  không nổi lên được bằng các bài viết chú trọng vào SEO.  
   
-![[Drawing 2023-04-12 13.38.23.excalidraw.png]]  
+![[../../Drawing 2023-04-12 13.38.23.excalidraw.png|Drawing 2023-04-12 13.38.23.excalidraw.png]]  
   
 Những insight trong đây không chỉ, mà còn là quan sát triết học hoặc nhân học liên quan đến quản lý dự án hoặc tự học  
   
@@ -28,9 +28,9 @@ Nếu đi qua hết tất cả các thử thách ở đây, bạn sẽ có đư�
   
 Vault này được khởi xướng bởi Quả Cầu.  
   
-Bọn mình khuyến khích bạn tải vault trực tiếp hơn là đọc trên web. [[Tại sao lại cần tải vault về hơn là đọc trên web|Tại sao tôi lại nên tải về hơn là đọc trên web?]]   
+Bọn mình khuyến khích bạn tải vault trực tiếp hơn là đọc trên web. [[./Tại sao lại cần tải vault về hơn là đọc trên web|Tại sao tôi lại nên tải về hơn là đọc trên web?]]   
   
-[[Kế hoạch tổng]]   
-Xem thêm:: [[Động lực thực hiện dự án này]], [[Quả Cầu là gì]]   
- [[💎 Giới thiệu về Obsidian]]   
- [[⚔️ Lớp Obsidian và Git]]   
+[[../6 Kế hoạch/Kế hoạch tổng|Kế hoạch tổng]]   
+Xem thêm:: [[./Động lực thực hiện dự án này|Động lực thực hiện dự án này]], [[Quả Cầu là gì]]   
+ [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/index|💎 Giới thiệu về Obsidian]]   
+ [[../../⚔️ Lớp Obsidian và Git/index|⚔️ Lớp Obsidian và Git]]   
