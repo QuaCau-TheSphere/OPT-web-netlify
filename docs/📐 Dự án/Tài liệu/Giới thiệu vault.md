@@ -32,5 +32,5 @@ Bọn mình khuyến khích bạn tải vault trực tiếp hơn là đọc trê
   
 [[../6 Kế hoạch/Kế hoạch tổng|Kế hoạch tổng]]   
 Xem thêm:: [[./Động lực thực hiện dự án này|Động lực thực hiện dự án này]], [[Quả Cầu là gì]]   
- [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/index|💎 Giới thiệu về Obsidian]]   
- [[../../⚔️ Lớp Obsidian và Git/index|⚔️ Lớp Obsidian và Git]]   
+ [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]]   
+ [[../../⚔️ Lớp Obsidian và Git/⚔️ Lớp Obsidian và Git|⚔️ Lớp Obsidian và Git]]   
