@@ -6,9 +6,9 @@ share: True
 - Số biến có hạn, nhưng nhất quán  
   
 Câu hỏi:: Làm kỹ vấn đề onboard là được?, Dùng template là được?  
-[[Có sự đánh đổi giữa sự dễ dàng tuỳ biến dữ liệu của mình và sự dễ dàng hợp tác qua mạng]]  
+[[../Hợp tác làm việc/Có sự đánh đổi giữa sự dễ dàng tuỳ biến dữ liệu của mình và sự dễ dàng hợp tác qua mạng|Có sự đánh đổi giữa sự dễ dàng tuỳ biến dữ liệu của mình và sự dễ dàng hợp tác qua mạng]]  
   
-[[Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc]]  
+[[./Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc|Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc]]  
 Khai báo biến trong một file thì sẽ bị phân mảnh. Khai báo trong bảng thì là khai báo trước dữ liệu sau  
   
 Thêm trường mới dễ dàng  
