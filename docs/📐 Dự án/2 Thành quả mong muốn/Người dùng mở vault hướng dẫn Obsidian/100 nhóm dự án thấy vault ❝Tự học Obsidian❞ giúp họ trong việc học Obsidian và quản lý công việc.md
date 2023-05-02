@@ -21,6 +21,6 @@ Thành quả hỗ trợ:: [[../Người dùng đóng góp cho dự án/50% ngư�
 Thành quả hỗ trợ:: [[./50% người dễ dàng tự sử dụng|50% người dễ dàng tự sử dụng]]  
 Thành quả hỗ trợ:: [[./50% người thấy được sự khác biệt với những phần mềm khác và ý nghĩa của sự khác biệt đó|50% người thấy được sự khác biệt với những phần mềm khác và ý nghĩa của sự khác biệt đó]]  
   
-Thành phẩm:: [[../../3 Thành phẩm/Các bài học trên vault/index|Các bài học trên vault]], [[../../3 Thành phẩm/Các buổi cố vấn riêng/index|Các buổi cố vấn riêng]], [[../../3 Thành phẩm/Các bài viết truyền thông/index|Các bài viết truyền thông]]  
+Thành phẩm:: [[../../3 Thành phẩm/Các bài học trên vault/Các bài học trên vault|Các bài học trên vault]], [[../../3 Thành phẩm/Các buổi cố vấn riêng/Các buổi cố vấn riêng|Các buổi cố vấn riêng]], [[../../3 Thành phẩm/Các bài viết truyền thông/Các bài viết truyền thông|Các bài viết truyền thông]]  
   
 Điểm yếu:: [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Hợp tác làm việc/Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác|Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác]]  
