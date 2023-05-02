@@ -1,6 +1,6 @@
 ---  
 share: True  
-title: index  
+path: docs/index.md  
 ---  
     
 ![[logo.svg|200]]  
