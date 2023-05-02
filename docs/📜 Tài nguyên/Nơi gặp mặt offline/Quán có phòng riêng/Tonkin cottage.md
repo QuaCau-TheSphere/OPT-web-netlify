@@ -1,7 +1,7 @@
 ---  
 share: True  
 ---  
-Loại:: [[Quán có phòng riêng]], [[Quán không có phòng riêng]]  
+Loại:: [[./index|Quán có phòng riêng]], [[../Quán không có phòng riêng/index|Quán không có phòng riêng]]  
 Địa chỉ:: [91 Lý Tự Trọng, Bến Thành, Q1]  
 Có loa mic::   
 Máy chiếu::   
