@@ -11,7 +11,7 @@ tags:
 %%  
 Trạng thái:: #tt/đang-làm  
 Độ cấp thiết:: #đct/cao  
-Đối tượng thụ hưởng:: [[Người muốn quản lý cuộc sống cá nhân]]  
+Đối tượng thụ hưởng:: [[../../4 Các bên liên quan/Loại đối tượng/Theo nhu cầu/Người muốn quản lý cuộc sống cá nhân|Người muốn quản lý cuộc sống cá nhân]]  
   
 Phục vụ cho thành quả:  
 ```dataview  
