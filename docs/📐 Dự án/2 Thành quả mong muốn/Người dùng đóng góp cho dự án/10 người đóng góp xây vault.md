@@ -19,4 +19,4 @@ Thành quả cần có:: [[../Người dùng mở vault hướng dẫn Obsidian/
 Thành quả hỗ trợ:: [[./50% người chia sẻ vault cho bạn bè|50% người chia sẻ vault cho bạn bè]]  
   
   
-Thành phẩm:: [[../../3 Thành phẩm/Các buổi họp xây dựng kế hoạch phát triển/index|Các buổi họp xây dựng kế hoạch phát triển]]  
+Thành phẩm:: [[../../3 Thành phẩm/Các buổi họp xây dựng kế hoạch phát triển/Các buổi họp xây dựng kế hoạch phát triển|Các buổi họp xây dựng kế hoạch phát triển]]  
