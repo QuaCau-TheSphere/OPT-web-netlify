@@ -1,6 +1,7 @@
 ---  
 share: True  
 path: docs/index.md  
+title: sdf  
 ---  
     
 ![[logo.svg|200]]  
