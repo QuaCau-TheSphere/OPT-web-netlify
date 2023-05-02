@@ -10,4 +10,4 @@ Phục vụ cho thành quả:
   
 Thành quả cần có:: [[./80% người mới đến được nơi họ cần đến trong 3 giây|80% người mới đến được nơi họ cần đến trong 3 giây]]  
   
-Thành phẩm:: [[../../3 Thành phẩm/Các buổi cố vấn riêng/index|Các buổi cố vấn riêng]]  
+Thành phẩm:: [[../../3 Thành phẩm/Các buổi cố vấn riêng/Các buổi cố vấn riêng|Các buổi cố vấn riêng]]  
