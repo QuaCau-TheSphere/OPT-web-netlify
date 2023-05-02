@@ -1,4 +1,4 @@
 ---  
 share: True  
 ---  
-Nguồn:: [[Đừng bắt tôi nghĩ]]  
+Nguồn:: [[../../Ξ Nguồn/Đừng bắt tôi nghĩ|Đừng bắt tôi nghĩ]]  
