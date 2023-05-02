@@ -1,4 +1,4 @@
 ---  
 share: True  
 ---  
-![[../../💎 Giới thiệu về Obsidian/index|💎 Giới thiệu về Obsidian]]  
+![[../../💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]]  

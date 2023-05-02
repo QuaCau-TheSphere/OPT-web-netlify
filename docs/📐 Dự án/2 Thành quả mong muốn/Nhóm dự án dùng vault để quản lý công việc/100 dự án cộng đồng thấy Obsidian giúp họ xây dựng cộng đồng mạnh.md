@@ -19,4 +19,4 @@ Phục vụ cho thành quả:
 Thành quả cần có:: [[../Người dùng mở vault hướng dẫn Obsidian/50 nhóm dự án cộng đồng tham gia các buổi học về Obsidian|50 nhóm dự án cộng đồng tham gia các buổi học về Obsidian]]  
   
   
-Thành phẩm:: [[../../3 Thành phẩm/Các bài viết truyền thông/Bài viết về vấn đề về hệ sinh thái|Bài viết về vấn đề về hệ sinh thái]], [[../../3 Thành phẩm/Các buổi demo vault/index|Các buổi demo vault]], [[../../3 Thành phẩm/Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/index|Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng]]  
+Thành phẩm:: [[../../3 Thành phẩm/Các bài viết truyền thông/Bài viết về vấn đề về hệ sinh thái|Bài viết về vấn đề về hệ sinh thái]], [[../../3 Thành phẩm/Các buổi demo vault/Các buổi demo vault|Các buổi demo vault]], [[../../3 Thành phẩm/Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng|Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng]]  

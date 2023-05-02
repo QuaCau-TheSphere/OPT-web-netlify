@@ -13,4 +13,4 @@ Phục vụ cho thành quả:
   
 Thành quả cần có:: [[./40% người tham gia biết dùng Git|40% người tham gia biết dùng Git]]  
   
-Thành phẩm:: [[../../3 Thành phẩm/Các bài học trên vault/index|Các bài học trên vault]]  
+Thành phẩm:: [[../../3 Thành phẩm/Các bài học trên vault/Các bài học trên vault|Các bài học trên vault]]  

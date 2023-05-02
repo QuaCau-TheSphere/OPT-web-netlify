@@ -15,14 +15,14 @@ Sau khi đọc xong những điều này, hiện có những câu hỏi nào xu�
   
 | Câu hỏi của bạn                                                                               | Loại câu hỏi | Nơi cho câu trả lời           |  
 | --------------------------------------------------------------------------------------------- | ------------ | ----------------------------- |  
-| Obsidian có gì hay?                                                                           | What         | [[./📜 Tài nguyên/💎 Giới thiệu về Obsidian/index|💎 Giới thiệu về Obsidian]] |  
-| OK tôi thấy Obsidian cũng thú vị. Tôi ứng dụng nó vào công việc của tôi thế nào cho hiệu quả? | How          | [[./⚔️ Lớp Obsidian và Git/index|⚔️ Lớp Obsidian và Git]]    |  
-| Hmm... Tôi thấy hướng dẫn ghi là nên làm cái A này. Tại sao không phải là cái B kia?          | Why          | [[./⚡Hiểu biết sâu/index|⚡Hiểu biết sâu]]           |  
+| Obsidian có gì hay?                                                                           | What         | [[./📜 Tài nguyên/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]] |  
+| OK tôi thấy Obsidian cũng thú vị. Tôi ứng dụng nó vào công việc của tôi thế nào cho hiệu quả? | How          | [[./⚔️ Lớp Obsidian và Git/⚔️ Lớp Obsidian và Git|⚔️ Lớp Obsidian và Git]]    |  
+| Hmm... Tôi thấy hướng dẫn ghi là nên làm cái A này. Tại sao không phải là cái B kia?          | Why          | [[./⚡Hiểu biết sâu/⚡Hiểu biết sâu|⚡Hiểu biết sâu]]           |  
   
   
 [[./📐 Dự án/Tài liệu/Giới thiệu vault|Nơi này là nơi nào?]] | [[./📐 Dự án/Tài liệu/Cách hỗ trợ|Tôi có thể giúp gì?]]   
   
 \* Lưu ý, một số liên kết trong đây có thể không hoạt động tốt. [[./📐 Dự án/Tài liệu/Tại sao lại cần tải vault về hơn là đọc trên web|Tốt nhất là bạn nên tải vault về hơn là đọc trên web]]  
   
- [[./📜 Tài nguyên/💎 Giới thiệu về Obsidian/index|💎 Giới thiệu về Obsidian]]   
- [[./⚔️ Lớp Obsidian và Git/index|⚔️ Lớp Obsidian và Git]]   
+ [[./📜 Tài nguyên/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]]   
+ [[./⚔️ Lớp Obsidian và Git/⚔️ Lớp Obsidian và Git|⚔️ Lớp Obsidian và Git]]   

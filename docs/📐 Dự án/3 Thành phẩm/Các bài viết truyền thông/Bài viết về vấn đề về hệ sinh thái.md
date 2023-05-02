@@ -17,7 +17,7 @@ Thành quả cần có::
 Thành quả hỗ trợ::  
   
 Thành phẩm nhỏ hơn:  
-- [[./index|Các bài viết truyền thông]]  
+- [[./Các bài viết truyền thông|Các bài viết truyền thông]]  
 - [[./Trên Discord Obsidian tiếng-Việt|Trên Discord Obsidian tiếng-Việt]]  
 - [[./Trên Discord QC|Trên Discord QC]]  
 - [[./Trên Facebook page QC|Trên Facebook page QC]]  
