@@ -11,15 +11,15 @@ tags:
 %%  
 Trạng thái:: #tt/đang-làm  
 Độ cấp thiết:: #đct/cao  
-Đối tượng thụ hưởng:: [[Người muốn xây dựng cộng đồng hoặc mạng lưới]]  
+Đối tượng thụ hưởng:: [[../../4 Các bên liên quan/Loại đối tượng/Theo nhu cầu/Người muốn xây dựng cộng đồng hoặc mạng lưới|Người muốn xây dựng cộng đồng hoặc mạng lưới]]  
   
 Phục vụ cho thành quả:  
-- [[📐 Dự án/2 Thành quả mong muốn/Nhóm dự án dùng vault để quản lý công việc/100 dự án cộng đồng thấy Obsidian giúp họ xây dựng cộng đồng mạnh.md|100 dự án cộng đồng thấy Obsidian giúp họ xây dựng cộng đồng mạnh]]  
+- [[../Nhóm dự án dùng vault để quản lý công việc/100 dự án cộng đồng thấy Obsidian giúp họ xây dựng cộng đồng mạnh|100 dự án cộng đồng thấy Obsidian giúp họ xây dựng cộng đồng mạnh]]  
   
 Thành quả cần có::   
   
 Thành phẩm::   
   
   
-[[Số người tham gia mới (user acquisition)]]  
-[[Số người tiếp tục tham gia theo thời gian (retention)]]  
+[[../../Tài liệu/Các chỉ số/Số người tham gia mới (user acquisition)|Số người tham gia mới (user acquisition)]]  
+[[../../Tài liệu/Các chỉ số/Số người tiếp tục tham gia theo thời gian (retention)|Số người tiếp tục tham gia theo thời gian (retention)]]  
