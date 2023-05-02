@@ -31,16 +31,16 @@ Thành quả hỗ trợ:: [[../2 Thành quả mong muốn/Người dùng liên t
 - [[../2 Thành quả mong muốn/Người dùng liên thông dữ liệu/50% người đóng góp đáp ứng được các nhu cầu khác của họ|50% người đóng góp đáp ứng được các nhu cầu khác của họ]]  
   
 # Thành phẩm chính  
-- [[../3 Thành phẩm/Các buổi cố vấn riêng/index|Các buổi cố vấn riêng]]  
-- [[../3 Thành phẩm/Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/index|Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng]]  
-- [[../3 Thành phẩm/Các nghiên cứu về người dùng/index|Các nghiên cứu về người dùng]]  
-- [[../3 Thành phẩm/Các bài viết truyền thông/index|Các bài viết truyền thông]]  
+- [[../3 Thành phẩm/Các buổi cố vấn riêng/Các buổi cố vấn riêng|Các buổi cố vấn riêng]]  
+- [[../3 Thành phẩm/Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng|Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng]]  
+- [[../3 Thành phẩm/Các nghiên cứu về người dùng/Các nghiên cứu về người dùng|Các nghiên cứu về người dùng]]  
+- [[../3 Thành phẩm/Các bài viết truyền thông/Các bài viết truyền thông|Các bài viết truyền thông]]  
 - [[../3 Thành phẩm/Các bài viết truyền thông/Bài viết về vấn đề về hệ sinh thái|Bài viết về vấn đề về hệ sinh thái]]  
-- [[../3 Thành phẩm/Các bài học trên vault/index|Các bài học trên vault]]  
-- [[../3 Thành phẩm/Các buổi họp xây dựng kế hoạch phát triển/index|Các buổi họp xây dựng kế hoạch phát triển]]  
+- [[../3 Thành phẩm/Các bài học trên vault/Các bài học trên vault|Các bài học trên vault]]  
+- [[../3 Thành phẩm/Các buổi họp xây dựng kế hoạch phát triển/Các buổi họp xây dựng kế hoạch phát triển|Các buổi họp xây dựng kế hoạch phát triển]]  
 - [[Hệ thống chấm điểm cảm xúc|Hệ thống chấm điểm cảm xúc]]  
-- [[../3 Thành phẩm/Các nghiên cứu về sản phẩm/index|Các nghiên cứu về sản phẩm]]  
-- [[../3 Thành phẩm/Các buổi demo vault/index|Các buổi demo vault]]  
+- [[../3 Thành phẩm/Các nghiên cứu về sản phẩm/Các nghiên cứu về sản phẩm|Các nghiên cứu về sản phẩm]]  
+- [[../3 Thành phẩm/Các buổi demo vault/Các buổi demo vault|Các buổi demo vault]]  
   
   
 # Công việc  
@@ -62,9 +62,6 @@ Thành quả hỗ trợ:: [[../2 Thành quả mong muốn/Người dùng liên t
 - [ ] 2 [[người làm vault để quản lý cuộc sống của họ]]  
     - [ ] [[Nghi]]  
 - [ ] Kiểm định giả thuyết  
-- [ ] Search  
-- [ ] Nếu có heading thì bị đổi trên title  
-- [ ]   
   
   
 [[../../../Gõ tắt|Gõ tắt]]  
