@@ -1,7 +1,7 @@
 ---  
 share: True  
 ---  
-Loại:: [[Phòng họp riêng]]  
+Loại:: [[./index|Phòng họp riêng]]  
 Giờ đóng cửa:: 21h30, 50  
 Không gian tạo cảm hứng:: ✔, 1 lần/tháng  
 Tiện ích khác::   
@@ -10,4 +10,4 @@ Tiện ích khác::
 Số người tối thiểu::   
    
 Giá giữ xe:: 5k  
-Liên hệ:: [[Nhật]]  
+Liên hệ:: [[../../../📐 Dự án/4 Các bên liên quan/Cá nhân cụ thể/Nhật|Nhật]]  
