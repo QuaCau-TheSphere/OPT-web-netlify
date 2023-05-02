@@ -11,4 +11,4 @@ share: True
 - Not having a good problem-solution set (product-market fit)  
 - Not having  a cohensive teams that work well together  
   
-[[Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng]]z  
+[[./Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng|Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng]]z  

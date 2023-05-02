@@ -3,7 +3,7 @@ share: True
 filename: index  
 ---  
     
-![[logo.svg|200]]  
+![[./logo.svg|200]]  
   
 Obsidian là một phần mềm ghi chú mới xuất hiện từ năm 2020. Điểm khác biệt của nó với Word hoặc Google Docs là khả năng liên kết các ghi chú lại như Wikipedia mà không bị ràng buộc bởi việc nên phân loại theo thư mục nào. Điểm khác biệt của nó với Notion hoặc Google Docs là nó lưu dữ liệu trên máy bạn chứ không lưu trên máy chủ, khiến cho bạn có sự tự chủ và tự do tuyệt đối với dữ liệu của mình.    
   
@@ -15,13 +15,13 @@ Sau khi đọc xong những điều này, hiện có những câu hỏi nào xu�
   
 | Câu hỏi của bạn                                                                               | Loại câu hỏi | Nơi cho câu trả lời           |  
 | --------------------------------------------------------------------------------------------- | ------------ | ----------------------------- |  
-| Obsidian có gì hay?                                                                           | What         | [[💎 Giới thiệu về Obsidian]] |  
-| OK tôi thấy Obsidian cũng thú vị. Tôi ứng dụng nó vào công việc của tôi thế nào cho hiệu quả? | How          | [[⚔️ Lớp Obsidian và Git]]    |  
-| Hmm... Tôi thấy hướng dẫn ghi là nên làm cái A này. Tại sao không phải là cái B kia?          | Why          | [[⚡Hiểu biết sâu]]           |  
+| Obsidian có gì hay?                                                                           | What         | [[./📜 Tài nguyên/💎 Giới thiệu về Obsidian/index|💎 Giới thiệu về Obsidian]] |  
+| OK tôi thấy Obsidian cũng thú vị. Tôi ứng dụng nó vào công việc của tôi thế nào cho hiệu quả? | How          | [[./⚔️ Lớp Obsidian và Git/index|⚔️ Lớp Obsidian và Git]]    |  
+| Hmm... Tôi thấy hướng dẫn ghi là nên làm cái A này. Tại sao không phải là cái B kia?          | Why          | [[./⚡Hiểu biết sâu/index|⚡Hiểu biết sâu]]           |  
   
   
-[[Giới thiệu vault|Nơi này là nơi nào?]] | [[Cách hỗ trợ|Tôi có thể giúp gì?]] | [Discord](https://discord.gg/ynvxH2K7Ct)   
+[[./📐 Dự án/Tài liệu/Giới thiệu vault|Nơi này là nơi nào?]] | [[./📐 Dự án/Tài liệu/Cách hỗ trợ|Tôi có thể giúp gì?]] | [Discord](https://discord.gg/ynvxH2K7Ct)   
   
   
- [[💎 Giới thiệu về Obsidian]]   
- [[⚔️ Lớp Obsidian và Git]]   
+ [[./📜 Tài nguyên/💎 Giới thiệu về Obsidian/index|💎 Giới thiệu về Obsidian]]   
+ [[./⚔️ Lớp Obsidian và Git/index|⚔️ Lớp Obsidian và Git]]   

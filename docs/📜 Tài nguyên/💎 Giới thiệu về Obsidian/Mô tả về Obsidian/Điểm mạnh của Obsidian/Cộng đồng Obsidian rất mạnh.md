@@ -1,7 +1,7 @@
 ---  
 share: True  
 ---  
-[[Obsidian không gọi vốn để theo đúng định hướng của mình]]   
+[[./Obsidian không gọi vốn để theo đúng định hướng của mình|Obsidian không gọi vốn để theo đúng định hướng của mình]]   
   
   
 - [Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here "00 - Start here - Obsidian Hub - Obsidian Publish")  

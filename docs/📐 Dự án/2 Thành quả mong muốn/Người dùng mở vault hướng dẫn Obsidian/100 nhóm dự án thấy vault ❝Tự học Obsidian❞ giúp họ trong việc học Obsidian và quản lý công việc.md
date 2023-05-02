@@ -9,18 +9,18 @@ tags:
 %%  
 #file/thành-quả  
 %%  
-Trạng thái:: #tt/đang-làm, [[Nhật]]  
+Trạng thái:: #tt/đang-làm, [[../../4 Các bên liên quan/Cá nhân cụ thể/Nhật|Nhật]]  
 Độ cấp thiết:: #đct/cao  
   
 Phục vụ cho thành quả:  
-- [[📐 Dự án/2 Thành quả mong muốn/Nhóm dự án dùng vault để quản lý công việc/50 nhóm dự án sử dụng Obsidian để quản lý công việc.md|50 nhóm dự án sử dụng Obsidian để quản lý công việc]]  
+- [[../Nhóm dự án dùng vault để quản lý công việc/50 nhóm dự án sử dụng Obsidian để quản lý công việc|50 nhóm dự án sử dụng Obsidian để quản lý công việc]]  
   
-Thành quả cần có:: [[500 người mở vault ít nhất 10 lần]]  
+Thành quả cần có:: [[./500 người mở vault ít nhất 10 lần|500 người mở vault ít nhất 10 lần]]  
   
-Thành quả hỗ trợ:: [[50% người chia sẻ vault cho bạn bè]]  
-Thành quả hỗ trợ:: [[50% người dễ dàng tự sử dụng]]  
-Thành quả hỗ trợ:: [[50% người thấy được sự khác biệt với những phần mềm khác và ý nghĩa của sự khác biệt đó]]  
+Thành quả hỗ trợ:: [[../Người dùng đóng góp cho dự án/50% người chia sẻ vault cho bạn bè|50% người chia sẻ vault cho bạn bè]]  
+Thành quả hỗ trợ:: [[./50% người dễ dàng tự sử dụng|50% người dễ dàng tự sử dụng]]  
+Thành quả hỗ trợ:: [[./50% người thấy được sự khác biệt với những phần mềm khác và ý nghĩa của sự khác biệt đó|50% người thấy được sự khác biệt với những phần mềm khác và ý nghĩa của sự khác biệt đó]]  
   
-Thành phẩm:: [[Các bài học trên vault]], [[Các buổi cố vấn riêng]], [[Các bài viết truyền thông]]  
+Thành phẩm:: [[../../3 Thành phẩm/Các bài học trên vault/index|Các bài học trên vault]], [[../../3 Thành phẩm/Các buổi cố vấn riêng/index|Các buổi cố vấn riêng]], [[../../3 Thành phẩm/Các bài viết truyền thông/index|Các bài viết truyền thông]]  
   
-Điểm yếu:: [[Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác]]  
+Điểm yếu:: [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Hợp tác làm việc/Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác|Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác]]  

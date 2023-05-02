@@ -9,4 +9,4 @@ share: True
 >   
 > And they found out so much of the way that we reason and think about the world in what we would consider our logical way is spatial. And it's completely linked to our bodies and our emotions. And there is no, you know, there is no separation of mind and body is like the punchline.  
   
-Nguồn:: [[Maggie Appleton]], [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=17:10)  
+Nguồn:: [[../../../Ξ Nguồn/Maggie Appleton|Maggie Appleton]], [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=17:10)  

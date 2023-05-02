@@ -8,4 +8,4 @@ share: True
 - Mastery of these  
   
 [[Văn hoá doanh nghiệp và phản ứng của thị trường về mình quyết định hiệu quả của việc kinh doanh]]  
-[[Để gọi vốn thì rất cần nắm chắc những con số]]  
+[[./Để gọi vốn thì rất cần nắm chắc những con số|Để gọi vốn thì rất cần nắm chắc những con số]]  
