@@ -1,7 +1,7 @@
 ---  
 share: True  
 ---  
-Loại:: [[./index|Phòng họp riêng]]  
+Loại:: [[./Phòng họp riêng|Phòng họp riêng]]  
 Giờ đóng cửa:: 21h30, 50  
 Không gian tạo cảm hứng:: ✔, 1 lần/tháng  
 Tiện ích khác::   
