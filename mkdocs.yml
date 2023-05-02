@@ -140,3 +140,8 @@ extra:
   analytics:
     provider: google
     property: G-XXXXXXXXXX
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/quacau.sphere/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jWTk4EHFK2
