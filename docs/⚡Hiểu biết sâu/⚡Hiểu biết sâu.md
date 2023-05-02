@@ -7,7 +7,7 @@ share: True
     - [[./Khoa học dữ liệu/Semantic web|Semantic web]]  
     - [[./Khoa học dữ liệu/Wikipedia|Wikipedia]]  
     - [[./Khoa học dữ liệu/Semantic triplestore|Semantic triplestore]]  
-    - [[./Khoa học dữ liệu/index|Khoa học dữ liệu]]  
+    - [[./Khoa học dữ liệu/Khoa học dữ liệu|Khoa học dữ liệu]]  
   
 - Khoa học máy tính:   
     - [[./Khoa học máy tính/Các chương trình dùng electron ngốn ram|Các chương trình dùng electron ngốn ram]]  
@@ -79,7 +79,7 @@ share: True
     - [[./Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/ESG|ESG]]  
     - [[./Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Bảo hộ thương mại|Bảo hộ thương mại]]  
     - [[./Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/GDP của VN tăng trưởng rất nhanh|GDP của VN tăng trưởng rất nhanh]]  
-    - [[./Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/index|Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động]]  
+    - [[./Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động|Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động]]  
     - [[./Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Humane tech|Humane tech]]  
   
 - Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Nền kinh tế dùng tiền, chủ nghĩa tân tự do:   
@@ -117,7 +117,7 @@ share: True
 - Nghĩ về việc nghĩ:   
     - [[./Nghĩ về việc nghĩ/Khai vấn là để kích thích suy nghĩ, còn tư vấn là đưa ý kiến của mình|Khai vấn là để kích thích suy nghĩ, còn tư vấn là đưa ý kiến của mình]]  
     - [[./Nghĩ về việc nghĩ/Dữ liệu không phải thông tin, thông tin không phải kiến thức, kiến thức không phải hiểu biết, hiểu biết không phải thông thái|Dữ liệu không phải thông tin, thông tin không phải kiến thức, kiến thức không phải hiểu biết, hiểu biết không phải thông thái]]  
-    - [[./Nghĩ về việc nghĩ/index|Nghĩ về việc nghĩ]]  
+    - [[./Nghĩ về việc nghĩ/Nghĩ về việc nghĩ|Nghĩ về việc nghĩ]]  
   
 - Nghĩ về việc nghĩ/Bản thể luận:   
     - [[./Nghĩ về việc nghĩ/Bản thể luận/Chúng ta thường nhìn hiện tại và tương lai bằng những khái niệm học trong quá khứ|Chúng ta thường nhìn hiện tại và tương lai bằng những khái niệm học trong quá khứ]]  
@@ -171,7 +171,7 @@ share: True
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Explorable explanation phù hợp cho các trình bày liên quan chặt chẽ đến toán hơn|Explorable explanation phù hợp cho các trình bày liên quan chặt chẽ đến toán hơn]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành|Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Hành vi và phản ứng là những thứ native trong môi trường máy tính|Hành vi và phản ứng là những thứ native trong môi trường máy tính]]  
-    - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/index|Môi trường nghĩ, nhận thức tăng cường]]  
+    - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Môi trường nghĩ, nhận thức tăng cường|Môi trường nghĩ, nhận thức tăng cường]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Những môi trường tư duy tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc|Những môi trường tư duy tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Một môi trường nghĩ thực sự mới là nơi chỉ việc dùng nó thôi sẽ thay đổi cả cách nghĩ của toàn bộ một nền văn minh|Một môi trường nghĩ thực sự mới là nơi chỉ việc dùng nó thôi sẽ thay đổi cả cách nghĩ của toàn bộ một nền văn minh]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Thiết kế trải nghiệm người dùng|Thiết kế trải nghiệm người dùng]]  
@@ -185,7 +185,7 @@ share: True
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Sự phát minh ra ký hiệu phát minh ra toán học hiện đại|Sự phát minh ra ký hiệu phát minh ra toán học hiện đại]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ta không tận dụng hết được môi trường máy tính khi chỉ bắt chước môi trường giấy|Ta không tận dụng hết được môi trường máy tính khi chỉ bắt chước môi trường giấy]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Viết làm suy nghĩ không còn là vô hình|Viết làm suy nghĩ không còn là vô hình]]  
-    - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/index|Đọc và viết]]  
+    - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Đọc và viết|Đọc và viết]]  
     - [[./Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Viết cho phép bạn nghĩ về sự nghĩ|Viết cho phép bạn nghĩ về sự nghĩ]]  
   
 - Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin:   
@@ -277,7 +277,7 @@ share: True
     - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/Một số mục tiêu phỏng vấn gợi ý|Một số mục tiêu phỏng vấn gợi ý]]  
     - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/Kết quả phỏng vấn phải actionable|Kết quả phỏng vấn phải actionable]]  
     - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/Một số ví dụ về mục tiêu nghiên cứu|Một số ví dụ về mục tiêu nghiên cứu]]  
-    - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/index|Nghiên cứu]]  
+    - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/Nghiên cứu|Nghiên cứu]]  
     - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/Người thích mình thường có nhu cầu khác về sản phẩm so với người không thích mình|Người thích mình thường có nhu cầu khác về sản phẩm so với người không thích mình]]  
     - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/Những câu hỏi đánh giá tác động đòi hỏi phải nghiên cứu sâu|Những câu hỏi đánh giá tác động đòi hỏi phải nghiên cứu sâu]]  
     - [[./Quản lý dự án, phát triển sản phẩm/Nghiên cứu/Nên phỏng vấn một tập người dùng nhiều lần, nhưng không nên một người nhiều lần|Nên phỏng vấn một tập người dùng nhiều lần, nhưng không nên một người nhiều lần]]  

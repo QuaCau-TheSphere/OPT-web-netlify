@@ -1,6 +1,6 @@
----  
-share: True  
----  
+---  
+share: True  
+---  
 - [[./Bản thể luận/Chúng ta thường nhìn hiện tại và tương lai bằng những khái niệm học trong quá khứ|Chúng ta thường nhìn hiện tại và tương lai bằng những khái niệm học trong quá khứ]]  
 - [[./Bản thể luận/Phân loại, phi tuyến/Tư duy phi tuyến|Tư duy phi tuyến]]  
 - [[./Bản thể luận/Phân loại, phi tuyến/Việc hướng đến sự ngăn nắp là đang hướng đến việc tạo ra một thế giới trong đầu|Việc hướng đến sự ngăn nắp là đang hướng đến việc tạo ra một thế giới trong đầu]]  
@@ -38,7 +38,7 @@ share: True
 - [[./Môi trường nghĩ, nhận thức tăng cường/Explorable explanation phù hợp cho các trình bày liên quan chặt chẽ đến toán hơn|Explorable explanation phù hợp cho các trình bày liên quan chặt chẽ đến toán hơn]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành|Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Hành vi và phản ứng là những thứ native trong môi trường máy tính|Hành vi và phản ứng là những thứ native trong môi trường máy tính]]  
-- [[./Môi trường nghĩ, nhận thức tăng cường/index|Môi trường nghĩ, nhận thức tăng cường]]  
+- [[./Môi trường nghĩ, nhận thức tăng cường/Môi trường nghĩ, nhận thức tăng cường|Môi trường nghĩ, nhận thức tăng cường]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Những môi trường tư duy tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc|Những môi trường tư duy tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Một môi trường nghĩ thực sự mới là nơi chỉ việc dùng nó thôi sẽ thay đổi cả cách nghĩ của toàn bộ một nền văn minh|Một môi trường nghĩ thực sự mới là nơi chỉ việc dùng nó thôi sẽ thay đổi cả cách nghĩ của toàn bộ một nền văn minh]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Thiết kế trải nghiệm người dùng|Thiết kế trải nghiệm người dùng]]  
@@ -56,7 +56,7 @@ share: True
 - [[./Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Sự phát minh ra ký hiệu phát minh ra toán học hiện đại|Sự phát minh ra ký hiệu phát minh ra toán học hiện đại]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ta không tận dụng hết được môi trường máy tính khi chỉ bắt chước môi trường giấy|Ta không tận dụng hết được môi trường máy tính khi chỉ bắt chước môi trường giấy]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Viết làm suy nghĩ không còn là vô hình|Viết làm suy nghĩ không còn là vô hình]]  
-- [[./Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/index|Đọc và viết]]  
+- [[./Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Đọc và viết|Đọc và viết]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Viết cho phép bạn nghĩ về sự nghĩ|Viết cho phép bạn nghĩ về sự nghĩ]]  
 - [[./Môi trường nghĩ, nhận thức tăng cường/Powerful medium enables powerful representations|Powerful medium enables powerful representations]]  
 - [[./Khai vấn là để kích thích suy nghĩ, còn tư vấn là đưa ý kiến của mình|Khai vấn là để kích thích suy nghĩ, còn tư vấn là đưa ý kiến của mình]]  
@@ -69,4 +69,4 @@ share: True
 - [[./Thiết kế/Tính khả dụng liên quan đến con người và cách họ hiểu và sử dụng mọi thứ, chứ không phải liên quan đến công nghệ|Tính khả dụng liên quan đến con người và cách họ hiểu và sử dụng mọi thứ, chứ không phải liên quan đến công nghệ]]  
 - [[./Thiết kế/Việc mò mẫm vui, đỡ phải nghĩ và thường là hiệu quả hơn là đọc hướng dẫn cẩn thận|Việc mò mẫm vui, đỡ phải nghĩ và thường là hiệu quả hơn là đọc hướng dẫn cẩn thận]]  
 - [[./Dữ liệu không phải thông tin, thông tin không phải kiến thức, kiến thức không phải hiểu biết, hiểu biết không phải thông thái|Dữ liệu không phải thông tin, thông tin không phải kiến thức, kiến thức không phải hiểu biết, hiểu biết không phải thông thái]]  
-  
+  

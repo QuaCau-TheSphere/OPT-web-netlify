@@ -34,7 +34,7 @@ share: True
 - [[./Theo tính năng của plugin/Excalidraw|Excalidraw]]  
 - [[./Theo tính năng của plugin/Ghi chú trên YouTube|Ghi chú trên YouTube]]  
 - [[./Theo tính năng của plugin/Slide|Slide]]  
-- [[./Theo tính năng của plugin/index|Theo tính năng của plugin]]  
+- [[./Theo tính năng của plugin/Theo tính năng của plugin|Theo tính năng của plugin]]  
 - [[./Theo tính năng của plugin/Trello, Notion, Discord|Trello, Notion, Discord]]  
 - [[./Theo tính năng của plugin/Tạo bảng|Tạo bảng]]  
 - [[./Theo tính năng của plugin/Viết bình luận|Viết bình luận]]  
