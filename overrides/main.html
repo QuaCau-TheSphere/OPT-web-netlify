@@ -22,6 +22,8 @@ main.html
   {% include "partials/meta.html" %}
 {% endblock %}
 {% block content %}
+<div style="font-size: 40px;">main.html</div>
+
   {{ super() }}
   {% include "partials/comments.html" %}
   {% set pg_title = 'title' | value_in_frontmatter(page.meta) %}
