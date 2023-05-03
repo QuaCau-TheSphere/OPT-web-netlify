@@ -3,7 +3,7 @@ share: True
 filename: index  
 ---  
     
-![[./logo.svg|200]]  
+![[./attachments/logo.svg|200]]  
   
 Obsidian là một phần mềm ghi chú mới xuất hiện từ năm 2020. Điểm khác biệt của nó với Word hoặc Google Docs là khả năng liên kết các ghi chú lại như Wikipedia mà không bị ràng buộc bởi việc nên phân loại theo thư mục nào. Điểm khác biệt của nó với Notion hoặc Google Docs là nó lưu dữ liệu trên máy bạn chứ không lưu trên máy chủ, khiến cho bạn có sự tự chủ và tự do tuyệt đối với dữ liệu của mình.    
   
@@ -21,8 +21,3 @@ Sau khi đọc xong những điều này, hiện có những câu hỏi nào xu�
   
   
 [[./📐 Dự án/Tài liệu/Giới thiệu vault|Nơi này là nơi nào?]] | [[./📐 Dự án/Tài liệu/Cách hỗ trợ|Tôi có thể giúp gì?]]   
-  
-\* Lưu ý, một số liên kết trong đây có thể không hoạt động tốt. [[./📐 Dự án/Tài liệu/Tại sao lại cần tải vault về hơn là đọc trên web|Tốt nhất là bạn nên tải vault về hơn là đọc trên web]]  
-  
- [[./📜 Tài nguyên/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]]   
- [[./⚔️ Lớp Obsidian và Git/⚔️ Lớp Obsidian và Git|⚔️ Lớp Obsidian và Git]]   
