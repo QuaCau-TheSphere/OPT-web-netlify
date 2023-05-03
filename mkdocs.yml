@@ -107,7 +107,7 @@ plugins:
   - callouts
   - glightbox
   - social:
-      cards_font: Noto Sans SC
+      cards_font: Roboto Slab
       cards_color:
         fill: "#009485" 
         text: "#FFFFFF" 
