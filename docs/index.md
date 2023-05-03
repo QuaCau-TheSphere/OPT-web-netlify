@@ -1,10 +1,13 @@
 ---  
 share: True  
 filename: index  
----  
-    
-![[./logo.svg|200]]  
-  
+hide:
+  - navigation
+  - toc
+---
+
+![[./logo.svg|200x200]]  
+bla
 Obsidian là một phần mềm ghi chú mới xuất hiện từ năm 2020. Điểm khác biệt của nó với Word hoặc Google Docs là khả năng liên kết các ghi chú lại như Wikipedia mà không bị ràng buộc bởi việc nên phân loại theo thư mục nào. Điểm khác biệt của nó với Notion hoặc Google Docs là nó lưu dữ liệu trên máy bạn chứ không lưu trên máy chủ, khiến cho bạn có sự tự chủ và tự do tuyệt đối với dữ liệu của mình.    
   
 Bất cứ ai trong chúng ta đều có những nhu cầu cần được đáp ứng. Những nhu cầu này chảy qua cơ thể chúng ta, tạo ra những dự định về tương lai trong tâm trí của chúng ta. Khi một dự định trở nên đủ lớn, nó sẽ trở thành một dự án. Khi một dự án trở nên đủ phức tạp, bạn cần thay đổi kế hoạch theo sự biến động của môi trường một cách linh hoạt cũng như kết nối các nguồn lực mà không tốn quá nhiều năng lượng. Những công cụ cho bạn sự tự chủ và tự do với dữ liệu của mình, không giam hãm thông tin trong những ốc đảo nào sẽ giúp bạn làm được điều đó.  
