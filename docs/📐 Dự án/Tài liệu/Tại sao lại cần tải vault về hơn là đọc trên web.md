@@ -1,6 +1,7 @@
 ---  
 share: True  
 ---  
+&nbsp;  
 # Những thứ mà chỉ phiên bản trên Obsidian mới có mà bản web không có  
 Về cơ bản, chúng là do [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Obsidian lưu dữ liệu nằm trên máy của người dùng|Obsidian lưu dữ liệu nằm trên máy của người dùng]]. Đây là một số hệ quả của việc đó:  
   
@@ -34,5 +35,4 @@ Về cơ bản, **những lỗi này không được ưu tiên sửa**. Do nhi�
   
   
 # Cách tải vault  
-[Tải vault](https://github.com/QuaCau-TheSphere/quan-ly-du-an-va-cong-cu-nghi/releases) { .md-button .md-button--primary }  
-:fontawesome-regular-face-laugh-wink:  
+[Tải vault :octicons-download-16:](https://github.com/QuaCau-TheSphere/quan-ly-du-an-va-cong-cu-nghi/releases){ .md-button .md-button--primary 
