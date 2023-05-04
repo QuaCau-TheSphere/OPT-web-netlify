@@ -1,17 +1,17 @@
 site_name: Obsidian, quản lý dự án và công cụ nghĩ 
 site_description: Hiểu biết sâu về các công cụ nghĩ và cách ứng dụng chúng vào quản lý dự án
 site_url: https://obsidian.xn--qucu-hr5aza.cc
-repo_url: https://github.com/QuaCau-TheSphere/quan-ly-du-an-va-cong-cu-nghi/releases
-repo_name: Đọc trang này trên Obsidian
+repo_url: https://obsidian.Quảcầu.cc/📐 Dự án/3 Thành phẩm/Phần mềm/Bộ cài/Hướng dẫn tải vault
+repo_name: Tải bản đầy đủ chức năng
 
 theme:
     name: 'material'
-    logo: assets/meta/logo.svg
-    favicon: assets/meta/logo.svg
+    logo: assets/meta/logo2.svg
+    favicon: assets/meta/logo2.svg
     custom_dir: overrides
     font:
         text: Roboto Slab
-        code: Ubuntu Mono
+        code: Roboto Mono
     language: vi
     icon:
       repo: octicons/download-16
@@ -42,7 +42,6 @@ theme:
         - search.suggest
         - search.highlight
         - navigation.instant
-        - toc.integrate 
         - header.autohide
         
 # Extensions
@@ -156,3 +155,5 @@ extra:
       link: https://www.facebook.com/quacau.sphere/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/jWTk4EHFK2
+    - icon: fontawesome/brands/github
+      link: https://github.com/QuaCau-TheSphere/quan-ly-du-an-va-cong-cu-nghi/
