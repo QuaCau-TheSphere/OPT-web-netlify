@@ -35,7 +35,7 @@ Nếu đi qua hết tất cả các thử thách ở đây, bạn sẽ có đư�
   
 Vault này được khởi xướng bởi Quả Cầu.  
   
-Bọn mình khuyến khích bạn tải vault trực tiếp hơn là đọc trên web. [[./Tại sao lại cần tải vault về hơn là đọc trên web|Tại sao tôi lại nên tải về hơn là đọc trên web?]]   
+Bọn mình khuyến khích bạn tải vault trực tiếp hơn là đọc trên web. [[./Tại sao lại cần tải vault về hơn là đọc trên web？|Tại sao tôi lại nên tải về hơn là đọc trên web?]]   
   
 [[../6 Kế hoạch/Kế hoạch tổng|Kế hoạch tổng]]   
 Xem thêm:: [[Động lực thực h

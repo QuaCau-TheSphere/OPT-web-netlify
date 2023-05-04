@@ -10,13 +10,14 @@ tags:
   
 Phục vụ cho thành quả:  
   
-Người chơi:: [[../../4 Các bên liên quan/Cá nhân cụ thể/Nhật|Nhật]]  
+Người chơi:: [[../../../4 Các bên liên quan/Cá nhân cụ thể/Nhật|Nhật]]  
   
 Thành quả cần có::  
 Thành quả hỗ trợ::  
   
 Thành phẩm nhỏ hơn:  
-- [[./Web|Web]]  
+- [[./Các trục trặc có thể gặp khi cài|Các trục trặc có thể gặp khi cài]]  
+- [[./Hướng dẫn tải vault|Hướng dẫn tải vault]]  
   
   
 - [ ] Chỉnh hình nền   

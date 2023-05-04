@@ -6,11 +6,13 @@ Trang bạn đang đọc là phiên bản web của vault Obsidian.
 # Những thứ mà chỉ phiên bản trên Obsidian mới có mà bản web không có  
 Về cơ bản, chúng là do [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Obsidian lưu dữ liệu nằm trên máy của người dùng|Obsidian lưu dữ liệu nằm trên máy của người dùng]]. Đây là một số hệ quả của việc đó:  
   
-## Tất cả các phím tắt, chức năng và plugin của Obsidian mà bạn thiết lập riêng cho mình  
+## Tất cả các phím tắt, chức năng và plugin của Obsidian, bao gồm cả những thứ bạn thiết lập riêng cho mình  
 Ví dụ, ở trên Obsidian, bạn có thể xem được đồ thị mối liên hệ giữa các ghi chú trong phần [[../../⚡Hiểu biết sâu/⚡Hiểu biết sâu|⚡Hiểu biết sâu]]:  
 ![](https://i.imgur.com/gwdeLlL.png)  
   
 Đồ thị này cho thấy được các ghi chú đang bị rời rạc ra sao. Ta còn có thể có nhiều phân tích cho nó nữa, nhưng vì đây chỉ là một ví dụ nên ở đây tồi không ghi ra nhiều.  
+  
+Back link  
   
 Phần [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính năng của plugin/Theo tính năng của plugin|Theo tính năng của plugin]] sẽ cho bạn thấy   
   
@@ -20,7 +22,7 @@ Phần [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/Theo tính n�
 # Vậy bản web được sinh ra để làm gì?  
 - Dễ giới thiệu cho người mới,   
 - Dễ quảng bá dự án,  
-- ~~Tăng SEO~~ Làm giảm hạng những nguồn kém chất lượng   
+- ~~Tăng SEO~~  Thêm nguồn tài nguyên chất lượng cho các tim kiểm  
 - Thêm tài nguyên thêm nguồn ngữ liệu chất lượng cho AI  
   
 Hơn nữa, [[../../⚡Hiểu biết sâu/Khoa học máy tính/Hợp tác làm việc/Việc trung tâm hoá việc lưu trữ dữ liệu trên máy chủ sẽ lấy đi autonomy và agency của người dùng cuối|Việc trung tâm hoá việc lưu trữ dữ liệu trên máy chủ sẽ lấy đi autonomy và agency của người dùng cuối]]  
@@ -28,7 +30,7 @@ Hơn nữa, [[../../⚡Hiểu biết sâu/Khoa học máy tính/Hợp tác làm 
 ## Những lỗi trên bản web   
 - Search   
 - Nếu có heading thì bị đổi trên title  
-- Một số trang không được cập nhật thường xuyên   
+- Cache 🤡  
   
 Ví dụ, những trang có dataview sẽ không chắc được cập nhật, do plugin tạo web, [Mkdocs Publisher](https://obsidian-publisher.netlify.app/github%20publisher/commands/#upload "Commands - Obsidian Mkdocs Publisher"), không thấy trang đó có sự thay đổi gì.  
   
