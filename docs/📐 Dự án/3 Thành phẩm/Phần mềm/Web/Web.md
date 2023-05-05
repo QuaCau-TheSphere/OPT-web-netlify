@@ -16,5 +16,4 @@ Thành quả cần có::
 Thành quả hỗ trợ::  
   
 Thành phẩm nhỏ hơn:  
-- [[./Bộ cài|Bộ cài]]  
   

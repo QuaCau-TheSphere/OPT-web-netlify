@@ -1,15 +1,15 @@
 ---  
 share: true  
-tags:  
-  - tiếng-việt  
 ---  
   
-  
 Hiện tại có 2 nơi thảo luận chính:  
-- Kênh #tiếng-việt trong Discord Obsidian  
-- Kênh #  
-Các buổi gặp mặt  
-- Tư vấn  
-- Lên kế hoạch  
-- Trò chuyện  
-Các cuộc gặp nhau trực tiếp hoặc online sẽ được tổ chức vào thời điểm nhiều người tham gia được nhiều nhất. Cũng sẽ có những buổi ưu tiên cho những người người ít khi nào rảnh vào những buổi nhiều người rảnh. Tham gia vào cộng đồng Quả Cầu trên Facebook hoặc Discord để chọn lịch cho buổi tiếp theo và nắm được những gì đã diễn ra vào các buổi trước.
+- Kênh `#tiếng-việt` trong [Discord Obsidian](https://discord.gg/obsidianmd)  
+- Kênh `#quản-lý-dự-án-và-công-cụ-nghĩ` trong [Discord Quả Cầu](https://discord.gg/ynvxH2K7Ct)   
+  
+Lâu lâu sẽ có những buổi gặp mặt, với chủ đề có thể là:  
+- [[../3 Thành phẩm/Các buổi họp xây dựng kế hoạch phát triển/Các buổi họp xây dựng kế hoạch phát triển|Các buổi họp xây dựng kế hoạch phát triển]]  
+- [[../3 Thành phẩm/Các buổi cố vấn riêng/Các buổi cố vấn riêng|Các buổi cố vấn riêng]]  
+- [[../3 Thành phẩm/Các buổi giới thiệu vault/Các buổi giới thiệu vault|Các buổi giới thiệu vault]]  
+- Các buổi trò chuyện, tán gẫu bạn bè  
+  
+Thời gian diễn ra và hình thức gặp mặt sẽ tuỳ thuộc vào sự thống nhất của những người tham gia.
