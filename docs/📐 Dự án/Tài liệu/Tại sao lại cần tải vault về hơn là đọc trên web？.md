@@ -5,6 +5,8 @@ Trong ngành khoa học máy tính, [[../../⚡Hiểu biết sâu/Khoa học má
   
 Bạn có thể bắt đầu có lại cảm giác đó bằng cách tải dữ liệu của web này về.  
   
+[[../3 Thành phẩm/Phần mềm/Bộ cài/Hướng dẫn tải vault|Hướng dẫn tải vault]]{ .md-button .md-button--primary }  
+  
 # Những thứ mà chỉ phiên bản trên Obsidian mới có mà bản web không có  
 Về cơ bản, những thứ này có được là do [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Obsidian lưu dữ liệu nằm trên máy của người dùng|Obsidian lưu dữ liệu nằm trên máy của người dùng]]. Đây là một số hệ quả của việc đó:  
   
