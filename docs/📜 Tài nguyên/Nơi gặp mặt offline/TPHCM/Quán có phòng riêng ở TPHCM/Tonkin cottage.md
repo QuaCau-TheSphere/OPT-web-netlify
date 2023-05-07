@@ -1,7 +1,7 @@
 ---  
 share: True  
 ---  
-Loại:: [[./Quán có phòng riêng|Quán có phòng riêng]], [[../Quán không có phòng riêng/Quán không có phòng riêng|Quán không có phòng riêng]]  
+Loại:: [[./Quán có phòng riêng ở TPHCM|Quán có phòng riêng ở TPHCM]], [[../Quán không có phòng riêng ở TPHCM/Quán không có phòng riêng ở TPHCM|Quán không có phòng riêng ở TPHCM]]  
 Địa chỉ:: [91 Lý Tự Trọng, Bến Thành, Q1]  
 Có loa mic::   
 Máy chiếu::   
