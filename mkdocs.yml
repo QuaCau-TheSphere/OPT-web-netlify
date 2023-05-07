@@ -6,8 +6,8 @@ repo_name: Tải bản đầy đủ chức năng
 
 theme:
     name: 'material'
-    logo: assets/meta/logo2_plain.svg
-    favicon: assets/meta/logo2_plain.svg
+    logo: assets/meta/Logo/logo3.svg
+    favicon: assets/meta/Logo/logo3.svg
     custom_dir: overrides
     font:
         text: Roboto Slab
