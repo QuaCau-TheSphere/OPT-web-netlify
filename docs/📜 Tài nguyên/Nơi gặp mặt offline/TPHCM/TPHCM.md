@@ -4,8 +4,10 @@ title: Nơi gặp mặt offline tại TPHCM
 alias: Nơi gặp mặt offline tại TPHCM  
 ---  
   
-> [!NOTE] Hướng dẫn lọc  
-> Bấm <kbd>Ctrl+E</kbd> và chỉ giữ lại những tiêu chí mình cần có, xong <kbd>Ctrl+E</kbd> thêm lần nữa  
+> [!info] Hướng dẫn sử dụng  
+> Để lọc ra được những địa điểm phù hợp với mình, bấm <kbd>Ctrl+E</kbd> để thấy phần Dataview. Ở dòng where ghi lại những tiêu chí mình cần có, xong <kbd>Ctrl+E</kbd> thêm lần nữa  
+> Ví dụ:  
+> `where wifi = "✔" and không-bị-ồn-từ-bên-ngoài="✔" `  
   
   
 | File                                                                                                                                        | Hình thức                         | Giá rẻ | Wifi | Nhà vệ sinh | Máy chiếu | Được nói to | Không bị ồn từ bên ngoài | Bàn đúng kích thước làm việc | Có thể vận động cơ thể | Nước ngon | Gần trung tâm | Ở lại tới 23h | Không gian tạo cảm hứng | Có loa mic |  
@@ -17,6 +19,8 @@ alias: Nơi gặp mặt offline tại TPHCM
 | [[./Phòng họp riêng ở TPHCM/Phòng sinh hoạt chung cư GoldView\|Phòng sinh hoạt chung cư GoldView]] | Phòng họp riêng ở TPHCM           | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | ✔, 1 lần/tháng          | \-         |  
 | [[./Phòng họp riêng ở TPHCM/UAC\|UAC]]                                                             | Phòng họp riêng ở TPHCM           | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |  
 | [[./Phòng họp riêng ở TPHCM/Viễn Đông (địa điểm họp)\|Viễn Đông (địa điểm họp)]]                   | Phòng họp riêng ở TPHCM           | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |  
+| [[./Phòng họp riêng ở TPHCM/Cái Tổ nhỏ\|Cái Tổ nhỏ]]                                               | Phòng họp riêng ở TPHCM           | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |  
+| [[./Phòng họp riêng ở TPHCM/vẫn đang suy nghĩ space\|vẫn đang suy nghĩ space]]                     | Phòng họp riêng ở TPHCM           | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |  
 | [[./Quán có phòng riêng ở TPHCM/Hơi Béo\|Hơi Béo]]                                                 | Quán có phòng riêng ở TPHCM       | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | ❌                      | \-        | \-            | \-            | \-                      | \-         |  
 | [[./Quán có phòng riêng ở TPHCM/ME\|ME]]                                                           | Quán có phòng riêng ở TPHCM       | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | ❌         | \-            | \-            | \-                      | ✔          |  
 | [[./Quán có phòng riêng ở TPHCM/Tonkin cottage\|Tonkin cottage]]                                   | Quán có phòng riêng ở TPHCM       | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | ✔         | \-            | \-            | ✔, Không giới hạn       | \-         |  
@@ -26,6 +30,7 @@ alias: Nơi gặp mặt offline tại TPHCM
 | [[./Quán không có phòng riêng ở TPHCM/Sigon Cafe\|Sigon Cafe]]                                     | Quán không có phòng riêng ở TPHCM | \-     | ✔    | ✔           | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |  
 | [[TPHCM\|TPHCM]]                                                                                 | \-                                | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |  
 | [[./Địa điểm công cộng ở TPHCM/Công viên\|Công viên]]                                              | Địa điểm công cộng ở TPHCM        | \-     | \-   | 5           | ❌         | ✔           | 5                        | \-                           | ✔                      | ❌         | \-            | \-            | ✔                       | ❌          |  
-| [[./Địa điểm công cộng ở TPHCM/Nhà Ân\|Nhà Ân]]                                                    | Địa điểm công cộng ở TPHCM        | \-     | \-   | ✔           | ✔         | ✔           | ✔                        | \-                           | ✔                      | ✔         | \-            | \-            | ✔                       | ✔          |  
 | [[./Địa điểm công cộng ở TPHCM/Sân vườn chung cư GoldView\|Sân vườn chung cư GoldView]]            | Địa điểm công cộng ở TPHCM        | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |  
+| [[./Nhà riêng/Nhà Ân\|Nhà Ân]]                                                                     | Nhà riêng                         | \-     | \-   | ✔           | ✔         | ✔           | ✔                        | \-                           | ✔                      | ✔         | \-            | \-            | ✔                       | ✔          |  
   
+where không-bị-ồn-từ-bên-ngoài="✔" 
