@@ -6,7 +6,7 @@ share: True
 - [ ] Đăng thông báo lên group  
 	- [ ] Xác định ngày họp nhiều người tham gia được nhất  
     - [ ] Tạo lịch Google Calendar  
-- [ ] [[Chọn nơi họp]]  
+- [ ] Chọn nơi họp  
 - [ ] Khởi động một chút cho thêm không khí  
 - [ ] Tạo khảo sát cuối buổi  
 - [ ] Ghi chép  
@@ -16,7 +16,7 @@ Nếu có mời đối tác khác vào họp chung:
 - [ ] Chuẩn bị phiếu khảo sát nhu cầu của họ  
 - [ ] Gửi cho các bên nội dung họp  
   
-Nếu có thành viên online thì cần đảm bảo:  
+[[./Kinh nghiệm setup khi có cả online và offline|Nếu có thành viên online thì cần đảm bảo]]:  
 - [ ] Mở trước 5 phút  
 - [ ] Camera quan sát được cả nhóm  
 - [ ] Mic và loa rõ  
