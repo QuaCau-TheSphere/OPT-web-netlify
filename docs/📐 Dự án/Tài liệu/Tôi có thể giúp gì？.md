@@ -1,7 +1,7 @@
 ---  
 share: true  
 ---  
-Một số thứ bạn có thể giúp. Bạn cũng có thể xem qua các [[kế hoạch của dự án]]  
+Một số thứ bạn có thể giúp. Bạn cũng có thể xem qua [[../6 Kế hoạch/Kế hoạch phát triển dự án|Kế hoạch phát triển dự án]]  
 # Làm các khảo sát  
 - Làm [khảo sát về sự hữu ích của vault cho bạn](https://quảcầu.cc/khao-sat-nguoi-dung-vault-nhap-mon-obsidian/?utm_source=Vault+%C2%BB+Nh%E1%BA%ADp+m%C3%B4n+Obsidian+%C2%BB+Trang+ch%E1%BB%A7&utm_medium=Giai+%C4%91o%E1%BA%A1n+2)  
   
