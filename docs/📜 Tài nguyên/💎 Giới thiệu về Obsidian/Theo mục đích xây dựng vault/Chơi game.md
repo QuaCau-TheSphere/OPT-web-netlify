@@ -1,5 +1,5 @@
 ---  
 share: True  
 ---  
-![[../../../DnD.webp|DnD.webp]]  
+![[../../../attachments/DnD.webp|DnD.webp]]  
 ![](https://raw.githubusercontent.com/SlRvb/Obsidian--ITS-Theme/main/Images/Theme-DnD-WOTC--Lightmode.png)  
