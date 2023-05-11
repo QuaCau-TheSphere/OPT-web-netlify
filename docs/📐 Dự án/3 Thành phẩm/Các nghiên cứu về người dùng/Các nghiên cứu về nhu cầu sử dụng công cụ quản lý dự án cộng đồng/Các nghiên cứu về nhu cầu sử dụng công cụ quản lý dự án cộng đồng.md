@@ -30,8 +30,8 @@ Thành quả hỗ trợ:: [[../../../2 Thành quả mong muốn/3 người có 1
 - [ ] Khảo sát  
   
 Thành phẩm nhỏ hơn:  
-- [[./Các buổi phỏng vấn/Bài đăng kêu gọi phỏng vấn|Bài đăng kêu gọi phỏng vấn]]  
 - [[./Các buổi phỏng vấn/Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới|Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới]]  
+- [[./Các buổi phỏng vấn/Bài đăng kêu gọi phỏng vấn|Bài đăng kêu gọi phỏng vấn]]  
 - [[./Email mời phỏng vấn|Email mời phỏng vấn]]  
   
   
