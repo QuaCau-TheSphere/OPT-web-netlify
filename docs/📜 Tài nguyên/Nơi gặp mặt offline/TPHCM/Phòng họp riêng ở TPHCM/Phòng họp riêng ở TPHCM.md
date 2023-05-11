@@ -9,8 +9,9 @@ Bàn phù hợp cho việc dùng laptop:: ✔
 Có thể vận động cơ thể:: ✔  
 Có loa mic:: ✔  
   
-- [[./Hộp họp|Hộp họp]]  
+- [[./Cái Tổ nhỏ|Cái Tổ nhỏ]]  
 - [[./Phòng sinh hoạt chung cư GoldView|Phòng sinh hoạt chung cư GoldView]]  
 - [[./UAC|UAC]]  
 - [[./Viễn Đông (địa điểm họp)|Viễn Đông (địa điểm họp)]]  
+- [[./vẫn đang suy nghĩ space|vẫn đang suy nghĩ space]]  
   
