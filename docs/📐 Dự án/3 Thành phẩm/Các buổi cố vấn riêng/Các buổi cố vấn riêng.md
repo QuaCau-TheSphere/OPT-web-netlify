@@ -10,8 +10,8 @@ tags:
 %%  
 Trạng thái:: #tt/đang-làm, [[../../4 Các bên liên quan/Cá nhân cụ thể/Nhật|Nhật]]  
 Phục vụ cho thành quả:  
-- [[../../2 Thành quả mong muốn/Người dùng mở vault hướng dẫn Obsidian/50% người dễ dàng tự sử dụng|50% người dễ dàng tự sử dụng]]  
 - [[../../2 Thành quả mong muốn/Người dùng mở vault hướng dẫn Obsidian/100 nhóm dự án thấy vault ❝Tự học Obsidian❞ giúp họ trong việc học Obsidian và quản lý công việc|100 nhóm dự án thấy vault ❝Tự học Obsidian❞ giúp họ trong việc học Obsidian và quản lý công việc]]  
+- [[../../2 Thành quả mong muốn/Người dùng mở vault hướng dẫn Obsidian/50% người dễ dàng tự sử dụng|50% người dễ dàng tự sử dụng]]  
   
   
 Thành quả cần có::  

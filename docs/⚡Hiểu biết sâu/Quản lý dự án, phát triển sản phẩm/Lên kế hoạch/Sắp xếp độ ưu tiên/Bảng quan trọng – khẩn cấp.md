@@ -95,4 +95,4 @@ Tôi thấy rằng khi một người bỏ thời gian ra để làm một thứ
   
 I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.  
   
-[[../../../Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Ở cấp độ thần kinh, ta không xem con người tương lai của ta là chính ta|Ở cấp độ thần kinh, ta không xem con người tương lai của ta là chính ta]]
+[[../../../Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Ở cấp độ thần kinh, ta không xem con người tương lai của ta là chính ta|Ở cấp độ thần kinh, ta không xem con người tương lai của ta là chính ta]]

@@ -3,7 +3,7 @@ share: True
 ---  
 [[../Khoa học nhận thức/Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm|Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm]]  
 [[./Chúng ta không chọn phương án tối ưu khi chọn sai cũng chẳng hại gì|Chúng ta không chọn phương án tối ưu khi chọn sai cũng chẳng hại gì]]   
-[[Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu]]   
+[[./Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu|Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu]]   
   
 Sự thật #1: Chúng ta không đọc các trang web, chúng ta chỉ lướt mắt qua chúng thôi (scanning)  
 - Vì ta thường đang có việc gì đó cần phải làm  
@@ -20,6 +20,6 @@ Sự thật #3: Chúng ta không tìm hiểu cách mọi thứ vận hành. Chú
 - Vì nó không quan trọng với mình  
 - Vì nếu ta tìm được cách nào dùng được, ta sẽ dính với cách đó  
   
-Nhưng vì việc [[Đọc lướt không giúp ta tiếp thu được gì cả]], nên ta sẽ thấy nhức đầu khi bật trang mới dù ta không cảm thấy áp lực gì cả. Dễ thấy nhất khi cần ngồi nghiên cứu và ta bật rất nhiều tab  
+Nhưng vì việc [[../Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Đọc lướt không giúp ta tiếp thu được gì cả|Đọc lướt không giúp ta tiếp thu được gì cả]], nên ta sẽ thấy nhức đầu khi bật trang mới dù ta không cảm thấy áp lực gì cả. Dễ thấy nhất khi cần ngồi nghiên cứu và ta bật rất nhiều tab  
   
 Nguồn:: [[../../Ξ Nguồn/Đừng bắt tôi nghĩ|Đừng bắt tôi nghĩ]]  

@@ -20,4 +20,4 @@ Sau khi đọc xong những điều này, hiện có những câu hỏi nào xu�
 | Hmm... Tôi thấy hướng dẫn ghi là nên làm cái A này. Tại sao không phải là cái B kia?          | Why          | [[./⚡Hiểu biết sâu/⚡Hiểu biết sâu|⚡Hiểu biết sâu]]           |  
   
   
-[[./📐 Dự án/Tài liệu/Nơi này là nơi nào？|Nơi này là nơi nào?]] | [[./📐 Dự án/Tài liệu/Tôi có thể giúp gì？|Tôi có thể giúp gì?]] | [[./📐 Dự án/Tài liệu/Mọi người hay thảo luận ở đâu？|Mọi người hay thảo luận ở đâu？]]
+[[./📐 Dự án/9 Blog/Nơi này là nơi nào？|Nơi này là nơi nào?]] | [[./📐 Dự án/9 Blog/Tôi có thể giúp gì？|Tôi có thể giúp gì?]] | [[./📐 Dự án/9 Blog/Mọi người hay thảo luận ở đâu？|Mọi người hay thảo luận ở đâu？]]

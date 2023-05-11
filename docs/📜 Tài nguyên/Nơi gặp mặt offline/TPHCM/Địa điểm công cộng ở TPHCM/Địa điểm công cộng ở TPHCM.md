@@ -8,6 +8,5 @@ Không gian tạo cảm hứng:: ✔
 Có thể vận động cơ thể:: ✔  
   
 - [[./Công viên|Công viên]]  
-- [[./Nhà Ân|Nhà Ân]]  
 - [[./Sân vườn chung cư GoldView|Sân vườn chung cư GoldView]]  
   
