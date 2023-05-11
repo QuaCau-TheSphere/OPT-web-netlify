@@ -21,5 +21,5 @@ Thành quả cần có::
 Thành phẩm::   
   
   
-[[../../Tài liệu/Các chỉ số/Số người tham gia mới (user acquisition)|Số người tham gia mới (user acquisition)]]  
-[[../../Tài liệu/Các chỉ số/Số người tiếp tục tham gia theo thời gian (retention)|Số người tiếp tục tham gia theo thời gian (retention)]]  
+[[../../7 Tài liệu/Các chỉ số/Số người tham gia mới (user acquisition)|Số người tham gia mới (user acquisition)]]  
+[[../../7 Tài liệu/Các chỉ số/Số người tiếp tục tham gia theo thời gian (retention)|Số người tiếp tục tham gia theo thời gian (retention)]]  
