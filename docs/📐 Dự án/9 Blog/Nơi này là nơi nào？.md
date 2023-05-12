@@ -16,7 +16,7 @@ Những vấn đề mà một dự án nhỏ, không có nhiều tiền và cả
   
 Không phát minh lại bánh xe, cái nào người khác làm rồi mà làm hay hơn mình thì chỉ dẫn link hoặc copy  
   
-Xem thêm:: [[./Động lực thực hiện dự án này|Động lực thực hiện dự án này]], [[Tính làm gì tiếp theo？]]  
+Xem thêm:: [[./Động lực thực hiện dự án này|Động lực thực hiện dự án này]]  
   
 # Cách tổ chức dữ liệu  
 Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng trang không phải là một chủ đề mà là một câu. Như vậy thì sự tập trung vào một ý niệm sẽ được đẩy lên cao hơn, cũng sẽ dễ làm mình thấy được sự liên kết giữa các ý lại với nhau hơn.   
