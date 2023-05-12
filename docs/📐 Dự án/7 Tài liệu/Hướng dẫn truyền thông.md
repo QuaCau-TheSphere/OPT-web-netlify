@@ -9,7 +9,7 @@ Giới thiệu chung thì có thể dựa vào [[../9 Blog/Động lực thực 
 # Link  
 Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng Dẫn Tạo Mã UTM Nhằm Đo Lường Chính Xác Mức Độ Hiệu Quả Các Chiến Dịch Quảng Cáo - A1 DigiHub](https://a1digihub.com/huong-dan-tao-ma-utm-nham-do-luong-chinh-xac-muc-do-hieu-qua-cac-chien-dich-quang-cao/)  
   
-## Hướng dẫn điền  
+## Hướng dẫn xây dựng UTM  
 Điền vào theo mẫu sau:  
 - **Website URL:** link bài viết bạn muốn chia sẻ  
 - **Campaign source:** Điền theo cú pháp `Nềntảng: Tênnhóm: Chủđềthảoluận`. Trong đó:  
@@ -30,6 +30,8 @@ Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng D�
 	- Bàn luận hiểu biết  
 	- Chia sẻ tài nguyên  
 	- Giới thiệu về Obsidian  
+	- Thảo luận về mạng kết nối nhu cầu  
+	- Khác  
   
 ## Một số ví dụ  
 ### Chia sẻ [[../../index|trang chủ]] thành một bài trong nhóm ABC trên Facebook  
@@ -64,5 +66,5 @@ Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng D�
    
 <iframe width=100% height=500 src="https://ga-dev-tools.appspot.com/campaign-url-builder/" > </iframe>  
   
-# Kiểm tra ảnh xem trước của liên kết chia sẻ  
+# Kiểm tra ảnh xem trước của link chia sẻ  
 <iframe width=100% height=500 src="https://developers.facebook.com/tools/debug/" ></iframe>
