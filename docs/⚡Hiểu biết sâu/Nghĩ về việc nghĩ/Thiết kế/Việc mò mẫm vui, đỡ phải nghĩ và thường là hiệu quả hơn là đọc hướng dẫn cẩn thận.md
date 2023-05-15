@@ -20,6 +20,7 @@ Sự thật #3: Chúng ta không tìm hiểu cách mọi thứ vận hành. Chú
 - Vì nó không quan trọng với mình  
 - Vì nếu ta tìm được cách nào dùng được, ta sẽ dính với cách đó  
   
-Nhưng vì việc [[../Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Đọc lướt không giúp ta tiếp thu được gì cả|Đọc lướt không giúp ta tiếp thu được gì cả]], nên ta sẽ thấy nhức đầu khi bật trang mới dù ta không cảm thấy áp lực gì cả. Dễ thấy nhất khi cần ngồi nghiên cứu và ta bật rất nhiều tab  
-  
 Nguồn:: [[../../Ξ Nguồn/Đừng bắt tôi nghĩ|Đừng bắt tôi nghĩ]]  
+  
+Nhưng vì việc [[../Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Đọc lướt không giúp ta tiếp thu được gì cả|Đọc lướt không giúp ta tiếp thu được gì cả]], nên ta sẽ thấy nhức đầu khi bật trang mới dù ta không cảm thấy áp lực gì cả. Dễ thấy nhất khi cần ngồi nghiên cứu và ta bật rất nhiều tab  
+[[../../Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Ở cấp độ thần kinh, ta không xem con người tương lai của ta là chính ta|Ở cấp độ thần kinh, ta không xem con người tương lai của ta là chính ta]]  
