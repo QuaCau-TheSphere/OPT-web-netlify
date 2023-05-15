@@ -23,16 +23,24 @@ Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng 
   
 [[../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác|Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác]]  
   
-Nhiều ghi chú trong đây sẽ không ở trạng thái hoàn thiện.  
+Nhiều ghi chú trong đây sẽ không ở trạng thái hoàn thiện. Thứ cần được hoàn thiện là sự liên kết giữa các trang và nội dung một số trang hay được đọc và chia sẻ nhiều.  
   
 # Các chủ đề được bàn đến trong [[../../⚡Hiểu biết sâu/⚡Hiểu biết sâu|⚡Hiểu biết sâu]]  
 ![[../../attachments/Drawing 2023-04-12 13.38.23.excalidraw.png|Drawing 2023-04-12 13.38.23.excalidraw.png]]  
   
-# Cách [[../../⚔️ Lớp Obsidian và Git/⚔️ Lớp Obsidian và Git|⚔️ Lớp Obsidian và Git]]  
-Các bài tập không chỉ được thiết kế Chỉnh từ từ để không bị ngộp, nhưng sau đó vứt đi, mà còn chính là vault của bạn trong việc quản lý dự án  
+# Cách các bài học trong [[../../⚔️ Lớp Obsidian và Git/⚔️ Lớp Obsidian và Git|⚔️ Lớp Obsidian và Git]] được thiết kế  
+Nếu bạn chưa rành về lập trình, thì khó khăn bạn gặp sẽ nhiều hơn. Vừa muốn tập trung vào ý tưởng vừa cần phải học ngôn ngữ đó.  
+Các bài tập không chỉ được thiết kế để bạn nắm được cách sử dụng Obsidian và các phần mềm bổ trợ khácChỉnh từ từ để không bị ngộp, nhưng sau đó vứt đi, mà còn chính là vault của bạn trong việc quản lý dự án  
 Các bài học phải đến từ serious use of learner. Nó phải giải đáp được nhu cầu có thực của riêng họ, chứ không phải chỉ là một ví dụ cho dễ hiểu xong rồi xóa đi. Bài tập được giao cho họ phải là thứ họ rồi cũng sẽ phải làm  
-Bỏ qua các bước như học js bài bản  
+Không học bài bản ngôn ngữ, nhưng đụng vấn đề nào cần giải thích thì sẽ giải thích, cũng như dẫn đến các tài liệu sâu hơn  
+Tất nhiên, học được bài bản thì rất tốt, nhưng [[../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Thiết kế/Việc mò mẫm vui, đỡ phải nghĩ và thường là hiệu quả hơn là đọc hướng dẫn cẩn thận|Việc mò mẫm vui, đỡ phải nghĩ và thường là hiệu quả hơn là đọc hướng dẫn cẩn thận]], [[../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Thiết kế/Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu|Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu]].   
+  
+Để đọc được tới dòng này là cả một sự nỗ lực ở lại của bạn. Dù bạn có từng đọc bao nhiêu trang khác rồi thì   
+  
+---  
   
 Vault này được khởi xướng bởi Quả Cầu.  
   
 Bọn mình khuyến khích bạn tải vault trực tiếp hơn là đọc trên web. [[./Tại sao lại cần tải vault về hơn là đọc trên web？|Tại sao tôi lại nên làm vậy?]]   
+  
+Nếu bạn có một phản hồi về một ý tưởng của vault, hoặc có nhu cầu được trao đổi 1-1, hoặc bất cứ vấn đề gì, hãy xem [[./Mọi người hay thảo luận ở đâu？|Mọi người hay thảo luận ở đâu？]]

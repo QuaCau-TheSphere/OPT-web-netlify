@@ -10,8 +10,8 @@ Có thể vận động cơ thể:: ✔
 Có loa mic:: ✔  
   
 - [[./Cái Tổ nhỏ|Cái Tổ nhỏ]]  
-- [[./Phòng sinh hoạt chung cư GoldView|Phòng sinh hoạt chung cư GoldView]]  
 - [[./UAC|UAC]]  
 - [[./Viễn Đông (địa điểm họp)|Viễn Đông (địa điểm họp)]]  
+- [[./Phòng sinh hoạt chung cư GoldView|Phòng sinh hoạt chung cư GoldView]]  
 - [[./vẫn đang suy nghĩ space|vẫn đang suy nghĩ space]]  
   
