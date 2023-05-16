@@ -1,6 +1,7 @@
 ---  
 share: True  
 ---  
+# Những thứ Fibery muốn giải quyết  
 1.  Knowledge lives in many tools (Notion, Miro, Canny, Slack, Jira)  
 2.  Discussions out of context  
 3.  Customers feedback handling process is poor  
@@ -12,4 +13,6 @@ share: True
 ![](https://fibery.io/blog/knowledege-architecture-cheatsheet.png)  
   
   
-Fibery
+Fibery  
+  
+[[../../../⚡Hiểu biết sâu/Khoa học máy tính/Cơ sở dữ liệu/Giao diện block cho phép người dùng linh hoạt hơn mà vẫn giữ được sự cấu trúc|Giao diện block cho phép người dùng linh hoạt hơn mà vẫn giữ được sự cấu trúc]]
