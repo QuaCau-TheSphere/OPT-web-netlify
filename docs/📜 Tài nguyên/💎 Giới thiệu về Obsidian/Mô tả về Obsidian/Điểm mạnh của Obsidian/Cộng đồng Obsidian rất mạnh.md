@@ -18,4 +18,4 @@ action https://discord.gg/obsidianmd
 color blue  
 ```  
 ^button-n8na  
-[[../Điểm yếu của Obsidian/Dù cộng đồng Obsidian rất mạnh nhưng vẫn không giải quyết được các nhược điểm của nó|Dù cộng đồng Obsidian rất mạnh nhưng vẫn không giải quyết được các nhược điểm của nó]]
+[[../Điểm yếu của Obsidian/Obsidian không mạnh về quản lý công việc|Obsidian không mạnh về quản lý công việc]]
