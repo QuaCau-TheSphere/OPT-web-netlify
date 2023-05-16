@@ -8,6 +8,6 @@ Còn những hướng đi nào mà họ chưa vét cạn? AI? Knowledge graph? T
 Nguồn:: [[../../../../⚡Hiểu biết sâu/Ξ Nguồn/Tự ngẫm nghĩ|Tự ngẫm nghĩ]]  
   
 Câu hỏi:: Tại sao plaintext lại không phù hợp cho quản lý dữ liệu?  
-[[../../../../⚡Hiểu biết sâu/Khoa học máy tính/Việc quản lý công việc thường cần một cấu trúc|Việc quản lý công việc thường cần một cấu trúc]]  
-[[../../../../⚡Hiểu biết sâu/Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Những người viết những app quản lý công việc cũng cảm thấy phần mềm của họ không thể giúp quản lý công việc một cách hiệu quả được|Những người viết những app quản lý công việc cũng cảm thấy phần mềm của họ không thể giúp quản lý công việc một cách hiệu quả được]]  
-[[../../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/Lập luận/Bất hoà nhận thức giúp chúng ta hiểu sâu sắc hơn|Bất hoà nhận thức giúp chúng ta hiểu sâu sắc hơn]]
+Xem thêm:: [[../../../../⚡Hiểu biết sâu/Khoa học máy tính/Việc quản lý công việc thường cần một cấu trúc|Việc quản lý công việc thường cần một cấu trúc]]  
+Xem thêm:: [[../../../../⚡Hiểu biết sâu/Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Những tác giả của những app quản lý công việc cũng cảm thấy app của họ không thể giúp quản lý công việc một cách hiệu quả được|Những tác giả của những app quản lý công việc cũng cảm thấy app của họ không thể giúp quản lý công việc một cách hiệu quả được]]  
+Xem thêm:: [[../../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/Lập luận/Bất hoà nhận thức giúp chúng ta hiểu sâu sắc hơn|Bất hoà nhận thức giúp chúng ta hiểu sâu sắc hơn]]
