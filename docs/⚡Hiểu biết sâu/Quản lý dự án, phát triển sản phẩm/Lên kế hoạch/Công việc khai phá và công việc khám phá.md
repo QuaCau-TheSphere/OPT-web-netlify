@@ -17,14 +17,16 @@ Trước đây có chia ra công việc cấp ban, công việc cấp tiểu ban
 [^1]: Ví dụ: Xét một mục tiêu/thành quả cần có M:   
     ```mermaid  
     flowchart TB  
-        M["M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu"]   
+        M{{"M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu"}}  
+    style M stroke-width:4px  
     ```  
     Để đạt được M, ta cần làm công việc khai phá A:  
     ```mermaid  
     flowchart TB  
-        M("M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu")  
+        M{{"M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu"}}  
         A["A: Đánh giá mức độ hiểu biết của thành viên với tổ chức"]  
         M-->A  
+    style M stroke-width:4px  
     ```  
     Tức là A đang đính trực tiếp vào M.   
     &nbsp;  
@@ -40,20 +42,24 @@ Trước đây có chia ra công việc cấp ban, công việc cấp tiểu ban
     Giờ, ta có thể đính A1 và A2 gián tiếp vào M:  
     ```mermaid  
     flowchart TB  
-        M("M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu")  
+        M{{"M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu"}}  
         A["A: Đánh giá mức độ hiểu biết của thành viên với tổ chức"]  
         A1["A1: Lập bảng khảo sát TNV định kỳ"]  
         A2["A2: Đánh giá sự hiệu quả của kế hoạch hành động"]  
         M-->A-->A1  
         A-->A2  
+    style M stroke-width:4px  
     ```  
     Hoặc trực tiếp vào M đều được:  
     ```mermaid  
     flowchart TB  
-        M("M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu")  
+        M{{"M: Các thành viên hiểu đúng tổ chức muốn đi đến đâu"}}  
         A1["A1: Lập bảng khảo sát TNV định kỳ"]  
         A2["A2: Đánh giá sự hiệu quả của kế hoạch hành động"]  
         M-->A1  
         M-->A2  
+    style M stroke-width:4px  
     ```  
-    Tuy việc này sẽ làm cây mục tiêu đồ sộ hơn so với chỉ đính A vào M, nhưng nó cũng minh hoạ cho việc sau khi nhìn thấy được các công việc khai phá thành phần của một công việc khai phá, thì ta cũng có thể đính trực tiếp nó vào mục tiêu. Trong khi với công việc . Dù sao thì nó cũng không có cảm giác đồ sộ bằng việc (khúc này quên ý)
+    Tuy việc này sẽ làm cây mục tiêu đồ sộ hơn so với chỉ đính A vào M, nhưng nó cũng minh hoạ cho việc sau khi nhìn thấy được các công việc khai phá thành phần của một công việc khai phá, thì ta cũng có thể đính trực tiếp nó vào mục tiêu như thể ta không cần phải nghĩ gì đến công việc khai phá ban đầu. Trong khi với công việc khai thác thì ta không làm được vậy.   
+  
+%%Dù sao thì nó cũng không có cảm giác đồ sộ bằng việc (khúc này quên ý)%%
