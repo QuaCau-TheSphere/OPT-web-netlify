@@ -1,4 +1,4 @@
 ---  
 share: True  
 ---  
-[[../../../⚡Hiểu biết sâu/Khoa học máy tính/Cơ sở dữ liệu/Giao diện block cho phép người dùng linh hoạt hơn|Giao diện block cho phép người dùng linh hoạt hơn]]  
+Ngược lại, [[../../Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Notion|Notion]], [[../../Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Fibery|Fibery]] dùng block. [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Cơ sở dữ liệu/Giao diện block cho phép người dùng linh hoạt hơn mà vẫn giữ được sự cấu trúc|Giao diện block cho phép người dùng linh hoạt hơn mà vẫn giữ được sự cấu trúc]]  
