@@ -9,6 +9,7 @@ share: True
 - Thử nghiệm một dự án mở ([[../📐 Dự án|📐 Dự án]])   
   
 Nhiều cái rất bình thường và hiển nhiên với người có kinh nghiệm, lại là những thử gây trắc trở với những người mới. Có thể ở đâu đó có những bài viết chất lượng, đậm đặc insight, nhưng nó lại không cạnh tranh nổi với các bài viết chú trọng vào SEO.  
+Người tự học quản lý dự án hoặc lập trình  
   
 Ngược lại, vì tính chất công việc, những người có kinh nghiệm thực tế đi quá sâu nên không có nhiều thời gian để mở rộng  
   
@@ -16,7 +17,9 @@ Những vấn đề mà một dự án nhỏ, không có nhiều tiền và cả
   
 Không phát minh lại bánh xe, cái nào người khác làm rồi mà làm hay hơn mình thì chỉ dẫn link hoặc copy  
   
-Xem thêm:: [[./Động lực thực hiện dự án này|Động lực thực hiện dự án này]]  
+  
+Để hiểu thêm về động lực thực hiện dự án này, xem bài [[./Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành|Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành]]  
+  
   
 # Cách tổ chức dữ liệu  
 Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng trang không phải là một chủ đề mà là một câu. Như vậy thì sự tập trung vào một ý niệm sẽ được đẩy lên cao hơn, cũng sẽ dễ làm mình thấy được sự liên kết giữa các ý lại với nhau hơn.   
