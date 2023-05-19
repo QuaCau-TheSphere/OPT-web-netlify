@@ -6,4 +6,4 @@ share: True
 Toàn cầu hoá là cách áp dụng cùng một luật lên tất cả các nước  
   
   
-Nguồn:: [[../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]], Nguyễn Sỹ Thành  
+Nguồn:: [[../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]], Nguyễn Sỹ Thành  

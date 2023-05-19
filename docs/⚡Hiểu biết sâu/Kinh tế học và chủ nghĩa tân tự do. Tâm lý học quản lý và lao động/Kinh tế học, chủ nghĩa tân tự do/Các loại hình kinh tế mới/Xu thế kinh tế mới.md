@@ -26,4 +26,4 @@ TQ:
   
   
   
-Nguồn:: [[../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]]  
+Nguồn:: [[../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]]  
