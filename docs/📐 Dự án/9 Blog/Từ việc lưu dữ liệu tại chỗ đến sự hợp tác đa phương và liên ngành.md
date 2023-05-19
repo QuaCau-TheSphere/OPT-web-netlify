@@ -1,6 +1,6 @@
 ---  
-Alias: Tại sao lại chọn Obsidian? Biết được Obsidian rồi thì sao?  
-description: Tại sao lại chọn Obsidian? Biết được Obsidian rồi thì sao?  
+Alias: Động lực dự án này là gì? Tại sao lại chọn Obsidian?   
+description: Động lực dự án này là gì? Tại sao lại chọn Obsidian?   
 share: True  
 ---  
 <sub>English below</sub>  
@@ -23,6 +23,19 @@ Các triết lý này mở ra một loạt những tính năng một dự án ph
 - [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Obsidian cực kỳ dễ mở rộng tính năng|Với plugin]], tính năng của nó có thể mở rộng theo nhu cầu và mức độ thành thạo của người dùng, khiến cho nó trở thành một [[../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng|giàn giáo nhận thức giúp giảm sự quá tải của bạn]], khiến cho nó trở thành một môi trường tư duy để tăng cường nhận thức  
 - [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm mạnh của Obsidian/Có thể dùng kết hợp Obsidian với các giải pháp xử lý dữ liệu khác|Có thể dùng kết hợp Obsidian với các giải pháp xử lý dữ liệu khác]], tránh tình trạng [[../../⚡Hiểu biết sâu/Khoa học máy tính/Cơ sở dữ liệu/Việc lưu dữ liệu ở các công cụ khác nhau tạo thành các đảo thông tin|phân mảnh dữ liệu do lưu dữ liệu ở nhiều công cụ khác nhau]]  
   
+Năm 2015, để giải quyết những thách thức phát triển lớn mà thế giới phải đối mặt, Liên Hợp Quốc đã đề ra **17 Mục tiêu Phát triển Bền vững (SDG)**. Đó là động lực để các quốc gia hướng tới:  
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M-iJM02m_Hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+  
+Mục tiêu cuối cùng trong 17 mục tiêu đó chính là về thúc đẩy sự hợp tác. Ở Việt Nam, mục tiêu số 17 này được chia thành [17 mục tiêu nhỏ hơn](https://data.vietnam.opendevelopmentmekong.net/vi/dataset/bao-cao-t-ng-h-p). Ta hãy xem một mục tiêu trong số chúng:  
+  
+> **Mục tiêu 17.4:** Tăng cường quan hệ đối tác toàn cầu cho phát triển bền vững, kết hợp với quan hệ đối tác nhiều bên nhằm huy động và chia sẻ kiến thức, kinh nghiệm, công nghệ và tài chính để hỗ trợ đạt được các mục tiêu phát triển bền vững ở Việt Nam  
+>  
+> ![|200](https://vietnam.un.org/profiles/undg_country/themes/custom/undg/images/SDGs/vi/SDG-17.svg)  
+  
+Việc phổ cập những công cụ như thế này sẽ giúp đáp ứng mục tiêu 17.4 này.  
+  
+<sub>Xem thêm:: [Các nguồn tiền của LHQ cho những mục tiêu này đã được rót về Việt Nam như thế nào?](https://vietnam.un.org/vi/sdgs/17 "")</sub>  
 # Tầm nhìn: Xây dựng nền kinh tế không dùng tiền  
 Nếu mô hình này thành công, thì ta sẽ xây dựng một mạng kết nối nhu cầu, nơi mà mọi người đáp ứng nhu cầu lẫn nhau. Họ có thể làm được như vậy vì tất cả mọi thành viên đều biết nhu cầu nào đang có nhiều người có nhất, ai đang có cùng nhu cầu với ai, v.v. Các nhu cầu của họ sẽ được thoả mãn bằng việc trao đổi nhu cầu cho nhau, hoặc cùng hợp tác để tạo giải pháp chung. Khi mạng lưới này lớn hơn nữa, thì nó sẽ hoạt động như một nền kinh tế. Bởi vì các nhu cầu trong đây được đáp ứng mà không cần dùng đến tiền làm trung gian, nên nó là một nền kinh tế không dùng tiền. Nó sẽ là sự kết hợp giữa nền kinh tế nền tảng (platform economy) và nền kinh tế quà tặng (gift economy). Nó cũng có liên hệ rất mật thiết tới [[../../⚡Hiểu biết sâu/Nền kinh tế dùng tiền và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Nền kinh tế dùng tiền, chủ nghĩa tân tự do/Nền kinh tế chăm sóc|Nền kinh tế chăm sóc]] (care economy).  
   
@@ -32,6 +45,7 @@ Nếu mô hình này thành công, thì ta sẽ xây dựng một mạng kết n
 > [!info] Bài chi tiết: [Một đám mây chim sáo](https://quảcầu.cc/mot-dam-may-chim-sao/?utm_source=Obsidian+%C2%BB+%C4%90%E1%BB%99ng+l%E1%BB%B1c+th%E1%BB%B1c+hi%E1%BB%87n+d%E1%BB%B1+%C3%A1n+n%C3%A0y&utm_medium=vault&utm_campaign=Gi%E1%BB%9Bi+thi%E1%BB%87u+web)  
   
 Vấn đề hiện tại bây giờ chỉ là: có bao nhiêu nhóm dự án sẵn sàng muốn sử dụng Obsidian cho việc quản lý dự án của mình?  
+  
   
 # Tóm lại  
   
