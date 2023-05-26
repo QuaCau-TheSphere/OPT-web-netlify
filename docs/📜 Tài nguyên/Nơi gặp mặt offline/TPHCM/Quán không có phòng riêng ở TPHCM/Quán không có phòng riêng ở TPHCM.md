@@ -1,12 +1,12 @@
----  
-share: True  
----  
-Không bị ồn từ bên ngoài:: ❌  
-Nhà vệ sinh:: ✔  
-Được nói to:: tuỳ  
-  
-- [[./Mr Bean|Mr Bean]]  
+---  
+share: True  
+---  
+Không bị ồn từ bên ngoài:: ❌  
+Nhà vệ sinh:: ✔  
+Được nói to:: tuỳ  
+  
 - [[./Chuk|Chuk]]  
-- [[./Sigon Cafe|Sigon Cafe]]  
+- [[./Mr Bean|Mr Bean]]  
 - [[./Nhà hàng Ấn|Nhà hàng Ấn]]  
-  
+- [[./Sigon Cafe|Sigon Cafe]]  
+  
