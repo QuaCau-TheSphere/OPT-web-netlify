@@ -1,4 +1,0 @@
----  
-share: True  
----  
-good tools for thought arise mostly as a byproduct of doing original work on serious problems  
