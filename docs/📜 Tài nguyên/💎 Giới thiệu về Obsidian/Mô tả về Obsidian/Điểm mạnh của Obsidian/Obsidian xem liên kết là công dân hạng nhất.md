@@ -5,7 +5,7 @@ Khi nói rằng **liên kết là công dân hạng nhất**, có lẽ nó cũng
   
 [[./Đồ thị giúp thấy được bức tranh tổng thể của nhóm|Đồ thị giúp thấy được bức tranh tổng thể của nhóm]]   
   
-[[../../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Cấu trúc phân cấp thường cứng nhắc và nhân tạo|Cấu trúc phân cấp thường cứng nhắc và nhân tạo]]  
+[[../../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Quản lý dữ liệu/Cấu trúc phân cấp thường cứng nhắc và nhân tạo|Cấu trúc phân cấp thường cứng nhắc và nhân tạo]]  
 ![](https://fibery.io/blog/static/88213e107b66de17b2f51eba1ae34459/573d3/vertical-hierarchy.png)   
 ![](https://fibery.io/blog/static/09bb5795dd9691396b52ee3de1d05c32/573d3/flat-network.png)   
   
