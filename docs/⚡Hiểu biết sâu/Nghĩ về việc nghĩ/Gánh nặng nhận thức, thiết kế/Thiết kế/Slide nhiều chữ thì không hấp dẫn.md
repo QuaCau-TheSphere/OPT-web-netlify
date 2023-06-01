@@ -14,7 +14,7 @@ Tức là họ phải dành ra được sự chăm chú hoàn toàn và
 Càng khó để chia nhau ra làm slide.   
 [[../../../Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Lên kế hoạch/Giai đoạn lên ý tưởng thường khó khăn|Giai đoạn lên ý tưởng thường khó khăn]]  
 [[../../Khoa học nhận thức/Ẩn dụ/Ẩn dụ là nền tảng của mọi suy nghĩ và lập luận|Ẩn dụ là nền tảng của mọi suy nghĩ và lập luận]]  
-Explorable explanation   
+Explorable explanation , 4 level of abstractiom  
 [[Công cụ nghĩ  
   
 ![[../../../../attachments/mts-made-to-stick-model.pdf|mts-made-to-stick-model.pdf]]  
