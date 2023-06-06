@@ -1,4 +1,4 @@
----  
-share: True  
----  
-Nguồn:: Ngân hàng nhà nước VN  
+---
+share: True
+---
+Nguồn:: Ngân hàng nhà nước VN

@@ -1,6 +1,6 @@
----  
-share: True  
----  
-```ccard  
-type: folder_brief_live  
-```  
+---
+share: True
+---
+```ccard
+type: folder_brief_live
+```

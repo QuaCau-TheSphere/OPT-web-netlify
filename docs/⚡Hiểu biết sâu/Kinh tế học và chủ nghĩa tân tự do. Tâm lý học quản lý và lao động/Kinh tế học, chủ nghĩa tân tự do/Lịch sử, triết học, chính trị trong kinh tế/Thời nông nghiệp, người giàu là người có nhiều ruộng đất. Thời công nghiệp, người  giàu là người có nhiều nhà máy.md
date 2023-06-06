@@ -1,5 +1,5 @@
----  
-share: True  
----  
-Nguồn:: [[../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]], Nguyễn Hoàng Ánh  
-  
+---
+share: True
+---
+Nguồn:: [[../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]], Nguyễn Hoàng Ánh
+
