@@ -1,4 +1,4 @@
----  
-share: True  
----  
-Người dùng sử dụng dễ dàng Obsidian  
+---
+share: True
+---
+Người dùng sử dụng dễ dàng Obsidian

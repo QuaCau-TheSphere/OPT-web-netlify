@@ -1,4 +1,4 @@
----  
-share: True  
----  
-Nguồn:: [[../../../Ξ Nguồn/Bing AI|Bing AI]]  
+---
+share: True
+---
+Nguồn:: [[../../../Ξ Nguồn/Bing AI|Bing AI]]

@@ -1,4 +1,4 @@
----  
-share: True  
----  
-[Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)  
+---
+share: True
+---
+[Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)

@@ -1,4 +1,4 @@
----  
-share: True  
----  
-> [!NOTE] Plugin sử dụng: Leaflet  
+---
+share: True
+---
+> [!NOTE] Plugin sử dụng: Leaflet
