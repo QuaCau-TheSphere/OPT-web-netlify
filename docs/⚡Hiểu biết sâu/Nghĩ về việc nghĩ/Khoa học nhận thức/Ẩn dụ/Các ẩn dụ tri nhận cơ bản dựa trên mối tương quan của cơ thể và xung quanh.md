@@ -1,6 +1,6 @@
----  
-share: True  
----  
-Tương tự, [[./Công cụ là sự nối dài của cơ thể|Công cụ là sự nối dài của cơ thể]]   
-  
-Nguồn::  
+---
+share: True
+---
+Tương tự, [[./Công cụ là sự nối dài của cơ thể|Công cụ là sự nối dài của cơ thể]] 
+
+Nguồn::
