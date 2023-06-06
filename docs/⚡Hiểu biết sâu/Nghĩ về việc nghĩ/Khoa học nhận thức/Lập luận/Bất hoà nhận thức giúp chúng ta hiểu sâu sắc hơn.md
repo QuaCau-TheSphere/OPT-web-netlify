@@ -1,4 +1,0 @@
----  
-share: True  
----  
-[[./Cảm xúc không chỉ khiến ta nhớ tốt hơn, mà còn điều hướng những suy nghĩ tự động|Cảm xúc không chỉ khiến ta nhớ tốt hơn, mà còn điều hướng những suy nghĩ tự động]]  
