@@ -1,4 +1,4 @@
----  
-share: True  
----  
-Người tham gia kênh Obsidian tiếng Việt  
+---
+share: True
+---
+Người tham gia kênh Obsidian tiếng Việt
