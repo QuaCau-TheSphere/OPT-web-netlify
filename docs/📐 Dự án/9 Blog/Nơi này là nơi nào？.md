@@ -17,7 +17,7 @@ Những vấn đề mà một dự án nhỏ, không có nhiều tiền và cả
 
 Không phát minh lại bánh xe, cái nào người khác làm rồi mà làm hay hơn mình thì chỉ dẫn link hoặc copy
 
-Để hiểu thêm về động lực thực hiện dự án này, xem bài [[./Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành|Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành]]
+Để hiểu thêm về động lực thực hiện dự án này, xem bài [[./Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền|Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền]]
 
 # Cách tổ chức dữ liệu
 Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng trang không phải là một chủ đề mà là một câu. Như vậy thì sự tập trung vào một ý niệm sẽ được đẩy lên cao hơn, cũng sẽ dễ làm mình thấy được sự liên kết giữa các ý lại với nhau hơn. 
