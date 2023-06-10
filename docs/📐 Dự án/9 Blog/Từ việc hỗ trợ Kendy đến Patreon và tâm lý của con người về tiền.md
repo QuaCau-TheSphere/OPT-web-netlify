@@ -27,6 +27,8 @@ Hiện tại cũng đã có gửi con vào nhà trẻ, nhưng thời hạn nộp
 
 Tình hình của bé: chưa quen môi trường môi trường mới, hiện sáng nào cũng quấy khóc đòi về, nên Kendy phải liên tục đi đi về về đón để bé dần quen. Kiểu như đang quen với ba mẹ, giờ vứt ở một môi trường mới cần thời gian rất dài để thích nghi, nên bữa giờ cứ 7h gửi là khóc đến 10h, cô giáo gọi đón về. 
 
+Tình hình của Kendy: cảm thấy rất ngộp thở vì không có thời gian riêng. Nhiều vấn đề chồng chéo cùng một lúc, nhưng bây giờ khi đang ở vị trí này lại phải nghĩ đến vị trí khác, bị phân tâm 
+
 # Quả Cầu sẽ làm gì?   
 Để góp phần giải quyết vấn đề nợ một cách triệt để, bọn mình đang hỗ trợ xây dựng một mô hình kinh doanh. Kinh doanh gì thì cũng không dám nói ở đây. Nếu bạn có thể làm cho tụi mình cảm thấy bạn không có ý định chôm ý tưởng mà chỉ muốn giúp đỡ Kendy thì bọn mình sẵn sàng chia sẻ chi tiết. Nhưng có thể bật mí là nó liên quan đến nhân văn số (digital humanities).  
   
@@ -77,6 +79,8 @@ Nhưng hay hơn cả, là có một cách thức để trao đổi nhu cầu mà
 
 * * *
 
-Tóm lại, 2 phần đầu của bài viết này nhằm cung cấp thông tin về Kendy và kêu gọi hỗ trợ Kendy. 2 phần sau sẽ có nhiệm vụ vô hiệu hoá cảm giác mất mát giả tạo đến từ việc sử dụng tiền làm trung gian cho các trao đổi nhu cầu. Nếu điều đó thất bại, thì well, hãy xem đây như một bài viết như bao bài viết khác.
+Tóm lại, 2 phần đầu của bài viết này nhằm cung cấp thông tin về Kendy và kêu gọi hỗ trợ Kendy. 2 phần sau sẽ có nhiệm vụ vô hiệu hoá cảm giác mất mát giả tạo đến từ việc sử dụng tiền làm trung gian cho các trao đổi nhu cầu. Điều đó có thể đạt được bằng 2 cách:
+- Nhìn thấy rằng thời gian và công sức bạn làm ra được số tiền đó không mất đi, mà là đang cùng với Kendy tạo ra những điều có ý nghĩa cho cả hai
+- 
 
-Đọc bài ở đây để có thêm link
+Nếu điều đó thất bại, thì well, hãy xem đây như một bài viết như bao bài viết khác.
