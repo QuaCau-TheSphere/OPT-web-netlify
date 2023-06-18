@@ -42,7 +42,7 @@ Nếu mô hình này thành công, thì ta sẽ xây dựng một mạng kết n
 Ý tưởng [nền kinh tế không dùng tiền](https://en.wikipedia.org/wiki/Non-monetary_economy "Non-monetary economy - Wikipedia") không phải là một khái niệm mới. Một ví dụ điển hình là [Hệ thống Trao đổi Cộng đồng (Community Exchange System)](https://www.community-exchange.org/home/ "Community Exchange System | Your Talents are Your Wealth") với hơn 1200 nhóm trao đổi ở 107 nước. Tuy nhiên chưa có ở Việt Nam. 
 
 
-> [!info] Bài chi tiết: [Một đám mây chim sáo](https://quảcầu.cc/mot-dam-may-chim-sao/?utm_source=Obsidian+%C2%BB+%C4%90%E1%BB%99ng+l%E1%BB%B1c+th%E1%BB%B1c+hi%E1%BB%87n+d%E1%BB%B1+%C3%A1n+n%C3%A0y&utm_medium=vault&utm_campaign=Gi%E1%BB%9Bi+thi%E1%BB%87u+web)
+> [!info] Bài chi tiết: [Một đám mây chim sáo](https://quảcầu.cc/mot-dam-may-chim-sao/?utm_source=CV+%C2%BB+T%E1%BB%AB+vi%E1%BB%87c+l%C6%B0u+d%E1%BB%AF+li%E1%BB%87u+t%E1%BA%A1i+ch%E1%BB%97+%C4%91%E1%BA%BFn+s%E1%BB%B1+h%E1%BB%A3p+t%C3%A1c+%C4%91a+ph%C6%B0%C6%A1ng+v%C3%A0+li%C3%AAn+ng%C3%A0nh+v%C3%A0+n%E1%BB%81n+kinh+t%E1%BA%BF+kh%C3%B4ng+d%C3%B9ng+ti%E1%BB%81n&utm_medium=M%E1%BB%99t+%C4%91%C3%A1m+m%C3%A2y+chim+s%C3%A1o&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2)
 
 Vấn đề hiện tại bây giờ chỉ là: có bao nhiêu nhóm dự án sẵn sàng muốn sử dụng Obsidian cho việc quản lý dự án của mình?
 
