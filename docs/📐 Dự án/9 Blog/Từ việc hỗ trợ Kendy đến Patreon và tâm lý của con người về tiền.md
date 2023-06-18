@@ -77,6 +77,9 @@ Chưa dừng lại ở đó, [[../../⚡Hiểu biết sâu/Nghĩ về việc ngh
 
 Nhưng hay hơn cả, là có một cách thức để trao đổi nhu cầu mà không dùng tới tiền ngay từ đầu. Những thảo luận về [nền kinh tế không dùng tiền](https://en.wikipedia.org/wiki/Non-monetary_economy) đã có từ lâu, và công nghệ để đáp ứng nó cũng có từ lâu. Quả Cầu đang thử xây dựng mô hình này dựa trên Obsidian. Để biết thêm chi tiết xem tại [[./Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền|Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền]]
 
+Làm cho chính bạn không còn cần đến tiền nữa. Vì khi
+
+Nhìn vào những khoản bạn chỉ tiêu,và xem thử xem có thể đáp ứng nhu cầu đó mà không dùng đến tiền thử xem
 * * *
 
 Tóm lại, 2 phần đầu của bài viết này nhằm cung cấp thông tin về Kendy và kêu gọi hỗ trợ Kendy. 2 phần sau sẽ có nhiệm vụ vô hiệu hoá cảm giác mất mát giả tạo đến từ việc sử dụng tiền làm trung gian cho các trao đổi nhu cầu. Điều đó có thể đạt được bằng 2 cách:
@@ -84,3 +87,4 @@ Tóm lại, 2 phần đầu của bài viết này nhằm cung cấp thông tin 
 - 
 
 Nếu điều đó thất bại, thì well, hãy xem đây như một bài viết như bao bài viết khác.
+
