@@ -42,9 +42,9 @@ Mẹo vặt, lối tắt, lối mòn kinh nghiệm dân gian
 ## Insight
 Các nét nghĩa:
 - Khám phá mới mà trước đây không ai biết
-- Cái
+- Nhìn ra được cái cốt lõi
 
-Cái nhìn sâu sắc, cái nhìn thấu, hiểu biết sâu sắc, hiểu biết thấu suốt, nhìn ra được cái cốt lõi, nội thị, thấu thị
+Cái nhìn sâu sắc, cái nhìn thấu, hiểu biết sâu sắc, hiểu biết thấu suốt, nội thị, thấu thị, hiểu biết sâu
 
 # Triết học
 ## Identity 
