@@ -1,6 +1,8 @@
 ---
 share: True
 ---
+
+> [!Info] Xem thêm: [Ý tưởng nền tảng dịch thuật ngữ](https://xn--qucu-hr5aza.cc/y-tuong-nen-tang-dich-thuat-ngu/?utm_source=CV+%C2%BB+Ph%C6%B0%C6%A1ng+%C3%A1n+d%E1%BB%8Bch+m%E1%BB%99t+s%E1%BB%91+t%E1%BB%AB&utm_medium=%C3%9D+t%C6%B0%E1%BB%9Fng+n%E1%BB%81n+t%E1%BA%A3ng+d%E1%BB%8Bch+thu%E1%BA%ADt+ng%E1%BB%AF&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2)
 # Tâm lý học
 ## Trigger 
 Kích hoạt, kích thích, bấm cò
@@ -40,6 +42,7 @@ Mẹo vặt, lối tắt, lối mòn kinh nghiệm dân gian
 ## Insight
 Các nét nghĩa:
 - Khám phá mới mà trước đây không ai biết
+- Cái
 
 Cái nhìn sâu sắc, cái nhìn thấu, hiểu biết sâu sắc, hiểu biết thấu suốt, nhìn ra được cái cốt lõi, nội thị, thấu thị
 
@@ -89,5 +92,9 @@ Hiện diện đầy đủ
 Siêu, cực
 ## Meta 
 Meta
+
+## Philathrophy 
+Thiện nguyện, nhân ái, hiến tặng, phúc thiện
+[Son Pham - PHILANTHROPY. Mới đây một bạn gởi cho mình bài... | Facebook](https://www.facebook.com/son.pham.2012/posts/pfbid0288e6rtuTFeGrzip2KQCG7qWarFm9m7zWBPxGFqfp6Q85toNfouep7LvYRj7YccVal)
 
 Mình thấy kể cả khi nó có nghĩa ngầm trong đó rồi, thì việc hiển ngôn nó ra cũng rất quan trọng. Việc mọi người cảm thấy các phương án khác là không đủ để diễn tả hết nội hàm của nó là vì các phương án đó không làm cho mình cảm thấy các nét nghĩa của well-being được hiển ngôn đủ hết. Vậy thì chỉ có cách liệt kê hết tất cả các nét nghĩa của nó ra thì mới cảm thấy đầy đủ được.
