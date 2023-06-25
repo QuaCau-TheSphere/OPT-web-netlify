@@ -95,6 +95,7 @@ Meta
 
 ## Philathrophy 
 Thiện nguyện, nhân ái, hiến tặng, phúc thiện
-[Son Pham - PHILANTHROPY. Mới đây một bạn gởi cho mình bài... | Facebook](https://www.facebook.com/son.pham.2012/posts/pfbid0288e6rtuTFeGrzip2KQCG7qWarFm9m7zWBPxGFqfp6Q85toNfouep7LvYRj7YccVal)
+<div data-height="auto"><p><strong><a href="https://www.kialo.com/n%C3%AAn-d%E1%BB%8Bch-philanthropy-th%E1%BA%BF-n%C3%A0o-63395">Nên dịch Philanthropy thế nào?</a></strong> &mdash; <a href="https://www.kialo.com/">kialo.com</a></p><script async src='https://www.kialo.com/assets/static/js/embedded-kialo.min.js' charset='utf-8'></script></div>
+<p><iframe src="https://www.kialo.com/n%C3%AAn-d%E1%BB%8Bch-philanthropy-th%E1%BA%BF-n%C3%A0o-63395?embedder&amp;scriptlessEmbedVersion=1" width="100%" height="600px" style="height: 80vh;" allowfullscreen></iframe></p>
 
 Mình thấy kể cả khi nó có nghĩa ngầm trong đó rồi, thì việc hiển ngôn nó ra cũng rất quan trọng. Việc mọi người cảm thấy các phương án khác là không đủ để diễn tả hết nội hàm của nó là vì các phương án đó không làm cho mình cảm thấy các nét nghĩa của well-being được hiển ngôn đủ hết. Vậy thì chỉ có cách liệt kê hết tất cả các nét nghĩa của nó ra thì mới cảm thấy đầy đủ được.
