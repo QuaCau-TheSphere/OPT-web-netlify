@@ -1,4 +1,4 @@
 ---
 share: True
 ---
-[[../../../Bản thể luận/Đối tượng/Đối tượng (hay vật thể) là cách ta mô phỏng thể giới|Đối tượng (hay vật thể) là cách ta mô phỏng thể giới]]
+[[../../../Bản thể luận/Vật thể/Ta mô phỏng thế giới qua những vật thể|Ta mô phỏng thế giới qua những vật thể]]
