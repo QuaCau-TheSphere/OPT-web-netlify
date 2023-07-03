@@ -16,4 +16,4 @@ Lý do muốn đi nhà sách:
 - Nhìn vào những cuốn ko nghĩ ra là phải mua
 - Cảm xúc lúc đó
 
-Nguồn:: [[../../../Ξ Nguồn/Tự ngẫm nghĩ|Tự ngẫm nghĩ]]
+Nguồn:: [[../../../Ξ Nguồn/Tự ngẫm nghĩ, trải nghiệm|Tự ngẫm nghĩ, trải nghiệm]]
