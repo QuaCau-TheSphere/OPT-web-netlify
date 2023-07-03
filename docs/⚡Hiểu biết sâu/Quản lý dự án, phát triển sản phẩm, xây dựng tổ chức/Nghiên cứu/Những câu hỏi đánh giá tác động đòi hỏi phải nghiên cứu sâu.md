@@ -1,6 +1,0 @@
----
-share: True
----
-Có những cái phải chạy mô hình dự báo
-
-Nguồn:: [[../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]]
