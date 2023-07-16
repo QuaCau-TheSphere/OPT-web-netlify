@@ -13,3 +13,5 @@ Cộng đồng hỏi đáp:
 - [Cộng Đồng Google Analytics 4 (GA4) - Việt Nam | Facebook](https://www.facebook.com/groups/578268814077720 "Cộng Đồng Google Analytics 4 (GA4) - Việt Nam | Facebook")
 
 Setup cross domain
+
+![Tổng quan về Google Analytics\_GA 101\_Buổi 1 - YouTube](https://youtu.be/MkEqM_Sny8M)
