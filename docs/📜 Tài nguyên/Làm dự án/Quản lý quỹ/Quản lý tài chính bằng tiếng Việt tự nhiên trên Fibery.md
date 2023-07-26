@@ -34,22 +34,43 @@ Ví dụ với nội dung `cà phê với` vừa có thể thuộc nhãn Mối q
 - Nếu có nhiều giá trị thì sẽ chọn giá trị đứng đằng sau dấu bằng (`=`)
 - Dấu thập phân là dấu chấm (`.`). Bạn có thể dùng dấu phẩy (`,`) để cách các con số để dễ đọc. Nó sẽ được bỏ đi. Ví dụ: 1.2tr, 3,400k, 123,456,700đ, 123,456,700d.
 
-# Các đặc điểm khác của script
+# Các tính năng hỗ trợ khác (aka yêu cầu phi chức năng) 
 - Mã nguồn mở
 - Chỉ sử dụng plain JS, không có framework nào
 - Chỉ có duy nhất một file
 - Tên biến hoàn toàn bằng tiếng Việt
 - Rất nhiều ghi chú để bạn hiểu code
-# Động lực viết script
-Đầu tiên và quan trọng nhất là [[../../../📐 Dự án/9 Blog/Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền|giúp Kendy]]. Đây là nhu cầu của Kendy, và bọn mình giúp được gì thì giúp.
+- (Gần như) tuân thủ [Fetching Title#zmwr](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Conventional Logs](https://www.conventionallogs.org/en/v0.0.1/)
+# FAQ
+**Q: Tại sao lại viết script này là gì?**
+Đây là nhu cầu của Kendy, và bọn mình giúp được gì thì giúpg. Xem thêm bài [[../../../📐 Dự án/9 Blog/Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền|Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền]]. 
 
-## Tại sao các phần mềm quản lý tài chính không phù hợp với Kendy?
-## Tại sao các phần mềm quản lý doanh nghiệp (ERP)  không phù hợp với Kendy?
-Môi trường đóng
-## Tại sao các phần mềm quản lý doanh nghiệp (ERP)  không phù hợp với Kendy?
+**Q: Tại sao không sử dụng các phần mềm chuyên cho quản lý tài chính cá nhân?**
+Phải phân loại ngay tại chỗ, trong khi Điều này là không thể. 
+
+Hubspot không tuỳ chỉnh tốt, không kết nối tới các công việc khác
+
+Độ phức tạp phải như các phần mềm cho doanh nghiệp. Tuỳ chỉnh quá nâng cao so với nhu cầu của một người bình thường. Sự phức tạp của nó phải tầm như phần mềm cho doanh nghiệp
+**Q: Nếu cần kết nối số tiền tới các công việc khác, tại sao không sử dụng các phần mềm quản lý doanh nghiệp (ERP)?**
+Vì các phần mềm ERP, dù là mã nguồn mở như Odoo, thì đã xác định là khách hàng doanh nghiệp rồi. Môi trường đóng, không đáp ứng được nhu cầu tuỳ chỉnh cao. Có thể tuỳ chỉnh cao, nhưng hoặc sẽ phải tốn rất nhiều thời gian để học lập trình, hoặc phải lệ thuộc vào . Mỗi lần cần điều chỉnh là lại phải nhờ. Sẽ không đủ tiền để nhờ hoài như vậy.
+
+Mà kể cả muốn học thì cũng không biết phải thế nào, khi mà hỏi ra thì người ta chỉ báo giá chứ không thực sự muốn chỉ. 
+Phải tự build
+**Q: Nếu đã cần một ứng dụng linh hoạt và giá rẻ, tại sao không tự tạo bảng excel, access, sql? Tại sao không kiếm phần mềm quản lý tài chính mã nguồn mở?** 
+Do Kendy đã sắp xếp mọi thứ trên Fibery, nên sẽ bị chi phối bởi những gì Fibery cho. Và Fibery cho viết JS.
+
+Ban đầu chỉ nghĩ chỉ cần một vài dòng regex đơn giản là được, nhưng càng ngày càng thấy đòi hỏi phức tạp. Tuy nhiên vẫn cảm giác sự phức tạp này mình có thể gánh được, nên cũng muốn nhân dịp này có một dự án để học thêm về lập trình cũng như có một sản phẩm để làm một giáo trình nhập môn cho các bạn khác.
+
+Hơn nữa các phần mềm này viết trên Nodejs.
+
+**Q: Tại sao lại tự viết hết chứ không dùng mô đun NLP tiếng Việt nào?**
+
+**Q: Nếu cần kết quả trên Fibery, tại sao không dùng API để cập nhật Fibery?** 
+Lúc đó không nghĩ ra, đến lúc nghĩ ra thì code cũng gần xong rồi.
 
 Sẽ có rất nhiều người đến với script này không phải là lập trình viên. Tuy nhiên sẽ có thể họ cần phải tự biết cách chỉnh sửa
-Nhưng sau đó, nó còn phục vụ một mong muốn khác của bọn mình là Dạy học JavaScript. Cố gắng hướng dẫn các bạn mới nhiều nhất có thể.  [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Người mới lập trình thường hỏi về cú pháp, thư viện, hay ngôn ngữ. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng|Người mới lập trình thường hỏi về cú pháp, thư viện, hay ngôn ngữ. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng]]. Để thấy rằng việc lập trình không chỉ là code sao cho máy chạy đúng ý mình, mà còn là cách ta kiến trúc lên thế giới này.
+Nhưng sau đó, nó còn phục vụ một mong muốn khác của bọn mình là Dạy học JavaScript. Cố gắng hướng dẫn các bạn mới nhiều nhất có thể.  [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng|Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng]]. Để thấy rằng việc lập trình không chỉ là code sao cho máy chạy đúng ý mình, mà còn là cách ta kiến trúc lên thế giới này.
 
 # Cài đặt
 Ở thẻ Actions chọn Created và Updated, với field là Name như hình: 
@@ -88,4 +109,4 @@ Nhưng sau đó, nó còn phục vụ một mong muốn khác của bọn mình 
 ```
 # Mô hình 
 [[../../../📐 Dự án/9 Blog/Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất|Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất]]
-[[../../../⚡Hiểu biết sâu/Mô hình trích chọn từ|Mô hình trích chọn từ]]
+[[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng/Mô hình trích chọn từ|Mô hình trích chọn từ]]
