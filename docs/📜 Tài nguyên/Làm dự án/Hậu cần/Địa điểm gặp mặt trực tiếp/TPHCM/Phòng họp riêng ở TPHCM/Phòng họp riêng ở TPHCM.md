@@ -11,7 +11,7 @@ Có loa mic:: ✔
 
 - [[./Cái Tổ nhỏ|Cái Tổ nhỏ]]
 - [[./Phòng sinh hoạt chung cư GoldView|Phòng sinh hoạt chung cư GoldView]]
-- [[./Viễn Đông (địa điểm họp)|Viễn Đông (địa điểm họp)]]
 - [[./UAC|UAC]]
+- [[./Viễn Đông (địa điểm họp)|Viễn Đông (địa điểm họp)]]
 - [[./vẫn đang suy nghĩ space|vẫn đang suy nghĩ space]]
 
