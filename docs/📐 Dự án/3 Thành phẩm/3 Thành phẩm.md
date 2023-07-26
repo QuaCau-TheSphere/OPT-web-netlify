@@ -25,19 +25,20 @@ Thành phẩm nhỏ hơn:
 - [[./Các nghiên cứu về người dùng/Các nghiên cứu lý giải lý do người dùng rời bỏ, hoặc chưa đóng góp/Các buổi phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt về cảm nhận, nhu cầu của họ về vault và lý do chưa đóng góp/Các buổi phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt về cảm nhận, nhu cầu của họ về vault và lý do chưa đóng góp|Các buổi phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt về cảm nhận, nhu cầu của họ về vault và lý do chưa đóng góp]]
 - [[./Các nghiên cứu về người dùng/Các nghiên cứu lý giải lý do người dùng rời bỏ, hoặc chưa đóng góp/Các buổi phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt về cảm nhận, nhu cầu của họ về vault và lý do chưa đóng góp/Hướng dẫn phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt|Hướng dẫn phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt]]
 - [[./Các nghiên cứu về người dùng/Các nghiên cứu lý giải lý do người dùng rời bỏ, hoặc chưa đóng góp/Các nghiên cứu lý giải lý do người dùng rời bỏ, hoặc chưa đóng góp|Các nghiên cứu lý giải lý do người dùng rời bỏ, hoặc chưa đóng góp]]
-- [[./Các nghiên cứu về người dùng/Các nghiên cứu về người dùng|Các nghiên cứu về người dùng]]
-- [[./Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/Các buổi phỏng vấn/Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới|Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới]]
 - [[./Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/Các buổi phỏng vấn/Bài đăng kêu gọi phỏng vấn|Bài đăng kêu gọi phỏng vấn]]
+- [[./Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/Các buổi phỏng vấn/Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới|Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới]]
 - [[./Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng|Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng]]
 - [[./Các nghiên cứu về người dùng/Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng/Email mời phỏng vấn|Email mời phỏng vấn]]
+- [[./Các nghiên cứu về người dùng/Các nghiên cứu về người dùng|Các nghiên cứu về người dùng]]
 - [[./Các nghiên cứu về sản phẩm/Các nghiên cứu về sản phẩm|Các nghiên cứu về sản phẩm]]
 - [[./Phần mềm/Bộ cài/Bộ cài|Bộ cài]]
-- [[./Phần mềm/Bộ cài/Hướng dẫn tải vault|Hướng dẫn tải vault]]
 - [[./Phần mềm/Bộ cài/Các trục trặc có thể gặp khi cài|Các trục trặc có thể gặp khi cài]]
+- [[./Phần mềm/Bộ cài/Hướng dẫn tải vault|Hướng dẫn tải vault]]
 - [[./Phần mềm/Web/Link rút gọn|Link rút gọn]]
 - [[Tình trạng web|Tình trạng web]]
 - [[./Phần mềm/Web/Web|Web]]
 - [[./Quỹ hỗ trợ người học/Quỹ hỗ trợ người học|Quỹ hỗ trợ người học]]
+- [[./Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và hiểu tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và hiểu tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu|Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và hiểu tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu]]
 
 
 # Kho ý tưởng
