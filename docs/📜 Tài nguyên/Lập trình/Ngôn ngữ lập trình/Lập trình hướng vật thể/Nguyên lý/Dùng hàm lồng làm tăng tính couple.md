@@ -18,4 +18,4 @@ Trade-offs:
 - much harder to extend
 - much harder to introspect on the inner function defintion
 
-Nguồn:: [[../../Lập trình/Tài nguyên hỗ trợ/Tiếng Anh/Stack Overflow|Stack Overflow]], [When to use python function nesting?](https://softwareengineering.stackexchange.com/a/237944/192731)
+Nguồn:: [[../../../Tài nguyên hỗ trợ/Tiếng Anh/Stack Overflow|Stack Overflow]], [When to use python function nesting?](https://softwareengineering.stackexchange.com/a/237944/192731)
