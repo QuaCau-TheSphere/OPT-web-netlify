@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 Các yếu tố tạo ra kinh tế mới
 - Biến đổi công nghệ
@@ -24,4 +26,4 @@ TQ:
 - Không kiểm soát công nghệ, mà chỉ kiểm soát dữ liệu
 - Chữ TQ có độ nén, nhưng khó sản sinh ra từ mới, mà phải ghép vào
 
-Nguồn:: [[../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]]
+Nguồn:: [[../../../Ξ Nguồn/Kinh tế học/ABG Open Special 2023|ABG Open Special 2023]]
