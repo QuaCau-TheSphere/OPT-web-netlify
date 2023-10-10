@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-07-02T15:03
+updated: 2023-10-06T16:09
 ---
 
 ![An illustration demonstrating where to locate Tag IDs on Google tag.](https://storage.googleapis.com/support-kms-prod/BDKksyJ4hntsQiVpJtHK4PBl5gKaohplp5fE)
@@ -8,7 +10,7 @@ Cái ID đầu tiên là cái chính, nhưng dùng cái nào cũng được. Nh�
 ![](https://i.imgur.com/xWBvTda.png) 
 ![](https://i.imgur.com/GNuJnY5.png)
 
-Nguồn:: [[../../../../../⚡Hiểu biết sâu/Ξ Nguồn/Google Support|Google Support]], [Google tag ID: Definition - Tag Manager Help](https://support.google.com/tagmanager/answer/12326985?hl=en)
+Nguồn:: [[../../../../../⚡Hiểu biết sâu/Ξ Nguồn/Khoa học dữ liệu. Khoa học máy tính/Google Support|Google Support]], [Google tag ID: Definition - Tag Manager Help](https://support.google.com/tagmanager/answer/12326985?hl=en)
 
 Câu hỏi:: [[./❓Measurement ID của web data stream chính là Google tag ID|❓Measurement ID của web data stream chính là Google tag ID]]
 [[./Destination ID cho GA trùng với Measurement ID của web data stream|Destination ID cho GA trùng với Measurement ID của web data stream]]
