@@ -1,7 +1,9 @@
 ---
-share: True
+share: true
 title: Nơi gặp mặt offline tại TPHCM
 alias: Nơi gặp mặt offline tại TPHCM
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 
 > [!info] Hướng dẫn sử dụng
@@ -15,7 +17,7 @@ alias: Nơi gặp mặt offline tại TPHCM
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---- | ----------- | --------- | ----------- | ----------------------------- | ---------------------------- | ---------------------- | --------- | ------------- | ------------- | ----------------------- | ---------- |
 | [[./Quán có phòng riêng ở TPHCM/Hơi Béo\|Hơi Béo]]                                         | \-     | \-   | \-          | \-        | \-          | \-                            | \-                           | ❌                      | \-        | \-            | \-            | \-                      | \-         |
 | [[./Quán có phòng riêng ở TPHCM/ME\|ME]]                                                   | \-     | \-   | \-          | \-        | \-          | \-                            | \-                           | \-                     | ❌         | \-            | \-            | \-                      | ✔          |
-| [[./Quán có phòng riêng ở TPHCM/Tonkin cottage\|Tonkin cottage]]                           | \-     | \-   | \-          | \-        | \-          | \-                            | \-                           | \-                     | ✔         | \-            | \-            | ✔                       | \-         |
+| [[./Quán có phòng riêng ở TPHCM/Tonkin cottage\|Tonkin cottage]]                           | \-     | \-   | \-          | ✔         | \-          | \-                            | \-                           | \-                     | ✔         | \-            | \-            | ✔                       | \-         |
 | [[./Quán có phòng riêng ở TPHCM/Quán có phòng riêng ở TPHCM\|Quán có phòng riêng ở TPHCM]] | \-     | \-   | ✔           | \-        | ✔           | <ul><li>✔</li><li>✔</li></ul> | \-                           | ✔                      | \-        | \-            | \-            | \-                      | \-         |
 
 # Quán không có phòng riêng
@@ -33,8 +35,8 @@ alias: Nơi gặp mặt offline tại TPHCM
 | [[./Phòng họp riêng ở TPHCM/Cái Tổ nhỏ\|Cái Tổ nhỏ]]                                               | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 | [[./Phòng họp riêng ở TPHCM/Phòng họp riêng ở TPHCM\|Phòng họp riêng ở TPHCM]]                     | \-     | \-   | ✔           | ✔         | ✔           | ✔                        | \-                           | ✔                      | \-        | \-            | \-            | \-                      | ✔          |
 | [[./Phòng họp riêng ở TPHCM/Phòng sinh hoạt chung cư GoldView\|Phòng sinh hoạt chung cư GoldView]] | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | ✔, 1 lần/tháng          | \-         |
-| [[./Phòng họp riêng ở TPHCM/Viễn Đông (địa điểm họp)\|Viễn Đông (địa điểm họp)]]                   | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 | [[./Phòng họp riêng ở TPHCM/UAC\|UAC]]                                                             | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
+| [[./Phòng họp riêng ở TPHCM/Viễn Đông (địa điểm họp)\|Viễn Đông (địa điểm họp)]]                   | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 | [[./Phòng họp riêng ở TPHCM/vẫn đang suy nghĩ space\|vẫn đang suy nghĩ space]]                     | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 
 # Không gian làm việc chung
@@ -42,8 +44,8 @@ alias: Nơi gặp mặt offline tại TPHCM
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---- | ----------- | --------- | ----------- | ------------------------ | ---------------------------- | ---------------------- | --------- | ------------- | ------------- | ----------------------- | ---------- |
 | [[./Không gian làm việc chung ở TPHCM/Flat White\|Flat White]]                                               | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 | [[./Không gian làm việc chung ở TPHCM/Geek Hub\|Geek Hub]]                                                   | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
-| [[./Không gian làm việc chung ở TPHCM/SiHub\|SiHub]]                                                         | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 | [[./Không gian làm việc chung ở TPHCM/Không gian làm việc chung ở TPHCM\|Không gian làm việc chung ở TPHCM]] | \-     | \-   | ✔           | ✔         | ✔           | ✔                        | \-                           | ✔                      | \-        | \-            | \-            | \-                      | \-         |
+| [[./Không gian làm việc chung ở TPHCM/SiHub\|SiHub]]                                                         | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 
 # Địa điểm công cộng
 | File                                                                                                                                                      | Giá rẻ | Wifi | Nhà vệ sinh | Máy chiếu | Được nói to | Không bị ồn từ bên ngoài | Bàn đúng kích thước làm việc | Có thể vận động cơ thể | Nước ngon | Gần trung tâm | Ở lại tới 23h | Không gian tạo cảm hứng | Có loa mic |
