@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-08T16:25
 ---
 [[../Khoa học dữ liệu/Quản lý dữ liệu/Cấu trúc phân cấp thường cứng nhắc và nhân tạo|Cấu trúc phân cấp thường cứng nhắc và nhân tạo]]
 [[../../📜 Tài nguyên/Làm dự án/Phần mềm làm việc nhóm (groupware)/Phần mềm quản lý công việc/Fibery|Fibery]]
