@@ -1,13 +1,15 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
-`=[[Obsidian có thể tạo biến tại bất cứ vị trí nào trong ghi chú]].a`
+2
 - Thống nhất giữa các người dùng dễ dàng
 - Đảm bảo các bên tham gia nhập dữ liệu cùng một format
 - Số biến có hạn, nhưng nhất quán
 
 Câu hỏi:: Làm kỹ vấn đề onboard là được?, Dùng template là được?
-[[../Hợp tác làm việc/Có sự đánh đổi giữa sự dễ dàng tuỳ biến dữ liệu của mình và sự dễ dàng hợp tác qua mạng|Có sự đánh đổi giữa sự dễ dàng tuỳ biến dữ liệu của mình và sự dễ dàng hợp tác qua mạng]]
+[[../Đánh đổi/Có sự đánh đổi giữa sự dễ dàng tuỳ biến dữ liệu của mình và sự dễ dàng hợp tác qua mạng|Có sự đánh đổi giữa sự dễ dàng tuỳ biến dữ liệu của mình và sự dễ dàng hợp tác qua mạng]]
 
 [[./Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc|Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc]]
 Khai báo biến trong một file thì sẽ bị phân mảnh. Khai báo trong bảng thì là khai báo trước dữ liệu sau
