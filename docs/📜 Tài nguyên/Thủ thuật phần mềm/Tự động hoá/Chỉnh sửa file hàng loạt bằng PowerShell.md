@@ -1,7 +1,9 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
-[[../../Lập trình/Windows/Shell/PowerShell là một ngôn ngữ shell|PowerShell là một ngôn ngữ shell]]
+[[../../Lập trình/Hệ điều hành (Windows)/Terminal, shell, console/PowerShell là một ngôn ngữ shell|PowerShell là một ngôn ngữ shell]]
 [The Complete Guide to PowerShell Punctuation - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/the-complete-guide-to-powershell-punctuation/)
 # Tạo nhiều folder
 ```PowerShell
@@ -25,7 +27,7 @@ Get-ChildItem *.md -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename
 ```
 - `-cmatch`: match có case sensitive
 # Tìm và thay chuỗi hàng loạt
-[[../../Lập trình/IDE/VS Code nhiều khi không tìm hết được do tên file dài quá|VS Code nhiều khi không tìm hết được do tên file dài quá]]
+[[../../Lập trình/IDE (VS Code)/VS Code nhiều khi không tìm hết được do tên file dài quá|VS Code nhiều khi không tìm hết được do tên file dài quá]]
 ```PowerShell
 Get-ChildItem *.md -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
 ```
@@ -39,7 +41,7 @@ New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name
 ```
 [Maximum Path Length Limitation - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell#enable-long-paths-in-windows-10-version-1607-and-later)
 
-# Thêm [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Làm việc với hệ điều hành/Biến môi trường giúp ta điền những giá trị lặp đi lặp lại nhanh hơn|biến môi trường]] 
+# Thêm [[../../Lập trình/Hệ điều hành (Windows)/Biến môi trường giúp ta điền những giá trị lặp đi lặp lại nhanh hơn|biến môi trường]] 
 ```PowerShell
 [System.Environment]::SetEnvironmentVariable('ResourceGroup','AZ_Resource_Group', 'User')
 $env:PATH += ";SomeRandomPath"
