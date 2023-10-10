@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-31T13:32
+updated: 2023-10-06T16:09
 ---
 Nếu phân nào cần nhiều chữ thì có thế để vào phụ lục hoặc bài viết sâu.
 [[../../Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Lectures, as a format, are shaped as if tranmissionism were true, so lecturers mostly behave as if it were true|Lectures, as a format, are shaped as if tranmissionism were true, so lecturers mostly behave as if it were true]]
@@ -9,10 +11,10 @@ Nếu phân nào cần nhiều chữ thì có thế để vào phụ l
 - Thể hiện ra được hình ảnh, hoặc thậm chí là qua những giác quan khác
 
 Tức là họ phải dành ra được sự chăm chú hoàn toàn vào nội dung và vẽ minh họa. Nhưng chính vì như vậy, nó không dành cho những người cần dành sự chăm chú tuyệt đối đó vào những vấn đề khác. Phải thừa nhận rằng nhiều khi bài trình bày không phải là thứ có độ ưu tiên cao nhất của người trình bày. Khi sự thú vị của người nghe không giúp giảm áp lực của những thứ khác thì hiển nhiên nó không được quan tâm đúng mức. Nó chỉ có kiến thức, và như vậy cũng đủ cho cả người nói lẫn người nghe.
-[[../../../Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Lên kế hoạch/Áp lực giết chết sự sáng tạo|Áp lực giết chết sự sáng tạo]]. [[./Công việc làm slide ít khi nào được gộp vào trong công việc sản xuất nội dung|Công việc làm slide ít khi nào được gộp vào trong công việc sản xuất nội dung]]. 
+[[../../../Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Triết lý tổ chức, cấu trúc tổ chức/Công việc/Áp lực giết chết sự sáng tạo|Áp lực giết chết sự sáng tạo]]. [[./Công việc làm slide ít khi nào được gộp vào trong công việc sản xuất nội dung|Công việc làm slide ít khi nào được gộp vào trong công việc sản xuất nội dung]]. 
 
 Càng khó để chia nhau ra làm slide. 
-[[../../../Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Lên kế hoạch/Giai đoạn lên ý tưởng thường khó khăn|Giai đoạn lên ý tưởng thường khó khăn]]
+[[../../../Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Nghiên cứu, tìm ý tưởng/Giai đoạn lên ý tưởng thường khó khăn|Giai đoạn lên ý tưởng thường khó khăn]]
 [[../../Khoa học nhận thức/Ẩn dụ/Ẩn dụ là nền tảng của mọi suy nghĩ và lập luận|Ẩn dụ là nền tảng của mọi suy nghĩ và lập luận]]
 Explorable explanation , 4 level of abstractiom
 [[Công cụ nghĩ
