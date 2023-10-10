@@ -1,4 +1,8 @@
 ---
-share: True
+share: true
+created: 2023-07-31T17:05
+updated: 2023-10-06T16:09
 ---
-Nguồn:: [[../Ξ Nguồn/Tự ngẫm nghĩ, trải nghiệm|Tự ngẫm nghĩ, trải nghiệm]]
+[[./The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time|The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time]]
+
+Nguồn:: [[../Ξ Nguồn/Khoa học dữ liệu. Khoa học máy tính/tuhocict|tuhocict]]
