@@ -1,6 +1,8 @@
 ---
-share: True
+share: true
 filename: index
+created: 2023-06-25T19:58
+updated: 2023-10-10T16:29
 ---
   
 ![[./assets/attachments/logo.svg|200]]
@@ -21,4 +23,4 @@ Sau khi đọc xong những điều này, hiện có những câu hỏi nào xu�
 
 
 
-[[Nơi này là nơi nào？|Nơi này là nơi nào?]] | [[./📐 Dự án/9 Blog/Mọi người hay thảo luận ở đâu？|Mọi người hay thảo luận ở đâu?]] | [[./📐 Dự án/9 Blog/Tôi có thể giúp gì？|Tôi có thể giúp gì?]] 
+[[./📐 Dự án/9 Blog/Nơi này là nơi nào？|Nơi này là nơi nào?]] | [[./📐 Dự án/9 Blog/Mọi người hay thảo luận ở đâu？|Mọi người hay thảo luận ở đâu?]] | [[./📐 Dự án/9 Blog/Tôi có thể giúp gì？|Tôi có thể giúp gì?]] 
