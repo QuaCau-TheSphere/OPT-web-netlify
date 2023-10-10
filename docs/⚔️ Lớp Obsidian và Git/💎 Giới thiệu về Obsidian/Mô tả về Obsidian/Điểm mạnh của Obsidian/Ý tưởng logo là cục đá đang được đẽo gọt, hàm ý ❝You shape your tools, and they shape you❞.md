@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-06-02T12:36
+updated: 2023-10-06T16:09
 ---
 ### Sharpen your thinking
 
@@ -12,3 +14,4 @@ Obsidian aims to help you hone your thoughts and refine your ideas with precisio
 We believe that Obsidian should adapt to your way of thinking, not the other way around. That’s why we focus on making Obsidian highly customizable and extensible, so you can shape it to your unique needs.
 
 Nguồn:: [The new Obsidian icon - Obsidian](https://obsidian.md/blog/new-obsidian-icon/)
+[[../../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng|Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng]]

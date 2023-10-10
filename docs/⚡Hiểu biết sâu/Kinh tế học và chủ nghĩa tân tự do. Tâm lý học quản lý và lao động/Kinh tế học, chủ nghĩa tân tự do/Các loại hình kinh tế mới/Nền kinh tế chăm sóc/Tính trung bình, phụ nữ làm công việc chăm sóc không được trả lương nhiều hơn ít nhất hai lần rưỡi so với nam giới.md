@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 **Phụ nữ làm 75% khối lượng công việc** chăm sóc không lương trên toàn thế giới, ước tính khoảng **13% GDP toàn cầu**  
 (Nguồn: Viện Nghiên cứu Phát triển: Phân phối lại công việc chăm sóc không lương – Vì sao thuế lại có ý nghĩa đối với quyền của phụ nữ, Số 109 tháng 1/2016)  
@@ -9,4 +11,4 @@ share: True
 Nguồn:: [Tài liệu thảo luận chính sách: Công việc chăm sóc không lương: Những vấn đề đặt ra và gợi ý chính sách cho Việt Nam](https://vietnam.un.org/sites/default/files/2019-08/Unpaid_Care_and_Domestic_Work_-_Tieng_Viet.pdf)
 
 100% nhân viên giúp việc của Jupviec là nữ
-Nguồn:: [[../../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]], Phan Hồng Minh - CEO Jupviec
+Nguồn:: [[../../../../Ξ Nguồn/Kinh tế học/ABG Open Special 2023|ABG Open Special 2023]], Phan Hồng Minh - CEO Jupviec

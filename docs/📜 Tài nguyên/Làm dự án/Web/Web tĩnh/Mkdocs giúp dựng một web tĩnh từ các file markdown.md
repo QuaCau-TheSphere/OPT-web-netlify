@@ -1,11 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-06-06T23:16
+updated: 2023-10-06T16:09
 ---
-3. Tạo template trên github
-1. Copy folder plugin
-2. Thêm share key
-	```
-	pip install py-obsidianmd
-	py '.\add share key to YAML to all files.py' 'path_to_vault'
-	```
+[[../../../../⚔️ Lớp Obsidian và Git/6 Lập web/GitHub Mkdocs Publisher|GitHub Mkdocs Publisher]]
 ![Hướng dẫn cài đặt và sử dụng Mkdocs Python and Markdown config, example - YouTube](https://youtu.be/TMpZulzUfDw)

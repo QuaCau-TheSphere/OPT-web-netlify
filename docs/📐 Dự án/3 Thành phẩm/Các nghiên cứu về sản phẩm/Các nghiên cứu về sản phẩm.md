@@ -1,5 +1,7 @@
 ---
 share: true
+created: 2023-07-21T11:54
+updated: 2023-10-10T17:07
 tags:
   - file_thành-phẩm
 ---
@@ -13,7 +15,7 @@ Phục vụ cho thành quả:
 Các giả thuyết cần kiểm tra:
 
 Người chơi:: 
-Đối tượng thụ hưởng: `=this.file.inlinks.đối-tượng-thụ-hưởng`
+Đối tượng thụ hưởng: 
 
 Thành quả cần có::
 Thành quả hỗ trợ::

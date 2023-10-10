@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-06-05T12:03
+updated: 2023-10-06T16:09
 ---
 AI chỉ là một trong số rất nhiều các công nghệ mới sau:
 - AI
@@ -11,5 +13,5 @@ AI chỉ là một trong số rất nhiều các công nghệ mới sau:
 
 Tất cả những lĩnh vực này đều đòi hỏi nguồn nhân lực khổng lồ. Hệ quả của việc này là [[./Kể cả khi AI có thể làm mất việc, thì những ngành khác cũng sẽ tạo ra nhiều loại việc khác|Kể cả khi AI có thể làm mất việc, thì những ngành khác cũng sẽ tạo ra nhiều loại việc khác]]
 
-Nguồn:: [[../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]], Lâm Đức Dương
+Nguồn:: [[../../../Ξ Nguồn/Kinh tế học/ABG Open Special 2023|ABG Open Special 2023]], Lâm Đức Dương
 [[./Xu thế kinh tế mới|Xu thế kinh tế mới]]

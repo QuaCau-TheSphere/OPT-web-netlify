@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-07-16T09:34
+updated: 2023-10-06T16:09
 ---
 [[./Luật VN không định nghĩa doanh nghiệp, mà chỉ nói về các yếu tố tạo nên nó|Luật VN không định nghĩa doanh nghiệp, mà chỉ nói về các yếu tố tạo nên nó]]
 
@@ -33,5 +35,5 @@ Tài sản: có 3 cách chính:
 - Tài sản chung: Cái gì làm từ ngày kết hôn là của chung hết. bỏ 1 đồng vẫn có quyền ngang nhau
 
 Câu hỏi:: Hợp tác xã
-Nguồn:: [[../../⚡Hiểu biết sâu/Ξ Nguồn/Mỹ Hạnh|Mỹ Hạnh]]
+Nguồn:: [[Mỹ Hạnh]]
 Obsidian

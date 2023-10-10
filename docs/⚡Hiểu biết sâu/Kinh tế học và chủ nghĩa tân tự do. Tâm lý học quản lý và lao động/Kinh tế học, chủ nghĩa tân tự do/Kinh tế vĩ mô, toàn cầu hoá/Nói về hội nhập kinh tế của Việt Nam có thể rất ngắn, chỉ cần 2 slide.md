@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 3 câu hỏi:
 - Chơi để làm gì? Phát triển
@@ -9,5 +11,5 @@ share: True
 Lưu ý, đa phương này là cách dịch cho cả 2 từ: multiplayer và pluralism
 
 
-Nguồn:: [[../../../Ξ Nguồn/ABG Open Special 2023|ABG Open Special 2023]], Võ Trí Thành
+Nguồn:: [[../../../Ξ Nguồn/Kinh tế học/ABG Open Special 2023|ABG Open Special 2023]], Võ Trí Thành
 [[../Các loại hình kinh tế mới/Nền kinh tế số/Kinh tế số là kinh tế dữ liệu (data-driven economy)|Kinh tế số là kinh tế dữ liệu (data-driven economy)]]

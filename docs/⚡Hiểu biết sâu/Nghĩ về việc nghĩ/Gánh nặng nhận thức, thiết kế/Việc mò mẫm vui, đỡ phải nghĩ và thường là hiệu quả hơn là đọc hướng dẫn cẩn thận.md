@@ -1,7 +1,9 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
-[[../Khoa học nhận thức/Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm|Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm]]
+[[./Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm|Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm]]
 [[./Thiết kế/Chúng ta không chọn phương án tối ưu khi chọn sai cũng chẳng hại gì|Chúng ta không chọn phương án tối ưu khi chọn sai cũng chẳng hại gì]] 
 [[./Thiết kế/Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu|Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu]] 
 
@@ -20,7 +22,7 @@ Sự thật #3: Chúng ta không tìm hiểu cách mọi thứ vận hành. Chú
 - Vì nó không quan trọng với mình
 - Vì nếu ta tìm được cách nào dùng được, ta sẽ dính với cách đó
 
-Nguồn:: [[../../Ξ Nguồn/Đừng bắt tôi nghĩ|Đừng bắt tôi nghĩ]]
+Nguồn:: [[../../Ξ Nguồn/Môi trường nghĩ, nhận thức tăng cường/Đừng bắt tôi nghĩ|Đừng bắt tôi nghĩ]]
 
 Nhưng vì việc [[../Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Đọc lướt không giúp ta tiếp thu được gì cả|Đọc lướt không giúp ta tiếp thu được gì cả]], nên ta sẽ thấy nhức đầu khi bật trang mới dù ta không cảm thấy áp lực gì cả. Dễ thấy nhất khi cần ngồi nghiên cứu và ta bật rất nhiều tab
 [[../../Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình|Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình]]

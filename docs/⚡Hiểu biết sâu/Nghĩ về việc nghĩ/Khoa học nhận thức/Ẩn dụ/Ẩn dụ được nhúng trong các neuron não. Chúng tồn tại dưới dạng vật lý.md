@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 > I mean, it is, you understand where that dream comes from culturally, right? We, we've always been, so this comes back to Descartes a bit. He split the mind from the body and him and many other thinkers who came after him that they made very clear that the body was sort of our more animalistic nature.
 > 
@@ -9,4 +11,4 @@ share: True
 > 
 > And they found out so much of the way that we reason and think about the world in what we would consider our logical way is spatial. And it's completely linked to our bodies and our emotions. And there is no, you know, there is no separation of mind and body is like the punchline.
 
-Nguồn:: [[../../../Ξ Nguồn/Maggie Appleton|Maggie Appleton]], [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=17:10)
+Nguồn:: [[../../../Ξ Nguồn/Môi trường nghĩ, nhận thức tăng cường/Maggie Appleton|Maggie Appleton]], [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=17:10)

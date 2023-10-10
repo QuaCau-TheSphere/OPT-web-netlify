@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 > In my interactions with patrons, I’ve been surprised to find that altruism is rarely the dominant force. Patrons mostly don’t think of themselves as paying for consumption of past work; they’re buying into production of future work.
 ![](https://andymatuschak.org/static/2020/graph.png) 
@@ -9,8 +11,8 @@ Lượng tăng đột biến vào tháng 5/2020 là khi anh quyết định sẽ
 >In December of 2020, I asked my patrons to briefly explain why they support my work. Roughly a quarter of my patrons wrote back. The vast majority framed their motivations in terms of supporting production of future work. Some people quite specifically want to use a prototype I’m developing; others just want to see certain ideas developed further. About a third framed their funding in terms of “[people, not projects](https://www.nature.com/articles/477529a),” expressing general confidence that I’ll do interesting work. Naturally, that’s my favorite kind of support. After this cluster of answers, the distant second most common motivation was access to the behind-the-scenes content.
 
 khi được hỏi trực tiếp, thì rất ít người nói rằng họ làm vậy để được đọc cái bài viết chỉ dành cho người ủng hộ
-Nguồn:: [[../../../Ξ Nguồn/Andy Matuschak|Andy Matuschak]], [Reflections on 2020 as an independent researcher | Andy Matuschak](https://andymatuschak.org/2020/)
+Nguồn:: [[../../../Ξ Nguồn/Môi trường nghĩ, nhận thức tăng cường/Andy Matuschak|Andy Matuschak]], [Reflections on 2020 as an independent researcher | Andy Matuschak](https://andymatuschak.org/2020/)
 
 [[./Crowdfunding depends on highly visible public work|Crowdfunding depends on highly visible public work]] [[./Donations for open source lack the urgency and personal empathy that charity causes have|Donations for open source lack the urgency and personal empathy that charity causes have]]
 
-Khó khăn:: [[../../Nghiên cứu/Khảo sát, phỏng vấn/Phỏng vấn thường kém chính xác trong việc dự đoán các hành vi tương lai của người dùng|Phỏng vấn thường kém chính xác trong việc dự đoán các hành vi tương lai của người dùng]]
+Khó khăn:: [[../../Phát triển sản phẩm/Khảo sát, phỏng vấn người dùng/Phỏng vấn thường kém chính xác trong việc dự đoán các hành vi tương lai của người dùng|Phỏng vấn thường kém chính xác trong việc dự đoán các hành vi tương lai của người dùng]]

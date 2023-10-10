@@ -1,8 +1,10 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 Giới thiệu về nhân văn số (digital humanities) 
-[[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng/Mô hình/Nhân văn số sử dụng mô hình chủ đề rất nhiều|Nhân văn số sử dụng mô hình chủ đề rất nhiều]]
+[[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng, NLP/Mô hình/Nhân văn số sử dụng mô hình chủ đề rất nhiều|Nhân văn số sử dụng mô hình chủ đề rất nhiều]]
 Nhiều dự án nhăn văn số rồi, nên chỉ tập trung vào các tài liệu giúp hướng dẫn một người 
 [Nhân văn số thức: Một lát cắt của xã hội toàn cầu - Tạp chí Tia sáng](https://tiasang.com.vn/khoa-hoc-cong-nghe/nhan-van-so-thuc-mot-lat-cat-cua-xa-hoi-toan-cau-11139/)
 # Sản phẩm

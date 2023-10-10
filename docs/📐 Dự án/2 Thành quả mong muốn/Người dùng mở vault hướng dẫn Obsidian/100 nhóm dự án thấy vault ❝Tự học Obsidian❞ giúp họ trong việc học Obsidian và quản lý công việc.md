@@ -1,5 +1,7 @@
 ---
 share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 tags:
   - file_thành-quả
   - tt_đang-làm
@@ -23,4 +25,4 @@ Thành quả hỗ trợ:: [[./50% người thấy được sự khác biệt v�
 
 Thành phẩm:: [[../../3 Thành phẩm/Các bài học trên vault/Các bài học trên vault|Các bài học trên vault]], [[../../3 Thành phẩm/Các buổi cố vấn riêng/Các buổi cố vấn riêng|Các buổi cố vấn riêng]], [[../../3 Thành phẩm/Các bài viết truyền thông/Các bài viết truyền thông|Các bài viết truyền thông]]
 
-Điểm yếu:: [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Hợp tác làm việc/Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác|Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác]]
+Điểm yếu:: [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Đánh đổi/Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác|Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác]]

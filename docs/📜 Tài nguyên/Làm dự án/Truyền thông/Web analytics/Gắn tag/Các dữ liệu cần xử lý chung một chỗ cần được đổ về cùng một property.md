@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-07-02T15:09
+updated: 2023-10-06T16:09
 ---
 Nhìn chung, bạn nên thiết lập một tài khoản cho mỗi công ty và một property cho mỗi thương hiệu hoặc đơn vị kinh doanh.
 
@@ -37,6 +39,6 @@ Trong ví dụ này, Joe's deli là một doanh nghiệp nhỏ và không cần 
 
 ![Diagram showing global roll-up property with 3 regional roll-up properties](https://storage.googleapis.com/support-kms-prod/qlmD4iv4m436WgAq3P7q6XyMqDBplZGPD534)
 
-Nguồn:: [[../../../../../⚡Hiểu biết sâu/Ξ Nguồn/Google Support|Google Support]], [[GA4] Google Analytics account structure - Analytics Help](https://support.google.com/analytics/answer/9679158?sjid=17022656340477521015-NA&hl=en#key-concepts&zippy=%2Ctable-of-contents%2Croll-up-properties%2Centerprise-company-with-several-complementary-lines-of-business%2Cparent-company-with-several-brands%2Cglobal-enterprise-with-regions-and-subregions)
+Nguồn:: [[../../../../../⚡Hiểu biết sâu/Ξ Nguồn/Khoa học dữ liệu. Khoa học máy tính/Google Support|Google Support]], [[GA4] Google Analytics account structure - Analytics Help](https://support.google.com/analytics/answer/9679158?sjid=17022656340477521015-NA&hl=en#key-concepts&zippy=%2Ctable-of-contents%2Croll-up-properties%2Centerprise-company-with-several-complementary-lines-of-business%2Cparent-company-with-several-brands%2Cglobal-enterprise-with-regions-and-subregions)
 
 ![How to structure your Analytics account - YouTube](https://youtu.be/KqiWnzfJzxg)

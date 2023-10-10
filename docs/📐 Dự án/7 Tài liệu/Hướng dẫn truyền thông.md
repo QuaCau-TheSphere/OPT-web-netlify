@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 Nếu bạn có thời gian thì làm, còn không thì cũng không sao.
 
@@ -45,7 +47,7 @@ Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng D�
 - **Campaign medium:** `social`
 - **Campaign name:** `Nói về sự hợp tác`
 
-### Chia sẻ trang [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]] khi trả lời bình luận GHI của bài DEF trong nhóm ABC trên Facebook
+### Chia sẻ trang [[../../⚔️ Lớp Obsidian và Git/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]] khi trả lời bình luận GHI của bài DEF trong nhóm ABC trên Facebook
 - **Campaing source:** `F G » ABC » DEF » GHI`
 - **Campaign medium:** `social`
 - **Campaign name:** `Giới thiệu về Obsidian`
@@ -60,7 +62,7 @@ Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng D�
 - **Campaign medium:** `form`
 - **Campaign name:** `Nói về sự hợp tác`
 
-### Chia sẻ trang [[../../📜 Tài nguyên/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]] khi bình luận về  bài DEF trong blog ABC 
+### Chia sẻ trang [[../../⚔️ Lớp Obsidian và Git/💎 Giới thiệu về Obsidian/💎 Giới thiệu về Obsidian|💎 Giới thiệu về Obsidian]] khi bình luận về  bài DEF trong blog ABC 
 - **Campaing source:** `ABC » DEF`
 - **Campaign medium:** `blog`
 - **Campaign name:** `Giới thiệu về Obsidian`

@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 # Trước khi phát triển sản phẩm/tính năng
 
@@ -27,4 +29,7 @@ Sau khi sản phẩm/tính năng được phát hành, có thể tiến hành ph
 - Đo lường mức độ thành công của sản phẩm/tính năng dựa trên việc chấp nhận và sử dụng của người dùng
 - Thu thập lời chứng thực hoặc câu chuyện thành công cho mục đích tiếp thị.
 
-Nguồn: Hoàng Đức Minh
+Nguồn:: [[../../Ξ Nguồn/Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Hoàng Đức Minh|Hoàng Đức Minh]]
+
+[[../Phát triển sản phẩm/Khảo sát, phỏng vấn người dùng/Một số mục tiêu phỏng vấn gợi ý|Một số mục tiêu phỏng vấn gợi ý]]
+[[./Các nghiên cứu có thể có cùng một mục tiêu nghiên cứu, nhưng khác nhau về câu hỏi nghiên cứu|Các nghiên cứu có thể có cùng một mục tiêu nghiên cứu, nhưng khác nhau về câu hỏi nghiên cứu]]. [[../Phát triển sản phẩm/Khảo sát, phỏng vấn người dùng/Phần lớn các câu hỏi nghiên cứu không thể sử dụng để hỏi trực tiếp|Phần lớn các câu hỏi nghiên cứu không thể sử dụng để hỏi trực tiếp]]. [[] ] 

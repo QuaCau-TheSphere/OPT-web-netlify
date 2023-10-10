@@ -1,29 +1,38 @@
 ---
-share: True
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 ---
 - [[./Các công ty ít có lợi trong việc đầu tư nghiên cứu môi trường tư duy|Các công ty ít có lợi trong việc đầu tư nghiên cứu môi trường tư duy]]
-- [[./Công cụ không chỉ là cách để đạt mục tiêu nhanh hơn, mà còn thay đổi tư duy của chúng ta|Công cụ không chỉ là cách để đạt mục tiêu nhanh hơn, mà còn thay đổi tư duy của chúng ta]]
 - [[./Explorable explanation phù hợp cho các trình bày liên quan chặt chẽ đến toán hơn|Explorable explanation phù hợp cho các trình bày liên quan chặt chẽ đến toán hơn]]
+- [[./Công cụ không chỉ là cách để đạt mục tiêu nhanh hơn, mà còn thay đổi tư duy của chúng ta|Công cụ không chỉ là cách để đạt mục tiêu nhanh hơn, mà còn thay đổi tư duy của chúng ta]]
+- [[./Hmm... Because... So now...|Hmm... Because... So now...]]
 - [[./Hành vi và phản ứng là những thứ native trong môi trường máy tính|Hành vi và phản ứng là những thứ native trong môi trường máy tính]]
 - [[./Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành|Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành]]
+- [[./Mạng xã hội/Các bảng tin làm mình cảm giác ai cũng thấy giống mình|Các bảng tin làm mình cảm giác ai cũng thấy giống mình]]
 - [[./Một môi trường nghĩ thực sự mới là nơi chỉ việc dùng nó thôi sẽ thay đổi cả cách nghĩ của toàn bộ một nền văn minh|Một môi trường nghĩ thực sự mới là nơi chỉ việc dùng nó thôi sẽ thay đổi cả cách nghĩ của toàn bộ một nền văn minh]]
-- [[./Những công cụ nghĩ tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc|Những công cụ nghĩ tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc]]
 - [[./Powerful medium enables powerful representations|Powerful medium enables powerful representations]]
+- [[./Những công cụ nghĩ tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc|Những công cụ nghĩ tốt đa phần là sản phẩm phụ của những nỗ lực giải quyết những vấn đề nghiêm túc]]
 - [[./Thiết kế trải nghiệm người dùng|Thiết kế trải nghiệm người dùng]]
-- [[./Đọc và viết/Essence của một cuốn sách chính là mục lục của nó|Essence của một cuốn sách chính là mục lục của nó]]
 - [[./Đọc và viết/Ghi chú thông tin/Collecting material feels more useful than it usually is|Collecting material feels more useful than it usually is]]
+- [[./Đọc và viết/Ghi chú thông tin/Cần những cách lưu dữ liệu khác nhau cho việc họp, nghiên cứu và quản lý dự án|Cần những cách lưu dữ liệu khác nhau cho việc họp, nghiên cứu và quản lý dự án]]
 - [[./Đọc và viết/Ghi chú thông tin/Evergreen giúp tăng khả năng nhìn thấy được mâu thuẫn|Evergreen giúp tăng khả năng nhìn thấy được mâu thuẫn]]
+- [[./Đọc và viết/Ghi chú thông tin/Ghi chép tay creates a tactile information recall|Ghi chép tay creates a tactile information recall]]
 - [[./Đọc và viết/Ghi chú thông tin/Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác|Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác]]
+- [[./Đọc và viết/Ghi chú thông tin/Ghi chép thứ mình nhớ kém|Ghi chép thứ mình nhớ kém]]
 - [[./Đọc và viết/Ghi chú thông tin/Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng|Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng]]
 - [[./Đọc và viết/Ghi chú thông tin/Khu vườn số luôn phát triển và thay đổi. Nó không bao giờ có trạng thái xong|Khu vườn số luôn phát triển và thay đổi. Nó không bao giờ có trạng thái xong]]
-- [[./Đọc và viết/Ghi chú thông tin/Quản lý tài liệu|Quản lý tài liệu]]
 - [[./Đọc và viết/Ghi chú thông tin/Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó|Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó]]
+- [[./Đọc và viết/Ghi chú thông tin/Tiếng Anh càng làm mình muốn đọc lướt hơn|Tiếng Anh càng làm mình muốn đọc lướt hơn]]
+- [[./Đọc và viết/Ghi chú thông tin/Tóm tắt nội dung bài giảng, dùng bút đánh dấu đoạn văn bản quan trọng khi đọc sách, đọc đi đọc lại một chương sách hoá ra lại là những cách không mang lại mấy hiệu quả về ghi nhớ|Tóm tắt nội dung bài giảng, dùng bút đánh dấu đoạn văn bản quan trọng khi đọc sách, đọc đi đọc lại một chương sách hoá ra lại là những cách không mang lại mấy hiệu quả về ghi nhớ]]
 - [[./Đọc và viết/Ghi chú thông tin/Việc thu thập tài nguyên tạo cảm giác hữu ích hơn là thực sự hữu ích|Việc thu thập tài nguyên tạo cảm giác hữu ích hơn là thực sự hữu ích]]
 - [[./Đọc và viết/Ghi chú thông tin/Ý tưởng nếu không ghi lại ngay sẽ quên rất nhanh|Ý tưởng nếu không ghi lại ngay sẽ quên rất nhanh]]
 - [[./Đọc và viết/Ghi chú thông tin/Đọc lướt không giúp ta tiếp thu được gì cả|Đọc lướt không giúp ta tiếp thu được gì cả]]
+- [[./Đọc và viết/Essence của một cuốn sách chính là mục lục của nó|Essence của một cuốn sách chính là mục lục của nó]]
 - [[./Đọc và viết/Giấy và bút không thể hiện hành vi của hệ thống đang được nghiên cứu|Giấy và bút không thể hiện hành vi của hệ thống đang được nghiên cứu]]
-- [[./Đọc và viết/Mua sách giấy|Mua sách giấy]]
 - [[./Đọc và viết/Lectures, as a format, are shaped as if tranmissionism were true, so lecturers mostly behave as if it were true|Lectures, as a format, are shaped as if tranmissionism were true, so lecturers mostly behave as if it were true]]
+- [[./Đọc và viết/Không để trích dẫn vào trong ngoặc kép mà chỉ in nghiêng làm câu văn tự nhiên hơn|Không để trích dẫn vào trong ngoặc kép mà chỉ in nghiêng làm câu văn tự nhiên hơn]]
+- [[./Đọc và viết/Mua sách giấy|Mua sách giấy]]
 - [[./Đọc và viết/Một văn bản không phải chỉ để truyền đạt thông tin hay hiểu biết, mà còn nên trở thành một sân chơi cho người đọc khám phá|Một văn bản không phải chỉ để truyền đạt thông tin hay hiểu biết, mà còn nên trở thành một sân chơi cho người đọc khám phá]]
 - [[./Đọc và viết/Sự phát minh của việc viết phát minh ra việc lập luận|Sự phát minh của việc viết phát minh ra việc lập luận]]
 - [[./Đọc và viết/Sự phát minh ra ký hiệu phát minh ra toán học hiện đại|Sự phát minh ra ký hiệu phát minh ra toán học hiện đại]]
@@ -32,6 +41,6 @@ share: True
 - [[./Đọc và viết/Viết làm suy nghĩ không còn là vô hình|Viết làm suy nghĩ không còn là vô hình]]
 - [[./Đọc và viết/Việc rút gọn cả bài thành câu tóm tắt chỉ có tác dụng khi mình hiểu dược những khái niệm quan trọng trong bài|Việc rút gọn cả bài thành câu tóm tắt chỉ có tác dụng khi mình hiểu dược những khái niệm quan trọng trong bài]]
 - [[./Đọc và viết/Đọc mục lục một cuốn sách thì đơn giản, nhưng có thể truy xuất được điều mình cần và vận dụng nó một cách hiệu quả thì phải đọc cả cuốn sách|Đọc mục lục một cuốn sách thì đơn giản, nhưng có thể truy xuất được điều mình cần và vận dụng nó một cách hiệu quả thì phải đọc cả cuốn sách]]
+- [[./Việc dùng game hoá để giải thích có một bất lợi là các công ty làm game tập trung vào việc tạo ra game có tính giải trí hơn là việc giải thích|Việc dùng game hoá để giải thích có một bất lợi là các công ty làm game tập trung vào việc tạo ra game có tính giải trí hơn là việc giải thích]]
 - [[./Đồ thị giúp ta thấy được mẫu hình|Đồ thị giúp ta thấy được mẫu hình]]
 
-[Reinventing Explanation](https://michaelnielsen.org/reinventing_explanation/index.html)

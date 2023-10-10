@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-06-06T13:31
+updated: 2023-10-06T16:09
 ---
 # Mở code
 
@@ -47,7 +49,7 @@ share: True
 | <kbd>F5</kbd>               | Chạy code                                                     | 
 | <kbd>F9</kbd>               | Tạo breakpoint                                                |
 | <kbd>Ctrl + Shift + D</kbd> | Mở debug sidebar                                              |
-| <kbd>Ctrl + `</kbd>         | Mở [[../Hệ điều hành/Terminal là cái cửa sổ để làm việc với shell\|terminal]] |
+| <kbd>Ctrl + `</kbd>         | Mở [[../Hệ điều hành (Windows)/Terminal, shell, console/Terminal là cái cửa sổ để làm việc với shell\|terminal]] |
 | <kbd>Ctrl + Shift + Y</kbd> | Mở debug console                                              |
 
 # Thiết lập VS Code
