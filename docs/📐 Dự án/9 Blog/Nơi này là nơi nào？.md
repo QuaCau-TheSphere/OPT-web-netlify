@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-07-25T10:54
+updated: 2023-10-06T16:09
 ---
 # Mục tiêu
 Đây là một vault Obsidian dành riêng cho người Việt với mục tiêu:
@@ -24,7 +26,7 @@ Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng 
 
 [[../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác|Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác]]
 
-Giới thiệu khái niệm như trong [[Lập trình|Lập trình]], so sánh sự khác nhau. Vì thực chất thuật ngữ mới là thứ người mới cảm thấy loạn, rối, mất phương hướng. Ngoài việc khi tiếp cận một lĩnh vực mới ta thấy những thuật ngữ, khái niệm khó nhó, mà sự tiện lợi của người đã hiểu rồi và lịch sử phát triển của lĩnh vực cũng tạo nên sự rối rắm đó. 
+Giới thiệu khái niệm như trong [[../../../Lập trình|Lập trình]], so sánh sự khác nhau. Vì thực chất thuật ngữ mới là thứ người mới cảm thấy loạn, rối, mất phương hướng. Ngoài việc khi tiếp cận một lĩnh vực mới ta thấy những thuật ngữ, khái niệm khó nhó, mà sự tiện lợi của người đã hiểu rồi và lịch sử phát triển của lĩnh vực cũng tạo nên sự rối rắm đó. 
 Chú trọng ghi lại những mối quan hệ giữa các khái niệm, chứ không cố gắng giải thích khái niệm đó là gì. Cái nào không quá khó để mò hoặc google ra thì không ghi. Cái nào phải loay hoay một lúc mới nhận ra thì sẽ ghi
 
 Đa phần ghi chú trong đây đều ở trạng thái chưa hoàn thiện. Thứ cần được hoàn thiện là sự liên kết giữa các trang và nội dung một số trang hay được đọc và chia sẻ nhiều.
@@ -51,6 +53,9 @@ Lao ngay vào code trong product thì hổng kiến thức do nhiều chô
 Chỉ ghi lại những thứ mất nhiều thời gian để nhận ra. Cái nào dễ thấy thì ko ghi 
 - muốn nhưng google được là có thì không ghi. Khi nào bị bug rồi mới phát hiện ra một cái gì đó mà không thấy ai nói gì thì mới ghi
 - Nếu cản trở sự đọc hiểu mà phải google thì cũng ghi ra 
+
+
+Nguồn đánh dấu những cái ở trên nó. Trang nào không có nguồn là trang đó tự nghĩ. Chữ nguồn nhiều khi cũng ko đúng. Một số cái là copy hoàn toàn. Một số cái là nắm bắt ý ghi lại. Với để ở đâu cũng khó, vì có những cái tự tổng hợp lại thì chỉ nên để là tham khảo. Nhưng cái này ko được ưu tiên
 
 ---
 
