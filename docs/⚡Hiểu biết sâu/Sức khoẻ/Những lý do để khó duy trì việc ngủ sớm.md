@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-06-02T10:46
+updated: 2023-10-10T16:57
 ---
 Việc lên giường lúc 22h và thức dậy lúc 5h có rất nhiều lợi ích: thêm nhiều ánh sáng hơn. Ngoài ra 
 - Easy to drift, hard to revert
@@ -27,5 +29,5 @@ Because you need 1 hour more staying awake in bed
 
 [[../Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Kỹ năng, động lực/Việc mải mê làm việc đến quên cả đói cho thấy phần thưởng từ việc làm việc là đủ lớn hơn việc được ăn|Việc mải mê làm việc đến quên cả đói cho thấy phần thưởng từ việc làm việc là đủ lớn hơn việc được ăn]]
 Thường chỉ dừng khi thấy mỏi lưng, đầu hết nghĩ được gì
-[[../Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Lên kế hoạch/Sắp xếp độ ưu tiên/Bảng quan trọng – khẩn cấp|Bảng quan trọng – khẩn cấp]]
+[[../Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức/Phát triển sản phẩm/Sắp xếp độ ưu tiên/Bảng quan trọng – khẩn cấp|Bảng quan trọng – khẩn cấp]]
 [[../Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Humane tech|Humane tech]]
