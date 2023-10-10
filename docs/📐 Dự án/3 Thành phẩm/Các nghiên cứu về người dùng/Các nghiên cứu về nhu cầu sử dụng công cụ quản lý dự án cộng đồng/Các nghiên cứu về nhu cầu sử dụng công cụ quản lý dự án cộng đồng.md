@@ -1,5 +1,7 @@
 ---
 share: true
+created: 2023-05-26T14:51
+updated: 2023-10-06T16:09
 tags:
   - file_thành-phẩm
 ---
@@ -15,7 +17,7 @@ Các giả thuyết cần kiểm tra:
 - [[../../../2 Thành quả mong muốn/Nhóm dự án dùng vault để quản lý công việc/100 dự án cộng đồng thấy Obsidian giúp họ xây dựng cộng đồng mạnh|100 dự án cộng đồng thấy Obsidian giúp họ xây dựng cộng đồng mạnh]]: \-
 
 Người chơi:: 
-Đối tượng thụ hưởng: `=this.file.inlinks.đối-tượng-thụ-hưởng`
+Đối tượng thụ hưởng: [[../../../4 Các bên liên quan/Loại đối tượng/Theo nhu cầu/Người muốn xây dựng cộng đồng hoặc mạng lưới|Người muốn xây dựng cộng đồng hoặc mạng lưới]]
 Thành quả cần có:: [[../../../2 Thành quả mong muốn/Người dùng đóng góp cho dự án/1 người tham gia phỏng vấn mỗi tuần|1 người tham gia phỏng vấn mỗi tuần]]
 Thành quả hỗ trợ:: [[../../../2 Thành quả mong muốn/Người dùng đóng góp cho dự án/3 người có 10 năm kinh nghiệm trong lĩnh vực phi lợi nhuận nhận phỏng vấn|3 người có 10 năm kinh nghiệm trong lĩnh vực phi lợi nhuận nhận phỏng vấn]]
 Thành quả hỗ trợ:: [[../../../2 Thành quả mong muốn/3 người có 1 năm kinh nghiệm trong lĩnh vực phi lợi nhuận nhận phỏng vấn|3 người có 1 năm kinh nghiệm trong lĩnh vực phi lợi nhuận nhận phỏng vấn]]
@@ -30,8 +32,8 @@ Thành quả hỗ trợ:: [[../../../2 Thành quả mong muốn/3 người có 1
 - [ ] Khảo sát
 
 Thành phẩm nhỏ hơn:
-- [[./Các buổi phỏng vấn/Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới|Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới]]
 - [[./Các buổi phỏng vấn/Bài đăng kêu gọi phỏng vấn|Bài đăng kêu gọi phỏng vấn]]
+- [[./Các buổi phỏng vấn/Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới|Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới]]
 - [[./Email mời phỏng vấn|Email mời phỏng vấn]]
 
 
