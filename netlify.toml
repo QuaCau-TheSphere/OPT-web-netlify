@@ -1,4 +1,6 @@
 # netlify.toml
 [build]
-  command = "mkdocs build"
-  publish = "site"
+  command = "tree"
+  command = "git clone --filter=blob:none https://github.com/QuaCau-TheSphere/OPT-web-netlify"
+#  command = "mkdocs build"
+#  publish = "site"
