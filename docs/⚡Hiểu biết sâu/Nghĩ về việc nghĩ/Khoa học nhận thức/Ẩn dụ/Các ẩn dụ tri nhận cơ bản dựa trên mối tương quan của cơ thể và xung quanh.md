@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-06T16:09
+updated: 2023-10-11T11:27
 ---
-Tương tự, [[./Công cụ là sự nối dài của cơ thể|Công cụ là sự nối dài của cơ thể]] 
+Khái niệm:: [[../../../Ξ Khái niệm/Ẩn dụ|Ẩn dụ]]
+Tương tự, [[../../Môi trường nghĩ, nhận thức tăng cường/Công cụ là sự nối dài của cơ thể|Công cụ là sự nối dài của cơ thể]] 
 
 Nguồn::
