@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-18T20:36
-updated: 2023-10-06T16:09
+updated: 2023-10-12T20:43
 ---
 Khái niệm:: [[../../Ξ Khái niệm/Diễn giải, đọc|Diễn giải, đọc]], [[../../Ξ Khái niệm/Văn bản|Văn bản]]
 Một cái là trình thuật, một cái là mô tả, trình thuật, đối thoại. Nhà nghi
@@ -23,6 +23,6 @@ Việc chú giải giúp ta nỗ lực bóc tách các lớp ý nghĩa trong cá
 [[./Diễn giải/Khi nhà nghiên cứu chú giải văn bản, họ kiến tạo ra đồng tác giả cho mình|Khi nhà nghiên cứu chú giải văn bản, họ kiến tạo ra đồng tác giả cho mình]]
 [[./Ý nghĩa và biểu tượng/Văn bản là nơi ta đọc ra các ý nghĩa và diễn giải nó|Văn bản là nơi ta đọc ra các ý nghĩa và diễn giải nó]] 
 
-[[../Nhiều ngành học khác xem bạn là kết quả của những mối quan hệ nhân quả với một thứ bên ngoài. Nhân học chỉ chú trọng đến việc nói rằng bạn có thể khác biệt, rằng bạn còn có thể là người khác|Nhiều ngành học khác xem bạn là kết quả của những mối quan hệ nhân quả với một thứ bên ngoài. Nhân học chỉ chú trọng đến việc nói rằng bạn có thể khác biệt, rằng bạn còn có thể là người khác]]
+[[../Nhân học chỉ chú trọng đến việc nói rằng bạn có thể khác biệt, rằng bạn còn có thể là người khác|Nhiều ngành học xem con người là kết quả của những thứ bên ngoài trong mối quan hệ nhân quả. Nhân học chỉ chú trọng đến việc nói rằng bạn có thể khác biệt, rằng bạn còn có thể là người khác]]
 
 [[./Diễn giải/Hermes vốn chỉ là người đưa thư chứ không giải thích, diễn giải gì cả|Hermes vốn chỉ là người đưa thư chứ không giải thích, diễn giải gì cả]] 

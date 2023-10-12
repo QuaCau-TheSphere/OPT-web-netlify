@@ -1,11 +1,14 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-10T16:22
+updated: 2023-10-12T12:12
 ---
 Lý do:: [[./Công việc khai phá chính là quản lý kiến thức|Công việc khai phá chính là quản lý kiến thức]] 
-[[./Triết lý tổ chức, cấu trúc tổ chức/Công việc/Công việc khai phá và công việc khám phá|Công việc khai phá và công việc khám phá]]
+[[./❓Quản lý cuộc sống có phải là quản lý dự án？Công việc và cuộc sống có phải là không thể tách rời nhau？|❓Quản lý cuộc sống có phải là quản lý dự án？Công việc và cuộc sống có phải là không thể tách rời nhau？]]
+
+[[./Triết lý tổ chức, cấu trúc tổ chức/Công việc/Công việc khai phá và công việc khai thác|Công việc khai phá và công việc khai thác]]
 [[./Insight through making|Insight through making]] 
+Thách thức:: [[../../⚔️ Lớp Obsidian và Git/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm yếu của Obsidian/Obsidian không mạnh về quản lý công việc|Obsidian không mạnh về quản lý công việc]]
 
 ---
 #### 🚨 Organizations accumulate information in different places
@@ -37,5 +40,3 @@ In the perfect world, knowledge evolves in a tool, like in a brain. Our tool sho
 
 Nguồn:: [Augmenting Organizational Intelligence](https://fibery.io/blog/augmenting-organizational-intelligence/)
 
-Thách thức:: [[../../⚔️ Lớp Obsidian và Git/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm yếu của Obsidian/Obsidian không mạnh về quản lý công việc|Obsidian không mạnh về quản lý công việc]]
-[[./❓Quản lý cuộc sống có phải là quản lý dự án？|❓Quản lý cuộc sống có phải là quản lý dự án？]]
