@@ -3,7 +3,7 @@ share: true
 title: Nơi gặp mặt offline tại TPHCM
 alias: Nơi gặp mặt offline tại TPHCM
 created: 2023-05-26T14:51
-updated: 2023-10-06T16:09
+updated: 2023-10-12T21:10
 ---
 
 > [!info] Hướng dẫn sử dụng
@@ -17,8 +17,8 @@ updated: 2023-10-06T16:09
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---- | ----------- | --------- | ----------- | ----------------------------- | ---------------------------- | ---------------------- | --------- | ------------- | ------------- | ----------------------- | ---------- |
 | [[./Quán có phòng riêng ở TPHCM/Hơi Béo\|Hơi Béo]]                                         | \-     | \-   | \-          | \-        | \-          | \-                            | \-                           | ❌                      | \-        | \-            | \-            | \-                      | \-         |
 | [[./Quán có phòng riêng ở TPHCM/ME\|ME]]                                                   | \-     | \-   | \-          | \-        | \-          | \-                            | \-                           | \-                     | ❌         | \-            | \-            | \-                      | ✔          |
-| [[./Quán có phòng riêng ở TPHCM/Tonkin cottage\|Tonkin cottage]]                           | \-     | \-   | \-          | ✔         | \-          | \-                            | \-                           | \-                     | ✔         | \-            | \-            | ✔                       | \-         |
 | [[./Quán có phòng riêng ở TPHCM/Quán có phòng riêng ở TPHCM\|Quán có phòng riêng ở TPHCM]] | \-     | \-   | ✔           | \-        | ✔           | <ul><li>✔</li><li>✔</li></ul> | \-                           | ✔                      | \-        | \-            | \-            | \-                      | \-         |
+| [[./Quán có phòng riêng ở TPHCM/Tonkin cottage\|Tonkin cottage]]                           | \-     | \-   | \-          | ✔         | \-          | \-                            | \-                           | \-                     | ✔         | \-            | \-            | ✔                       | \-         |
 
 # Quán không có phòng riêng
 | File                                                                                                                                                                           | Giá rẻ | Wifi | Nhà vệ sinh | Máy chiếu | Được nói to | Không bị ồn từ bên ngoài | Bàn đúng kích thước làm việc | Có thể vận động cơ thể | Nước ngon | Gần trung tâm | Ở lại tới 23h | Không gian tạo cảm hứng | Có loa mic |
@@ -50,8 +50,8 @@ updated: 2023-10-06T16:09
 # Địa điểm công cộng
 | File                                                                                                                                                      | Giá rẻ | Wifi | Nhà vệ sinh | Máy chiếu | Được nói to | Không bị ồn từ bên ngoài | Bàn đúng kích thước làm việc | Có thể vận động cơ thể | Nước ngon | Gần trung tâm | Ở lại tới 23h | Không gian tạo cảm hứng | Có loa mic |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---- | ----------- | --------- | ----------- | ------------------------ | ---------------------------- | ---------------------- | --------- | ------------- | ------------- | ----------------------- | ---------- |
-| [[./Địa điểm công cộng ở TPHCM/Sân vườn chung cư GoldView\|Sân vườn chung cư GoldView]] | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 | [[./Địa điểm công cộng ở TPHCM/Công viên\|Công viên]]                                   | \-     | \-   | 5           | ❌         | ✔           | 5                        | \-                           | ✔                      | ❌         | \-            | \-            | ✔                       | ❌          |
+| [[./Địa điểm công cộng ở TPHCM/Sân vườn chung cư GoldView\|Sân vườn chung cư GoldView]] | \-     | \-   | \-          | \-        | \-          | \-                       | \-                           | \-                     | \-        | \-            | \-            | \-                      | \-         |
 | [[./Địa điểm công cộng ở TPHCM/Địa điểm công cộng ở TPHCM\|Địa điểm công cộng ở TPHCM]] | ✔      | \-   | \-          | \-        | ✔           | \-                       | \-                           | ✔                      | \-        | \-            | ✔             | ✔                       | \-         |
 
 where không-bị-ồn-từ-bên-ngoài="✔" 
