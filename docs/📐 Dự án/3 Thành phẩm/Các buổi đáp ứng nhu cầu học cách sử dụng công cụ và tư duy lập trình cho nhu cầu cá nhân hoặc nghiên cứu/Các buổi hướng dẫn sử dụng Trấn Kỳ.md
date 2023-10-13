@@ -1,25 +1,24 @@
 ---
 share: true
-created: 2023-07-27T23:16
-updated: 2023-10-13T13:37
+created: 2023-05-26T14:51
+updated: 2023-10-13T14:04
 tags:
-  - file_thành-phẩm_bài-viết
+  - file_thành-phẩm
 ---
 
 %%
-#file/thành-phẩm/bài-viết 
+#file/thành-phẩm
 %%
 
 Phục vụ cho thành quả:
 
 Người chơi:: 
 
-Thành quả cần có::
+Thành quả cần có:: [[./Thành quả mong muốn/100% người tham gia cài đặt được và tự biết cách cấu hình ở buổi đầu tiên|100% người tham gia cài đặt được và tự biết cách cấu hình ở buổi đầu tiên]]
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [[./Các buổi hướng dẫn sử dụng Trấn Kỳ|Các buổi hướng dẫn sử dụng Trấn Kỳ]]
 - [[./Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất|Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất]]
 - [[./index|Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu]]
+- [[./Khảo sát người có nhu cầu học lập trình|Khảo sát người có nhu cầu học lập trình]]
 
-   

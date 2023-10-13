@@ -1,8 +1,14 @@
 ---
 share: true
 created: 2023-07-13T19:21
-updated: 2023-10-09T13:29
+updated: 2023-10-13T13:40
+tags:
+  - file_thành-phẩm_bài-viết
 ---
+
+%%
+#file/thành-phẩm/bài-viết 
+%%
 Bạn không muốn lệ thuộc.
 
 Bạn muốn biết lập trình chứ không phải là không, nhưng:
@@ -14,7 +20,7 @@ Vàààààààà đến một ngày bạn có một bài toán thực sự cầ
 Nhưng thực sự là bạn không thể thong thả để làm được. Bạn biết là việc học thì sẽ mất thời gian, và nếu nó cần phải mất nhiều thời gian thì bạn cũng phải chịu thôi nhưng bạn vẫn cảm thấy mình cần phải . Cái trạng thái đó không phải là cái trạng thái phù hợp cho việc học, nhưng the brain is funny.
 
 Việc nhảy ngang như vậy làm cho không một tài liệu hướng dẫn nào theo kịp bạn. Vì muốn hướng dẫn bạn thì phải áng chừng được trình độ bạn đang ở đâu. Và một code product thì người ta không kỳ vọng rằng phải giải thích tất cả những thứ căn bản
-[[../../⚡Hiểu biết sâu/Khoa học máy tính/❓ Học code bằng việc debug product code sẽ nhanh hơn|❓ Học code bằng việc debug product code sẽ nhanh hơn]]
+[[../../../⚡Hiểu biết sâu/Khoa học máy tính/❓ Học code bằng việc debug product code sẽ nhanh hơn|❓ Học code bằng việc debug product code sẽ nhanh hơn]]
 Nó là cách học qua bắt chước
 Git blame
 Hướng dẫn đọc hiểu code cho người rất lờ mờ về code
@@ -30,8 +36,8 @@ Một số thứ sẽ giúp bạn hiểu code nói gì:
 - Hiểu được IDE đang cố gắng nói cho mình cái gì
 - Biết một số kỹ thuật debug: console.log, debugger, unit test
 # Thao tác với IDE
-[[../../📜 Tài nguyên/Lập trình/IDE (VS Code)/Phím tắt cho VS Code|Phím tắt cho VS Code]]
-Nguồn:: [[../../⚡Hiểu biết sâu/Ξ Nguồn/Tự ngẫm nghĩ, trải nghiệm|Tự ngẫm nghĩ, trải nghiệm]]
+[[../../../📜 Tài nguyên/Lập trình/IDE (VS Code)/Phím tắt cho VS Code|Phím tắt cho VS Code]]
+Nguồn:: [[../../../⚡Hiểu biết sâu/Ξ Nguồn/Tự ngẫm nghĩ, trải nghiệm|Tự ngẫm nghĩ, trải nghiệm]]
 
 # Hiểu quy tắc viết tài liệu
 ```js
@@ -45,4 +51,4 @@ function hàm(biến1, biến2) {
 }
 ```
 
-[[../3 Thành phẩm/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu|Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu]]
+[[./index|index]]

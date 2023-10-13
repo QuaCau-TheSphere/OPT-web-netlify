@@ -1,16 +1,22 @@
 ---
 share: true
 created: 2023-09-12T16:39
-updated: 2023-10-12T20:30
+updated: 2023-10-13T14:13
+tags:
+  - file_thành-phẩm_bài-viết
 ---
+
+%%
+#file/thành-phẩm/bài-viết 
+%%
 ## Tại sao lại viết chương trình này?
-Đây là nhu cầu của Kendy, và bọn mình giúp được gì thì giúp. Xem thêm bài [[../../9 Blog/Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền|Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền]]. 
+Đây là nhu cầu của Kendy, và bọn mình giúp được gì thì giúp. Xem thêm bài [[./Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền|Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền]]. 
 
 Nhưng sau đó, nó còn phục vụ một mong muốn khác của bọn mình là nâng cao năng lực thông thạo máy tính (computer literacy) cho mọi người. Sẽ có rất nhiều người đến với chương trình này không phải là lập trình viên, nhưng họ sẽ phải cần phải tự biết cách chỉnh sửa. Họ biết rằng việc biết lập trình là quan trọng, họ đã luôn có ý định để học nó, nhưng mãi mà họ vẫn không thể biến nó trở thành ưu tiên cao nhất.
 
 Trong cái thời đại của 4.0 này, [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/Lập trình là một cái gì đó thâm nhập vào đời sống của chúng ta, nhưng lại gần như vô hình|Lập trình là một cái gì đó thâm nhập vào đời sống của chúng ta, nhưng lại gần như vô hình]]. Thật là một nghịch lý khi một mặt [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/Lập trình viên biết lập trình chủ yếu là nhờ biết google|Lập trình viên biết lập trình chủ yếu là nhờ biết google]] — tức là lập trình viên cũng đâu có năng lực gì khác mọi người đâu, ai chăm google thì lên tay thôi— nhưng mặt khác [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/Người không học về lập trình thấy việc lập trình như làm phép thuật|Người không học về lập trình thấy việc lập trình như làm phép thuật]]. Khi một người cảm thấy mình mù công nghệ, và chấp nhận rằng mình sẽ chẳng hiểu gì về công nghệ cả, thì họ đang có một sự bất lực học được.
 
-Bằng việc [[../Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu|đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu]], bọn mình hy vọng rằng bạn thấy rằng việc lập trình không chỉ là code sao cho máy chạy đúng ý mình mà còn là [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/Lập trình thực ra là dùng ẩn dụ|cách ta dự phần vào việc hiểu và kiến trúc lên thế giới này]]. Bọn mình hy vọng rằng việc bạn thấy mình tự tin hơn về lập trình cũng sẽ góp phần giúp Kendy.
+Bằng việc [[../Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu/index|đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu]], bọn mình hy vọng rằng bạn thấy rằng việc lập trình không chỉ là code sao cho máy chạy đúng ý mình mà còn là [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/Lập trình thực ra là dùng ẩn dụ|cách ta dự phần vào việc hiểu và kiến trúc lên thế giới này]]. Bọn mình hy vọng rằng việc bạn thấy mình tự tin hơn về lập trình cũng sẽ góp phần giúp Kendy.
 
 ##  Nếu cần phân loại thu chi thì tại sao không sử dụng các phần mềm quản lý tài chính cá nhân?
 Các phần mềm quản lý tài chính cá nhân như Misa hay Money Lover có giao diện thân thiện hơn chương trình này nhiều. Momo hay ZaloPay còn có chức năng thu chi cho nhóm.
@@ -75,28 +81,21 @@ Xem thêm:: [[../../../📜 Tài nguyên/Làm dự án/Phần mềm làm việc 
 Do Kendy đã có nhiều thiết lập rất nhiều thứ trên Fibery rồi, nên giờ mà phải đập đi xây lại thì sợ tốn nhiều thời gian hơn. Kendy cảm thấy vẫn cần ưu tiên nhiều thứ khác hơn là giải quyết sự khó chịu vô cùng này của mình.
 
 ##  Tại sao không dùng ChatGPT, Bing AI hay Bard?
-Hiện nay bọn mình vẫn chưa thấy kết quả của tụi nó là đáng tin cậy.
+Hiện nay bọn mình vẫn chưa thấy kết quả của tụi nó là đáng tin cậy hoặc tiện lợi để sử dụng với số lượng câu nhập lớn.
 
-## Tại sao không làm một trang web riêng cho chương trình
-Vì mục tiêu của bọn mình không phải là để mọi người sử dụng chương trình này, mà là để tạo ra [[../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng|một giàn giáo nhận thức]] cho những người cần phải tự học lập trình. Có rất nhiều sản phẩm có trang web riêng, nhưng bọn mình chưa thấy một trang nào đi từ hướng dẫn người chưa biết gì từ những bước rất nhỏ nhặt cả. Tất cả đều mặc định người đọc đã có một kiến thức nhất định về lập trình. Bọn mình muốn làm nhiều hơn thế.
+## Tại sao không làm một trang web riêng cho chương trình?
+Vì mục tiêu của bọn mình là để tạo ra [[../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng|một giàn giáo nhận thức]] cho những người cần phải tự học lập trình. Có rất nhiều sản phẩm có trang web riêng, nhưng bọn mình chưa thấy một trang nào đi từ hướng dẫn người chưa biết gì từ những bước rất nhỏ nhặt cả. Tất cả đều mặc định người đọc đã có một kiến thức nhất định về lập trình. Bọn mình muốn làm nhiều hơn thế.
 
+| Nội dung              | Nơi lưu trữ chính                       |
+| --------------------- | --------------------------------------- |
+| Giới thiệu về Trấn Kỳ | Xử lý dữ liệu và lập trình              |
+| Hướng dẫn sử dụng     | Xử lý dữ liệu và lập trình              |
+| Lý do viết Trấn Kỳ    | Obsidian, quản lý dự án và công cụ nghĩ |
+| Kế hoạch giúp Kendy   | Obsidian, quản lý dự án và công cụ nghĩ |
 
+## Một số link hữu ích
+- [Obsidian to Fibery - Questions - n8n](https://community.n8n.io/t/obsidian-to-fibery/29084 "Obsidian to Fibery - Questions - n8n")
+- [icoxfog417/awesome-financial-nlp: Researches for Natural Language Processing for Financial Domain](https://github.com/icoxfog417/awesome-financial-nlp "icoxfog417/awesome-financial-nlp: Researches for Natural Language Processing for Financial Domain")
 
-
-
-
-[Comprehensive review of text-mining applications in finance | Financial Innovation | Full Text](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-020-00205-1#citeas)
-Gupta, A., Dengre, V., Kheruwala, H.A. _et al._ Comprehensive review of text-mining applications in finance. _Financ Innov_ **6**, 39 (2020). https://doi.org/10.1186/s40854-020-00205-1
-[icoxfog417/awesome-financial-nlp: Researches for Natural Language Processing for Financial Domain](https://github.com/icoxfog417/awesome-financial-nlp "icoxfog417/awesome-financial-nlp: Researches for Natural Language Processing for Financial Domain")
-
-[Obsidian to Fibery - Questions - n8n](https://community.n8n.io/t/obsidian-to-fibery/29084 "Obsidian to Fibery - Questions - n8n")
 
  
-, mà bởi vì phải chắp vá nó đủ điều để mà còn chuyển qua cái khác, vì Kendy đang còn rất nhiều nợ phải lo.
-Nếu bạn chỉ cần những gì Fibery cung cấp thì việc dùng nó không có vấn đề gì, nhưng nếu đã thấy rằng nó không đủ khả năng đó thì thực sự không đáng để ráng ở lại, mặc dù vẫn luôn thấy là ráng thêm một chút nữa. 
-Lý do duy nhất tôi thấy còn có thể thoả hiệp thêm một lần nữa là vì mình thực sự còn quá nhiều trách nhiệm, nợ nần.
-
-Ban đầu chỉ nghĩ chỉ cần một vài dòng regex đơn giản là được, nhưng càng ngày càng thấy đòi hỏi phức tạp. Tuy nhiên vẫn cảm giác sự phức tạp này mình có thể gánh được, nên cũng muốn nhân dịp này có một dự án để học thêm về lập trình cũng như có một sản phẩm để làm một giáo trình nhập môn cho các bạn khác.
-
-Lúc đó không nghĩ ra, đến lúc nghĩ ra thì code cũng gần xong rồi. Cái này vừa học vừa làm thôi
-Và Fibery cho viết JS.
