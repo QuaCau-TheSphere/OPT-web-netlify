@@ -137,7 +137,8 @@ extra:
     fix_heading: true
   analytics:
     provider: google
-    property: G-1KWSJPTCEX
+    property: G-XHX9Q6ZB3Q
+    # property: G-1KWSJPTCEX
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/quacau.sphere/
