@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-12T16:39
-updated: 2023-10-13T16:56
+updated: 2023-10-13T21:16
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -83,6 +83,7 @@ Do Kendy đã có nhiều thiết lập rất nhiều thứ trên Fibery rồi, 
 ##  Tại sao không dùng ChatGPT, Bing AI hay Bard?
 Hiện nay bọn mình vẫn chưa thấy kết quả của tụi nó là đáng tin cậy hoặc tiện lợi để sử dụng với số lượng câu nhập lớn.
 
+[[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/AI/AI là định dạng ảnh mờ của web|AI là định dạng ảnh mờ của web]]
 ## Tại sao không làm một trang web riêng cho chương trình?
 Vì mục tiêu của bọn mình là để tạo ra [[../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng|một giàn giáo nhận thức]] cho những người cần phải tự học lập trình. Có rất nhiều sản phẩm có trang web riêng, nhưng bọn mình chưa thấy một trang nào đi từ hướng dẫn người chưa biết gì từ những bước rất nhỏ nhặt cả. Tất cả đều mặc định người đọc đã có một kiến thức nhất định về lập trình. Bọn mình muốn làm nhiều hơn thế.
 
