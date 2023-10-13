@@ -1,8 +1,9 @@
 ---
 created: 2023-10-12T22:30
-updated: 2023-10-13T16:54
+updated: 2023-10-13T21:32
 share: true
 filename: index
+title: nhân học
 ---
 - \-: 
     - [[./Dấn thân, quan sát và ghi chép là những chỉ báo cho thấy mức độ hoà nhập|Dấn thân, quan sát và ghi chép là những chỉ báo cho thấy mức độ hoà nhập]]
