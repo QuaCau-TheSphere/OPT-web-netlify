@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-13T19:21
-updated: 2023-10-13T13:40
+updated: 2023-10-13T17:33
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -20,6 +20,8 @@ Vàààààààà đến một ngày bạn có một bài toán thực sự cầ
 Nhưng thực sự là bạn không thể thong thả để làm được. Bạn biết là việc học thì sẽ mất thời gian, và nếu nó cần phải mất nhiều thời gian thì bạn cũng phải chịu thôi nhưng bạn vẫn cảm thấy mình cần phải . Cái trạng thái đó không phải là cái trạng thái phù hợp cho việc học, nhưng the brain is funny.
 
 Việc nhảy ngang như vậy làm cho không một tài liệu hướng dẫn nào theo kịp bạn. Vì muốn hướng dẫn bạn thì phải áng chừng được trình độ bạn đang ở đâu. Và một code product thì người ta không kỳ vọng rằng phải giải thích tất cả những thứ căn bản
+[[../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Gánh nặng nhận thức, thiết kế/Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm|Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm]]
+
 [[../../../⚡Hiểu biết sâu/Khoa học máy tính/❓ Học code bằng việc debug product code sẽ nhanh hơn|❓ Học code bằng việc debug product code sẽ nhanh hơn]]
 Nó là cách học qua bắt chước
 Git blame
