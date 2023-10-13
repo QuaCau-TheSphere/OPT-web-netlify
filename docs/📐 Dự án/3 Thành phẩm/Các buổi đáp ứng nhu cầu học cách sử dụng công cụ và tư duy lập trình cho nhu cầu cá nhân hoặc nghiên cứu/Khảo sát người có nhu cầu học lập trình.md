@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-27T23:16
-updated: 2023-10-10T17:07
+updated: 2023-10-13T13:37
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -18,14 +18,8 @@ Thành quả cần có::
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [[./Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu|Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu]]
+- [[./Các buổi hướng dẫn sử dụng Trấn Kỳ|Các buổi hướng dẫn sử dụng Trấn Kỳ]]
+- [[./Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất|Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất]]
+- [[./index|Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu]]
 
    
-- [ ] Tự động hoá các công việc lặp đi lặp lại
-- [ ] Truy vấn và khai thác dữ liệu
-- [ ] Tạo đồ thị
-- [ ] Lập web cá nhân, quản lý phiên bản
-- [ ] Quản lý và chia sẻ kiến thức
-- [ ] Tạo web dự án
-- [ ] Quản lý tài chính cá nhân, hiểu dân dev nói gì
-- [ ] Nghiên cứu cộng đồng mạng, nắm bắt xu hướng, nhân văn số
