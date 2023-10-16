@@ -15,6 +15,7 @@ Trạng thái:: #tt-⚪/chưabắtđầubàn
 Độ cấp thiết:: #đct-🍃/sớmphảilàm
 
 Phục vụ cho thành quả:
+- [[../../../1 Nhu cầu/Kendy giải quyết được vấn đề trả lãi|Kendy giải quyết được vấn đề trả lãi]]
 
 
 Là giải pháp cho vấn đề:
