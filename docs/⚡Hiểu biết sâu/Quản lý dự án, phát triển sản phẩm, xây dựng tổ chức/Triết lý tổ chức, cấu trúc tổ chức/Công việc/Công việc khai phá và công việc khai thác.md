@@ -67,5 +67,5 @@ style M stroke-width:4px
 Tuy việc này sẽ làm cây mục tiêu đồ sộ hơn so với chỉ đính A vào M, nhưng nó cũng minh hoạ cho việc sau khi nhìn thấy được các công việc khai phá thành phần của một công việc khai phá, thì ta cũng có thể đính trực tiếp nó vào mục tiêu như thể ta không cần phải nghĩ gì đến công việc khai phá ban đầu. Trong khi với công việc khai thác thì ta không làm được vậy. 
 
 %%Dù sao thì nó cũng không có cảm giác đồ sộ bằng việc (khúc này quên ý)%%
-[[../../Công việc khai phá chính là quản lý kiến thức|Công việc khai phá chính là quản lý kiến thức]]
-[[./Áp lực giết chết sự sáng tạo|Áp lực giết chết sự sáng tạo]]
+[Công việc khai phá chính là quản lý kiến thức](../../C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20ch%C3%ADnh%20l%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
+[Áp lực giết chết sự sáng tạo](./%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
