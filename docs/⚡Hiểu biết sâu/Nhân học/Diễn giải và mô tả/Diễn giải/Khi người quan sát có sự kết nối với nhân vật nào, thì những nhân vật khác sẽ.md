@@ -7,4 +7,4 @@ Ban đầu thì mình có một chi tiết Một cách tự nhiên, nhân vật 
 Rất cởi mở với mình
 
 Lúc quan sát thì cũng quan sát hết, nhưng lúc buộc phải chọn để đào sâu thì 
-Nguồn:: [[../../../Ξ Nguồn/Nguyễn Đức Lộc|Nguyễn Đức Lộc]]
+Nguồn:: [Nguyễn Đức Lộc](../../../%CE%9E%20Ngu%E1%BB%93n/Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20L%E1%BB%99c.md)
