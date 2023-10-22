@@ -3,7 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-11T11:27
 ---
-Khái niệm:: [[../Ξ Khái niệm/Ẩn dụ|Ẩn dụ]]
+Khái niệm:: [Ẩn dụ](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%E1%BA%A8n%20d%E1%BB%A5.md)
 But he talked about how in the very beginning when, mostly at Apple, they were starting to try and design those icons, and figure out a way to give cause, right, Apple designed the desktop metaphor right? So before that, all computers were just the command line. You know, you just don't have anywhere to start. And they designed this idea of like, okay, your computer is like your desk and the code on your thing is contained into files, just like your paper on the desk.
 
 [38:34] **Maggie**: And everything about the way we use modern computers is framed around this, this desktop metaphor. I found his name, **Tim Rohrer**. I can't say that. Anyway, he wrote a lot of wonderful papers about the history of internet metaphors and digital metaphors.
@@ -15,4 +15,4 @@ But he talked about how in the very beginning when, mostly at Apple, they were s
 [39:19] **Maggie**: What am I ejecting? They, you know, they really struggled to do that and now we take it all for granted, but that's where it becomes tacit knowledge that we don't realize that, it's just embedded in us.
 
 
-Nguồn:: [[../Ξ Nguồn/Môi trường nghĩ, nhận thức tăng cường/Maggie Appleton|Maggie Appleton]], [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=37:57)
+Nguồn:: [Maggie Appleton](../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Maggie%20Appleton.md), [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=37:57)
