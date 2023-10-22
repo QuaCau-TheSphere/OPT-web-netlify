@@ -18,8 +18,5 @@ Thành quả cần có::
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [[./Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền|Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền]]
-- [[./Kế hoạch giúp Kendy|Kế hoạch giúp Kendy]]
-- [[./Lý do viết Trấn Kỳ|Lý do viết Trấn Kỳ]]
 
 <iframe width=200% height=500px  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXAwSmM2AvOqpD3fE5TXI3pP1RgR4_X5czY_mgsADHTDoL3hXtrtC5z7zz997-loIW6xiWrWOc_jw-/pubhtml?gid=1158281590&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

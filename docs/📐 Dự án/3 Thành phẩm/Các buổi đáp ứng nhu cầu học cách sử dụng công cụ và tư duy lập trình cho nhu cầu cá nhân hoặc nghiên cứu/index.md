@@ -1,9 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2023-10-16T20:17
-filename: index
-title: Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu
+updated: 2023-10-22T14:14
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -25,7 +23,7 @@ Bởi vì những buổi này để đáp ứng nhu cầu của người tham gi
 Những tài nguyên bạn biết được bạn sẽ có không gian để chia sẻ và mọi người sẽ cùng bàn luận. Sẽ càng tốt nếu bạn đang có sẵn một dự án và cần biết cách áp dụng kiến thức đó vào dự án của mình thế nào. Chính vì như vậy, nên cho dù ban đầu nó có một mục tiêu được định trước, nhưng việc thảo luận sẽ luôn làm nảy nở những mục tiêu mới. Nếu bạn cảm thấy mục tiêu ban đầu của mình không còn là mục tiêu của những người khác thì sẽ tách ra.
 
 ## Giải quyết nhu cầu cá nhân hoặc nghiên cứu không đồng nhất với kiếm tiền bằng lập trình
-Các buổi này được tạo ra để giúp bạn tự chủ về công nghệ, để bạn có thể giải quyết bài toán của mình. Bạn còn rất nhiều công việc, và lập trình là một công cụ quan trọng để làm được việc, nhưng lại không phải là bài toán quan trọng nhất. [[../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Gánh nặng nhận thức, thiết kế/Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google|Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google]], bỏi vì [[../../../⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Gánh nặng nhận thức, thiết kế/Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm|Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm]]. Thế nên, dù bạn không muốn nước đến chân mới nhảy, nhưng bạn cũng biết rằng nước mà không đến chân thì bạn sẽ không thể nhảy. Nơi đây chỉ là nơi để mọi người cùng nhảy với nhau khi nước chưa đến chân mà thôi (hoặc có thể là có những người nước đến chân luôn rồi).
+Các buổi này được tạo ra để giúp bạn tự chủ về công nghệ, để bạn có thể giải quyết bài toán của mình. Bạn còn rất nhiều công việc, và lập trình là một công cụ quan trọng để làm được việc, nhưng lại không phải là bài toán quan trọng nhất. [Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/C%C3%B3%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ta%20r%E1%BA%A5t%20mu%E1%BB%91n%20c%C3%B3%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%C6%B0ng%20m%C3%A3i%20m%C3%A0%20v%E1%BA%ABn%20ch%C6%B0a%20%C4%91i%20google.md), bỏi vì [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md). Thế nên, dù bạn không muốn nước đến chân mới nhảy, nhưng bạn cũng biết rằng nước mà không đến chân thì bạn sẽ không thể nhảy. Nơi đây chỉ là nơi để mọi người cùng nhảy với nhau khi nước chưa đến chân mà thôi (hoặc có thể là có những người nước đến chân luôn rồi).
 
 Nếu từ các buổi này bạn có thể kiếm thêm được tiền thì bọn mình mừng cho bạn, nhưng đó không phải là điều bọn mình đang hướng đến.
 
@@ -44,8 +42,8 @@ Bảng này so sánh những tính năng của các mô hình học tập khác 
 | Khi cần là có ngay                                  | ❌          | ❌                              | ✔           | ✔                                          |
 | Trình độ người hướng dẫn cao                        | ❌          | ✔                               | ✔           | ✔                                          |
 
-Xem thêm:: [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng|Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng]]
-[[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/Người mới lập trình thường chỉ biết muốn biết làm sao để code chạy được. Người có kinh nghiệm còn quan tâm đến tính dễ bảo trì, mở rộng và bắt lỗi của code|Người mới lập trình thường chỉ biết muốn biết làm sao để code chạy được. Người có kinh nghiệm còn quan tâm đến tính dễ bảo trì, mở rộng và bắt lỗi của code]].[[../../../⚡Hiểu biết sâu/Khoa học máy tính/❓ Học code bằng việc debug product code sẽ nhanh hơn|❓ Học code bằng việc debug product code sẽ nhanh hơn]]
+Xem thêm:: [Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20h%E1%BB%8Fi%20n%C3%AAn%20d%C3%B9ng%20c%C3%BA%20ph%C3%A1p,%20th%C6%B0%20vi%E1%BB%87n,%20hay%20ng%C3%B4n%20ng%E1%BB%AF%20n%C3%A0o.%20L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20nhi%E1%BB%81u%20kinh%20nghi%E1%BB%87m%20th%C6%B0%E1%BB%9Dng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng.md)
+[Người mới lập trình thường chỉ biết muốn biết làm sao để code chạy được. Người có kinh nghiệm còn quan tâm đến tính dễ bảo trì, mở rộng và bắt lỗi của code](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20ch%E1%BB%89%20bi%E1%BA%BFt%20mu%E1%BB%91n%20bi%E1%BA%BFt%20l%C3%A0m%20sao%20%C4%91%E1%BB%83%20code%20ch%E1%BA%A1y%20%C4%91%C6%B0%E1%BB%A3c.%20Ng%C6%B0%E1%BB%9Di%20c%C3%B3%20kinh%20nghi%E1%BB%87m%20c%C3%B2n%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20t%C3%ADnh%20d%E1%BB%85%20b%E1%BA%A3o%20tr%C3%AC,%20m%E1%BB%9F%20r%E1%BB%99ng%20v%C3%A0%20b%E1%BA%AFt%20l%E1%BB%97i%20c%E1%BB%A7a%20code.md).[❓ Học code bằng việc debug product code sẽ nhanh hơn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/%E2%9D%93%20H%E1%BB%8Dc%20code%20b%E1%BA%B1ng%20vi%E1%BB%87c%20debug%20product%20code%20s%E1%BA%BD%20nhanh%20h%C6%A1n.md)
 # Mục tiêu
 - Hiểu được một số khái niệm của ngôn ngữ hướng vật thể: object, method, array, for, if, import, function, type, interface
 - Nắm được cách làm việc với:
@@ -75,17 +73,18 @@ Xem thêm:: [[../../../⚡Hiểu biết sâu/Khoa học máy tính/Lập trình/
 
 Đọc thêm bài này để biết thêm chi tiết cũng như cách thức tham gia: [Các buổi chia sẻ kỹ năng miễn phí với nhau](https://xn--qucu-hr5aza.cc/cac-buoi-chia-se-ky-nang-mien-phi-voi-nhau/?utm_source=CV+%C2%BB+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9&utm_medium=C%C3%A1c+bu%E1%BB%95i+chia+s%E1%BA%BB+k%E1%BB%B9+n%C4%83ng+mi%E1%BB%85n+ph%C3%AD+v%E1%BB%9Bi+nhau&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2&utm_term=%C4%90%E1%BB%8Dc+b%C3%A0i+vi%E1%BA%BFt+tr%C3%AAn+web)
 
-[[./Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất|Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất]]
-[[./Khảo sát người có nhu cầu học lập trình|Khảo sát người có nhu cầu học lập trình]] 
+[Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
+[Khảo sát người có nhu cầu học lập trình](./Kh%E1%BA%A3o%20s%C3%A1t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md) 
 
 Phục vụ cho thành quả:
+- [Mỗi tuần có 300 người bấm vào Trấn Kỳ](../H%E1%BB%97%20tr%E1%BB%A3%20Kendy/3%20Th%C3%A0nh%20ph%E1%BA%A9m/Tr%E1%BA%A5n%20K%E1%BB%B3/2%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%97i%20tu%E1%BA%A7n%20c%C3%B3%20300%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A5m%20v%C3%A0o%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 
-Thành quả cần có:: [[./Thành quả mong muốn/Mỗi tuần có 60 người tham gia các buổi học lập trình|Mỗi tuần có 60 người tham gia các buổi học lập trình]]
+Thành quả cần có:: [Mỗi tuần có 60 người tham gia các buổi học lập trình](./Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%97i%20tu%E1%BA%A7n%20c%C3%B3%2060%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20c%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [[./Các buổi hướng dẫn sử dụng Trấn Kỳ|Các buổi hướng dẫn sử dụng Trấn Kỳ]]
-- [[./Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất|Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất]]
-- [[./Khảo sát người có nhu cầu học lập trình|Khảo sát người có nhu cầu học lập trình]]
+- [Khảo sát người có nhu cầu học lập trình](./Kh%E1%BA%A3o%20s%C3%A1t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
+- [Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
+- [Các buổi hướng dẫn sử dụng Trấn Kỳ](./C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
