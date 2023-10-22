@@ -50,4 +50,4 @@ Cách thứ nhất là tạo ra thêm một class C chịu trách nhiệm khởi
 
 Nguyên lý này đòi hỏi bạn phải phân tích rất kỹ bài toán để xác định rõ tất cả các class sẽ xây dựng, vai trò và sự tương tác giữa chúng (có những anh nào, làm gì, và anh nào sử dụng anh nào). Từ đó áp dụng nguyên lý DI này để giúp phát triển đồng thời các class.
 
-Nguồn:: [[../../../Ξ Nguồn/Khoa học dữ liệu. Khoa học máy tính/tuhocict|tuhocict]], [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)
+Nguồn:: [tuhocict](../../../%CE%9E%20Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)
