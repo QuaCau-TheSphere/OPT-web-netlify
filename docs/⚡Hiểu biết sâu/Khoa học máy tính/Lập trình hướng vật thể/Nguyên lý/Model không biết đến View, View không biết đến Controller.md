@@ -19,4 +19,4 @@ _Tương tác giữa các thành phần trong mô hình MVC_
 
 Trong mô hình này hoàn toàn có thể áp dụng đầy đủ các nguyên lý SOLID, mẫu Repository (cho quản lý dữ liệu), các mẫu thiết kế (ví dụ, singleton hoặc mediator cho Router), sử dụng kỹ thuật tạo loosely-coupling cho Repository (để dễ dàng thay đổi thành phần truy xuất dữ liệu).
 
-Nguồn:: [[../../../Ξ Nguồn/Khoa học dữ liệu. Khoa học máy tính/tuhocict|tuhocict]], [Console MVC Library cho .NET (1): giới thiệu chung | Tự học ICT](https://tuhocict.com/net-console-mvc-library-1/)
+Nguồn:: [tuhocict](../../../%CE%9E%20Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Console MVC Library cho .NET (1): giới thiệu chung | Tự học ICT](https://tuhocict.com/net-console-mvc-library-1/)
