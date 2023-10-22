@@ -17,4 +17,4 @@ One common type of dynamic scaffold is simply a static scaffold, continuously ad
 
 One particularly important type of dynamic scaffolding is metacognitive supports. Among media forms, games are particularly effective at supporting metacognition. See [Metacognitive supports as cognitive scaffolding](https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt) and [Metacognitive supports require dynamic, participatory environments](https://notes.andymatuschak.org/zADYGiM6rnN6iTBHqVa6kiu).
 
-Nguồn:: [[../../../../Ξ Nguồn/Môi trường nghĩ, nhận thức tăng cường/Andy Matuschak|Andy Matuschak]], [Cognitive scaffolding](https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv)
+Nguồn:: [Andy Matuschak](../../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Andy%20Matuschak.md), [Cognitive scaffolding](https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv)
