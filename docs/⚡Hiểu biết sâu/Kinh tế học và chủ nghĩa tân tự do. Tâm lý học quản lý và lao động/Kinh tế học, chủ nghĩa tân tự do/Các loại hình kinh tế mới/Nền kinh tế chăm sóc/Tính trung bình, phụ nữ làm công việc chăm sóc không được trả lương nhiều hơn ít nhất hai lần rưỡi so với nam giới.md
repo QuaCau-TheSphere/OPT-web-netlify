@@ -11,4 +11,4 @@ updated: 2023-10-06T16:09
 Nguồn:: [Tài liệu thảo luận chính sách: Công việc chăm sóc không lương: Những vấn đề đặt ra và gợi ý chính sách cho Việt Nam](https://vietnam.un.org/sites/default/files/2019-08/Unpaid_Care_and_Domestic_Work_-_Tieng_Viet.pdf)
 
 100% nhân viên giúp việc của Jupviec là nữ
-Nguồn:: [[../../../../Ξ Nguồn/Kinh tế học/ABG Open Special 2023|ABG Open Special 2023]], Phan Hồng Minh - CEO Jupviec
+Nguồn:: [ABG Open Special 2023](../../../../%CE%9E%20Ngu%E1%BB%93n/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/ABG%20Open%20Special%202023.md), Phan Hồng Minh - CEO Jupviec
