@@ -18,6 +18,6 @@ trình tự Zettelkasten vs product discovery/delivery là như nhau
 
 Pattern chung của tụi nó là chiết xuất thông tin, đều processing raw data → useful data. Nhưng đến milestone useful data thì nó phân nhánh. 1 thằng thì cần expand insights → càng nhiều evergreen càng tốt. 1 thằng cần narrow insights → chắt lọc build prioritize feature
 
-Nguồn:: [[../Ξ Nguồn/Kendy|Kendy]]
+Nguồn:: [Kendy](../%CE%9E%20Ngu%E1%BB%93n/Kendy.md)
 
 [[] ] 
