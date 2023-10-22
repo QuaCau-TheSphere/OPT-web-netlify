@@ -94,7 +94,7 @@ Chúc bạn vui vẻ gánh nợ (problem?)
 
 ![photo_1442919057_temp.jpg](https://images.viblo.asia/136108c1-5ceb-4600-ae31-95ae83a7449f.jpg)
 
-Nguồn:: [[../../Ξ Nguồn/Khoa học dữ liệu. Khoa học máy tính/Viblo|Viblo]], [Technical Debt - Nợ kĩ thuật - Nợ code không chỉ trả bằng code](https://viblo.asia/p/technical-debt-no-ki-thuat-no-code-khong-chi-tra-bang-code-nwmGyEQMGoW)
+Nguồn:: [Viblo](../../%CE%9E%20Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/Viblo.md), [Technical Debt - Nợ kĩ thuật - Nợ code không chỉ trả bằng code](https://viblo.asia/p/technical-debt-no-ki-thuat-no-code-khong-chi-tra-bang-code-nwmGyEQMGoW)
 
 [Technical debt - Wikipedia](https://en.wikipedia.org/wiki/Technical_debt "Technical debt - Wikipedia")
 ![Technical debt isn't technical - Einar Høst - DDD Europe 2019 - YouTube](https://youtu.be/d2Ddo8OV7ig?si=Gp12_8wumUxh-8Wm)
