@@ -3,9 +3,9 @@ share: true
 created: 2023-05-30T14:31
 updated: 2023-10-06T16:09
 ---
-![[../../../../assets/attachments/Eisenhower-Matrix-920x1024.png|300]]
-![[../../../../assets/attachments/Eisenhower-Matrix-Actions-539x600.png|300]]
-![[../../../../assets/attachments/Procrastinators-Matrix1-539x600.png|300]] 
+![300](../../../../assets/attachments/Eisenhower-Matrix-920x1024.png)
+![300](../../../../assets/attachments/Eisenhower-Matrix-Actions-539x600.png)
+![300](../../../../assets/attachments/Procrastinators-Matrix1-539x600.png) 
 # Các lý do khiến cho mình không theo được cái bảng khẩn cấp – quan trọng
 Ứng với mỗi ô sẽ có một nhóm các lý do để không làm được ô đó (hoặc cứ phải làm ô đó) 
 
@@ -78,7 +78,7 @@ Thực tế:
 ![](https://i.imgur.com/eFOrfhD.png)
 
 # Khi nào một người sẽ ưu tiên làm?
-> [[./Điều quan trọng thì thường hiếm khi khẩn cấp, và điều khẩn cấp thì thường hiếm khi quan trọng|Điều quan trọng thì thường hiếm khi khẩn cấp, và điều khẩn cấp thì thường hiếm khi quan trọng]]
+> [Điều quan trọng thì thường hiếm khi khẩn cấp, và điều khẩn cấp thì thường hiếm khi quan trọng](./%C4%90i%E1%BB%81u%20quan%20tr%E1%BB%8Dng%20th%C3%AC%20th%C6%B0%E1%BB%9Dng%20hi%E1%BA%BFm%20khi%20kh%E1%BA%A9n%20c%E1%BA%A5p,%20v%C3%A0%20%C4%91i%E1%BB%81u%20kh%E1%BA%A9n%20c%E1%BA%A5p%20th%C3%AC%20th%C6%B0%E1%BB%9Dng%20hi%E1%BA%BFm%20khi%20quan%20tr%E1%BB%8Dng.md)
 > — Dwight Eisenhower, tổng thống đời 34 của Mỹ
 
 Không phải cứ có ý định làm là ta sẽ làm ngay. Chúng ta có vô vàn thứ muốn làm nhưng chưa bao giờ và có lẽ sẽ không bao giờ có thời gian làm. Hai yếu tố chính ảnh hưởng đến sự ưu tiên của chúng ta là sự khẩn cấp và quan trọng. Có thể bạn đã biết về nó qua bảng này:
@@ -97,4 +97,4 @@ Tôi thấy rằng khi một người bỏ thời gian ra để làm một thứ
 
 I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.
 
-[[../../../Kinh tế học và chủ nghĩa tân tự do. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình|Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình]]
+[Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md)

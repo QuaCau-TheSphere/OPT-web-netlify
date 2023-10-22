@@ -15,4 +15,4 @@ Sự khác biệt lớn nhất giữa các ứng dụng quản lý có lẽ là 
 
 Do đặc thù gần như mọi thứ đi theo khuôn mẫu chung, các hãng hoặc các nhóm phát triển phần mềm thường xây dựng ra các công cụ giúp tự động hóa một phần hoặc toàn phần việc tạo ra các ứng dụng quản lý.
 
-Nguồn:: [[../../Ξ Nguồn/Khoa học dữ liệu. Khoa học máy tính/tuhocict|tuhocict]], [Radzen Blazor - Công cụ phát triển nhanh ứng dụng quản lý | Tự học ICT](https://tuhocict.com/radzen-blazor-cong-cu-phat-trien-nhanh-ung-dung-quan-ly/)
+Nguồn:: [tuhocict](../../%CE%9E%20Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Radzen Blazor - Công cụ phát triển nhanh ứng dụng quản lý | Tự học ICT](https://tuhocict.com/radzen-blazor-cong-cu-phat-trien-nhanh-ung-dung-quan-ly/)

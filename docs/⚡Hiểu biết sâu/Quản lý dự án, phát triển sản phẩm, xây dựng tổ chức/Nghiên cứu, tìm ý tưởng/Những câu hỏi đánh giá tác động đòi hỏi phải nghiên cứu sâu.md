@@ -5,4 +5,4 @@ updated: 2023-10-06T16:09
 ---
 Có những cái phải chạy mô hình dự báo
 
-Nguồn:: [[../../Ξ Nguồn/Kinh tế học/ABG Open Special 2023|ABG Open Special 2023]]
+Nguồn:: [ABG Open Special 2023](../../%CE%9E%20Ngu%E1%BB%93n/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/ABG%20Open%20Special%202023.md)

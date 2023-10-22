@@ -5,4 +5,4 @@ updated: 2023-10-16T23:15
 ---
 Khái niệm:: 
 
-Nguồn:: [[../Ξ Nguồn/Nguyễn Đức Lộc|Nguyễn Đức Lộc]] 
+Nguồn:: [Nguyễn Đức Lộc](../%CE%9E%20Ngu%E1%BB%93n/Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20L%E1%BB%99c.md) 

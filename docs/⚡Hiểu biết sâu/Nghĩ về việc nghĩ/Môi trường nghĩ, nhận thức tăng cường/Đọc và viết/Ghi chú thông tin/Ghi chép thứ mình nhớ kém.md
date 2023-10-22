@@ -7,4 +7,4 @@ Khái niệm::
 
 Ví dụ, có người nhớ tên kém nhưng nhớ số giỏi. Có người lại nhớ số kém nhưng nhớ tên giỏi. Hãy tìm hiểu xem mình nhớ kém cái gì và dùng nó để ghi chép
 
-Nguồn:: [[../../../../Ξ Nguồn/Nguyễn Đức Lộc|Nguyễn Đức Lộc]] 
+Nguồn:: [Nguyễn Đức Lộc](../../../../%CE%9E%20Ngu%E1%BB%93n/Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20L%E1%BB%99c.md) 

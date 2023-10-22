@@ -3,9 +3,9 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
-[[Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó]]
+[Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó](Ta%20th%C6%B0%C6%A1%CC%80ng%20kh%C3%B4ng%20s%C4%83%CC%83n%20sa%CC%80ng%20%C4%91%C3%AA%CC%89%20%C4%91o%CC%A3c%20m%C3%B4%CC%A3t%20ta%CC%80i%20li%C3%AA%CC%A3u%20khi%20ta%20m%C6%A1%CC%81i%20th%C3%A2%CC%81y%20no%CC%81.md)
 
-Nguồn:: [[../../../../Ξ Nguồn/Môi trường nghĩ, nhận thức tăng cường/Andy Matuschak|Andy Matuschak]], [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8)
+Nguồn:: [Andy Matuschak](../../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Andy%20Matuschak.md), [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8)
 
 Accumulating tabs, saving PDFs, and making bookmarks feels like progress, but we systematically overrate its value. [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs); you are not likely to draw much understanding from a folder of barely-skimmed PDFs.
 

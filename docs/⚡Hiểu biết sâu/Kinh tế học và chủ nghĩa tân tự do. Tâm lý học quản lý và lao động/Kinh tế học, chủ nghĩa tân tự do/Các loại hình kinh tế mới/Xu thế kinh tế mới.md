@@ -26,4 +26,4 @@ TQ:
 - Không kiểm soát công nghệ, mà chỉ kiểm soát dữ liệu
 - Chữ TQ có độ nén, nhưng khó sản sinh ra từ mới, mà phải ghép vào
 
-Nguồn:: [[../../../Ξ Nguồn/Kinh tế học/ABG Open Special 2023|ABG Open Special 2023]]
+Nguồn:: [ABG Open Special 2023](../../../%CE%9E%20Ngu%E1%BB%93n/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/ABG%20Open%20Special%202023.md)
