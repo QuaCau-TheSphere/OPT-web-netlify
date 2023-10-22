@@ -9,5 +9,5 @@ Thực chất, nhà nghiên cứu hướng đến rất nhiều sự kiện tạ
 
 Người trong cộng đồng cần biết thời điểm mình sẽ rời đi
 
-[[../Dấn thân, quan sát và ghi chép là những chỉ báo cho thấy mức độ hoà nhập|Dấn thân, quan sát và ghi chép là những chỉ báo cho thấy mức độ hoà nhập]]
-Nguồn:: [[../../Ξ Nguồn/Nguyễn Đức Lộc|Nguyễn Đức Lộc]]
+[Dấn thân, quan sát và ghi chép là những chỉ báo cho thấy mức độ hoà nhập](../D%E1%BA%A5n%20th%C3%A2n,%20quan%20s%C3%A1t%20v%C3%A0%20ghi%20ch%C3%A9p%20l%C3%A0%20nh%E1%BB%AFng%20ch%E1%BB%89%20b%C3%A1o%20cho%20th%E1%BA%A5y%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20ho%C3%A0%20nh%E1%BA%ADp.md)
+Nguồn:: [Nguyễn Đức Lộc](../../%CE%9E%20Ngu%E1%BB%93n/Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20L%E1%BB%99c.md)
