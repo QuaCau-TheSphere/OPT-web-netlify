@@ -1,0 +1,6 @@
+---
+share: true
+created: 2023-05-26T14:51
+updated: 2023-10-27T17:44
+---
+[❓Trong trường hợp mình đã có sẵn một sản phẩm để đáp ứng nhu cầu của người rồi (thường là khách hàng đầu tiên đặt hàng hoặc là chính nhu cầu của mình), và giờ mình đang tìm thêm những khách hàng có cùng nhu cầu đó, thì mình có nên làm tiếp thị không](./%E2%9D%93Trong%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20m%C3%ACnh%20%C4%91%C3%A3%20c%C3%B3%20s%E1%BA%B5n%20m%E1%BB%99t%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%E1%BB%83%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20r%E1%BB%93i%20(th%C6%B0%E1%BB%9Dng%20l%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20%C4%91%E1%BA%B7t%20h%C3%A0ng%20ho%E1%BA%B7c%20l%C3%A0%20ch%C3%ADnh%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh),%20v%C3%A0%20gi%E1%BB%9D%20m%C3%ACnh%20%C4%91ang%20t%C3%ACm%20th%C3%AAm%20nh%E1%BB%AFng%20kh%C3%A1ch%20h%C3%A0ng%20c%C3%B3%20c%C3%B9ng%20nhu%20c%E1%BA%A7u%20%C4%91%C3%B3,%20th%C3%AC%20m%C3%ACnh%20c%C3%B3%20n%C3%AAn%20l%C3%A0m%20ti%E1%BA%BFp%20th%E1%BB%8B%20kh%C3%B4ng.md) 
