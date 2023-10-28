@@ -1,8 +1,7 @@
 ---
 share: true
-filename: index
 created: 2023-09-04T14:04
-updated: 2023-10-27T21:32
+updated: 2023-10-28T13:13
 tags:
   - file_thành-phẩm_bài-viết
   - file_thành-phẩm_kế-hoạch-tổng
@@ -13,7 +12,7 @@ tags:
 #file/thành-phẩm/kế-hoạch-tổng
 %%
 
-Nhu cầu:: [Kendy giải quyết được vấn đề trả lãi](../../Vault/1%20Nhu%20c%E1%BA%A7u/Kendy%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20tr%E1%BA%A3%20l%C3%A3i.md) 
+Nhu cầu:: [Kendy giải quyết được vấn đề trả lãi](../../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/1%20Nhu%20c%E1%BA%A7u/Kendy%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20tr%E1%BA%A3%20l%C3%A3i.md) 
 
  → Mỗi tháng thu được 40tr
  → Mỗi tuần có 2 người mua = 10tr

@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-27T21:29
+updated: 2023-10-28T13:05
 ---
-
 Có điều này từ hồi học mấy lớp đầu của anh Minh em đã có suy nghĩ, nhưng lúc đó bận quá không có thời gian để triển khai các ý cho nó mạch lạc được. Cơ bản là, nhóm của mình là nhóm để thảo luận, học hỏi về kỹ năng và kiến thức trong phát triển sản phẩm. Nhưng chẳng phải là chính nhóm mình cũng là một sản phẩm đó sao? Tại sao chúng ta không thực hành việc phát triển sản phẩm ngay trên chính sản phẩm này?
 
 Em nghĩ trong nhóm này có 3 nhu cầu nhiều người có nhất:
@@ -22,9 +21,3 @@ Nên nếu có cách để các thành viên trong nhóm có thể tiếp tục 
 Nhìn thì cũng thấy những gì em nói nói đều chỉ là các giả thiết chứ chưa có sự kiểm chứng gì cả. Việc đăng bài thế này là sự kiểm chứng đầu tiên của em. Có thể những điều này anh Minh cũng đã suy nghĩ hết rồi, và đang có trong một kế hoạch sắp tới nào đó. Nhưng em nghĩ việc hỏi luôn bây giờ cũng không có vấn đề gì. 
 
 Không biết mọi người thấy sao về ý tưởng này?
-
-
-[Một số ví dụ về mục tiêu nghiên cứu](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/M%E1%BB%99t%20s%E1%BB%91%20v%C3%AD%20d%E1%BB%A5%20v%E1%BB%81%20m%E1%BB%A5c%20ti%C3%AAu%20nghi%C3%AAn%20c%E1%BB%A9u.md)
-
-
-
