@@ -3,7 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-10-12T22:18
 ---
-[Tổng hợp thông tin](../../../T%E1%BB%95ng%20h%E1%BB%A3p%20th%C3%B4ng%20tin.md)
+[Tổng hợp thông tin](T%E1%BB%95ng%20h%E1%BB%A3p%20th%C3%B4ng%20tin.md)
 
 8h sáng hơn ngày 1/10/2023, tôi đã thấy Huy đứng trước hẻm 133 Quang Trung, Gò Vấp, TP.HCM. Hai chúng tôi là những học viên của Viện Đời sống Xã hội đang làm bài tập quan sát tham dự một gia đình để kể lại câu chuyện cuộc đời của các nhân vật. Do lúc tôi đến thì cũng hơi trễ giờ nên tôi không kịp quan sát không gian ở ngoài và trong hẻm lắm. Có lẽ Huy đã có thời gian để làm tốt hơn tôi. Khi gửi xe xong thì tôi liền hối hả chạy vào nhà nhân vật. Thứ đập vào mắt tôi đầu tiên là một con chó lông vàng bị cột ngay trước cửa. Mặt nó cũng hơi nhiều lông; cấu hình mặt của nó trông vừa ngộ ngộ vừa hiền hiền. Khi tôi đến nó không hề sủa tôi mà lại ra ngửi rất nhiều như thể tôi là người trong nhà vậy. Tôi muốn dành thêm thời gian cho nó vì thấy nó thân thiện và cũng vì muốn quan sát cái mặt ngồ ngộ của nó, nhưng cũng không thể quá mải mê nhìn nó được vì nhà có nhiều thành viên khác. Tôi thấy mắt mình sao mà lộn xộn và ngột ngạt: một người phụ nữ chừng 50 tuổi, tóc xoăn, hơi mập đang rối rít kêu bọn tôi vào nhà, một người đàn ông cởi trần đang ngồi trên ghế xếp, một anh trai và một chị gái mập mạp đang loay hoay chuẩn bị đi ra ở vùng không gian đi lại duy nhất đang bị chèn ép bởi một khối chữ nhật khổng lồ màu đen ngòm ở bên phải, và chừng ba cái xe máy ở bên trái. Cái khối đen ngòm ấy phải nhìn kỹ thì mới nhận ra đó là một cái tủ lạnh. Ba bốn con mèo đang nhỏng đuôi lởn vởn gần cửa, trong khi con chó thì vẫn chưa thôi nhảy lên người tôi. Tôi đã bước vào gia đình cô Yến như vậy đấy.
 ## Cô Yến
@@ -36,7 +36,7 @@ Anh sắp cưới vợ.
 ---
 
 Khi viết bài này tôi không để lời nhân vật vào trong ngoặc kép mà chỉ in nghiêng. Tôi bắt chước ý tưởng này từ bài *Đường tới Bờ Rạ*:
-![In nghiêng câu trích dẫn thay vì để vào trong ngoặc kép làm câu văn tự nhiên hơn](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/In%20nghi%C3%AAng%20c%C3%A2u%20tr%C3%ADch%20d%E1%BA%ABn%20thay%20v%C3%AC%20%C4%91%E1%BB%83%20v%C3%A0o%20trong%20ngo%E1%BA%B7c%20k%C3%A9p%20l%C3%A0m%20c%C3%A2u%20v%C4%83n%20t%E1%BB%B1%20nhi%C3%AAn%20h%C6%A1n.md#^c8315f)
+![In nghiêng câu trích dẫn thay vì để vào trong ngoặc kép làm câu văn tự nhiên hơn](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/In%20nghi%C3%AAng%20c%C3%A2u%20tr%C3%ADch%20d%E1%BA%ABn%20thay%20v%C3%AC%20%C4%91%E1%BB%83%20v%C3%A0o%20trong%20ngo%E1%BA%B7c%20k%C3%A9p%20l%C3%A0m%20c%C3%A2u%20v%C4%83n%20t%E1%BB%B1%20nhi%C3%AAn%20h%C6%A1n.md#c8315f)
 
 
 
