@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-27T21:29
+updated: 2023-10-29T21:26
 ---
 Khái niệm:: 
 Thu chi chồng chất nhưng không biết phải tính thế nào? Dùng app thì giới hạn chức năng hoặc tính phí, không app thì không biết tính sao?
@@ -23,7 +23,7 @@ Thì chương trình này dành cho bạn.
 👉 Tìm hiểu thêm: [https://quacau.space/fn1a](https://quacau.space/fn1a)
 
 ---
-# [Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=F+G+%C2%BB+QU%E1%BA%A2N+L%C3%9D+T%C3%80I+CH%C3%8DNH+C%C3%81+NH%C3%82N&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=1%2C+ti%C3%AAu+%C4%91%E1%BB%81%2C+share+t%E1%BB%AB+page) 
+# [Phân loại thu chi bằng tiếng Việt tự nhiên](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=F+G+%C2%BB+Launch&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=1%2C+ti%C3%AAu+%C4%91%E1%BB%81%2C+share+t%E1%BB%AB+page) 
 Chia sẻ với mọi người một chương trình quản lý tài chính mình mới viết. Tính năng:
 
 - Dùng được trên điện thoại khi không có mạng    
@@ -52,4 +52,6 @@ Chương trình sẽ tự động phân loại kết quả đầu ra cho bạn:
 | Số tiền                     | 50000            |
 | Ghi chú                     | giảm giá         |
 ```
-Đọc thêm giới thiệu và hướng dẫn sử dụng tại [Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=F+G+%C2%BB+QU%E1%BA%A2N+L%C3%9D+T%C3%80I+CH%C3%8DNH+C%C3%81+NH%C3%82N&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=1%2C+cu%E1%BB%91i+b%C3%A0i%2C+share+t%E1%BB%AB+page) 
+Đọc thêm giới thiệu và hướng dẫn sử dụng tại [Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=F+G+%C2%BB+Launch&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=1%2C+cu%E1%BB%91i+b%C3%A0i%2C+share+t%E1%BB%AB+page) 
+
+[29-10](29-10.md) [Launch](Launch.md)
