@@ -3,7 +3,7 @@ Alias: Động lực dự án, Tại sao lại chọn Obsidian, Sứ mệnh
 description: Động lực dự án này là gì? Tại sao lại chọn Obsidian?
 share: true
 created: 2023-07-26T10:33
-updated: 2023-10-28T11:50
+updated: 2023-10-31T12:51
 ---
 <sub>English below</sub>
 # Vấn đề: Sự hợp tác giữa các nhóm dự án chưa đạt được hiệu quả tối ưu
@@ -131,3 +131,5 @@ So there is a tradeoff that every system designer has to face: do you want your 
 However, digging deeper on the problem you will see that [Hợp tác thời gian thực không thực sự cần thiết trong đa số trường hợp. Đa số đều là hợp tác phi đồng bộ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/H%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c%20th%E1%BB%9Di%20gian%20th%E1%BB%B1c%20kh%C3%B4ng%20th%E1%BB%B1c%20s%E1%BB%B1%20c%E1%BA%A7n%20thi%E1%BA%BFt%20trong%20%C4%91a%20s%E1%BB%91%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p.%20%C4%90a%20s%E1%BB%91%20%C4%91%E1%BB%81u%20l%C3%A0%20h%E1%BB%A3p%20t%C3%A1c%20phi%20%C4%91%E1%BB%93ng%20b%E1%BB%99.md). And there is an excellent tool for asynchronous collaboration for local-first data: Git.
 
 So what will we do is essentially categorized as technology education: helping new-founded organizations to learn Obsidian and Git.
+
+[Browse Companies](https://www.partnerbase.com/app/search/?utmCampaign=Partnerbase+Welcome+Email&utmMedium=email&hsmi=214590202&utmContent=214590202&utmSource=hs_automation&country=Vietnam&sort=partnerbase_score|desc&limit=200)
