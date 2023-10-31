@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-16T20:30
-updated: 2023-10-13T15:38
+updated: 2023-10-31T01:34
 ---
 
 ! [객체지향 프로그래밍? 문과도 이해쌉가능. 10분컷. - YouTube](https://youtu.be/cg1xvFy1JQQ)
