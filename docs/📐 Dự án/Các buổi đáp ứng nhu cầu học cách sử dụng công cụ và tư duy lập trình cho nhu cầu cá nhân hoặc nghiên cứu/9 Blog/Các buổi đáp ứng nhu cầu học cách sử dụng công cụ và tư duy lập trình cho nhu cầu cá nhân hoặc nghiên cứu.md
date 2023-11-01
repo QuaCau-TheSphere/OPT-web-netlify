@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2023-10-27T21:28
+updated: 2023-11-01T16:51
+cssClasses: wide-table
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -43,7 +44,7 @@ Bảng này so sánh những tính năng của các mô hình học tập khác 
 | Trình độ người hướng dẫn cao                        | ❌          | ✔                               | ✔           | ✔                                          |
 
 Xem thêm:: [Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20h%E1%BB%8Fi%20n%C3%AAn%20d%C3%B9ng%20c%C3%BA%20ph%C3%A1p,%20th%C6%B0%20vi%E1%BB%87n,%20hay%20ng%C3%B4n%20ng%E1%BB%AF%20n%C3%A0o.%20L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20nhi%E1%BB%81u%20kinh%20nghi%E1%BB%87m%20th%C6%B0%E1%BB%9Dng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng.md)
-[Người mới lập trình thường chỉ biết muốn biết làm sao để code chạy được. Người có kinh nghiệm còn quan tâm đến tính dễ bảo trì, mở rộng và bắt lỗi của code](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20ch%E1%BB%89%20bi%E1%BA%BFt%20mu%E1%BB%91n%20bi%E1%BA%BFt%20l%C3%A0m%20sao%20%C4%91%E1%BB%83%20code%20ch%E1%BA%A1y%20%C4%91%C6%B0%E1%BB%A3c.%20Ng%C6%B0%E1%BB%9Di%20c%C3%B3%20kinh%20nghi%E1%BB%87m%20c%C3%B2n%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20t%C3%ADnh%20d%E1%BB%85%20b%E1%BA%A3o%20tr%C3%AC,%20m%E1%BB%9F%20r%E1%BB%99ng%20v%C3%A0%20b%E1%BA%AFt%20l%E1%BB%97i%20c%E1%BB%A7a%20code.md).[❓ Học code bằng việc debug product code sẽ nhanh hơn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/%E2%9D%93%20H%E1%BB%8Dc%20code%20b%E1%BA%B1ng%20vi%E1%BB%87c%20debug%20product%20code%20s%E1%BA%BD%20nhanh%20h%C6%A1n.md)
+[Người mới lập trình thường chỉ biết muốn biết làm sao để code chạy được. Người có kinh nghiệm còn quan tâm đến tính dễ bảo trì, mở rộng và bắt lỗi của code](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20ch%E1%BB%89%20bi%E1%BA%BFt%20mu%E1%BB%91n%20bi%E1%BA%BFt%20l%C3%A0m%20sao%20%C4%91%E1%BB%83%20code%20ch%E1%BA%A1y%20%C4%91%C6%B0%E1%BB%A3c.%20Ng%C6%B0%E1%BB%9Di%20c%C3%B3%20kinh%20nghi%E1%BB%87m%20c%C3%B2n%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20t%C3%ADnh%20d%E1%BB%85%20b%E1%BA%A3o%20tr%C3%AC,%20m%E1%BB%9F%20r%E1%BB%99ng%20v%C3%A0%20b%E1%BA%AFt%20l%E1%BB%97i%20c%E1%BB%A7a%20code.md).[❓ Học code bằng việc debug product code sẽ nhanh hơn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/%E2%9D%93%20H%E1%BB%8Dc%20code%20b%E1%BA%B1ng%20vi%E1%BB%87c%20debug%20product%20code%20s%E1%BA%BD%20nhanh%20h%C6%A1n.md)
 # Mục tiêu
 - Hiểu được một số khái niệm của ngôn ngữ hướng vật thể: object, method, array, for, if, import, function, type, interface
 - Nắm được cách làm việc với:
@@ -77,7 +78,7 @@ Xem thêm:: [Người mới lập trình thường hỏi nên dùng cú pháp, t
 [Khảo sát người có nhu cầu học lập trình](../Kh%E1%BA%A3o%20s%C3%A1t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md) 
 
 Phục vụ cho thành quả:
-- [Mỗi tuần có 300 user vào trang giới thiệu Trấn Kỳ](../../Tr%E1%BA%A5n%20K%E1%BB%B3/3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%97i%20tu%E1%BA%A7n%20c%C3%B3%20300%20user%20v%C3%A0o%20trang%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+- [Kế hoạch phát triển Trấn Kỳ](../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20b%E1%BA%A3n%20k%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 
 Thành quả cần có:: [Mỗi tuần có 60 người tham gia các buổi học lập trình](../3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%97i%20tu%E1%BA%A7n%20c%C3%B3%2060%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20c%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)

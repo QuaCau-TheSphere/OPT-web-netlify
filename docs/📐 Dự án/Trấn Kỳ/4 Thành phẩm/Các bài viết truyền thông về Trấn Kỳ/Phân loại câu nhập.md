@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-31T12:47
+updated: 2023-10-31T21:22
 ---
 Product+Owner+Vietnam
 # [Phân loại câu nhập bằng tiếng Việt tự nhiên](https://lậptrình.quảcầu.cc/?utm_source=F+G+%C2%BB+X%E1%BB%AD+l%C3%BD+ti%E1%BA%BFng+Vi%E1%BB%87t&utm_medium=social&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=%C4%91%C4%83ng+l%E1%BA%A7n+1%2C+v%E1%BB%8B+tr%C3%AD+ti%C3%AAu+%C4%91%E1%BB%81%2C+%E1%BA%A3nh+m%C3%A1y+ph%C3%A2n+lo%E1%BA%A1i+ti%E1%BB%81n) 
@@ -39,5 +39,5 @@ Chương trình sẽ tự động phân loại kết quả đầu ra cho bạn:
 
 
 ---
-[10](28/10.md) 23:24: Bài viết không liên quan đến PO, spam, hoặc seeding
+[28-10](28-10.md) Bị từ chối đăng trên [Product Owner Vietnam](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/Product%20Owner%20Vietnam.md). Lý do: Bài viết không liên quan đến PO, spam, hoặc seeding
 [31-10](31-10.md) Đăng trên [Xử lý tiếng Việt](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/X%E1%BB%AD%20l%C3%BD%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
