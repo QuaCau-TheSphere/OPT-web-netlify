@@ -20,3 +20,5 @@ Công việc:
 
 Deno là một chương trình mã nguồn mở gọi được quỹ đầu tư
 Fibery là một startup mở gọi được quỹ đầu tư
+
+Hệ tự tổ chức
