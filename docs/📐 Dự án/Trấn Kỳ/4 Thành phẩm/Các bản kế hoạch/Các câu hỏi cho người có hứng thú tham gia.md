@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-01T23:29
+updated: 2023-11-02T16:11
 ---
 Khái niệm:: 
 Câu hỏi cho nhà đầu tư có hứng thú:
@@ -11,3 +11,9 @@ Câu hỏi cho nhà đầu tư có hứng thú:
 - Để nó đạt được điều anh muốn anh nghĩ nó cần những điều gì?
 - Đâu là mức anh nghĩ là không còn đáng để anh đầu tư?
 - Anh có suy nghĩ gì về ý tưởng XYZ này chưa?
+- Anh đã đầu tư bao nhiêu dự án rồi?
+- Có những dự án nào anh quyết định không đầu tư?
+- Tại sao?
+
+Mong muốn:
+- Đọc trước hoặc thảo luận về [Lý do viết Trấn Kỳ](../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
