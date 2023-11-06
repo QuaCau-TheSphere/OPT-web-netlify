@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-06T17:32
+updated: 2023-11-06T18:20
 ---
 
 # Người làm phát triển sản phẩm, khởi nghiệp, dự án
@@ -35,4 +35,4 @@ updated: 2023-11-06T17:32
 #  Người muốn có được sự thú vị hoặc ý nghĩa trong cuộc sống
 | Khách hàng tiềm năng                                      | Nhu cầu/điểm đau                                                              | Điều họ nhận được                                                                                                                                                                  | Giả thiết                                                                                | Thành phẩm                                     |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Người muốn có được sự thú vị hoặc ý nghĩa trong cuộc sống | Việc sống để kiếm tiền vô vị hoặc vô nghĩa quá, mà họ không biết phải làm sao | Sự bất ngờ, thách thức hoặc ý nghĩa. Kể cả khi họ không cảm thấy cuộc sống vô vị hoặc vô nghĩa và không đòi hỏi thêm sự thú vị và ý nghĩa, thì sự thú vị và ý nghĩa vẫn tìm đến họ | Việc tham gia một hoạt động cộng đồng đem lại cho họ những bất ngờ, thử thách và ý nghĩa | [Lời mời xây dựng một startup của cộng đồng để phát triển Trấn Kỳ](./L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup%20c%E1%BB%A7a%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20%C4%91%E1%BB%83%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) |
+| Người muốn có được sự thú vị hoặc ý nghĩa trong cuộc sống | Việc sống để kiếm tiền vô vị hoặc vô nghĩa quá, mà họ không biết phải làm sao | Sự bất ngờ, thách thức hoặc ý nghĩa. Kể cả khi họ không cảm thấy cuộc sống vô vị hoặc vô nghĩa và không đòi hỏi thêm sự thú vị và ý nghĩa, thì sự thú vị và ý nghĩa vẫn tìm đến họ | Việc tham gia một hoạt động cộng đồng đem lại cho họ những bất ngờ, thử thách và ý nghĩa | [Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm](./L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup%20%C4%91%E1%BB%83%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20s%E1%BA%BD%20l%C3%A0m.md) |
