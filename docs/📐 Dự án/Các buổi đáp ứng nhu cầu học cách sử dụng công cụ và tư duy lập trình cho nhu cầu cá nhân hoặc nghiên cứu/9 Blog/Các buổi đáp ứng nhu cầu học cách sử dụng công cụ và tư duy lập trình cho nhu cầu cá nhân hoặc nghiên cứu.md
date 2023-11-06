@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2023-11-01T16:51
+updated: 2023-11-06T17:56
 cssClasses: wide-table
+alias:
+  - Tổ chức các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -43,8 +45,27 @@ Bảng này so sánh những tính năng của các mô hình học tập khác 
 | Khi cần là có ngay                                  | ❌          | ❌                              | ✔           | ✔                                          |
 | Trình độ người hướng dẫn cao                        | ❌          | ✔                               | ✔           | ✔                                          |
 
-Xem thêm:: [Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20h%E1%BB%8Fi%20n%C3%AAn%20d%C3%B9ng%20c%C3%BA%20ph%C3%A1p,%20th%C6%B0%20vi%E1%BB%87n,%20hay%20ng%C3%B4n%20ng%E1%BB%AF%20n%C3%A0o.%20L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20nhi%E1%BB%81u%20kinh%20nghi%E1%BB%87m%20th%C6%B0%E1%BB%9Dng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng.md)
-[Người mới lập trình thường chỉ biết muốn biết làm sao để code chạy được. Người có kinh nghiệm còn quan tâm đến tính dễ bảo trì, mở rộng và bắt lỗi của code](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20ch%E1%BB%89%20bi%E1%BA%BFt%20mu%E1%BB%91n%20bi%E1%BA%BFt%20l%C3%A0m%20sao%20%C4%91%E1%BB%83%20code%20ch%E1%BA%A1y%20%C4%91%C6%B0%E1%BB%A3c.%20Ng%C6%B0%E1%BB%9Di%20c%C3%B3%20kinh%20nghi%E1%BB%87m%20c%C3%B2n%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20t%C3%ADnh%20d%E1%BB%85%20b%E1%BA%A3o%20tr%C3%AC,%20m%E1%BB%9F%20r%E1%BB%99ng%20v%C3%A0%20b%E1%BA%AFt%20l%E1%BB%97i%20c%E1%BB%A7a%20code.md).[❓ Học code bằng việc debug product code sẽ nhanh hơn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/%E2%9D%93%20H%E1%BB%8Dc%20code%20b%E1%BA%B1ng%20vi%E1%BB%87c%20debug%20product%20code%20s%E1%BA%BD%20nhanh%20h%C6%A1n.md)
+# Nội dung dự kiến
+| Nhu cầu                                                  | Sản phẩm thực hành           | Ngôn ngữ               | Khái niệm                                  | Công cụ                                  | Khuyến khích biết trước |
+| -------------------------------------------------------- | ---------------------------- | ---------------------- | ------------------------------------------ | ---------------------------------------- | ----------------------- |
+| Quản lý tài chính cá nhân, phân loại câu nhập            | Trấn Kỳ                      | Javascript/TypeScript  | API, shell, CLI                            | VS Code, Fibery, Git, Python, PowerShell |                         |
+| Tự động hoá các công việc lặp đi lặp lại                 |                              | AutoHotKey, PowerShell | Path, shell, biến môi trường               | Terminal                                 |                         |
+| Truy vấn và khai thác dữ liệu                            |                              | SQL                    | Cơ sở dữ liệu                              |                                          |                         |
+| Tạo đồ thị                                               |                              |                        |                                            | Graphviz, Mermaid                        |                         |
+| Lập web cá nhân, quản lý phiên bản                       | Tạo web tĩnh                 | HTML                   | Web, version control, conventional commit  | Git, GitKraken, GitHub Page              |                         |
+| Quản lý và chia sẻ kiến thức                             | Obsidian và web trên netlify | Python                 | Web                                        | Obsidian, Mkdocs, Netlify                | Git, terminal           |
+| Tạo web dự án                                            | Tạo web động                 | PHP                    | Host, nameserver, CDN                      | WordPress, Cloudflare                    |                         |
+| Hiểu các kỹ thuật lập trình                              | Trấn Kỳ                      | Javascript/TypeScript  | OOP, SOLID, debug, unicode, design pattern | VS Code, Deno, Fibery                    | Git, terminal           |
+| Nghiên cứu cộng đồng mạng, nắm bắt xu hướng, nhân văn số | WE1S                         | Python                 | NLP, khối dữ liệu, API                     |                                          | Git, terminal           |
+
+Các buổi này là một phần của [Các buổi chia sẻ kỹ năng miễn phí với nhau](https://xn--qucu-hr5aza.cc/cac-buoi-chia-se-ky-nang-mien-phi-voi-nhau/?utm_source=CV+%C2%BB+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9&utm_medium=C%C3%A1c+bu%E1%BB%95i+chia+s%E1%BA%BB+k%E1%BB%B9+n%C4%83ng+mi%E1%BB%85n+ph%C3%AD+v%E1%BB%9Bi+nhau&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2&utm_term=%C4%90%E1%BB%8Dc+b%C3%A0i+vi%E1%BA%BFt+tr%C3%AAn+web)
+
+Xem thêm:: [Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
+
+# Kết quả đầu ra
+- Biết được người ta nói cái gì khi google 
+- Biết cách dùng github
+
 # Mục tiêu
 - Hiểu được một số khái niệm của ngôn ngữ hướng vật thể: object, method, array, for, if, import, function, type, interface
 - Nắm được cách làm việc với:
@@ -55,30 +76,9 @@ Xem thêm:: [Người mới lập trình thường hỏi nên dùng cú pháp, t
 - Nắm được các kỹ năng đọc code product:
 	- Hiểu được cấu trúc một dự án
 	- Hiểu một số nguyên tắc viết code để dễ bảo trì, mở rộng tính năng
-	- Biết một số kỹ thuật debug: console.log, debugger, unit test
-# Những sản phẩm có thể nói
-
-| Nhu cầu                                                  | Sản phẩm                     | Ngôn ngữ               | Khái niệm                                  | Công cụ                     | Khuyến khích biết trước |
-| -------------------------------------------------------- | ---------------------------- | ---------------------- | ------------------------------------------ | --------------------------- | ----------------------- |
-| Tự động hoá các công việc lặp đi lặp lại                 |                              | AutoHotKey, PowerShell | Path, shell, biến môi trường               | Terminal                    |                         |
-| Truy vấn và khai thác dữ liệu                            |                              | SQL                    | Cơ sở dữ liệu                              |                             |                         |
-| Tạo đồ thị                                               |                              |                        |                                            | Graphviz, Mermaid           |                         |
-| Lập web cá nhân, quản lý phiên bản                       | Tạo web tĩnh                 | HTML                   | Web, version control, conventional commit  | Git, GitKraken, GitHub Page |                         |
-| Quản lý và chia sẻ kiến thức                             | Obsidian và web trên netlify | Python                 | Web                                        | Obsidian, Mkdocs, Netlify   | Git, terminal           |
-| Tạo web dự án                                            | Tạo web động                 | PHP                    | Host, nameserver, CDN                      | WordPress, Cloudflare       |                         |
-| Quản lý tài chính cá nhân, hiểu dân dev nói gì           | Trấn Kỳ                      | Javascript/TypeScript  | OOP, SOLID, debug, unicode, design pattern | VS Code, Deno, Fibery       | Git, terminal           |
-| Nghiên cứu cộng đồng mạng, nắm bắt xu hướng, nhân văn số | WE1S                         | Python                 | NLP, khối dữ liệu, API                     |                             | Git, terminal           |
-# Kết quả đầu ra
-- Biết được người ta nói cái gì khi google 
-- Biết cách dùng github
-
-Đọc thêm bài này để biết thêm chi tiết cũng như cách thức tham gia: [Các buổi chia sẻ kỹ năng miễn phí với nhau](https://xn--qucu-hr5aza.cc/cac-buoi-chia-se-ky-nang-mien-phi-voi-nhau/?utm_source=CV+%C2%BB+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9&utm_medium=C%C3%A1c+bu%E1%BB%95i+chia+s%E1%BA%BB+k%E1%BB%B9+n%C4%83ng+mi%E1%BB%85n+ph%C3%AD+v%E1%BB%9Bi+nhau&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2&utm_term=%C4%90%E1%BB%8Dc+b%C3%A0i+vi%E1%BA%BFt+tr%C3%AAn+web)
-
-[Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
-[Khảo sát người có nhu cầu học lập trình](../Kh%E1%BA%A3o%20s%C3%A1t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md) 
+	- Biết một số kỹ thuật debug: console.log, debugger, unit test 
 
 Phục vụ cho thành quả:
-- [Kế hoạch phát triển Trấn Kỳ](../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20b%E1%BA%A3n%20k%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 
 Thành quả cần có:: [Mỗi tuần có 60 người tham gia các buổi học lập trình](../3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%97i%20tu%E1%BA%A7n%20c%C3%B3%2060%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20c%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
