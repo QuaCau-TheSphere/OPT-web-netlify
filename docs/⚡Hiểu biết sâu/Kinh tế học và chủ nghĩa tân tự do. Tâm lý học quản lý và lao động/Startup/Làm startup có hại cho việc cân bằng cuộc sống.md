@@ -1,0 +1,11 @@
+---
+share: true
+created: 2023-09-05T16:17
+updated: 2023-11-04T16:02
+---
+Nguồn:: ![Sam Altman - How to Succeed with a Startup - YouTube](https://youtu.be/0lJKucu6HJc?si=KZSfIRxwf6NzLRPa&t=618)
+
+[Bảng quan trọng – khẩn cấp](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/B%E1%BA%A3ng%20quan%20tr%E1%BB%8Dng%20%E2%80%93%20kh%E1%BA%A9n%20c%E1%BA%A5p.md)
+[Quản lý công việc và quản lý kiến thức không thể tách rời nhau](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau.md), vì [Công việc khai phá chính là quản lý kiến thức](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20ch%C3%ADnh%20l%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md) 
+[Không có giải pháp nào cho người sáng lập để giải quyết sự quá tải ngoài những lời khuyên chung chung](./Kh%C3%B4ng%20c%C3%B3%20gi%E1%BA%A3i%20ph%C3%A1p%20n%C3%A0o%20cho%20ng%C6%B0%E1%BB%9Di%20s%C3%A1ng%20l%E1%BA%ADp%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20s%E1%BB%B1%20qu%C3%A1%20t%E1%BA%A3i%20ngo%C3%A0i%20nh%E1%BB%AFng%20l%E1%BB%9Di%20khuy%C3%AAn%20chung%20chung.md)
+[Việc mải mê làm việc đến quên cả đói cho thấy phần thưởng từ việc làm việc là đủ lớn hơn việc được ăn](../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/Vi%E1%BB%87c%20m%E1%BA%A3i%20m%C3%AA%20l%C3%A0m%20vi%E1%BB%87c%20%C4%91%E1%BA%BFn%20qu%C3%AAn%20c%E1%BA%A3%20%C4%91%C3%B3i%20cho%20th%E1%BA%A5y%20ph%E1%BA%A7n%20th%C6%B0%E1%BB%9Fng%20t%E1%BB%AB%20vi%E1%BB%87c%20l%C3%A0m%20vi%E1%BB%87c%20l%C3%A0%20%C4%91%E1%BB%A7%20l%E1%BB%9Bn%20h%C6%A1n%20vi%E1%BB%87c%20%C4%91%C6%B0%E1%BB%A3c%20%C4%83n.md) 
