@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-06T19:16
+updated: 2023-11-07T11:58
 alias:
   - Một startup làm những việc một người bạn sẽ làm
 ---
@@ -11,8 +11,8 @@ Trong thời gian qua bọn mình đã viết [Trấn Kỳ](https://lậptrình.
 
 Đây là một startup vì nó phải có tăng trưởng và doanh thu, và các hoạt động của nó sẽ để làm những việc mà một người bạn sẽ làm. Trước mắt mục tiêu của nó là để hỗ trợ Kendy. Sau khi Kendy hết khó khăn rồi thì tuỳ vào quyết định của những người ở lại đến lúc đó.
 
-# Đối tượng thụ hưởng và sản phẩm dành cho họ
-| Đối tượng thụ hưởng                                                                                                                                                                                        | Sản phẩm                                                                                                                                                                                                                                                                                                                                                                                                                           |
+# Nhu cầu của người dùng và sản phẩm dành cho họ
+| Nhu cầu                                                                                                                                                                                                    | Sản phẩm                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Phân loại các câu tiếng Việt một cách tự động mà không mất đi [sự tự trị dữ liệu (data autonomy)](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/H%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c/Vi%E1%BB%87c%20trung%20t%C3%A2m%20ho%C3%A1%20vi%E1%BB%87c%20l%C6%B0u%20tr%E1%BB%AF%20d%E1%BB%AF%20li%E1%BB%87u%20tr%C3%AAn%20m%C3%A1y%20ch%E1%BB%A7%20s%E1%BA%BD%20l%E1%BA%A5y%20%C4%91i%20autonomy%20v%C3%A0%20agency%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20cu%E1%BB%91i.md) | [Trấn Kỳ](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9+%C2%BB+L%E1%BB%9Di+m%E1%BB%9Di+tham+gia+startup+c%E1%BB%A7a+c%E1%BB%99ng+%C4%91%E1%BB%93ng&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=ph%E1%BA%A7n+%C4%91%E1%BB%91i+t%C6%B0%E1%BB%A3ng+th%E1%BB%A5+h%C6%B0%E1%BB%9Fng) |
 | Học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu                                                                                                                           | [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u.md)                                                                                                                                                                                                                                                                                                                      |
@@ -35,6 +35,14 @@ Bài chi tiết: [Hỏi đáp về việc bán Trấn Kỳ](./H%E1%BB%8Fi%20%C4%
 - Trả lương
 - Trả lãi cho nhà đầu tư
 - Hỗ trợ Kendy
+# Các công việc thường làm
+
+- [Lên kế hoạch phát triển Trấn Kỳ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20b%E1%BA%A3n%20k%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+- [Đăng bài truyền thông](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20b%C3%A0i%20vi%E1%BA%BFt%20truy%E1%BB%81n%20th%C3%B4ng%20v%E1%BB%81%20Tr%E1%BA%A5n%20K%E1%BB%B3/index.md)
+- [Phỏng vấn người dùng Trấn Kỳ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/index.md)
+- [Phỏng vấn người tương tác với các bài đăng về Trấn Kỳ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20c%C3%A1c%20b%C3%A0i%20%C4%91%C4%83ng%20v%E1%BB%81%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) 
+- [Xây dựng cộng đồng phát triển Trấn Kỳ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20b%E1%BA%A3n%20k%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+- [Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 # Cách thức tham gia
 Thảo luận trên Discord của Quả Cầu
-[Tham gia](https://discord.com/channels/898550123007709204/898550123007709209/1163106307495170108){ .md-button .md-button--primary }
+[Tham gia](https://discord.com/channels/898550123007709204/1163106307495170108/1171076032342806548){ .md-button .md-button--primary }
