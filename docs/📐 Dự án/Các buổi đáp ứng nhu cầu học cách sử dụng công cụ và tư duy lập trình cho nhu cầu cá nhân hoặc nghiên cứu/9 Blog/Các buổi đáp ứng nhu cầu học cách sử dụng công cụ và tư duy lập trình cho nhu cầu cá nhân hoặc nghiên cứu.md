@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2023-11-06T17:56
+updated: 2023-11-06T22:23
 cssClasses: wide-table
 alias:
   - Tổ chức các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu
@@ -31,11 +31,11 @@ Các buổi này được tạo ra để giúp bạn tự chủ về công ngh�
 Nếu từ các buổi này bạn có thể kiếm thêm được tiền thì bọn mình mừng cho bạn, nhưng đó không phải là điều bọn mình đang hướng đến.
 
 ## Cách sử dụng công cụ và tư duy lập trình không đồng nhất với kiến thức lập trình căn bản
-Bởi vì nhóm muốn hướng đến những người đang cần học lập trình cho một nhu cầu rõ ràng nào đó, nên nội dung cũng sẽ chú trọng đến tính "làm được việc" hơn là đảm bảo bạn sẽ có một nền tảng vững chắc. Tất nhiên có nền tảng thì rất tốt, và trong quá trình thảo luận thì chắc chắn cũng phải giải thích những thứ nền tảng, nhưng chúng sẽ được cá nhân hoá vào mục tiêu của riêng bạn. Nếu bạn muốn bắt đầu từ nền tảng trước thì có lẽ nên đi học các lớp học lập trình. Những lớp như vậy có rất nhiều, và cũng rất nhiều giảng viên tâm huyết và nhiều kiến thức hơn bọn mình. Bọn mình còn phải đi học họ thì bọn mình không nghĩ bạn cần phải tìm đến bọn mình.
+Để có thể phục vụ tốt nhất những người đang cần học lập trình cho một nhu cầu rõ ràng nào đó, nên nội dung sẽ đề cao đến tính "làm được việc" hơn là cung cấp một nền tảng vững chắc. Tất nhiên có nền tảng thì rất tốt, và trong quá trình thảo luận thì chắc chắn cũng phải giải thích những thứ nền tảng, nhưng chúng sẽ được cá nhân hoá vào mục tiêu của người tham gia. Nếu bạn muốn bắt đầu từ nền tảng trước thì có lẽ nên đi học các lớp học lập trình. Những lớp như vậy có rất nhiều, và cũng rất nhiều giảng viên tâm huyết và nhiều kiến thức hơn bọn mình. Bọn mình còn phải đi học họ thì bọn mình không nghĩ bạn cần phải tìm đến bọn mình.
 
 Bảng này so sánh những tính năng của các mô hình học tập khác nhau để bạn lựa chọn cho phù hợp:
 
-| Tính năng                                           | Nhóm tự học | Lớp học trả tiền                | Chuỗi video | Cộng đồng thảo luận                        |
+| Loại hình →<br>Tính chất ↓                                           | Nhóm tự học | Lớp học trả tiền                | Chuỗi video | Cộng đồng thảo luận                        |
 | --------------------------------------------------- | ----------- | ------------------------------- | ----------- | ------------------------------------------ |
 | Ví dụ                                               | Nhóm này    | Các lớp học chính quy, workshop | CS50        | Stack Overflow, Discord của phần mềm       |
 | Không đòi hỏi phải nghiên cứu trước khi đặt câu hỏi | ✔           | ✔                               | ❌          | ❌                                         |
@@ -48,7 +48,7 @@ Bảng này so sánh những tính năng của các mô hình học tập khác 
 # Nội dung dự kiến
 | Nhu cầu                                                  | Sản phẩm thực hành           | Ngôn ngữ               | Khái niệm                                  | Công cụ                                  | Khuyến khích biết trước |
 | -------------------------------------------------------- | ---------------------------- | ---------------------- | ------------------------------------------ | ---------------------------------------- | ----------------------- |
-| Quản lý tài chính cá nhân, phân loại câu nhập            | Trấn Kỳ                      | Javascript/TypeScript  | API, shell, CLI                            | VS Code, Fibery, Git, Python, PowerShell |                         |
+| Quản lý tài chính cá nhân, phân loại câu nhập            | Trấn Kỳ                      | YAML                   | API, shell, CLI                            | VS Code, Fibery, Git, Python, PowerShell |                         |
 | Tự động hoá các công việc lặp đi lặp lại                 |                              | AutoHotKey, PowerShell | Path, shell, biến môi trường               | Terminal                                 |                         |
 | Truy vấn và khai thác dữ liệu                            |                              | SQL                    | Cơ sở dữ liệu                              |                                          |                         |
 | Tạo đồ thị                                               |                              |                        |                                            | Graphviz, Mermaid                        |                         |

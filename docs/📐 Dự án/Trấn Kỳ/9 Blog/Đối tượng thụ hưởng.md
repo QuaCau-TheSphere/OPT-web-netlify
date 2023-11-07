@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-06T18:20
+updated: 2023-11-06T21:05
 ---
 
 # Người làm phát triển sản phẩm, khởi nghiệp, dự án

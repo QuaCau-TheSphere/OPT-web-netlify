@@ -1,7 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-03T00:21
+updated: 2023-11-07T11:56
+alias:
+  - Kế hoạch tổ chức các buổi hướng dẫn sử dụng Trấn Kỳ
+  - Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ
 tags:
   - file_thành-phẩm
 ---
