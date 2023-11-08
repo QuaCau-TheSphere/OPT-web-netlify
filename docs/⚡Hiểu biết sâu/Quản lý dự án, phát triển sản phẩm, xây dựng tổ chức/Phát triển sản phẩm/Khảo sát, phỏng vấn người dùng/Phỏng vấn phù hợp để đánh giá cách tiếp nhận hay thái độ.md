@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-06T16:09
+updated: 2023-11-08T18:11
 ---
 Ví dụ nhiều người hay chê một ai đó là hát không hay, nhưng vẫn theo dõi và xem hết các MV của người đó mỗi khi ra mắt.
 
