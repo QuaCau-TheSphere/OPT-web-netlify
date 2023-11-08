@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-25T10:54
-updated: 2023-10-28T11:50
+updated: 2023-11-07T16:02
 ---
 # Mục tiêu
 Đây là một vault Obsidian dành riêng cho người Việt với mục tiêu:
@@ -26,7 +26,7 @@ Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng 
 
 [Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/Evergreen%20notes%20bi%E1%BA%BFn%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20tr%E1%BB%9F%20th%C3%A0nh%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%83%20m%C3%ACnh%20thao%20t%C3%A1c.md)
 
-Giới thiệu khái niệm như trong [Lập trình](../../../../L%E1%BA%ADp%20tr%C3%ACnh.md), so sánh sự khác nhau. Vì thực chất thuật ngữ mới là thứ người mới cảm thấy loạn, rối, mất phương hướng. Ngoài việc khi tiếp cận một lĩnh vực mới ta thấy những thuật ngữ, khái niệm khó nhó, mà sự tiện lợi của người đã hiểu rồi và lịch sử phát triển của lĩnh vực cũng tạo nên sự rối rắm đó. 
+Giới thiệu khái niệm như trong [Lập trình](L%E1%BA%ADp%20tr%C3%ACnh.md), so sánh sự khác nhau. Vì thực chất thuật ngữ mới là thứ người mới cảm thấy loạn, rối, mất phương hướng. Ngoài việc khi tiếp cận một lĩnh vực mới ta thấy những thuật ngữ, khái niệm khó nhó, mà sự tiện lợi của người đã hiểu rồi và lịch sử phát triển của lĩnh vực cũng tạo nên sự rối rắm đó. 
 Chú trọng ghi lại những mối quan hệ giữa các khái niệm, chứ không cố gắng giải thích khái niệm đó là gì. Cái nào không quá khó để mò hoặc google ra thì không ghi. Cái nào phải loay hoay một lúc mới nhận ra thì sẽ ghi
 
 Đa phần ghi chú trong đây đều ở trạng thái chưa hoàn thiện. Thứ cần được hoàn thiện là sự liên kết giữa các trang và nội dung một số trang hay được đọc và chia sẻ nhiều.
