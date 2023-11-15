@@ -183,12 +183,12 @@ chính vì vậy e ko có solutions mà đủ, hay cần hay thích hợp, mà c
 
 thằng này lại có cái thằng kia thiếu, nhưng ko thằng nào muốn filled nốt cái thiếu của thằng kia
 
-mỗi thằng lại đi 1 con đường riêng biệt [[./Obsidian tập trung hoàn toàn vào việc nhập liệu và bỏ qua việc quản lý công việc|thằng obsidian focus canvas yaml → focus hoàn toàn vào việc input và process data đầu vào | inorge task mangement]]
+mỗi thằng lại đi 1 con đường riêng biệt [thằng obsidian focus canvas yaml → focus hoàn toàn vào việc input và process data đầu vào | inorge task mangement](./Obsidian%20t%E1%BA%ADp%20trung%20ho%C3%A0n%20to%C3%A0n%20v%C3%A0o%20vi%E1%BB%87c%20nh%E1%BA%ADp%20li%E1%BB%87u%20v%C3%A0%20b%E1%BB%8F%20qua%20vi%E1%BB%87c%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
-[[./Fibery tập trung vào xử lý dữ liệu để ra quyết định và không chịu tập trung vào việc nhập liệu, markdown hay graphview, canvas|thằng fibery focus vào procesing data → nghĩa là distill raw data → processed data + visualize để make decision to implement (Feature) | và ko chịu focus vào việc input nhập liệu, markdown hay grapview, canvas ...]]
+[thằng fibery focus vào procesing data → nghĩa là distill raw data → processed data + visualize để make decision to implement (Feature) | và ko chịu focus vào việc input nhập liệu, markdown hay grapview, canvas ...](./Fibery%20t%E1%BA%ADp%20trung%20v%C3%A0o%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%83%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%B4ng%20ch%E1%BB%8Bu%20t%E1%BA%ADp%20trung%20v%C3%A0o%20vi%E1%BB%87c%20nh%E1%BA%ADp%20li%E1%BB%87u,%20markdown%20hay%20graphview,%20canvas.md)
 
 e ở giữa e biết kêu gì h
 
-Nguồn:: [[../../../../⚡Hiểu biết sâu/Ξ Nguồn/Kendy|Kendy]]
-[[../../../../⚔️ Lớp Obsidian và Git/💎 Giới thiệu về Obsidian/Mô tả về Obsidian/Điểm yếu của Obsidian/Obsidian không mạnh về quản lý công việc|Obsidian không mạnh về quản lý công việc]]
-[[./Fibery|Fibery]]
+Nguồn:: [Kendy](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Kendy.md)
+[Obsidian không mạnh về quản lý công việc](../../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B4ng%20m%E1%BA%A1nh%20v%E1%BB%81%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c.md)
+[Fibery](./Fibery.md)
