@@ -34,4 +34,4 @@ updated: 2023-10-22T12:35
 
 where không-bị-ồn-từ-bên-ngoài="✔" 
 
-![Nơi gặp mặt trực tiếp](../../index.md#^3a53fd)
+![Nơi gặp mặt trực tiếp](../../index.md#3a53fd)
