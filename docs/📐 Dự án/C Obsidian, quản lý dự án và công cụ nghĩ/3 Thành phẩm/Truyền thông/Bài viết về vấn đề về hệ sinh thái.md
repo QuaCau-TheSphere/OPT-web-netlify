@@ -19,8 +19,8 @@ Thành quả cần có::
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [Email gửi Hanoi Grapevine](./Email%20g%E1%BB%ADi%20Hanoi%20Grapevine.md)
 - [Các bài viết truyền thông](./C%C3%A1c%20b%C3%A0i%20vi%E1%BA%BFt%20truy%E1%BB%81n%20th%C3%B4ng.md)
+- [Email gửi Hanoi Grapevine](./Email%20g%E1%BB%ADi%20Hanoi%20Grapevine.md)
 
 
 Giả thuyết:

@@ -99,6 +99,6 @@ Meta
 
 ## Philathrophy 
 Thiện nguyện, nhân ái, hiến tặng, phúc thiện
-[[./Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt|Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt]]
+[Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt](./T%E1%BB%AB%20c%C3%A1ch%20m%E1%BB%99t%20t%E1%BB%AB%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%95%20ngh%C4%A9a%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20d%E1%BB%8Bch%20kh%C3%A1i%20ni%E1%BB%87m%20philanthropy%20sang%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
 
 Mình thấy kể cả khi nó có nghĩa ngầm trong đó rồi, thì việc hiển ngôn nó ra cũng rất quan trọng. Việc mọi người cảm thấy các phương án khác là không đủ để diễn tả hết nội hàm của nó là vì các phương án đó không làm cho mình cảm thấy các nét nghĩa của well-being được hiển ngôn đủ hết. Vậy thì chỉ có cách liệt kê hết tất cả các nét nghĩa của nó ra thì mới cảm thấy đầy đủ được.

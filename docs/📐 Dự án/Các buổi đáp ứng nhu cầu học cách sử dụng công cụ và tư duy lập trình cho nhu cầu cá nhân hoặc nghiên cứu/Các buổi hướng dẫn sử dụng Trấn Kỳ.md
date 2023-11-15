@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-07T11:56
+updated: 2023-11-15T22:39
 alias:
   - Kế hoạch tổ chức các buổi hướng dẫn sử dụng Trấn Kỳ
   - Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ
@@ -9,20 +9,13 @@ tags:
   - file_thành-phẩm
 ---
 
+
+| Thành quả mong muốn                                                        | Giả thiết                                         | Công việc                                                                                     |
+| -------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Mỗi tuần có 20 người nhắn tin trên thread Trấn Kỳ trên Discord Quả Cầu](../Tr%E1%BA%A5n%20K%E1%BB%B3/3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%97i%20tu%E1%BA%A7n%20c%C3%B3%2020%20ng%C6%B0%E1%BB%9Di%20nh%E1%BA%AFn%20tin%20tr%C3%AAn%20thread%20Tr%E1%BA%A5n%20K%E1%BB%B3%20tr%C3%AAn%20Discord%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) | Cứ 2 người vào thread Trấn Kỳ thì có 1 người nhắn | [Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ](C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) |
 Vào Discord của Quả Cầu, mục Trấn Kỳ để hẹn lịch. 
 %%
 #file/thành-phẩm
 %%
 
 [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu](./9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u.md)
-Phục vụ cho thành quả:
-
-Người chơi:: 
-
-Thành quả cần có:: [100% người tham gia cài đặt được và tự biết cách cấu hình ở buổi đầu tiên](./3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/100%25%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20c%C3%A0i%20%C4%91%E1%BA%B7t%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0%20t%E1%BB%B1%20bi%E1%BA%BFt%20c%C3%A1ch%20c%E1%BA%A5u%20h%C3%ACnh%20%E1%BB%9F%20bu%E1%BB%95i%20%C4%91%E1%BA%A7u%20ti%C3%AAn.md)
-Thành quả hỗ trợ::
-
-Thành phẩm nhỏ hơn:
-- [Khảo sát người có nhu cầu học lập trình](./Kh%E1%BA%A3o%20s%C3%A1t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
-- [Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](./9%20Blog/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
-- [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu](./9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u.md)
