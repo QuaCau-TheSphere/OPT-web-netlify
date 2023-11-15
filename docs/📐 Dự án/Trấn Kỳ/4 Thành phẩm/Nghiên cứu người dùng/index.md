@@ -16,12 +16,13 @@ updated: 2023-11-12T13:43
 
 - Nhu cầu phân loại tự động: 
     - [Email mời phỏng vấn](./Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/Email%20m%E1%BB%9Di%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
+    - [Kết quả](./Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/K%E1%BA%BFt%20qu%E1%BA%A3/index.md)
+    - [Duy Phong](./Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/K%E1%BA%BFt%20qu%E1%BA%A3/Duy%20Phong.md)
     - [Câu hỏi phỏng vấn](./Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
     - [Mục tiêu và câu hỏi nghiên cứu người cần phân loại tự động](./Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
-    - [Duy Phong](./Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/K%E1%BA%BFt%20qu%E1%BA%A3/Duy%20Phong.md)
-    - [Kết quả](./Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/K%E1%BA%BFt%20qu%E1%BA%A3/index.md)
 
 - Sự tiếp nhận với các bài viết: 
     - [Câu hỏi phỏng vấn](./S%E1%BB%B1%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%E1%BB%9Bi%20c%C3%A1c%20b%C3%A0i%20vi%E1%BA%BFt/C%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
     - [Mục tiêu và câu hỏi nghiên cứu người đọc các bài về Trấn Kỳ](./S%E1%BB%B1%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%E1%BB%9Bi%20c%C3%A1c%20b%C3%A0i%20vi%E1%BA%BFt/M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20c%C3%A1c%20b%C3%A0i%20v%E1%BB%81%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+    - [Duy Phong](./S%E1%BB%B1%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%E1%BB%9Bi%20c%C3%A1c%20b%C3%A0i%20vi%E1%BA%BFt/K%E1%BA%BFt%20qu%E1%BA%A3/Duy%20Phong.md)
 
