@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2023-11-09T15:53
+updated: 2023-11-16T23:55
 ---
 CÁC BUỔI ĐÁP ỨNG NHU CẦU HỌC CÁCH SỬ DỤNG CÔNG CỤ VÀ TƯ DUY LẬP TRÌNH CHO NHU CẦU CÁ NHÂN HOẶC NGHIÊN CỨU
 
@@ -31,3 +31,4 @@ Các buổi này là một phần của các buổi chia sẻ kỹ năng miễn 
 
 
 [09-11](09-11.md) [Facebook page QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Facebook%20page%20QC.md), [Discord QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/Discord%20QC/index.md)
+[16-11](16-11.md) [Profile QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Profile%20QC.md) 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-15T22:02
+updated: 2023-11-17T00:09
 ---
 # Tiếp nhận khi đọc Giới thiệu Trấn Kỳ
 ## Bạn đã biết tới bài này thế nào?
@@ -118,6 +118,7 @@ tự động hoá thì cao. Thấy vẫn là nặng
 
 những cái to lớn thì mới sắp xếp vào
 
+cảm giác mới chỉ là một cái kế hoạch
 - [ ] Hiểu được điều mình có thể có ở đây?
 - [ ] Chủ động nhắn tin?
 ## Điều gì khiến bạn thấy ấn tượng nhất? 
