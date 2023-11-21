@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2023-11-17T17:21
+updated: 2023-11-17T18:20
 cssClasses: wide-table
 ---
 
@@ -39,18 +39,18 @@ Bảng này so sánh những tính năng của các mô hình học tập khác 
 | Khi cần là có ngay                                  | ❌          | ❌                              | ✔           | ✔                                          |
 | Trình độ người hướng dẫn cao                        | ❌          | ✔                               | ✔           | ✔                                          |
 
-# Nội dung dự kiến
-| Nhu cầu                                                  | Sản phẩm thực hành                   | Ngôn ngữ               | Khái niệm                                  | Công cụ                     | Khuyến khích biết trước | Mô tả chi tiết                                     |
-| -------------------------------------------------------- | ------------------------------------ | ---------------------- | ------------------------------------------ | --------------------------- | ----------------------- | -------------------------------------------------- |
-| Quản lý tài chính cá nhân, phân loại câu nhập            | Trấn Kỳ                              | YAML                   | API, shell                                 | VS Code, terminal, Git      |                         |                                                    |
-| Tự động hoá các công việc lặp đi lặp lại                 | Script AutoHotKey, CopyQ, PowerShell | AutoHotKey, PowerShell | Script, path, shell, biến môi trường       | VS Code, CopyQ, Terminal    |                         |                                                    |
-| Truy vấn và khai thác dữ liệu                            |                                      | SQL                    | Cơ sở dữ liệu                              |                             |                         |                                                    |
-| Tạo đồ thị                                               |                                      | Cypher                 |                                            | Graphviz, Mermaid, Neo4j    |                         |                                                    |
-| Lập web cá nhân, quản lý phiên bản                       | Tạo web tĩnh                         | HTML                   | Web, version control, conventional commit  | Git, GitKraken, GitHub Page |                         |                                                    |
-| Quản lý và chia sẻ kiến thức                             | Obsidian và web trên netlify         | Python                 | Web                                        | Obsidian, Mkdocs, Netlify   | Git, terminal           |                                                    |
-| Tạo web dự án                                            | Tạo web động                         | PHP                    | Host, nameserver, CDN                      | WordPress, Cloudflare       |                         |                                                    |
-| Hiểu các kỹ thuật lập trình                              | Trấn Kỳ                              | Javascript/TypeScript  | OOP, SOLID, debug, unicode, design pattern | VS Code, Deno, Fibery       | Git, terminal           | [Các buổi hướng dẫn hiểu các kỹ thuật lập trình](./C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20hi%E1%BB%83u%20c%C3%A1c%20k%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh.md) |
-| Nghiên cứu cộng đồng mạng, nắm bắt xu hướng, nhân văn số | WE1S                                 | Python                 | NLP, khối dữ liệu, API                     |                             | Git, terminal           |                                                    |
+# Một số buổi ví dụ
+| Nhu cầu                                                  | Sản phẩm thực hành                   | Ngôn ngữ               | Khái niệm                                  | Công cụ                     | Khuyến khích biết trước | Mô tả chi tiết                                                                       |
+| -------------------------------------------------------- | ------------------------------------ | ---------------------- | ------------------------------------------ | --------------------------- | ----------------------- | ------------------------------------------------------------------------------------ |
+| Quản lý tài chính cá nhân, phân loại câu nhập            | Trấn Kỳ                              | YAML                   | API, shell                                 | VS Code, terminal, Git      |                         |                                                                                      |
+| Tự động hoá các công việc lặp đi lặp lại                 | Script AutoHotKey, CopyQ, PowerShell | AutoHotKey, PowerShell | Script, path, shell, biến môi trường       | VS Code, CopyQ, Terminal    |                         |                                                                                      |
+| Truy vấn và khai thác dữ liệu                            |                                      | SQL                    | Cơ sở dữ liệu                              |                             |                         |                                                                                      |
+| Tạo đồ thị                                               |                                      | Cypher                 |                                            | Graphviz, Mermaid, Neo4j    |                         |                                                                                      |
+| Lập web cá nhân, quản lý phiên bản                       | Tạo web tĩnh                         | HTML                   | Web, version control, conventional commit  | Git, GitKraken, GitHub Page |                         |                                                                                      |
+| Quản lý và chia sẻ kiến thức                             | Obsidian và web trên netlify         | Python                 | Web                                        | Obsidian, Mkdocs, Netlify   | Git, terminal           |                                                                                      |
+| Tạo web dự án                                            | Tạo web động                         | PHP                    | Host, nameserver, CDN                      | WordPress, Cloudflare       |                         |                                                                                      |
+| Hiểu các kỹ thuật lập trình                              | Trấn Kỳ                              | Javascript/TypeScript  | OOP, SOLID, debug, unicode, design pattern | VS Code, Deno, Fibery       | Git, terminal           | [Các buổi hướng dẫn hiểu các kỹ thuật lập trình](./C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20hi%E1%BB%83u%20c%C3%A1c%20k%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh.md){ .md-button .md-button--primary } |
+| Nghiên cứu cộng đồng mạng, nắm bắt xu hướng, nhân văn số | WE1S                                 | Python                 | NLP, khối dữ liệu, API                     |                             | Git, terminal           |                                                                                      |
 
 # Cách thức hoạt động
 Người có nhu cầu học sẽ vào kênh "Công cụ và tư duy lập trình" trên [Discord của Quả Cầu](https://discord.gg/jWTk4EHFK2){ .md-button .md-button--primary } để đặt vấn đề. Người sẵn sàng hướng dẫn sẽ báo lại khung thời gian rảnh của họ. 

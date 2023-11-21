@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-16T23:22
+updated: 2023-11-19T14:43
 ---
 # Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm
 Chào mọi người,
@@ -41,7 +41,7 @@ Bài chi tiết: [Hỏi đáp về việc bán Trấn Kỳ](../../9%20Blog/H%E1%
 - [Đăng bài truyền thông](./index.md)
 - [Phỏng vấn người dùng Trấn Kỳ](../Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/index.md)
 - [Xây dựng cộng đồng phát triển Trấn Kỳ](../K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
-- [Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ](../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+- [Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ](../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 # Cách thức tham gia
 Bạn có thể bắt đầu bằng việc điền [khảo sát nhu cầu phân loại tự động và lập trình](https://quảcầu.cc/khao-sat-nhu-cau-phan-loai-tu-dong-va-lap-trinh/?utm_source=CW+%C2%BB+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9+%C2%BB+L%E1%BB%9Di+m%E1%BB%9Di+x%C3%A2y+d%E1%BB%B1ng+m%E1%BB%99t+startup+%C4%91%E1%BB%83+l%C3%A0m+nh%E1%BB%AFng+vi%E1%BB%87c+m%E1%BB%99t+ng%C6%B0%E1%BB%9Di+b%E1%BA%A1n+s%E1%BA%BD+l%C3%A0m&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3) này để bọn mình hiểu hơn về bạn.
 
