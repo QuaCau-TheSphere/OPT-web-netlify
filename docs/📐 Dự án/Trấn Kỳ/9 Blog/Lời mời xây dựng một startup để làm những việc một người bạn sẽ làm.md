@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-19T14:43
+updated: 2023-11-23T17:21
 alias:
   - Một startup làm những việc một người bạn sẽ làm
 ---
@@ -23,6 +23,27 @@ Trong thời gian qua bọn mình đã viết [Trấn Kỳ](https://lậptrình.
 Nhận làm bất cứ công việc nào bạn sẽ được nhận link tải Trấn Kỳ.
 
 Ngoài ra, tuỳ thuộc vào việc bạn là ai mà bạn sẽ nhận được những lợi ích khác nhau. Xem chi tiết ở bài này: [Giả thiết về điều người dùng nhận được](../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20%C4%91i%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c.md){ .md-button .md-button--primary }
+
+```mermaid
+gantt
+dateFormat  D/M
+axisFormat  %d/%m
+title       Lịch sử phát triển Trấn Kỳ
+
+section Làm MVP
+Phân loại trên Fibery                 : crit, 5/7, 13/8
+Lấy dữ liệu từ Google Keep: 23/8
+Docker, open graph: 23/8, 13/10
+
+section Xây dựng sản phẩm
+Viết hướng dẫn sử dụng: 4/9, 10/10
+Sửa web: 28/10
+Lên kế hoạch: 11/11
+Phỏng vấn (5 buổi): 11/11, 23/11
+Gặp đối tác (4 buổi): 18/11, 24/11
+```
+
+^bb27c2
 
 # Cách thức tham gia
 Bạn có thể bắt đầu bằng việc điền [khảo sát nhu cầu phân loại tự động và lập trình](https://quảcầu.cc/khao-sat-nhu-cau-phan-loai-tu-dong-va-lap-trinh/?utm_source=CW+%C2%BB+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9+%C2%BB+L%E1%BB%9Di+m%E1%BB%9Di+x%C3%A2y+d%E1%BB%B1ng+m%E1%BB%99t+startup+%C4%91%E1%BB%83+l%C3%A0m+nh%E1%BB%AFng+vi%E1%BB%87c+m%E1%BB%99t+ng%C6%B0%E1%BB%9Di+b%E1%BA%A1n+s%E1%BA%BD+l%C3%A0m&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3) này để bọn mình hiểu hơn về bạn.
