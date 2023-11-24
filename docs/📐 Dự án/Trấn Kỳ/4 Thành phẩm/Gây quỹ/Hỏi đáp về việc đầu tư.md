@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-24T16:44
 ---
+
 # Điều nhà đầu tư quan tâm
 ## Trấn Kỳ là gì
 Phân loại chi tiêu hoặc các dạng dữ liệu khác một cách tự động chỉ bằng lời nói mình dùng thường ngày và tự động đưa vào bảng excel. 
