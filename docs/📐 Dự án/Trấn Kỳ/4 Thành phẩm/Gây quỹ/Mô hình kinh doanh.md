@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-23T20:15
 ---
+
 # SaaS: tính theo số lượng giao dịch hoặc plugin
 Đối tượng:: Người bận rộn không có thời gian phân loại dữ liệu nhưng cần có báo cáo chi tiết
 
