@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-23T16:14
+updated: 2023-11-23T20:15
 ---
 # SaaS: tính theo số lượng giao dịch hoặc plugin
 Đối tượng:: Người bận rộn không có thời gian phân loại dữ liệu nhưng cần có báo cáo chi tiết
 
 # Chợ/hoạt động cộng đồng
-Đối tượng:: Người làm phát triển sản phẩm, khởi nghiệp, dự án.  Người cần tổ chức dữ liệu, xây dựng PKM, ERP, giàn giáo nhận thức cho mình. Người cần học lập trình
+Đối tượng:: Người làm phát triển sản phẩm, khởi nghiệp, dự án. Người cần tổ chức dữ liệu, xây dựng PKM, ERP, giàn giáo nhận thức cho mình. Người cần học lập trình
 
 Các hoạt động cộng đồng này sẽ giúp có thêm plugin cũng như những người làm gia công cho các công ty. Điều này sẽ tạo hiệu ứng mạng lưới. 
 
