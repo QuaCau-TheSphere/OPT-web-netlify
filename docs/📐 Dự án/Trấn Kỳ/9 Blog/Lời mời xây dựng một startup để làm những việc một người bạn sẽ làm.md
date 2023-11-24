@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-23T17:21
+updated: 2023-11-24T22:07
 alias:
   - Một startup làm những việc một người bạn sẽ làm
 ---
+
 Chào mọi người,
 
 Trong thời gian qua bọn mình đã viết [Trấn Kỳ](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9+%C2%BB+L%E1%BB%9Di+m%E1%BB%9Di+tham+gia+startup+c%E1%BB%A7a+c%E1%BB%99ng+%C4%91%E1%BB%93ng&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=ph%E1%BA%A7n+m%E1%BB%9F+%C4%91%E1%BA%A7u), một chương trình phân loại câu nhập bằng tiếng Việt tự nhiên, với mục đích là để [giúp Kendy](./L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md). Chương trình đã viết xong. Bọn mình nhận thấy nó còn nhiều tiềm năng để phát triển nó, và việc phát triển đó có thể giải quyết nhiều nhu cầu khác nhau, không chỉ là Kendy, nên bọn mình muốn biến nó thành một startup và viết lời mời này.
@@ -42,8 +43,6 @@ Lên kế hoạch: 11/11
 Phỏng vấn (5 buổi): 11/11, 23/11
 Gặp đối tác (4 buổi): 18/11, 24/11
 ```
-
-^bb27c2
 
 # Cách thức tham gia
 Bạn có thể bắt đầu bằng việc điền [khảo sát nhu cầu phân loại tự động và lập trình](https://quảcầu.cc/khao-sat-nhu-cau-phan-loai-tu-dong-va-lap-trinh/?utm_source=CW+%C2%BB+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9+%C2%BB+L%E1%BB%9Di+m%E1%BB%9Di+x%C3%A2y+d%E1%BB%B1ng+m%E1%BB%99t+startup+%C4%91%E1%BB%83+l%C3%A0m+nh%E1%BB%AFng+vi%E1%BB%87c+m%E1%BB%99t+ng%C6%B0%E1%BB%9Di+b%E1%BA%A1n+s%E1%BA%BD+l%C3%A0m&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3) này để bọn mình hiểu hơn về bạn.
