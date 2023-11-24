@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-23T18:58
+updated: 2023-11-23T22:14
 ---
 # Buổi gặp 1
 ## Nội dung chính
@@ -22,7 +22,9 @@ Ko có tốc độ thì ko phát triển đc, đối thủ ăn trước mình
 ## Lý do gặp Nhật
 Ban đầu nhắn "hay quá" chỉ là vì ý tưởng của cái app cho cuộc sống của mình chứ chưa có gì cả. Khi Nhật nhắn thì nhận gặp vì là bạn bè lâu lâu cũng muốn nói. Ngồi nói chuyện thì mới biết có công nghệ lõi là NLP thì mới thấy cơ hội làm ăn.
 Vì sao từ lúc đó không tìm hiểu nữa?
-Khi nao thì tính tìm hiểu tiếp? 
+Khi nào thì tính tìm hiểu tiếp? 
+Tại sao lúc đó ko muốn gặp để tìm hiểu về cái app?
+
 ## Về J.D. Everest
 Những công ty quản lý tài sản gia đình (family office) như của Hoàng gia Anh,
 capital trust fund
@@ -56,6 +58,8 @@ fund để phát triển
 - Bán ở đây là bán cho doanh nghiệp, hay là pitch với nhà đầu tư?
 - Những dự án như doodle one, Rossor scale đc như thế nào? 
 - Chiến lược truyền thông của mình là thế nào? Các kênh truyền thông nào bên mình có thể lên? Hiệu quả truyền thông ở các dự án trước là thế nào?
+- Điều gì khiến mình có thể chiếm lĩnh thị trường tốt hơn MoneyLover?
+
 
 một bạn dùng nó với mục đích phân loại file khi làm phim tài liệu
 **Ko hiểu về mục tiêu của QC** mục tiêu của AAA là tạo ra một sân chơi. Anh tạo ra quỹ khởi nghiệp cũng giống như tạo ra một sân chơi
