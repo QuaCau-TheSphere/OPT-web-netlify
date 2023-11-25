@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-23T22:14
+updated: 2023-11-25T13:47
+alias: jdeverest
 ---
 
 # Buổi gặp 1
@@ -51,15 +52,11 @@ fund để phát triển
 - Anh muốn nó được phát triển thế nào?
 - Vì sao những cách phát triển khác anh không hứng thú?
 - Để nó đạt được điều anh muốn anh nghĩ nó cần những điều gì?
-- Đâu là mức anh nghĩ là không còn đáng để anh đầu tư?
-- Anh đã đầu tư bao nhiêu dự án rồi?
 - Có những dự án nào anh quyết định không đầu tư? Tại sao?
 - Anh có thể nói sơ qua về Quỹ Đầu tư Khởi nghiệp Quốc gia không?
 - Anh nghĩ sao về những dự án mã nguồn mở mà vẫn được đầu tư như deno, [langchain](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/), redhat?
 - Bán ở đây là bán cho doanh nghiệp, hay là pitch với nhà đầu tư?
 - Những dự án như doodle one, Rossor scale đc như thế nào? 
-- Chiến lược truyền thông của mình là thế nào? Các kênh truyền thông nào bên mình có thể lên? Hiệu quả truyền thông ở các dự án trước là thế nào?
-- Điều gì khiến mình có thể chiếm lĩnh thị trường tốt hơn MoneyLover?
 
 
 một bạn dùng nó với mục đích phân loại file khi làm phim tài liệu
@@ -67,3 +64,14 @@ một bạn dùng nó với mục đích phân loại file khi làm phim tài li
 **Thấy lơ lửng** Điều gì khiến anh thấy nghệ thuật ko lơ lửng
 **Thấy không liên quan** Điều gì khiến AAA thấy nghệ thuật, thời trang, âm nhạc liên quan tới nhau?
 Bước vào cuộc nói chuyện với việc muốn gặp bạn cũ, nhưng nó bước ra khỏi cuộc nói chuyện đó bằng một cơ hội đầu tư hấp dẫn
+
+# Buổi 3
+- [ ] Có dự án nào anh thấy scale được nhưng anh cũng vẫn từ chối ko?
+- [ ] Đâu là mức anh nghĩ là không còn đáng để anh đầu tư?
+- [ ] Anh đã đầu tư bao nhiêu dự án rồi?
+- [ ] Điều gì khiến mình có thể chiếm lĩnh thị trường tốt hơn MoneyLover?
+- [ ] Chiến lược truyền thông của mình là thế nào? Các kênh truyền thông nào bên mình có thể lên? Hiệu quả truyền thông ở các dự án trước là thế nào?
+- [ ] Điều gì khiến anh đầu tư vào Việt Sử Liên Minh, ROSSOR, Music Light? Chúng scale được thế nào? Anh biết họ thế nào?
+- [ ] Anh đã đầu tư vào startup tech nào rồi?
+- [ ] Điều gì ngăn anh không tham gia rồi ăn cắp code?
+- [ ] Rốt cuộc hình thức của mình là gì?
