@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-11T16:44
 ---
+
 Em xin chào Hanoi Grapevine,  
   
 Em xin tự giới thiệu, em là Lý Minh Nhật, người sáng lập dự án Quả Cầu. Hôm 10/11 vừa rồi em có được dịp trò chuyện một chút với chị Ly về những thứ em nghĩ Hanoi Grapevine sẽ cảm thấy hứng thú. Email này là để nói rõ thêm về các ý tưởng đó.
