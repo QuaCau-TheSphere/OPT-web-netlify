@@ -3,6 +3,7 @@ share: true
 created: 2023-09-09T23:40
 updated: 2023-10-06T16:09
 ---
+
 Đây là quy trình phát triển sản phẩm truyền thống:
 ![](https://i.imgur.com/UVkZGQo.png)
 

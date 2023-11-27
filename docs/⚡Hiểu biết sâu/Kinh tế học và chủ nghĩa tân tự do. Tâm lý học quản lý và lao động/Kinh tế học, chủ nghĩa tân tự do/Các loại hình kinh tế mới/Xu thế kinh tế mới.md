@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-27T18:59
 ---
+
 Các yếu tố tạo ra kinh tế mới
 - Biến đổi công nghệ
 - Biến đổi khí hậu

@@ -4,6 +4,7 @@ created: 2023-05-26T14:51
 updated: 2023-10-27T21:28
 tags:
   - file_thành-phẩm
+title: Các buổi phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt về cảm nhận, nhu cầu của họ về vault và lý do chưa đóng góp
 ---
 
 %%

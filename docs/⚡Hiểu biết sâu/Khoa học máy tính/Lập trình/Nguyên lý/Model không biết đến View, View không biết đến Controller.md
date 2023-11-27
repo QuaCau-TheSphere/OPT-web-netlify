@@ -3,6 +3,7 @@ share: true
 created: 2023-07-22T11:47
 updated: 2023-10-06T16:09
 ---
+
 ## Mô hình MVC
 
 Đây là một mẫu kiến trúc (architechtural pattern) ra đời sớm nhất. MVC không được quá “trọng dụng” cho đến thời kỳ ứng dụng web “lên ngôi”. Hiện nay, MVC là mẫu kiến trúc phổ biến nhất (nếu không muốn nói là độc tôn) trong phát triển ứng dụng web.

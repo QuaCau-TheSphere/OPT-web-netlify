@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-10-30T15:16
 ---
+
 <div class="deck-embed js-deck-embed" style="aspect-ratio:1024/768;" data-ratio="1.3333333333333333" data-state="processed"><div class="speakerdeck-embed" data-title="false" data-skip-resize="true" data-id="87bb9f00ec1e01308020727faa1f9e72" data-name="Remove to Improve (the data-ink ratio)" data-ratio="1.3333333333333333" data-host="speakerdeck.com"></div></div>
 
 ![data-ink.gif](https://images.squarespace-cdn.com/content/v1/56713bf4dc5cb41142f28d1f/1450306653111-70K5IT30R69NWPDIE1ZJ/data-ink.gif?format=2500w)

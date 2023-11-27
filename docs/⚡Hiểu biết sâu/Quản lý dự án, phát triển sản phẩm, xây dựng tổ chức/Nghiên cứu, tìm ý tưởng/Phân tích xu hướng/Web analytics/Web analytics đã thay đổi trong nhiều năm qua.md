@@ -3,6 +3,7 @@ share: true
 created: 2023-07-02T21:06
 updated: 2023-10-27T18:59
 ---
+
 - Người dùng ngày càng đòi hỏi cao hơn về sự riêng tư
 - Nhiều bộ luật và chính sách toàn cầu mới về dữ liệu
 - Các trình duyệt giảm hỗ trợ cookie

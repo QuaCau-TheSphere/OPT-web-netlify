@@ -4,6 +4,7 @@ created: 2023-07-21T11:54
 updated: 2023-10-27T21:28
 tags:
   - file_thành-phẩm
+title: Các buổi họp xây dựng kế hoạch phát triển
 ---
 
 %%
@@ -14,7 +15,7 @@ Phục vụ cho thành quả:
 
 Các giả thuyết cần kiểm tra:
 
-Người chơi:: [Nhật](Nh%E1%BA%ADt.md), [Nghi](Nghi.md), [Thịnh](Th%E1%BB%8Bnh.md)
+Người chơi:: [Nhật](../../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/%C4%90%E1%BB%99i%20ng%C5%A9/Nh%E1%BA%ADt.md), [Nghi](Nghi.md), [Thịnh](Th%E1%BB%8Bnh.md)
 Đối tượng thụ hưởng: 
 
 

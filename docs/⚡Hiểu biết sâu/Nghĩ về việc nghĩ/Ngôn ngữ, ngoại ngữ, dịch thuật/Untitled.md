@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
+
 # Luyện nói
 
 Muốn luyện nói thì khá khó, vì nếu luyện với người Việt thì cũng sẽ gặp những lỗi người Việt mắc phải. Tức là tình trạng a blind leading a blind. Còn kiếm người bản ngữ thì đâu ai rảnh

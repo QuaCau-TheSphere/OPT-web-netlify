@@ -3,6 +3,7 @@ share: true
 created: 2023-07-25T10:54
 updated: 2023-11-07T16:02
 ---
+
 # Mục tiêu
 Đây là một vault Obsidian dành riêng cho người Việt với mục tiêu:
 - Hỗ trợ những ai chưa từng làm quen với Obsidian và Git cũng như kiến thức về phát triển sản phẩm có thể nhanh chóng học những ứng dụng và kiến thức này từng bước một để làm một kho dữ liệu quản lý dự án. Bạn có thể dùng vault này để tự học hoặc như một giáo án để hỗ trợ bạn bè của mình ([⚔️ Hướng dẫn Obsidian và Git](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/index.md)) 

@@ -6,7 +6,9 @@ alias:
   - Các bài viết truyền thông về Trấn Kỳ
 created: 2023-10-31T16:59
 updated: 2023-11-15T22:11
+title: Truyền thông
 ---
+
 
 | Thành quả mong muốn                                    | Giả thiết                                         | Công việc                               |
 | ------------------------------------------------------ | ------------------------------------------------- | --------------------------------------- |
@@ -17,8 +19,8 @@ updated: 2023-11-15T22:11
 Đối tượng: người cần tự do dữ liệu
 
 - [Khảo sát trong các nhóm](./Kh%E1%BA%A3o%20s%C3%A1t%20trong%20c%C3%A1c%20nh%C3%B3m.md)
-- [Lời mời xây dựng một startup](./L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup.md)
 - [Phân loại chi tiêu](./Ph%C3%A2n%20lo%E1%BA%A1i%20chi%20ti%C3%AAu.md)
 - [Phân loại câu nhập (ngắn)](./Ph%C3%A2n%20lo%E1%BA%A1i%20c%C3%A2u%20nh%E1%BA%ADp%20(ng%E1%BA%AFn).md)
+- [Lời mời xây dựng một startup](./L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup.md)
 - [Phân loại câu nhập](./Ph%C3%A2n%20lo%E1%BA%A1i%20c%C3%A2u%20nh%E1%BA%ADp.md)
 - [Phân loại thu chi (ngắn)](./Ph%C3%A2n%20lo%E1%BA%A1i%20thu%20chi%20(ng%E1%BA%AFn).md)

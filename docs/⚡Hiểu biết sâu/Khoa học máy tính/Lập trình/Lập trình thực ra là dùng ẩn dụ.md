@@ -3,6 +3,7 @@ share: true
 created: 2023-06-03T09:36
 updated: 2023-10-27T18:59
 ---
+
 Khái niệm:: [Ẩn dụ](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%E1%BA%A8n%20d%E1%BB%A5.md)
 
 Lý do:: [Chúng ta sống bằng ẩn dụ](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5/Ch%C3%BAng%20ta%20s%E1%BB%91ng%20b%E1%BA%B1ng%20%E1%BA%A9n%20d%E1%BB%A5.md)

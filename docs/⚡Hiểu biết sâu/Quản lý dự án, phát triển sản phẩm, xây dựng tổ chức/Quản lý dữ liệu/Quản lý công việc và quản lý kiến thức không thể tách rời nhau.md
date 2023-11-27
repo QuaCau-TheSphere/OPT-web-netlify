@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-13T13:10
 ---
+
 Lý do:: [Công việc khai phá chính là quản lý kiến thức](../C%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20ch%C3%ADnh%20l%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md) 
 [❓Quản lý cuộc sống có phải là quản lý dự án？Công việc và cuộc sống có phải là không thể tách rời nhau？](../C%C3%B4ng%20vi%E1%BB%87c/%E2%9D%93Qu%E1%BA%A3n%20l%C3%BD%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%EF%BC%9FC%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau%EF%BC%9F.md)
 

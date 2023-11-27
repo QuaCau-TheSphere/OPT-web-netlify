@@ -2,7 +2,9 @@
 share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
+title: Quán có phòng riêng ở TPHCM
 ---
+
 Không bị ồn từ bên ngoài:: ✔
 Nhà vệ sinh:: ✔
 Được nói to:: ✔

@@ -5,6 +5,7 @@ updated: 2023-11-17T18:20
 cssClasses: wide-table
 ---
 
+
 Tiêu đề của bài gồm có 3 phần:
 - Các buổi đáp ứng nhu cầu học
 - cách sử dụng công cụ và tư duy lập trình

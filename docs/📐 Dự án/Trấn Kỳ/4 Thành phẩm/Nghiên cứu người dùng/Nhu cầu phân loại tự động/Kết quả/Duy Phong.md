@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-14T16:08
 ---
+
 # Hành vi phân loại
 ## Trong tháng vừa qua bạn đã phân loại dữ liệu bao nhiêu lần?
 6 đến 10 lần

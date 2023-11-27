@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-13T13:09
 ---
+
 2
 - Thống nhất giữa các người dùng dễ dàng
 - Đảm bảo các bên tham gia nhập dữ liệu cùng một format

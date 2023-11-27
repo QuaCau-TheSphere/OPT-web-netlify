@@ -2,7 +2,9 @@
 share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
+title: Nền kinh tế xanh
 ---
+
 ![](https://www.researchgate.net/profile/Shikha-Dahiya/publication/344261566/figure/fig1/AS:963472120614930@1606721062323/Venn-diagram-depicting-various-economies-in-green-economy-adapted-from-Kardung-and.png)
 <sub>Dahiya, Shikha & Katakojwala, Ranaprathap & Ramakrishna, Seeram & Venkata Mohan, S. (2020). Biobased Products and Life Cycle Assessment in the Context of Circular Economy and Sustainability. Materials Circular Economy. 2. 7. 10.1007/s42824-020-00007-x. </sub>
 [Để bắt kịp những công nghệ mới, thường 2 năm rà soát lại một lần](./%C4%90%E1%BB%83%20b%E1%BA%AFt%20k%E1%BB%8Bp%20nh%E1%BB%AFng%20c%C3%B4ng%20ngh%E1%BB%87%20m%E1%BB%9Bi,%20th%C6%B0%E1%BB%9Dng%202%20n%C4%83m%20r%C3%A0%20so%C3%A1t%20l%E1%BA%A1i%20m%E1%BB%99t%20l%E1%BA%A7n.md)

@@ -4,6 +4,7 @@ created: 2023-09-05T16:17
 updated: 2023-11-16T22:40
 ---
 
+
 Nguồn:: [Y Combinator](../../../../../%CE%9E%20Ngu%E1%BB%93n/Y%20Combinator.md), ![Lecture 16 - How to Run a User Interview (Emmett Shear) - YouTube](https://www.youtube.com/watch?v=qAws7eXItMk)
 
 [Người thích mình thường có nhu cầu khác về sản phẩm so với người không thích mình](./Ng%C6%B0%E1%BB%9Di%20th%C3%ADch%20m%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20c%C3%B3%20nhu%20c%E1%BA%A7u%20kh%C3%A1c%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m%20so%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20th%C3%ADch%20m%C3%ACnh.md)

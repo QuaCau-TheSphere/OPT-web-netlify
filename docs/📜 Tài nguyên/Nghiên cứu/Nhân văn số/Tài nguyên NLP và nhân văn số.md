@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-10T15:58
 ---
+
 Giới thiệu về nhân văn số (digital humanities) 
 [Nhân văn số sử dụng mô hình chủ đề rất nhiều](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20NLP/M%C3%B4%20h%C3%ACnh/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)
 Nhiều dự án nhăn văn số rồi, nên chỉ tập trung vào các tài liệu giúp hướng dẫn một người 

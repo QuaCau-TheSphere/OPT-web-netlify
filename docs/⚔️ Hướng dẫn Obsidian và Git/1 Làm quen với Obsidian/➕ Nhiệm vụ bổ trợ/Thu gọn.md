@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
+
 Tính năng thu gọn văn bản là một công cụ rất mạnh để lập dàn ý và viết. Tính năng thu gọn cho phép bạn tập trung vào những gì bạn đang làm.
 
 Để sử dụng tính năng thu gọn, hãy chuyển đến Settings (biểu tượng bánh răng ở bên trái) và bật `Fold indent` và `Fold heading` trong cài đặt trình chỉnh sửa.

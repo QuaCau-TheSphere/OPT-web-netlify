@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-10-22T13:07
 ---
+
 Giá rẻ:: -
 Wifi, ổ điện:: ✔
 Nhà vệ sinh:: ✔

@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-08T18:13
 ---
+
 # Trước khi phát triển sản phẩm/tính năng
 
 - Xác định xem người dùng có đang gặp vấn đề mà sản phẩm muốn giải quyết hay không và mức độ nghiêm trọng của vấn đề. (hoặc nhu cầu)

@@ -3,6 +3,7 @@ share: true
 created: 2023-06-02T12:36
 updated: 2023-10-06T16:09
 ---
+
 ### Sharpen your thinking
 
 Extending the metaphor of obsidian tools, our ambition is for Obsidian to be the tool that helps you think more clearly. As a material, obsidian is shaped using a technique called [knapping](https://en.wikipedia.org/wiki/Knapping), chipping off flakes of rock to create sharp edges.

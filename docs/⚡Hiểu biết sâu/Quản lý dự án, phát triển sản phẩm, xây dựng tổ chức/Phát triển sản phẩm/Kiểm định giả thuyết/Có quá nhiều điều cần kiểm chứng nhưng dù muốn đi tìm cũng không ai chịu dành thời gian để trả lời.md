@@ -3,6 +3,7 @@ share: true
 created: 2023-07-14T11:05
 updated: 2023-11-08T18:17
 ---
+
 [Việc kiểm định giả thuyết thường bị bỏ qua khi có quá nhiều việc](./Vi%E1%BB%87c%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt%20th%C6%B0%E1%BB%9Dng%20b%E1%BB%8B%20b%E1%BB%8F%20qua%20khi%20c%C3%B3%20qu%C3%A1%20nhi%E1%BB%81u%20vi%E1%BB%87c.md)
 
 [Vì ta thường cần người khác cho ý kiến về suy nghĩ của ta, nên ta thường không cho được người khác ý kiến về suy nghĩ của họ](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/V%C3%AC%20ta%20th%C6%B0%E1%BB%9Dng%20c%E1%BA%A7n%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20cho%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20suy%20ngh%C4%A9%20c%E1%BB%A7a%20ta,%20n%C3%AAn%20ta%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20cho%20%C4%91%C6%B0%E1%BB%A3c%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20suy%20ngh%C4%A9%20c%E1%BB%A7a%20h%E1%BB%8D.md)

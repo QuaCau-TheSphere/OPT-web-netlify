@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-19T14:27
 ---
+
 bấm vào bài lời mời vì tò mò
 → để ý tới nghiên cứu người dùng vì mình là người dùng
 → ko nghĩ là giả thiết hoặc thành quả mong muốn con số thật

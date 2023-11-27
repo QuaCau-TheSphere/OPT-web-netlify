@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-13T13:09
 ---
+
 Groupware là phần mềm nhóm, giúp các cá nhân cộng tác trên các dự án với mục tiêu chung từ các địa điểm phân tán về mặt địa lý thông qua giao diện Internet chia sẻ như một phương tiện để giao tiếp trong nhóm[1](https://filegi.com/tech-term/groupware-3057/). Groupware có thể bao gồm hệ thống lưu trữ truy cập từ xa để lưu trữ thường xuyên sử dụng các file dữ liệu[1](https://filegi.com/tech-term/groupware-3057/).
 
 ERP (Enterprise Resource Planning) là hệ thống hoạch định nguồn lực doanh nghiệp. Nhiệm vụ của ERP đó là tạo ra không gian thống nhất, đa chức năng liên kết mọi hoạt động của doanh nghiệp: từ quản trị toàn diện đầu vào, đầu ra; tới lập kế hoạch, thống kê, kiểm soát các nghiệp vụ về sản xuất, tài chính, nhân sự… Nhằm hỗ trợ doanh nghiệp có thể phân tích chuyên sâu dữ liệu và đưa ra các dự báo, hỗ trợ nhà quản lý hoặc các bộ phận tác nghiệp hiệu quả[2](https://itgtechnology.vn/so-sanh-cac-phan-mem-erp-noi-bat-tren-thi-truong-nam-2021/).

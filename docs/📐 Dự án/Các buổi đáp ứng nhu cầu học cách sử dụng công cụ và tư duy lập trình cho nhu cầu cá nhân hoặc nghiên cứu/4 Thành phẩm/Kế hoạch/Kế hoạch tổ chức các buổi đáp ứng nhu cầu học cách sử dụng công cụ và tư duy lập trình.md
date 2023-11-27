@@ -6,6 +6,7 @@ alias:
   - Tổ chức các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình
   - Tổ chức các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu
 ---
+
 # Hướng tiếp cận 1
 | Thành quả mong muốn             | Giả thiết                            | Công việc                                                                                                                                                                 |
 | ------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
+
 Đây là một bài toán khó của khoa học máy tính. Việc hợp tác làm việc chung qua mạng không phải là bất khả; các công cụ như Git rất mạnh, và còn cho bạn thấy được nhiều khả thể hợp tác khác. Nhưng phải mất công học chứ không trực quan được
 
 Thách thức:: [Các nhóm làm việc qua mạng ngày càng nhiều](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/H%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c/C%C3%A1c%20nh%C3%B3m%20l%C3%A0m%20vi%E1%BB%87c%20qua%20m%E1%BA%A1ng%20ng%C3%A0y%20c%C3%A0ng%20nhi%E1%BB%81u.md)

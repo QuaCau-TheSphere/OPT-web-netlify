@@ -3,6 +3,7 @@ share: true
 created: 2023-06-22T12:57
 updated: 2023-10-06T16:09
 ---
+
 “We really weren’t designed to think ahead into the further future because we needed to focus on providing for ourselves in the here and now,” said psychologist Dr. Hal Hershfield, a professor of marketing at the U.C.L.A. Anderson School of Management.
 
 Dr. Hershfield’s research has shown that, on a neural level, we perceive our “future selves” more like strangers than as parts of ourselves. When we procrastinate, parts of our brains actually think that the tasks we’re putting off — and the accompanying negative feelings that await us on the other side — are somebody else’s problem.

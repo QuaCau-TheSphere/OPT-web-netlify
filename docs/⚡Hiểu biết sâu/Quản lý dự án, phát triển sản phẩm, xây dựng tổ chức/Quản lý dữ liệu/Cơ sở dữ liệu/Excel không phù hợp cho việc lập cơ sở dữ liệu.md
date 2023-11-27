@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-13T13:09
 ---
+
 [Excel as a database - Neopoleon](https://www.neopoleon.com/blog/excel-as-a-database/)
 
 https://www.integrify.com/blog/posts/5-things-you-should-stop-doing-with-microsoft-excel/
