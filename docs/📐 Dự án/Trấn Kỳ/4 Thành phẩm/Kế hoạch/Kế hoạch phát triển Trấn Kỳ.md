@@ -7,6 +7,7 @@ aliases:
   - Lên kế hoạch phát triển Trấn Kỳ
 cssClass: wide-table
 ---
+
 # Phương án 1: tìm người dùng
 Mỗi tuần có 20 người trả tiền 
 
