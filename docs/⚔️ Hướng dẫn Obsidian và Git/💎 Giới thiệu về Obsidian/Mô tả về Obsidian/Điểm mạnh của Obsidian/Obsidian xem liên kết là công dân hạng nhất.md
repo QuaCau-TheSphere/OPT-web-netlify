@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
+
 Khi nói rằng **liên kết là công dân hạng nhất**, có lẽ nó cũng tương tự như những cụm từ như "đặt con người làm trung tâm", "lấy học sinh làm trung tâm". Vai trò của việc liên kết thông tin lại cũng đã có quá nhiều người nói rồi, mình không phải nói thêm nữa. [Trong một bài phỏng vấn](https://nesslabs.com/obsidian-featured-tool), tác giả Erica Xu nói rằng tất cả những công cụ ghi chú mà cô đã dùng trước đây đều thiếu một tính năng nào đó khiến cô phải tự gãi ngứa mình. Cô cũng nói rằng cô không thể tin nổi số người đã nói với cô rằng họ cũng từng có ý tưởng làm một cái tương tự như Obsidian.
 
 [Đồ thị giúp thấy được bức tranh tổng thể](./%C4%90%E1%BB%93%20th%E1%BB%8B%20gi%C3%BAp%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%A9c%20tranh%20t%E1%BB%95ng%20th%E1%BB%83.md) 
