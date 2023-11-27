@@ -3,6 +3,7 @@ share: true
 created: 2023-07-22T11:32
 updated: 2023-11-13T13:09
 ---
+
 Ứng dụng quản lý (Line-of-Business, LOB) là loại phần mềm phổ biến nhất đối với doanh nghiệp. Về bản chất, có thể hình dung ứng dụng quản lý là một dạng giao diện giữa người dùng và cơ sở dữ liệu.
 
 Các công việc chính mà một ứng dụng quản lý thực hiện là các thao tác với dữ liệu, bao gồm tạo mới (Create), đọc (Retrieve), cập nhật (Update), và xóa (Delete). Vì vậy, các ứng dụng quản lý cũng thường được gọi là những ứng dụng CRUD.
