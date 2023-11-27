@@ -2,7 +2,9 @@
 share: true
 created: 2023-05-26T14:51
 updated: 2023-11-06T20:35
+title: Discord QC
 ---
+
 Phục vụ cho thành quả:
 
 https://github.com/QuaCau-TheSphere/Nhap-mon-Obsidian-va-Git-cho-quan-ly-du-an/graphs/traffic
