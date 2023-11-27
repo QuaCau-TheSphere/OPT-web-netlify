@@ -3,6 +3,7 @@ share: true
 created: 2023-05-31T13:32
 updated: 2023-10-06T16:09
 ---
+
 Nếu phân nào cần nhiều chữ thì có thế để vào phụ lục hoặc bài viết sâu.
 [Lectures, as a format, are shaped as if tranmissionism were true, so lecturers mostly behave as if it were true](../../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Lectures,%20as%20a%20format,%20are%20shaped%20as%20if%20tranmissionism%20were%20true,%20so%20lecturers%20mostly%20behave%20as%20if%20it%20were%20true.md)
 
