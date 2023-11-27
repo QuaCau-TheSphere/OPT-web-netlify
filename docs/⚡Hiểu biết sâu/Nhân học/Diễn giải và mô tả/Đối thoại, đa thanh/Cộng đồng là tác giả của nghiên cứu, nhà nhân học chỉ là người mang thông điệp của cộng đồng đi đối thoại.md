@@ -3,6 +3,7 @@ share: true
 created: 2023-09-11T21:31
 updated: 2023-11-13T22:00
 ---
+
 Lý do:: [Sự kiểm soát của người bản xứ đối với những kiến thức có được trong quá trình thực địa là khá đáng kể, và thậm chí là có tính quyết định](../Di%E1%BB%85n%20gi%E1%BA%A3i/S%E1%BB%B1%20ki%E1%BB%83m%20so%C3%A1t%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A3n%20x%E1%BB%A9%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ki%E1%BA%BFn%20th%E1%BB%A9c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20trong%20qu%C3%A1%20tr%C3%ACnh%20th%E1%BB%B1c%20%C4%91%E1%BB%8Ba%20l%C3%A0%20kh%C3%A1%20%C4%91%C3%A1ng%20k%E1%BB%83,%20v%C3%A0%20th%E1%BA%ADm%20ch%C3%AD%20l%C3%A0%20c%C3%B3%20t%C3%ADnh%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md)
 Lý do:: [Quá trình nghiên cứu nói chung là một sự thương thảo diễn ra liên tục](Qu%C3%A1%20tr%C3%ACnh%20nghi%C3%AAn%20c%E1%BB%A9u%20n%C3%B3i%20chung%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%B1%20th%C6%B0%C6%A1ng%20th%E1%BA%A3o%20di%E1%BB%85n%20ra%20li%C3%AAn%20t%E1%BB%A5c.md) 
 
@@ -17,4 +18,4 @@ Thời kỳ đầu nhà nhân học là người chú giải rất quyền uy. "
 [Mỗi xã hội chứa đựng những cách diễn giải của riêng nó. Công việc của nhà nhân học là học cách bước vào những cách diễn giải đó](../Di%E1%BB%85n%20gi%E1%BA%A3i/M%E1%BB%97i%20x%C3%A3%20h%E1%BB%99i%20ch%E1%BB%A9a%20%C4%91%E1%BB%B1ng%20nh%E1%BB%AFng%20c%C3%A1ch%20di%E1%BB%85n%20gi%E1%BA%A3i%20c%E1%BB%A7a%20ri%C3%AAng%20n%C3%B3.%20C%C3%B4ng%20vi%E1%BB%87c%20c%E1%BB%A7a%20nh%C3%A0%20nh%C3%A2n%20h%E1%BB%8Dc%20l%C3%A0%20h%E1%BB%8Dc%20c%C3%A1ch%20b%C6%B0%E1%BB%9Bc%20v%C3%A0o%20nh%E1%BB%AFng%20c%C3%A1ch%20di%E1%BB%85n%20gi%E1%BA%A3i%20%C4%91%C3%B3.md) 
 
 Nguồn:: [Nguyễn Đức Lộc](../../../%CE%9E%20Ngu%E1%BB%93n/Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20L%E1%BB%99c.md)
-[Các dự án xã hội không tập trung vào việc đối thoại với người bên cạnh mình](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20sinh%20th%C3%A1i/C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20x%C3%A3%20h%E1%BB%99i%20kh%C3%B4ng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20vi%E1%BB%87c%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20b%C3%AAn%20c%E1%BA%A1nh%20m%C3%ACnh.md)
+[Các dự án xã hội không tập trung vào việc đối thoại với người bên cạnh mình](../../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%95%20ch%E1%BB%A9c%20x%C3%A3%20h%E1%BB%99i/C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20x%C3%A3%20h%E1%BB%99i%20kh%C3%B4ng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20vi%E1%BB%87c%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20b%C3%AAn%20c%E1%BA%A1nh%20m%C3%ACnh.md)
