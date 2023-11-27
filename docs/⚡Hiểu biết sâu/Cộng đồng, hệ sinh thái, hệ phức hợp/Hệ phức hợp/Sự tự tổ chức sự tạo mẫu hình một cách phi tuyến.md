@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
+
 Khái niệm:: [Mẫu hình (pattern)](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%E1%BA%ABu%20h%C3%ACnh%20(pattern).md)
 
 Sự tự tổ chức sự tạo mẫu hình một cách phi tuyến. Cùng một kích thích đầu vào, nếu hệ chưa có đủ sự đồng bộ thì có kích thích cả ngàn lần vẫn không có tác dụng, nhưng khi đang ở trạng thái đó rồi thì sẽ lan ra cả hệ qua các vòng lặp phản hồi 
