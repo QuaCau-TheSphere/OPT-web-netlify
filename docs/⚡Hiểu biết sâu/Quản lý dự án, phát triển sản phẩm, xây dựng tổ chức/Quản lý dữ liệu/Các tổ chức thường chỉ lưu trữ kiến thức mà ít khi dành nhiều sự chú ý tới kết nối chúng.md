@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-13T13:08
 ---
+
 There are two reasons for that behavior:
 
 1.  Most note-taking/wiki software doesn’t have good enough tools to create, navigate, and manage connections.
