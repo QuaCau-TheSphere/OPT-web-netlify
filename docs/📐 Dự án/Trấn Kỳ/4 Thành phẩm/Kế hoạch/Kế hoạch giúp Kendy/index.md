@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-04T14:04
-updated: 2023-11-25T15:33
+updated: 2023-11-25T22:33
 tags:
   - file_thành-phẩm_bài-viết
   - file_thành-phẩm_kế-hoạch-tổng
@@ -25,7 +25,7 @@ Xem thêm:: [Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con 
 | Thành quả mong muốn      | Giả thiết                                               | Công việc                                           |
 | ------------------------ | ------------------------------------------------------- | --------------------------------------------------- |
 | Ngân hàng cấp tín dụng   | Ngân hàng thấy tài khoản lúc nào có nhiều tiền nhàn rỗi | [Tìm nguồn có thể cho mượn 100tr trong vài tháng](./T%C3%ACm%20ngu%E1%BB%93n%20c%C3%B3%20th%E1%BB%83%20cho%20m%C6%B0%E1%BB%A3n%20100tr%20trong%20v%C3%A0i%20th%C3%A1ng.md) |
-| Thời hạn nợ được giãn ra | Các chủ nợ đồng ý lùi thời hạn trả nợ                   | [Đi năn nỉ](./%C4%90i%20n%C4%83n%20n%E1%BB%89.md)                                           |
+| Thời hạn nợ được giãn ra | Các chủ nợ đồng ý lùi thời hạn trả nợ                   | [Đi năn nỉ](./%C4%90i%20n%C4%83n%20n%E1%BB%89.md)                                       |
 
 # Phương án 3: tạo nguồn thu nhập khác ngoài Trấn Kỳ
 | Thành quả mong muốn                    | Giả thiết                                              | Công việc                                                                                 |
@@ -33,7 +33,9 @@ Xem thêm:: [Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con 
 | [Mỗi tháng thu được 40tr để trả lãi](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/M%E1%BB%97i%20th%C3%A1ng%20thu%20%C4%91%C6%B0%E1%BB%A3c%2040tr%20%C4%91%E1%BB%83%20tr%E1%BA%A3%20l%C3%A3i.md) | Có thể làm được hết tất cả mọi việc chỉ bằng một người | [Xây dựng mô hình kinh doanh một người](./X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20kinh%20doanh%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md)                                                 |
 | Cộng đồng tham gia giúp đỡ Kendy       |                                                        | [Xây dựng cộng đồng phát triển Trấn Kỳ](../K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) |
 
-# Phương án 4: giảm vai trò của tiền ở các nhu cầu sống khác
+# Phương án 4: hỗ trợ những người đang trực tiếp hỗ trợ Kendy
+
+# Phương án 5: giảm vai trò của tiền ở các nhu cầu sống khác
 | Thành quả mong muốn                    | Giả thiết                                       | Công việc              |
 | -------------------------------------- | ----------------------------------------------- | ---------------------- |
 | Chi phí cho ăn uống giảm xuống một nửa | Có nền tảng để những người có dư đồ ăn đem tặng | Làm việc với FoodShare |

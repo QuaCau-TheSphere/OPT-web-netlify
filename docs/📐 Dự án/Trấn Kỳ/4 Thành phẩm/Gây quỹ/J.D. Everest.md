@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-25T13:47
 alias: jdeverest
+updated: 2023-11-26T22:17
 ---
 
 # Buổi gặp 1
@@ -66,12 +66,25 @@ một bạn dùng nó với mục đích phân loại file khi làm phim tài li
 Bước vào cuộc nói chuyện với việc muốn gặp bạn cũ, nhưng nó bước ra khỏi cuộc nói chuyện đó bằng một cơ hội đầu tư hấp dẫn
 
 # Buổi 3
+- [ ] Các buổi làm việc của chúng ta sẽ thế nào? Một tuần gặp bao nhiêu lần? 
+- [ ] Dự đoán bao lâu thì sẽ bán được hợp đồng đầu tiên? Giá trị khoảng bao nhiêu? Làm sao để đảm bảo bọn em giữ được đúng số tiền?
+- [ ] Điều gì khiến em đảm bảo là bên anh sẽ chịu bán hàng? Mọi người có thể không bán gì cả nhưng vẫn ăn được tiền
 - [ ] Có dự án nào anh thấy scale được nhưng anh cũng vẫn từ chối ko?
 - [ ] Đâu là mức anh nghĩ là không còn đáng để anh đầu tư?
-- [ ] Anh đã đầu tư bao nhiêu dự án rồi?
+- [ ] Có những thứ gì anh đã hy sinh scale để có nó? 
+	- [ ] Nếu là để làm truyền thông, thương hiệu thì anh muốn hướng đến những đối tượng nào? 
+	- [ ] CSR
+	- [ ] Nếu là những người có chuyên môn về phát triển cộng đồng thì anh thấy sao? 
 - [ ] Điều gì khiến mình có thể chiếm lĩnh thị trường tốt hơn MoneyLover?
-- [ ] Chiến lược truyền thông của mình là thế nào? Các kênh truyền thông nào bên mình có thể lên? Hiệu quả truyền thông ở các dự án trước là thế nào?
-- [ ] Điều gì khiến anh đầu tư vào Việt Sử Liên Minh, ROSSOR, Music Light? Chúng scale được thế nào? Anh biết họ thế nào?
+- [ ] Điều gì khiến anh đầu tư vào Việt Sử Liên Minh, ROSSOR, Music Light? Chúng scale được thế nào? 
+	- [ ] Anh biết họ thế nào? 
+	- [ ] Bên anh bán những thứ gì? 
+- [ ] Bọn em có quyền quy định vào văn hoá công ty thế nào?
+	- [ ] Bọn em quyết định tốc độ làm việc. Nếu có điều khoản yêu cầu khách hàng chờ thì có được không?
+
+Mời mọi người thuyết phục em rằng làm việc với mọi người là điều tốt nhất cho Trí
+Chúng ta cũng đầu tư thời gian vào cho nhau rồi. Bây giờ mà lại không thành thì cũng phí cho cả hai. Nhưng cũng không thể vì thấy phí
+
 - [ ] Anh đã đầu tư vào startup tech nào rồi?
 - [ ] Điều gì ngăn anh không tham gia rồi ăn cắp code?
-- [ ] Rốt cuộc hình thức của mình là gì?
+- [ ] Rốt cuộc hình thức của mình là gì? Vì bọn anh không đầu tư tiền mà đầu tư công sức, lại còn quyết định cả kế hoạch thì đó là coreteam luôn rồi? Nếu như bọn em không ra quyết định được thì thực chất bọn em chỉ là thuê ngoài của tụi anh thôi?
