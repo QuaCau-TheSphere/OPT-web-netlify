@@ -5,7 +5,9 @@ alias:
   - C Obsidian, quản lý dự án và công cụ nghĩ
 created: 2023-06-25T19:58
 updated: 2023-11-01T22:43
+title: 🌟 Mở đầu
 ---
+
   
 ![200](./assets/attachments/logo.svg)
 
