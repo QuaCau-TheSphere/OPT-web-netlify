@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-11-09T16:16
 ---
+
 - You must show them scalable and sustainable opportunities
 - Demonstrate awareness of comprehensive business management
 - You must create confidence that youưqq221b understand boring business operations
