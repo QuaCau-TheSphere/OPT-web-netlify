@@ -4,6 +4,7 @@ description: 3 yếu tố để một người trở thành chuyên gia":" (1) D
 created: 2023-07-26T10:33
 updated: 2023-10-27T18:59
 ---
+
 Khái niệm:: [Mẫu hình (pattern)](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%E1%BA%ABu%20h%C3%ACnh%20(pattern).md)
 Để một người trở thành chuyên gia trong một lĩnh vực nào đó (ví dụ ở đây là tài chính), thì cần hội đủ 4 yếu tố sau:
 
