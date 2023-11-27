@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-27T18:59
 ---
+
 Chính vì như vậy nên nó chỉ tập trung vào các ngành dịch vụ, không tập trung vào các ngành như công tác xã hội
 
 [Công việc chăm sóc không lương được gán cho là không có giá trị về kinh tế bất chấp một thực tế về những đóng góp to lớn của công việc này cho nền kinh tế và xã hội](./C%C3%B4ng%20vi%E1%BB%87c%20ch%C4%83m%20s%C3%B3c%20kh%C3%B4ng%20l%C6%B0%C6%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%A1n%20cho%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20gi%C3%A1%20tr%E1%BB%8B%20v%E1%BB%81%20kinh%20t%E1%BA%BF%20b%E1%BA%A5t%20ch%E1%BA%A5p%20m%E1%BB%99t%20th%E1%BB%B1c%20t%E1%BA%BF%20v%E1%BB%81%20nh%E1%BB%AFng%20%C4%91%C3%B3ng%20g%C3%B3p%20to%20l%E1%BB%9Bn%20c%E1%BB%A7a%20c%C3%B4ng%20vi%E1%BB%87c%20n%C3%A0y%20cho%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%C3%A0%20x%C3%A3%20h%E1%BB%99i.md)
