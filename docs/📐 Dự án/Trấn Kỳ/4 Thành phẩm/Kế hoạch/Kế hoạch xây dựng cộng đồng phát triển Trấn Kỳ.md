@@ -6,6 +6,7 @@ alias:
   - Xây dựng cộng đồng phát triển Trấn Kỳ
 ---
 
+
 | Thành quả mong muốn                                                                                           | Giả thiết                                                              | Công việc                                                                                     |
 | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Mỗi tuần có 10 người tham gia phát triển Trấn Kỳ](../../3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%97i%20tu%E1%BA%A7n%20c%C3%B3%2010%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)                                                          | Cứ 2 người nhắn tin thì 1 người nhận việc                              | [Xây dựng cộng đồng phát triển Trấn Kỳ](K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)     |
