@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-13T22:18
 ---
+
 F+G+%C2%BB+Data%20Science%20%26%20Big%20Data%20Vietnam
 # [Phân loại câu nhập bằng tiếng Việt tự nhiên](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=F+G+%C2%BB+Launch&utm_medium=social&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=ti%C3%AAu+%C4%91%E1%BB%81) 
 Bạn có cảm thấy chán nản, mất năng lượng vì phải tốn quá nhiều thời gian để phân loại chi tiêu cũng như các loại dữ liệu khác không? Nay đã có Trấn Kỳ. Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:
@@ -152,6 +153,6 @@ https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPap
 ![Giao diện khởi động](https://i.imgur.com/rBe2iQ9.png)
 
 ---
-[10-11](10-11.md) Đăng trên [Dạy Nhau Học](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/D%E1%BA%A1y%20Nhau%20H%E1%BB%8Dc.md) 
+[10-11](10-11.md) Đăng trên [Dạy Nhau Học](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/D%E1%BA%A1y%20Nhau%20H%E1%BB%8Dc.md) 
 [10-11](10-11.md) Đăng trên [Tự học Data](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/T%E1%BB%B1%20h%E1%BB%8Dc%20Data.md) 
 [13-11](13-11.md) chờ duyệt [Cộng đồng FOSS Việt Nam](https://www.facebook.com/groups/fossvietnam/?__cft__[0]=AZVmMHpHWot4eQZeXt99FWS_auP15vxtV4mZgPuiKbd-PT3tyNgckHNjSp5flPs50wj-eSt1aRYBTjj0_rKMi5wsWUD3NAHJ1WLUZlnFWJRN1e8vQYgROT7vMVj3dMOuvBSxElxHr9Z4pRa4DoFFAQrZliRfduIlz4BItJPAqZYnPg&__tn__=-UC%2CP-R)
