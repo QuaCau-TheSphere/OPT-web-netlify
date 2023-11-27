@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-10-07T22:19
 ---
+
 Khái niệm:: [Đánh đổi](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i.md)
 Common challenges and trade-offs in Software design and architecture
 
