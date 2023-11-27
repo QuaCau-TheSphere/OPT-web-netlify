@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-10-18T17:25
 ---
+
 Khái niệm:: [Không gian](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kh%C3%B4ng%20gian.md)
 Đó chính là lý do [Lập trình thực ra là dùng ẩn dụ](./L%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BB%B1c%20ra%20l%C3%A0%20d%C3%B9ng%20%E1%BA%A9n%20d%E1%BB%A5.md). [Các ẩn dụ tri nhận cơ bản dựa trên mối tương quan của cơ thể và xung quanh](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5/C%C3%A1c%20%E1%BA%A9n%20d%E1%BB%A5%20tri%20nh%E1%BA%ADn%20c%C6%A1%20b%E1%BA%A3n%20d%E1%BB%B1a%20tr%C3%AAn%20m%E1%BB%91i%20t%C6%B0%C6%A1ng%20quan%20c%E1%BB%A7a%20c%C6%A1%20th%E1%BB%83%20v%C3%A0%20xung%20quanh.md).
 
