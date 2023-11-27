@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
+
 Hầu hết các đại diện doanh nghiệp được tôi hỏi đều trả lời rằng họ “chưa bao giờ hài lòng”. Câu trả lời này lặp lại và ám ảnh tôi mãi.
 
 Thật đau xót khi thừa nhận rằng: điều khiến những chiến dịch CSR thất bại, là vì chúng được thiết kế để tạo ra một cái cớ cho PR. Khi doanh nghiệp cần một “chất liệu truyền thông” để tô màu cho lời hứa của chính mình.
