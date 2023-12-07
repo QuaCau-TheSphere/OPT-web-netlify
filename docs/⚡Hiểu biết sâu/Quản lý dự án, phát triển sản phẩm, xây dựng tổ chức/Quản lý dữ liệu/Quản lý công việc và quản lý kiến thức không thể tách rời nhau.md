@@ -1,14 +1,15 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-13T13:10
+updated: 2023-12-06T16:34
 ---
 
 Lý do:: [Công việc khai phá chính là quản lý kiến thức](../C%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20ch%C3%ADnh%20l%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md) 
-[❓Quản lý cuộc sống có phải là quản lý dự án？Công việc và cuộc sống có phải là không thể tách rời nhau？](../C%C3%B4ng%20vi%E1%BB%87c/%E2%9D%93Qu%E1%BA%A3n%20l%C3%BD%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%EF%BC%9FC%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau%EF%BC%9F.md)
+[Công việc và cuộc sống không thể tách rời nhau](../C%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20cu%E1%BB%99c%20s%E1%BB%91ng%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau.md)
 
 [Công việc khai phá và công việc khai thác](../C%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)
 [Insight through making](../C%C3%B4ng%20vi%E1%BB%87c/Insight%20through%20making.md) 
+[Ý tưởng sinh ra không theo độ khẩn cấp](../C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20sinh%20ra%20kh%C3%B4ng%20theo%20%C4%91%E1%BB%99%20kh%E1%BA%A9n%20c%E1%BA%A5p.md)
 Thách thức:: [Obsidian không mạnh về quản lý công việc](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B4ng%20m%E1%BA%A1nh%20v%E1%BB%81%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
 ---

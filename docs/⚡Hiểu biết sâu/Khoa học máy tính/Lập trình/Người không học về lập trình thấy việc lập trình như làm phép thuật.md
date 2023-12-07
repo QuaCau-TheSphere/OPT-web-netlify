@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-18T17:17
+updated: 2023-12-03T22:03
 ---
 
 Nguồn:: [Maggie Appleton](../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Maggie%20Appleton.md)
@@ -11,3 +11,5 @@ Trong cái thời đại của 4.0 này, [Lập trình là một cái gì đó t
 Có thể lý do là vì [Ngành kỹ thuật phần mềm không có một ngôn ngữ thị giác chung](./Ng%C3%A0nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%B4ng%20c%C3%B3%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20th%E1%BB%8B%20gi%C3%A1c%20chung.md). Hệ quả của việc này là [Khi lạc trong một thành phố, ta mở bản đồ lên coi và định vị được bức tranh tổng thể. Khi lạc trong code, ta mở UML lên và càng thấy rối hơn](./Khi%20l%E1%BA%A1c%20trong%20m%E1%BB%99t%20th%C3%A0nh%20ph%E1%BB%91,%20ta%20m%E1%BB%9F%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20l%C3%AAn%20coi%20v%C3%A0%20%C4%91%E1%BB%8Bnh%20v%E1%BB%8B%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%A9c%20tranh%20t%E1%BB%95ng%20th%E1%BB%83.%20Khi%20l%E1%BA%A1c%20trong%20code,%20ta%20m%E1%BB%9F%20UML%20l%C3%AAn%20v%C3%A0%20c%C3%A0ng%20th%E1%BA%A5y%20r%E1%BB%91i%20h%C6%A1n.md)
 
 Khi một người cảm thấy mình mù công nghệ, và chấp nhận rằng mình sẽ chẳng hiểu gì về công nghệ cả, thì họ đang có một sự bất lực học được.
+
+[Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/C%C3%B3%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ta%20r%E1%BA%A5t%20mu%E1%BB%91n%20c%C3%B3%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%C6%B0ng%20m%C3%A3i%20m%C3%A0%20v%E1%BA%ABn%20ch%C6%B0a%20%C4%91i%20google.md)
