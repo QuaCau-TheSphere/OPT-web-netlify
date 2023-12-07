@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
+
 - [ ] Xem nội dung họp trong lịch họp hằng tuần
 - [ ] Lên danh sách chủ đề các buổi họp để mọi người lựa chọn
 - [ ] Đăng thông báo lên group
@@ -18,7 +19,7 @@ Nếu có mời đối tác khác vào họp chung:
 - [ ] Chuẩn bị phiếu khảo sát nhu cầu của họ
 - [ ] Gửi cho các bên nội dung họp
 
-[[./Kinh nghiệm setup khi có cả online và offline|Nếu có thành viên online thì cần đảm bảo]]:
+[Nếu có thành viên online thì cần đảm bảo](./Kinh%20nghi%E1%BB%87m%20setup%20khi%20c%C3%B3%20c%E1%BA%A3%20online%20v%C3%A0%20offline.md):
 - [ ] Mở trước 5 phút
 - [ ] Camera quan sát được cả nhóm
 - [ ] Mic và loa rõ

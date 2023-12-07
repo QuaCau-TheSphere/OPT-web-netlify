@@ -3,6 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-10-12T20:25
 ---
+
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md)
 
 Trong thần thoại Hy Lạp, nhân vật *Hermes* là sứ giả của các vị thần. Nhân vật này có sứ mạng truyền lại con người biết những phán quyết và dự án của các vị thần linh. Hermes trở thành trung gian giữa thế giới thần linh và con người, giúp xoá đi hố sâu ngăn cách giữa thế giới thần linh và con người khả tử.

@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-27T21:28
+updated: 2023-11-12T16:43
 tags:
   - file_thành-phẩm
+title: Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng
 ---
 
 %%

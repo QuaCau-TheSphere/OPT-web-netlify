@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-18T17:17
 ---
+
 Nguồn:: [Maggie Appleton](../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Maggie%20Appleton.md)
 
 Trong cái thời đại của 4.0 này, [Lập trình là một cái gì đó thâm nhập vào đời sống của chúng ta, nhưng lại gần như vô hình](./L%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3%20th%C3%A2m%20nh%E1%BA%ADp%20v%C3%A0o%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20ch%C3%BAng%20ta,%20nh%C6%B0ng%20l%E1%BA%A1i%20g%E1%BA%A7n%20nh%C6%B0%20v%C3%B4%20h%C3%ACnh.md). Thật là một nghịch lý khi một mặt [Lập trình viên biết lập trình chủ yếu là nhờ biết google](./L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20ch%E1%BB%A7%20y%E1%BA%BFu%20l%C3%A0%20nh%E1%BB%9D%20bi%E1%BA%BFt%20google.md), nhưng mặt khác [Người không học về lập trình thấy việc lập trình như làm phép thuật](Ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20h%E1%BB%8Dc%20v%E1%BB%81%20l%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BA%A5y%20vi%E1%BB%87c%20l%E1%BA%ADp%20tr%C3%ACnh%20nh%C6%B0%20l%C3%A0m%20ph%C3%A9p%20thu%E1%BA%ADt.md). Tại sao các ngành khác không có được sự vị trí đó, khi mà điều kiện để một người có thể thông thạo trong ngành lập trình là cũng đủ để họ có thể thông thạo những ngành khác? 

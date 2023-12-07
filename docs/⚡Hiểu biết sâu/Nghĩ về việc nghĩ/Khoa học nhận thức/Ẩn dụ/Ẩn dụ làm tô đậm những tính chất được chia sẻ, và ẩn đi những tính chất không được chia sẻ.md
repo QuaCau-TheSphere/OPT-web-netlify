@@ -3,6 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-11T11:26
 ---
+
 Khái niệm:: [Ẩn dụ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%E1%BA%A8n%20d%E1%BB%A5.md)
 ![](https://res.cloudinary.com/dxj9qr5gj/image/upload/c_scale,f_auto,q_auto:good,w_1200/v1632316505/maggieappleton.com/essays/drawing-invisibles/frame_shrink_irt2qv.png)
 ![](https://res.cloudinary.com/dxj9qr5gj/image/upload/v1632316505/maggieappleton.com/essays/drawing-invisibles/hide-highlight_shrink_ljkonq.png) 

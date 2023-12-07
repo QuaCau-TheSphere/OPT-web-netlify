@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-07-25T10:54
-updated: 2023-10-28T11:50
+updated: 2023-11-07T16:02
 ---
+
 # Mục tiêu
 Đây là một vault Obsidian dành riêng cho người Việt với mục tiêu:
 - Hỗ trợ những ai chưa từng làm quen với Obsidian và Git cũng như kiến thức về phát triển sản phẩm có thể nhanh chóng học những ứng dụng và kiến thức này từng bước một để làm một kho dữ liệu quản lý dự án. Bạn có thể dùng vault này để tự học hoặc như một giáo án để hỗ trợ bạn bè của mình ([⚔️ Hướng dẫn Obsidian và Git](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/index.md)) 
@@ -19,6 +20,7 @@ Những vấn đề mà một dự án nhỏ, không có nhiều tiền và cả
 
 Không phát minh lại bánh xe, cái nào người khác làm rồi mà làm hay hơn mình thì chỉ dẫn link hoặc copy
 
+Là nơi để mọi người biết được thêm về các chuyên ngành khác, tránh việc phân mảnh kiến thức
 Để hiểu thêm về động lực thực hiện dự án này, xem bài [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](./T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md)
 
 # Cách tổ chức dữ liệu
@@ -26,7 +28,7 @@ Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng 
 
 [Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/Evergreen%20notes%20bi%E1%BA%BFn%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20tr%E1%BB%9F%20th%C3%A0nh%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%83%20m%C3%ACnh%20thao%20t%C3%A1c.md)
 
-Giới thiệu khái niệm như trong [Lập trình](../../../../L%E1%BA%ADp%20tr%C3%ACnh.md), so sánh sự khác nhau. Vì thực chất thuật ngữ mới là thứ người mới cảm thấy loạn, rối, mất phương hướng. Ngoài việc khi tiếp cận một lĩnh vực mới ta thấy những thuật ngữ, khái niệm khó nhó, mà sự tiện lợi của người đã hiểu rồi và lịch sử phát triển của lĩnh vực cũng tạo nên sự rối rắm đó. 
+Giới thiệu khái niệm như trong [Lập trình](L%E1%BA%ADp%20tr%C3%ACnh.md), so sánh sự khác nhau. Vì thực chất thuật ngữ mới là thứ người mới cảm thấy loạn, rối, mất phương hướng. Ngoài việc khi tiếp cận một lĩnh vực mới ta thấy những thuật ngữ, khái niệm khó nhó, mà sự tiện lợi của người đã hiểu rồi và lịch sử phát triển của lĩnh vực cũng tạo nên sự rối rắm đó. 
 Chú trọng ghi lại những mối quan hệ giữa các khái niệm, chứ không cố gắng giải thích khái niệm đó là gì. Cái nào không quá khó để mò hoặc google ra thì không ghi. Cái nào phải loay hoay một lúc mới nhận ra thì sẽ ghi
 
 Đa phần ghi chú trong đây đều ở trạng thái chưa hoàn thiện. Thứ cần được hoàn thiện là sự liên kết giữa các trang và nội dung một số trang hay được đọc và chia sẻ nhiều.

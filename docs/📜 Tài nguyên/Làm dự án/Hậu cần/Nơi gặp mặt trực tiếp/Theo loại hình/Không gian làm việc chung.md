@@ -4,6 +4,7 @@ updated: 2023-10-22T13:15
 share: true
 ---
 
+
 Giá rẻ:: 
 Wifi, ổ điện:: ✔
 Nhà vệ sinh:: ✔

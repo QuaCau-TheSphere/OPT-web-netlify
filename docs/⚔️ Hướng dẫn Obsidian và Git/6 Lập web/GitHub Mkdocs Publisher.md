@@ -35,5 +35,5 @@ Những file nào ko muốn cho hiện lên thì bỏ `share: true` trong yaml �
 - Cloudflare
 - Netlify
 
-[[../../📜 Tài nguyên/Làm dự án/Web/Web tĩnh/Mkdocs giúp dựng một web tĩnh từ các file markdown|Mkdocs giúp dựng một web tĩnh từ các file markdown]]
+[Mkdocs giúp dựng một web tĩnh từ các file markdown](Mkdocs%20gi%C3%BAp%20d%E1%BB%B1ng%20m%E1%BB%99t%20web%20t%C4%A9nh%20t%E1%BB%AB%20c%C3%A1c%20file%20markdown.md)
 > [!tip] Mẹo

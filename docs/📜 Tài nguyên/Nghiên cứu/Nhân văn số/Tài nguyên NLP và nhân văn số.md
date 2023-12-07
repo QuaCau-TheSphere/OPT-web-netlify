@@ -1,15 +1,16 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-06T16:09
+updated: 2023-11-10T15:58
 ---
+
 Giới thiệu về nhân văn số (digital humanities) 
-[[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng, NLP/Mô hình/Nhân văn số sử dụng mô hình chủ đề rất nhiều|Nhân văn số sử dụng mô hình chủ đề rất nhiều]]
+[Nhân văn số sử dụng mô hình chủ đề rất nhiều](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20NLP/M%C3%B4%20h%C3%ACnh/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)
 Nhiều dự án nhăn văn số rồi, nên chỉ tập trung vào các tài liệu giúp hướng dẫn một người 
 [Nhân văn số thức: Một lát cắt của xã hội toàn cầu - Tạp chí Tia sáng](https://tiasang.com.vn/khoa-hoc-cong-nghe/nhan-van-so-thuc-mot-lat-cat-cua-xa-hoi-toan-cau-11139/)
 # Sản phẩm
 ## [Đồ thị mạng lưới 100+ niềm tin](https://xn--qucu-hr5aza.cc/phan-tich-mot-mang-luoi-100-niem-tin/?utm_source=CV+%C2%BB+T%C3%A0i+nguy%C3%AAn+NLP+v%C3%A0+nh%C3%A2n+v%C4%83n+s%E1%BB%91&utm_medium=Ph%C3%A2n+t%C3%ADch+m%E1%BB%99t+m%E1%BA%A1ng+l%C6%B0%E1%BB%9Bi+100%2B+ni%E1%BB%81m+tin&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2) 
-![[../../../assets/attachments/Đồ thị 100+ niềm tin.gif|Đồ thị 100+ niềm tin.gif]]
+![Đồ thị 100+ niềm tin.gif](../../../assets/attachments/%C4%90%E1%BB%93%20th%E1%BB%8B%20100+%20ni%E1%BB%81m%20tin.gif)
 
 ## [Heurist Network](https://heuristnetwork.org/): quản lý cơ sở dữ liệu mã nguồn mở 
 ![Video](https://www.youtube.com/watch?v=wuh9SRtE8eE&width=640&height=480)

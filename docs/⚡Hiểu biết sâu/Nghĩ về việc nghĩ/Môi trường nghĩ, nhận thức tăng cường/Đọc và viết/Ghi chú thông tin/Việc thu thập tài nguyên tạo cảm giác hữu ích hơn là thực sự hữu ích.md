@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-06T16:09
+updated: 2023-12-01T19:35
 ---
+
 [Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó](Ta%20th%C6%B0%C6%A1%CC%80ng%20kh%C3%B4ng%20s%C4%83%CC%83n%20sa%CC%80ng%20%C4%91%C3%AA%CC%89%20%C4%91o%CC%A3c%20m%C3%B4%CC%A3t%20ta%CC%80i%20li%C3%AA%CC%A3u%20khi%20ta%20m%C6%A1%CC%81i%20th%C3%A2%CC%81y%20no%CC%81.md)
 
 Nguồn:: [Andy Matuschak](../../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Andy%20Matuschak.md), [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8)
@@ -38,3 +39,5 @@ Often a good compromise is to use spaced repetition to cheaply internalize a few
 [Kidd, A. (1994). The marks are on the knowledge worker. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 186–191](https://notes.andymatuschak.org/zcvfLrDy5Fc5V2gX6CTUVqxPnW55psKEEGQ)
 
 > The marks which can make a difference to their organisations are on the knowledge workers not on the pieces of paper. This is what it means to inform - to change the form of a person or a device such that they act differently (ideally more effectively) on their environment.
+
+[Hiểu biết không chỉ để mình làm một cái gì đó, mà còn để mình không làm một cái gì đó](../../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20ch%E1%BB%89%20%C4%91%E1%BB%83%20m%C3%ACnh%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3,%20m%C3%A0%20c%C3%B2n%20%C4%91%E1%BB%83%20m%C3%ACnh%20kh%C3%B4ng%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3.md). [Hiểu biết sâu làm ta thấy khoái cảm](../../../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u%20l%C3%A0m%20ta%20th%E1%BA%A5y%20kho%C3%A1i%20c%E1%BA%A3m.md). [Sự trì hoãn giúp giảm những hệ quả không lường trước được](../../../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n%20gi%C3%BAp%20gi%E1%BA%A3m%20nh%E1%BB%AFng%20h%E1%BB%87%20qu%E1%BA%A3%20kh%C3%B4ng%20l%C6%B0%E1%BB%9Dng%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C6%B0%E1%BB%A3c.md)
