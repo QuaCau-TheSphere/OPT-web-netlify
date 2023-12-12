@@ -1,10 +1,23 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-06T22:10
+updated: 2023-12-10T21:56
 alias:
   - Xây dựng cộng đồng phát triển Trấn Kỳ
 ---
+
+| Giải pháp gợi ý                                    | Hành vi cần đạt được | Giả thiết | Công việc |
+| -------------------------------------------------- | -------------------- | --------- | --------- |
+| Chuyển đổi từ những người muốn xây dựng PKM        |                      |           |           |
+| Chuyển đổi từ những người muốn tự học lập trình    |                      |           |           |
+| Chuyển đổi từ những người trong Discord QC         |                      |           |           |
+| Chuyển đổi từ những người muốn hỗ trợ Kendy        |                      |           |           |
+| Chuyển đổi từ những người muốn hỗ trợ người mắc nợ |                      |           |           |
+| Chuyển đổi từ những người đến C Lập trình          |                      |           |           |
+| Chuyển đổi từ những người đến C Obsidian           |                      |           |           |
+| Chuyển đổi từ những người đến quảcầu.cc            |                      |           |           |
+| Chuyển đổi từ bạn bè QC                            |                      |           |           |
+| Chuyển đổi từ những người theo dõi QC              |                      |           |           |
 
 Mọi người thấy đọc được tới bài tham gia
 
@@ -15,4 +28,4 @@ Mọi người thấy đọc được tới bài tham gia
 | Mỗi tuần có 40 click vào thread Trấn Kỳ trên Discord Quả Cầu                                                  | Cứ 5 engaged session ở bài "Lời mời" thì có 2 click vào thread Trấn Kỳ | Chào hỏi người mới tham gia                                                                                    |
 | Mỗi ngày có 100 engaged session ở bài [Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm](../../9%20Blog/L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup%20%C4%91%E1%BB%83%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20s%E1%BA%BD%20l%C3%A0m.md) |                                                                        | Tổ chức các buổi thảo luận                                                                                     |
 
-từ chưa tỉnh thức đến tỉnh thức ít nhất cũng 2 năm
+[Cộng đồng từ chưa tỉnh thức đến tỉnh thức ít nhất cũng 2 năm](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Truy%E1%BB%81n%20th%C3%B4ng,%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20t%E1%BB%AB%20ch%C6%B0a%20t%E1%BB%89nh%20th%E1%BB%A9c%20%C4%91%E1%BA%BFn%20t%E1%BB%89nh%20th%E1%BB%A9c%20%C3%ADt%20nh%E1%BA%A5t%20c%C5%A9ng%202%20n%C4%83m.md)
