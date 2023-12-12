@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-03T17:17
+updated: 2023-12-10T21:37
 ---
 
 Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md), [Thảo luận](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Th%E1%BA%A3o%20lu%E1%BA%ADn.md)
@@ -11,7 +11,7 @@ Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87
 [Ai cũng có một kế hoạch cho tới khi bị đấm vào mồm](./Ai%20c%C5%A9ng%20c%C3%B3%20m%E1%BB%99t%20k%E1%BA%BF%20ho%E1%BA%A1ch%20cho%20t%E1%BB%9Bi%20khi%20b%E1%BB%8B%20%C4%91%E1%BA%A5m%20v%C3%A0o%20m%E1%BB%93m.md)
 [Những thứ không quan trọng có thể tự xử lý lẫn nhau](./Nh%E1%BB%AFng%20th%E1%BB%A9%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%B1%20x%E1%BB%AD%20l%C3%BD%20l%E1%BA%ABn%20nhau.md)
 [Hãy nhắm còn đủ tiền cho khoảng 20 đến 30 lần thất bại](../../../Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/H%C3%A3y%20nh%E1%BA%AFm%20c%C3%B2n%20%C4%91%E1%BB%A7%20ti%E1%BB%81n%20cho%20kho%E1%BA%A3ng%2020%20%C4%91%E1%BA%BFn%2030%20l%E1%BA%A7n%20th%E1%BA%A5t%20b%E1%BA%A1i.md)
-[Sự bất định và thay đổi của quang cảnh](../../Ch%E1%BB%89%20s%E1%BB%91/S%E1%BB%B1%20b%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20thay%20%C4%91%E1%BB%95i%20c%E1%BB%A7a%20quang%20c%E1%BA%A3nh.md)
+[Độ tác động của quyết định, độ có sẵn của thông tin, trạng thái của môi trường là một trong nhiều thứ bất định](../../../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/%C4%90%E1%BB%99%20t%C3%A1c%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh,%20%C4%91%E1%BB%99%20c%C3%B3%20s%E1%BA%B5n%20c%E1%BB%A7a%20th%C3%B4ng%20tin,%20tr%E1%BA%A1ng%20th%C3%A1i%20c%E1%BB%A7a%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20m%E1%BB%99t%20trong%20nhi%E1%BB%81u%20th%E1%BB%A9%20b%E1%BA%A5t%20%C4%91%E1%BB%8Bnh.md)
 
 [Để không bị đối thủ đấm vào mồm mà còn đấm được vào mồm hắn thì phải lên kế hoạch](./%C4%90%E1%BB%83%20kh%C3%B4ng%20b%E1%BB%8B%20%C4%91%E1%BB%91i%20th%E1%BB%A7%20%C4%91%E1%BA%A5m%20v%C3%A0o%20m%E1%BB%93m%20m%C3%A0%20c%C3%B2n%20%C4%91%E1%BA%A5m%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0o%20m%E1%BB%93m%20h%E1%BA%AFn%20th%C3%AC%20ph%E1%BA%A3i%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch.md)
 [When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight](../../../C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/When%20someone's%20taking%20time%20to%20do%20something%20right%20in%20the%20present,%20they're%20a%20perfectionist%20with%20no%20ability%20to%20prioritize,%20whereas%20when%20someone%20took%20time%20to%20do%20something%20right%20in%20the%20past,%20they're%20a%20master%20artisan%20of%20great%20foresight.md)
