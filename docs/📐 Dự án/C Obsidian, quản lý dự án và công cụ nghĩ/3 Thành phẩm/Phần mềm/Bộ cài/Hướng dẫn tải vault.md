@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-27T21:28
+updated: 2023-12-07T13:51
 ---
 
 > [!info] [Tại sao lại cần tải vault về hơn là đọc trên web？](../../../9%20Blog/T%E1%BA%A1i%20sao%20l%E1%BA%A1i%20c%E1%BA%A7n%20t%E1%BA%A3i%20vault%20v%E1%BB%81%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20tr%C3%AAn%20web%EF%BC%9F.md)
@@ -25,7 +25,11 @@ Vậy là xong.
 Xem thêm:: [Các trục trặc có thể gặp khi cài](./C%C3%A1c%20tr%E1%BB%A5c%20tr%E1%BA%B7c%20c%C3%B3%20th%E1%BB%83%20g%E1%BA%B7p%20khi%20c%C3%A0i.md) 
 
 # Cài đặt thủ công
-Mở terminal lên (ở đây dùng PowerShell) và nhập các lệnh sau:
+## B1. Mở PowerShell với quyền admin
+Bấm <kbd>Win+X</kbd> và chọn `Windows PowerShell (Terminal)`
+![](https://st.quantrimang.com/photos/image/2018/07/09/cach-mo-powershell-nang-cao-trong-windows-10-5.jpg) 
+
+## B2. Nhập lần lượt các lệnh sau
 ```PowerShell
 New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
 Set-Location "D:\" 
