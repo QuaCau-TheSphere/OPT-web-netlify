@@ -1,15 +1,19 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2023-12-06T23:52
+updated: 2023-12-10T16:31
 ---
 
-# Phương án 1: Xây dựng hệ thống tự động hoá, PKM
-Về cơ bản là làm kỹ sư dữ liệu miễn phí
-
-- [ ] Nạp các sự kiện sắp diễn ra trên Ticketbox, Liquidpedia vào Google Calendar
-- [ ] Copy nhanh các tin nhắn Discord
-- [ ] Sửa bug Trấn Kỳ
+| Giải pháp gợi ý | Hành vi cần đạt được | Giả thiết | Công việc |
+| --------------- | -------------------- | --------- | --------- |
+| MMO             |                      |           |           |
+<br>
+| Thành phẩm cần có                                                                | Thành quả mong muốn | Giả thiết |
+| -------------------------------------------------------------------------------- | ------------------- | --------- |
+| Kiến thức về hệ thống thông tin                                                  |                     |           |
+| Nạp được các sự kiện sắp diễn ra trên Ticketbox, Liquidpedia vào Google Calendar |                     |           |
+| Copy nhanh các tin nhắn Discord                                                  |                     |           |
+| Người dùng không cần chạy Docker khi dùng Google Keep                            |                     |           |
 
 Các sự kiện trên fb event nó ko thuần tuý là 1 events như dạng ticketbox mà nó giống quảng bá hơn
 
@@ -21,3 +25,4 @@ Cần ticketbox hơn vì nó là dạng bán vé ở cấp độ chuyên nghiệ
 | Thâm nhập thị trường TQ | Có sđt TQ để nhận mã OTP            | Kiếm người ở TQ đồng ý cho mã OTP gửi về sđt của mình |
 | Bán được trên Etsy      | Không bị quét                       | Có IP Mỹ, Học Etsy API                                |
 |                         | Tạo được nội dung hàng loạt bằng AI |                                                       |
+
