@@ -5,7 +5,7 @@ updated: 2023-11-17T17:06
 ---
 
 [Giả thiết theo tiếp nhận của người đọc](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20theo%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc.md)
-[Một số ví dụ về mục tiêu nghiên cứu](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ph%E1%BB%8Fng%20v%E1%BA%A5n/M%E1%BB%99t%20s%E1%BB%91%20v%C3%AD%20d%E1%BB%A5%20v%E1%BB%81%20m%E1%BB%A5c%20ti%C3%AAu%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+[Một số ví dụ về mục tiêu nghiên cứu](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ph%E1%BB%8Fng%20v%E1%BA%A5n/M%E1%BB%99t%20s%E1%BB%91%20v%C3%AD%20d%E1%BB%A5%20v%E1%BB%81%20m%E1%BB%A5c%20ti%C3%AAu%20nghi%C3%AAn%20c%E1%BB%A9u.md)
 
 # Tiếp nhận khi đọc Giới thiệu Trấn Kỳ
 - Họ đã biết tới bài này thế nào?
