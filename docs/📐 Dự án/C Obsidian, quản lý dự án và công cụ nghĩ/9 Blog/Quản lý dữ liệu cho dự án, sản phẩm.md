@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-30T14:40
+updated: 2023-12-10T15:51
 ---
 
 Sau một thời gian loay hoay để quản lý dữ liệu cho việc phát triển sản phẩm, Trấn Kỳ
@@ -55,3 +55,8 @@ Chưa hiểu được cái này thì không làm được gì cả.
 
 
 [93.01 Mục tiêu, yếu tố hỗ trợ, ý tưởng tốt hơn. Mục tiêu, sản phẩm, hoạt động, tác vụ](93.01%20M%E1%BB%A5c%20ti%C3%AAu,%20y%E1%BA%BFu%20t%E1%BB%91%20h%E1%BB%97%20tr%E1%BB%A3,%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20t%E1%BB%91t%20h%C6%A1n.%20M%E1%BB%A5c%20ti%C3%AAu,%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng,%20t%C3%A1c%20v%E1%BB%A5.md) [93.01 Đồ thị nội hàm các khái niệm](93.01%20%C4%90%E1%BB%93%20th%E1%BB%8B%20n%E1%BB%99i%20h%C3%A0m%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m.md)
+
+[Giải pháp gợi ý chính là thành phẩm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%C3%A0nh%20qu%E1%BA%A3,%20th%C3%A0nh%20ph%E1%BA%A9m,%20t%E1%BA%A7m%20nh%C3%ACn,%20m%E1%BB%A5c%20ti%C3%AAu/Gi%E1%BA%A3i%20ph%C3%A1p%20g%E1%BB%A3i%20%C3%BD%20ch%C3%ADnh%20l%C3%A0%20th%C3%A0nh%20ph%E1%BA%A9m.md)
+
+| Giải pháp gợi ý | Hành vi cần đạt được | Giả thiết | Công việc |
+| --------------- | -------------------- | --------- | --------- |
