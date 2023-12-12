@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-20T14:36
-updated: 2023-11-08T18:22
+updated: 2023-12-08T12:45
 ---
 
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
