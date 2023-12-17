@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-22T20:20
-updated: 2023-10-06T16:09
+updated: 2023-12-13T22:24
 ---
 
 Nếu bạn là người cần:
@@ -50,7 +50,7 @@ Ví dụ với nội dung `cà phê với` vừa có thể thuộc nhãn Mối q
 Đây là nhu cầu của Kendy, và bọn mình giúp được gì thì giúp. Xem thêm bài [Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/9%20Blog/T%E1%BB%AB%20vi%E1%BB%87c%20h%E1%BB%97%20tr%E1%BB%A3%20Kendy%20%C4%91%E1%BA%BFn%20Patreon%20v%C3%A0%20t%C3%A2m%20l%C3%BD%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%81%20ti%E1%BB%81n.md). 
 
 Sẽ có rất nhiều người đến với script này không phải là lập trình viên. Tuy nhiên sẽ có thể họ cần phải tự biết cách chỉnh sửa
-Nhưng sau đó, nó còn phục vụ một mong muốn khác của bọn mình là Dạy học JavaScript. Cố gắng hướng dẫn các bạn mới nhiều nhất có thể.  [Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20h%E1%BB%8Fi%20n%C3%AAn%20d%C3%B9ng%20c%C3%BA%20ph%C3%A1p,%20th%C6%B0%20vi%E1%BB%87n,%20hay%20ng%C3%B4n%20ng%E1%BB%AF%20n%C3%A0o.%20L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20nhi%E1%BB%81u%20kinh%20nghi%E1%BB%87m%20th%C6%B0%E1%BB%9Dng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng.md). Để thấy rằng việc lập trình không chỉ là code sao cho máy chạy đúng ý mình, mà còn là cách ta kiến trúc lên thế giới này.
+Nhưng sau đó, nó còn phục vụ một mong muốn khác của bọn mình là Dạy học JavaScript. Cố gắng hướng dẫn các bạn mới nhiều nhất có thể.  [Người mới lập trình thường hỏi nên dùng cú pháp, thư viện, hay ngôn ngữ nào. Lập trình viên nhiều kinh nghiệm thường tập trung vào các khái niệm trừu tượng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20l%E1%BA%ADp%20tr%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20h%E1%BB%8Fi%20n%C3%AAn%20d%C3%B9ng%20c%C3%BA%20ph%C3%A1p,%20th%C6%B0%20vi%E1%BB%87n,%20hay%20ng%C3%B4n%20ng%E1%BB%AF%20n%C3%A0o.%20L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20nhi%E1%BB%81u%20kinh%20nghi%E1%BB%87m%20th%C6%B0%E1%BB%9Dng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng.md). Để thấy rằng việc lập trình không chỉ là code sao cho máy chạy đúng ý mình, mà còn là cách ta kiến trúc lên thế giới này.
 
 cũng không thể nói là có kinh nghiệm. Cái này là vừa học vừa làm thôi
 
@@ -122,7 +122,7 @@ Lúc đó không nghĩ ra, đến lúc nghĩ ra thì code cũng gần xong rồi
 ```
 # Mô hình 
 [Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u/9%20Blog/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
-[Mô hình trích chọn từ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20NLP/M%C3%B4%20h%C3%ACnh%20tr%C3%ADch%20ch%E1%BB%8Dn%20t%E1%BB%AB.md)
+[Mô hình trích chọn từ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20NLP/M%C3%B4%20h%C3%ACnh%20tr%C3%ADch%20ch%E1%BB%8Dn%20t%E1%BB%AB.md)
 
 - Literature Database: Kĩ thuật viết văn %topic_Writing @tác_giả_a
 - interaction: Gặp @ông_A bàn về việc gì đó X , có đi ăn ở !nhà_hàng_Y 200k ck vcb
