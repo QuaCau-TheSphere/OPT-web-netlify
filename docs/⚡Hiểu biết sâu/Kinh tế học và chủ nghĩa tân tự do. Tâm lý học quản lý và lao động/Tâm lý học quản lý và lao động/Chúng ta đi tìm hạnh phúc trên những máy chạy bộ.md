@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-28T13:38
+updated: 2023-12-14T11:49
 ---
 
 Nguồn:: [Wikipedia](../../%CE%9E%20Ngu%E1%BB%93n/Wikipedia.md), [Hedonic treadmill - Wikipedia](https://en.wikipedia.org/wiki/Hedonic_treadmill)
