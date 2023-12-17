@@ -1,0 +1,16 @@
+---
+share: true
+created: 2023-09-05T16:17
+updated: 2023-12-13T19:44
+---
+
+- Người lương thiện kiệt quệ vì nợ có phải là một thất bại của thị trường không?
+- Đó có phải cũng là những thị trường chưa ai đụng tới không?
+
+Thứ họ cần là hiệu ứng mạng lưới? Cũng có những nhà đầu tư vào [Nền kinh tế xanh](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc,%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20xanh/index.md), [Nền kinh tế chăm sóc](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc,%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20ch%C4%83m%20s%C3%B3c/index.md)
+[Nền kinh tế phi chính thức](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc,%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md)
+Tại sao chỉ có nhà nước mới giải quyết được chuyện này? Sao ko có các tổ chức dân sự có nguồn từ nước ngoài mà giống như CEP? 
+
+[Có những lúc đầu tư vào một người để họ tạo ra sản phẩm của họ sẽ đem lại nhiều lợi nhuận hơn trả lương cho họ để họ làm cho sản phẩm của mình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/C%C3%B3%20nh%E1%BB%AFng%20l%C3%BAc%20%C4%91%E1%BA%A7u%20t%C6%B0%20v%C3%A0o%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%83%20h%E1%BB%8D%20t%E1%BA%A1o%20ra%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%E1%BB%A7a%20h%E1%BB%8D%20s%E1%BA%BD%20%C4%91em%20l%E1%BA%A1i%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n%20tr%E1%BA%A3%20l%C6%B0%C6%A1ng%20cho%20h%E1%BB%8D%20%C4%91%E1%BB%83%20h%E1%BB%8D%20l%C3%A0m%20cho%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%E1%BB%A7a%20m%C3%ACnh.md)
+
+[Hỏi những người có kinh nghiệm trong lĩnh vực tài chính hoặc công tác xã hội](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20ki%E1%BB%87t%20qu%E1%BB%87%20v%C3%AC%20n%E1%BB%A3/H%E1%BB%8Fi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20kinh%20nghi%E1%BB%87m%20trong%20l%C4%A9nh%20v%E1%BB%B1c%20t%C3%A0i%20ch%C3%ADnh%20ho%E1%BA%B7c%20c%C3%B4ng%20t%C3%A1c%20x%C3%A3%20h%E1%BB%99i.md)
