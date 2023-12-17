@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-11T11:26
+updated: 2023-12-17T12:14
 ---
 
 Khái niệm:: [Ẩn dụ](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5.md)
