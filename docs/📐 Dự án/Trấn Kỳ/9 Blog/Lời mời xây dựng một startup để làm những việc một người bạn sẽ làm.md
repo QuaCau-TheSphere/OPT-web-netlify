@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-12T13:40
+updated: 2023-12-13T17:16
 alias:
   - Một startup làm những việc một người bạn sẽ làm
 ---
@@ -17,13 +17,13 @@ Trong thời gian qua bọn mình đã viết [Trấn Kỳ](https://lậptrình.
 
 - [Lên kế hoạch phát triển](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 - [Truyền thông](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/index.md){ .md-button .md-button--primary }
-- [Nghiên cứu người cần kỷ luật tài chính](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh/index.md){ .md-button .md-button--primary }
+- [Người cần kỷ luật tài chính](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh/index.md){ .md-button .md-button--primary }
 - [Xây dựng cộng đồng phát triển Trấn Kỳ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 - [Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 # Tôi có lợi gì khi tham gia?
 Nhận làm bất cứ công việc nào bạn sẽ được nhận link tải Trấn Kỳ.
 
-Ngoài ra, tuỳ thuộc vào việc bạn là ai mà bạn sẽ nhận được những lợi ích khác nhau. Xem chi tiết ở bài này: [Giả thiết về điều người dùng nhận được](../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20%C4%91i%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c.md){ .md-button .md-button--primary }
+Ngoài ra, tuỳ thuộc vào việc bạn là ai mà bạn sẽ nhận được những lợi ích khác nhau. Xem chi tiết ở bài này: [Giả thiết về giá trị của Trấn Kỳ](../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 
 ```mermaid
 gantt
