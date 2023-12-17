@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-12T13:30
+updated: 2023-12-13T17:16
 alias:
   - Tạo lợi nhuận từ Trấn Kỳ
   - Mô hình kinh doanh
@@ -43,5 +43,5 @@ Họ sẽ muốn tham gia vì là thứ họ cần. Đó có thể là:
 Đối tượng:: Khách hàng doanh nghiệp
 
 [Mô hình kinh doanh và định giá](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20v%C3%A0%20%C4%91%E1%BB%8Bnh%20gi%C3%A1.md)
-[Giả thiết về điều người dùng nhận được](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20%C4%91i%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c.md)
+[Giả thiết về giá trị của Trấn Kỳ](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 [Hỏi đáp về việc bán Trấn Kỳ](../../../9%20Blog/H%E1%BB%8Fi%20%C4%91%C3%A1p%20v%E1%BB%81%20vi%E1%BB%87c%20b%C3%A1n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
