@@ -4,7 +4,7 @@ created: 2023-05-26T14:51
 updated: 2023-12-07T13:51
 ---
 
-> [!info] [Tại sao lại cần tải vault về hơn là đọc trên web？](../../../9%20Blog/T%E1%BA%A1i%20sao%20l%E1%BA%A1i%20c%E1%BA%A7n%20t%E1%BA%A3i%20vault%20v%E1%BB%81%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20tr%C3%AAn%20web%EF%BC%9F.md)
+> [!info] [Tại sao lại cần tải vault về hơn là đọc trên web？](../../../../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/T%E1%BA%A1i%20sao%20l%E1%BA%A1i%20c%E1%BA%A7n%20t%E1%BA%A3i%20vault%20v%E1%BB%81%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20tr%C3%AAn%20web%EF%BC%9F.md)
 
 # Cài đặt tự động
 Bộ cài này dành cho Windows 10 trở lên:

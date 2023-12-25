@@ -33,5 +33,6 @@ Thành phẩm::
     at DataviewJSRenderer.onload (plugin:dataview:18260:14)
     at e.load (app://obsidian.md/app.js:1:715749)
     at DataviewApi.executeJs (plugin:dataview:19198:18)
-    at eval (plugin:obsidian-mkdocs-publisher:23:33891)
-    at Generator.next (&lt;anonymous&gt;)</pre>
+    at eval (plugin:obsidian-mkdocs-publisher:22:31380)
+    at Generator.next (&lt;anonymous&gt;)
+    at r (plugin:obsidian-mkdocs-publisher:2:729)</pre>
