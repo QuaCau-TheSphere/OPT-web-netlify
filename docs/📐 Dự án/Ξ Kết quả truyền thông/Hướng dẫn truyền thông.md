@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-07T16:02
+updated: 2023-12-25T19:53
 ---
 
 Nếu bạn có thời gian thì làm, còn không thì cũng không sao.
 
 # Nội dung giới thiệu
-Giới thiệu chung thì có thể dựa vào [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md), đặc biệt là phần [Liên thông dữ liệu giữa các nhóm dự án](../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md#lien-thong-du-lieu-giua-cac-nhom-du-an), hoặc có thể điều chỉnh tuỳ vào [4 Các bên liên quan](../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/4%20C%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan/index.md)
+Giới thiệu chung thì có thể dựa vào [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md), đặc biệt là phần [Liên thông dữ liệu giữa các nhóm dự án](../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md#lien-thong-du-lieu-giua-cac-nhom-du-an), hoặc có thể điều chỉnh tuỳ vào [4 Các bên liên quan](../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/4%20C%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan/index.md)
 
 # Link
 Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng Dẫn Tạo Mã UTM Nhằm Đo Lường Chính Xác Mức Độ Hiệu Quả Các Chiến Dịch Quảng Cáo - A1 DigiHub](https://a1digihub.com/huong-dan-tao-ma-utm-nham-do-luong-chinh-xac-muc-do-hieu-qua-cac-chien-dich-quang-cao/)
@@ -43,7 +43,7 @@ Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng D�
 - **Campaign medium:** `social`
 - **Campaign name:** `Giới thiệu vault`
 
-### Chia sẻ trang [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md) khi bình luận về bài DEF trong nhóm ABC trên Facebook
+### Chia sẻ trang [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md) khi bình luận về bài DEF trong nhóm ABC trên Facebook
 - **Campaing source:** `F G » ABC » DEF`
 - **Campaign medium:** `social`
 - **Campaign name:** `Nói về sự hợp tác`
@@ -53,12 +53,12 @@ Trước tiên bạn cần hiểu mã UTM là gì. Bài chi tiết: [Hướng D�
 - **Campaign medium:** `social`
 - **Campaign name:** `Giới thiệu về Obsidian`
 
-### Chia sẻ [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md) cho người tên là ABC qua chat
+### Chia sẻ [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%E1%BB%91i%20%C6%B0u%20ho%C3%A1/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md) cho người tên là ABC qua chat
 - **Campaing source:** `ABC`
 - **Campaign medium:** `chat`
 - **Campaign name:** `Bàn luận hiểu biết`
 
-### Chia sẻ trang [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md) trong phiếu đăng ký tham gia chương trình ABC
+### Chia sẻ trang [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md) trong phiếu đăng ký tham gia chương trình ABC
 - **Campaing source:** `ABC`
 - **Campaign medium:** `form`
 - **Campaign name:** `Nói về sự hợp tác`
