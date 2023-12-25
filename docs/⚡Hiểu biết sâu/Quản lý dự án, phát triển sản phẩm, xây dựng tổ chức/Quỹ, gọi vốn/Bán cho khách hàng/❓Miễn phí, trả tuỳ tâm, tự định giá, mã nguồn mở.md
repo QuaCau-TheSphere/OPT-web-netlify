@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-14T16:55
+updated: 2023-12-19T11:16
 ---
 
 Phản đối:
@@ -17,7 +17,7 @@ Phản đối:
 - Để họ thấy mình đem lại điều tốt nhất cho họ, đặt lợi ích của họ không kém gì lợi ích của mình
 - Khuyến khích họ sử dụng để có thêm phản hồi
 - Tạo hiệu ứng mạng
-
+- Tự bản thân việc dùng đã là rào cản rồi. Ai chịu vượt qua rào cản này là đã thể hiện người thực sự có nhu cầu rồi
 
 [Sự miễn phí chỉ có ích khi ta cần phản hồi của người dùng, hoặc khi nền tảng của ta cần hiệu ứng mạng](../../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/S%E1%BB%B1%20mi%E1%BB%85n%20ph%C3%AD%20ch%E1%BB%89%20c%C3%B3%20%C3%ADch%20khi%20ta%20c%E1%BA%A7n%20ph%E1%BA%A3n%20h%E1%BB%93i%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ho%E1%BA%B7c%20khi%20n%E1%BB%81n%20t%E1%BA%A3ng%20c%E1%BB%A7a%20ta%20c%E1%BA%A7n%20hi%E1%BB%87u%20%E1%BB%A9ng%20m%E1%BA%A1ng.md)
 Phản ví dụ:

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-25T10:54
-updated: 2023-11-07T16:02
+updated: 2023-12-25T19:53
 ---
 
 # Mục tiêu
@@ -21,7 +21,7 @@ Những vấn đề mà một dự án nhỏ, không có nhiều tiền và cả
 Không phát minh lại bánh xe, cái nào người khác làm rồi mà làm hay hơn mình thì chỉ dẫn link hoặc copy
 
 Là nơi để mọi người biết được thêm về các chuyên ngành khác, tránh việc phân mảnh kiến thức
-Để hiểu thêm về động lực thực hiện dự án này, xem bài [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](./T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md)
+Để hiểu thêm về động lực thực hiện dự án này, xem bài [Từ việc lưu dữ liệu tại chỗ đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền](../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91a%20ph%C6%B0%C6%A1ng%20v%C3%A0%20li%C3%AAn%20ng%C3%A0nh%20v%C3%A0%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n.md)
 
 # Cách tổ chức dữ liệu
 Cách vault này tổ chức cũng giống Wikipedia, nhưng tiêu đề từng trang không phải là một chủ đề mà là một câu. Như vậy thì sự tập trung vào một ý niệm sẽ được đẩy lên cao hơn, cũng sẽ dễ làm mình thấy được sự liên kết giữa các ý lại với nhau hơn. 
