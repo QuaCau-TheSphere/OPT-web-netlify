@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-10T15:58
+updated: 2023-12-19T19:54
 ---
 
 Giới thiệu về nhân văn số (digital humanities) 
-[Nhân văn số sử dụng mô hình chủ đề rất nhiều](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20NLP/M%C3%B4%20h%C3%ACnh/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)
+[Nhân văn số sử dụng mô hình chủ đề rất nhiều](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20NLP/M%C3%B4%20h%C3%ACnh/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)
+[Topic modelling trong NLP dùng cho máy và cần tập dữ liệu lớn. Còn thematic analysis thì dành cho người, nhấn mạnh vào yếu tố thị giác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Nh%C3%A2n%20h%E1%BB%8Dc/Topic%20modelling%20trong%20NLP%20d%C3%B9ng%20cho%20m%C3%A1y%20v%C3%A0%20c%E1%BA%A7n%20t%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u%20l%E1%BB%9Bn.%20C%C3%B2n%20thematic%20analysis%20th%C3%AC%20d%C3%A0nh%20cho%20ng%C6%B0%E1%BB%9Di,%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20v%C3%A0o%20y%E1%BA%BFu%20t%E1%BB%91%20th%E1%BB%8B%20gi%C3%A1c.md)
 Nhiều dự án nhăn văn số rồi, nên chỉ tập trung vào các tài liệu giúp hướng dẫn một người 
 [Nhân văn số thức: Một lát cắt của xã hội toàn cầu - Tạp chí Tia sáng](https://tiasang.com.vn/khoa-hoc-cong-nghe/nhan-van-so-thuc-mot-lat-cat-cua-xa-hoi-toan-cau-11139/)
 # Sản phẩm
