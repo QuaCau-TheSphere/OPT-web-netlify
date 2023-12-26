@@ -1,7 +1,7 @@
 site_name: Obsidian, quản lý dự án và công cụ nghĩ 
 site_description: Hiểu biết sâu về các môi trường nơi sự suy nghĩ diễn ra, và cách ứng dụng chúng vào quản lý dự án
 site_url: https://obsidian.xn--qucu-hr5aza.cc
-repo_url: https://obsidian.Quảcầu.cc/📐 Dự án/C Obsidian, quản lý dự án và công cụ nghĩ/3 Thành phẩm/Phần mềm/Bộ cài/Hướng dẫn tải vault/
+repo_url: https://obsidian.Quảcầu.cc/📐 Dự án/C Obsidian, quản lý dự án và công cụ nghĩ/9 Blog/Hướng dẫn tải vault/
 repo_name: Tải bản đầy đủ chức năng
 
 theme:
@@ -136,7 +136,6 @@ extra:
   analytics:
     provider: google
     property: G-XHX9Q6ZB3Q
-    # property: G-1KWSJPTCEX
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/quacau.sphere/
