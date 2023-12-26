@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-20T22:37
+updated: 2023-12-26T11:49
 ---
 
 # Quỹ tín dụng
@@ -14,6 +14,7 @@ updated: 2023-12-20T22:37
 - Nếu [Cho vay ngang hàng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc,%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20s%E1%BB%91/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho mượn theo nhóm đảm bảo hơn](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc,%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20s%E1%BB%91/Cho%20m%C6%B0%E1%BB%A3n%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20h%C6%A1n.md), tại sao các doanh nghiệp không áp dụng
 - Các chương trình hỗ trợ người lao động của chính phủ gặp vấn đề gì mà không phát triển được?
 - Vì sao anh không lo lắng là mình đang bị để ý? Dù sao anh cũng là người có tiếng trong cộng đồng mà
+Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng
 
 # Nhu cầu truyền thông, CSR của doanh nghiệp
 - Anh nghĩ rằng hữu xạ tự nhiên hương mới là thực chất, là tốt hơn làm truyền thông, nhưng cụ thể là như thế nào? Vì như vụ Thuỷ Tiên gom tiền bão lũ miền Trung thì là hữu xạ tự nhiên hương thật, nhưng có vẻ như điều đó là không bền vững? Trong khi các tổ chức có nhiều tri thức về phát triển cộng đồng hơn thì không được biết đến? Như vậy là hữu xạ tự nhiên hương vẫn là chưa đủ, mà vẫn phải làm truyền thông?
@@ -28,7 +29,7 @@ updated: 2023-12-20T22:37
 
 
 
-![Giả thiết về thị trường của nền kinh tế phi chính thức](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md)
+[Giả thiết về thị trường của nền kinh tế phi chính thức](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md)
 
 [Xù ngân hàng](./X%C3%B9%20ng%C3%A2n%20h%C3%A0ng.md)
 
@@ -40,7 +41,7 @@ updated: 2023-12-20T22:37
 > — [Khi các sếp thành chủ nợ cho nhân viên trả góp: Xu thế mới của những công ty tử tế thời bão giá](https://cafef.vn/khi-cac-sep-thanh-chu-no-cho-nhan-vien-tra-gop-xu-the-moi-cua-nhung-cong-ty-tu-te-thoi-bao-gia-20221121142204306.chn)
 - Có những công ty rất chăm lo cho  doanh nghiệp không thấy được việc ? 
 
-Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng
+
 
 [Phạm Trường Sơn](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
 - Anh có thể kể tên một số tiêu chí KPI của các doanh nghiệp làm CSR mà anh thấy là không đi vào bản chất của phát triển cộng đồng ko?
