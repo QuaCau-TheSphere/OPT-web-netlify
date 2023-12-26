@@ -70,7 +70,9 @@ tầm nhìn của weshare rất lớn, nhưng ko toàn tâm toàn ý được đ
 
 # Nhu cầu về quản lý dữ liệu
 - Các hoạt động của bọn anh có cái nào mở không. Em có thể đọc các tài liệu của bọn anh được không?
-- Tại sao LIN lại cần bảo mật dữ liệu
+- Tại sao LIN lại cần bảo mật dữ liệu? 
+- Anh phân loại các tổ chức to nhỏ thế nào? 
+- Số đối tác của LIN là rất lớn, nhưng các bên liên quan của các tổ chức cũng lớn mà
 
 - Anh còn quan tâm đến việc tích luỹ kiến thức để có thể tư vấn cho các tổ chức được tốt hơn không?
 
