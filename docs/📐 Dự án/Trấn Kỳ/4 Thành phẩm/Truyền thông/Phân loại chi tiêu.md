@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-12T12:54
-updated: 2023-11-12T12:55
+updated: 2023-12-29T09:51
 ---
 
 
@@ -156,3 +156,4 @@ https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPap
 ---
 [10-11](10-11.md) Đăng trên [Dạy Nhau Học](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/D%E1%BA%A1y%20Nhau%20H%E1%BB%8Dc.md) 
 [10-11](10-11.md) Đăng trên [Tự học Data](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/T%E1%BB%B1%20h%E1%BB%8Dc%20Data.md) 
+[29-11](29-11.md) Đăng trên [TÀI CHÍNH CÁ NHÂN & TỰ DO TÀI CHÍNH](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/T%C3%80I%20CH%C3%8DNH%20C%C3%81%20NH%C3%82N%20&%20T%E1%BB%B0%20DO%20T%C3%80I%20CH%C3%8DNH.md) 
