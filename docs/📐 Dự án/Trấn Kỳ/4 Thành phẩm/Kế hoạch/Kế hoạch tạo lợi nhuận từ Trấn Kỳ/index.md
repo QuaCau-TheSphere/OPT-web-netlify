@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-13T17:16
+updated: 2023-12-30T21:13
 alias:
   - Tạo lợi nhuận từ Trấn Kỳ
   - Mô hình kinh doanh
@@ -19,7 +19,7 @@ title: Kế hoạch tạo lợi nhuận từ Trấn Kỳ
 
 | Thành quả mong muốn                                                         | Giả thiết                       | Công việc                                           |
 | --------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- |
-| [Mỗi tháng có lợi nhuận 40tr để trả lãi](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/M%E1%BB%97i%20th%C3%A1ng%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn%2040tr%20%C4%91%E1%BB%83%20tr%E1%BA%A3%20l%C3%A3i.md)<br>→ [Lợi nhuận mỗi tuần 10tr](../../../3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/L%E1%BB%A3i%20nhu%E1%BA%ADn%20m%E1%BB%97i%20tu%E1%BA%A7n%2010tr.md) | [Cứ 20 người học thì có 500k](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/C%E1%BB%A9%2020%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Dc%20th%C3%AC%20c%C3%B3%20500k.md) | [Phát triển Trấn Kỳ](../../Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) |
+| [Mỗi tháng có lợi nhuận 40tr để trả lãi](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/M%E1%BB%97i%20th%C3%A1ng%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn%2040tr%20%C4%91%E1%BB%83%20tr%E1%BA%A3%20l%C3%A3i.md)<br>→ [Lợi nhuận mỗi tuần 4tr](../../../3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/L%E1%BB%A3i%20nhu%E1%BA%ADn%20m%E1%BB%97i%20tu%E1%BA%A7n%204tr.md) | [Cứ 20 người học thì có 500k](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/C%E1%BB%A9%2020%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Dc%20th%C3%AC%20c%C3%B3%20500k.md) | [Phát triển Trấn Kỳ](../../Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) |
 
 # SaaS: tính theo số lượng giao dịch hoặc plugin
 Đối tượng:: Người bận rộn không có thời gian phân loại dữ liệu nhưng cần có báo cáo chi tiết
