@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-31T17:15
-updated: 2023-12-20T22:27
+updated: 2023-12-30T22:49
 ---
 
 [Giả thiết về tiếp nhận của người đọc](../../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc.md)
