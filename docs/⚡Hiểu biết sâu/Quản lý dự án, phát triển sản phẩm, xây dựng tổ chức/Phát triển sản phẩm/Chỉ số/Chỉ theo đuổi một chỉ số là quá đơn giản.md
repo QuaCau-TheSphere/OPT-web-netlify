@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-01T19:22
+updated: 2024-01-01T15:04
 ---
 
+Khái niệm:: [Đơn giản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%C6%A1n%20gi%E1%BA%A3n.md)
 Nguồn:: [Don’t measure your product using a north star metric](https://kashishhora.com/dont-measure-your-product-using-a-north-star-metric/)
 Mâu thuẫn với:: [Sự đơn giản ép ta phải làm nó cực kỳ tốt](../../Th%C3%A0nh%20l%E1%BA%ADp%20d%E1%BB%B1%20%C3%A1n/Startup/S%E1%BB%B1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20%C3%A9p%20ta%20ph%E1%BA%A3i%20l%C3%A0m%20n%C3%B3%20c%E1%BB%B1c%20k%E1%BB%B3%20t%E1%BB%91t.md)
 
