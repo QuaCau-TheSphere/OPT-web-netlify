@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-20T17:00
-updated: 2023-10-06T16:09
+updated: 2024-01-16T18:23
 ---
 
 Fb có thể thân thiện hơn cho người chưa biết hoặc chỉ cần trao đổi về plugin là được. Còn Discord chắc có nhiều lập trình viên và dân nghiên cứu học thuật hơn
