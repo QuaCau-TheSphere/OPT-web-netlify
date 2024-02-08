@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-04T14:04
-updated: 2023-12-24T20:46
+updated: 2024-02-07T14:37
 alias:
   - Kế hoạch giúp Kendy
 tags:
@@ -36,7 +36,7 @@ cần biết cụ thể mỗi tháng bao nhiêu lãi. Khó khăn:
 # Phương án 2: kinh doanh
 | Giải pháp gợi ý                                                                     | Hành vi cần đạt được                                                                                                                         | Giả thiết                                                  | Công việc                                                                        |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Mỗi tháng có lợi nhuận 40tr để trả lãi](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/M%E1%BB%97i%20th%C3%A1ng%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn%2040tr%20%C4%91%E1%BB%83%20tr%E1%BA%A3%20l%C3%A3i.md)                                          | Nhiều người bỏ tiền ra mua                                                                                                                   | Có thể làm được hết tất cả mọi việc chỉ bằng một người     | [Xây dựng mô hình kinh doanh một người](./X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20kinh%20doanh%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md)                                        |
+| [Mỗi tháng có lợi nhuận 10tr để trả lãi cho Trí](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/M%E1%BB%97i%20th%C3%A1ng%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn%2010tr%20%C4%91%E1%BB%83%20tr%E1%BA%A3%20l%C3%A3i%20cho%20Tr%C3%AD.md)                                          | Nhiều người bỏ tiền ra mua                                                                                                                   | Có thể làm được hết tất cả mọi việc chỉ bằng một người     | [Xây dựng mô hình kinh doanh một người](./X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20kinh%20doanh%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md)                                        |
 | Tìm được một nhà đầu tư quan tâm đến giải pháp khắc phục việc giúp đỡ người phá sản | Nhà đầu tư thấy được những sản phẩm giúp đỡ người lương thiện kiệt quệ vì nợ cũng là những cơ hội gia nhập những thị trường chưa ai đụng tới | [Giả thiết về thị trường của nền kinh tế phi chính thức](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md) | [Các câu hỏi về việc thành lập quỹ tín dụng, nền kinh tế phi chính thức, bản chất CSR của doanh nghiệp và tâm lý con người về tiền](./C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20th%C3%A0nh%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng,%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20CSR%20c%E1%BB%A7a%20doanh%20nghi%E1%BB%87p%20v%C3%A0%20t%C3%A2m%20l%C3%BD%20con%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%81%20ti%E1%BB%81n.md) |
 
 # Phương án 3: kiếm tiền từ các sản phẩm sinh ra từ việc hỗ trợ họ

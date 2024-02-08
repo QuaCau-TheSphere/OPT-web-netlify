@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-22T20:45
+updated: 2024-02-06T17:44
 ---
 
 Khái niệm:: 
@@ -33,7 +33,7 @@ HỌc viện mà Mark Zuckerberg ọc ở cấp 3 là nhân bản
 - Các nhóm xã hội như bọn anh lấy tiền từ đâu? Bà Tôn Nữ Thị Ninh
 # Nhu cầu của các tổ chức về phân loại dữ liệu tự động
 - Làm sao để nhóm thấy bài viết liên quan để duyệt? 
-[Mục tiêu và câu hỏi nghiên cứu người cần phân loại tự động](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md), [Câu hỏi phỏng vấn](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
+[Mục tiêu và câu hỏi nghiên cứu người cần phân loại tự động](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/T%E1%BB%95%20ch%E1%BB%A9c%20nh%E1%BB%8F%20ho%E1%BA%B7c%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md), [Câu hỏi phỏng vấn](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/T%E1%BB%95%20ch%E1%BB%A9c%20nh%E1%BB%8F%20ho%E1%BA%B7c%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
 ## Hành vi phân loại
 ### Anh có thể phân loại mẫu được không?
 Phân loại theo số nhân viên hoặc tổng số tiền.
