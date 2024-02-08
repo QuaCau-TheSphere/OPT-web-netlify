@@ -1,17 +1,20 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-02T16:04
+updated: 2024-02-07T00:52
 title: Tích hợp Trấn Kỳ vào hệ thống của bạn
-alias: Tích hợp Trấn Kỳ vào hệ thống cá nhân
-description: Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống cá nhân
+description: Nhập dữ liệu và tạo bảng phân loại ngay trên hệ thống bạn đang dùng
+alias:
+  - Tích hợp Trấn Kỳ vào hệ thống cá nhân
+  - Nhập dữ liệu và tạo bảng phân loại ngay trên hệ thống bạn đang dùng
+  - Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống cá nhân
 ---
 
 Nếu bạn đang tìm một chương trình:
 - [x] Tự động phân loại, gắn nhãn thông tin chứ không bắt bạn phải tự xử lý
 - [x] Cho phép bạn khai báo dữ liệu theo thói quen và cách phân loại của chính mình
 - [x] Tích hợp được vào hệ thống vận hành hiện tại của bạn:
-  - Đầu vào: báo cáo ngân hàng, Google Keep, Discord, Telegram, Zalo, Messenger, v.v.
+  - Đầu vào: báo cáo ngân hàng, hoá đơn bán lẻ, Google Keep, Discord, Telegram, Zalo, Messenger, v.v.
   - Đầu ra: Google Sheet, Notion, Obsidian, Fibery, Odoo, SQL, v.v. 
 - [x] Không giam dữ liệu của bạn tại chương trình 
 - [x] Không có bất cứ quảng cáo mời mọc hoặc theo dõi dữ liệu nào
@@ -19,6 +22,8 @@ Nếu bạn đang tìm một chương trình:
 - [x] Là phần mềm tự do và mã nguồn mở
 
 Thì Trấn Kỳ CLI là dành cho bạn.
+
+![Giao diện khởi động của Trấn Kỳ CLI](https://i.imgur.com/rBe2iQ9.png)
 
 ## Nhập dữ liệu và tạo bảng phân loại ngay trên hệ thống bạn đang dùng
 Ví dụ, Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
@@ -32,7 +37,7 @@ Ví dụ, Google Keep là một phần mềm ghi chú rất phổ biến với m
 
 Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập nhanh những khoảng chi tiêu chung với khối lượng lớn vào lúc bạn không có đầu óc để phân loại, phù hợp cho gia đình, nhóm bạn, công ty những lúc chợ búa, du lịch, tổ chức sự kiện, v.v.
 
-Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và tạo bảng phân loại trên Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
+Hiện tại đã có sẵn plugin nhập dữ liệu từ Google Keep và tạo bảng phân loại trên Fibery. Bạn có thể tự viết những plugin khác cho phù hợp với bạn.
 ![Keep to Fibery.png](../../../../assets/attachments/Keep%20to%20FIbery.png)
 
 ## Các tính năng hỗ trợ khác (a.k.a. yêu cầu phi chức năng) 
@@ -45,14 +50,12 @@ Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu 
 	- Có sẵn build script để chuyển từ TypeScript sang JavaScript
 - **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ là một chương trình mã nguồn mở và tự do
 - **Viết cho người phải tự học lập trình** nên:
-	- Có rất nhiều ghi chú, hướng dẫn để cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Những thứ sẽ hay được sử dụng:
-		- Các phép so sánh, ẩn dụ, 
-		- Các sắp đặt để tạo sự tương phản (juxtaposition) giữa các định nghĩa, ý tưởng 
-		- Ý đồ thiết kế (design choice) chương trình 
+	- Có rất nhiều ghi chú, hướng dẫn để cung cấp các khái niệm thiết yếu, giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào
 	- Tên commit cố gắng tuân thủ [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/)
 	- Có script kiểm thử
 
-![Giao diện khởi động](https://i.imgur.com/rBe2iQ9.png)
+> [!Important] Vault Obsidian *Tiếp thị số, xử lý dữ liệu và lập trình*
+> Trong quá trình viết Trấn Kỳ, Đây là vault bổ sung cho [Obsidian, quản lý dự án và công cụ nghĩ](https://obsidian.xn--qucu-hr5aza.cc/?utm_source=CW+%C2%BB+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh&utm_campaign=C+H%E1%BB%97+tr%E1%BB%A3+ng%C6%B0%E1%BB%9Di+t%E1%BB%B1+h%E1%BB%8Dc+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+ho%E1%BA%B7c+ki%E1%BA%BFn+th%E1%BB%A9c&utm_term=%C4%90%E1%BB%8Dc+b%C3%A0i+vi%E1%BA%BFt+tr%C3%AAn+web "Obsidian, quản lý dự án và công cụ nghĩ"), tập trung vào việc xử lý dữ liệu và lập trình. Nó được sinh ra trong quá trình bọn mình viết [Trấn Kỳ]([https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc/👏Trấn](https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc/%F0%9F%91%8FTr%E1%BA%A5n) Kỳ/ "Trấn Kỳ"), và cũng được sử dụng như tài liệu hướng dẫn cho nó. Nếu bạn muốn tìm một nguồn tài liệu để học một cách bài bản thì không nên vào đây. Nhưng nếu mục tiêu của bạn là làm xong những công việc khác, mà để làm được chúng trôi chảy bạn phải học lập trình, và bạn muốn tìm những bài viết thật ngắn nhưng đủ để hiểu khái niệm để còn làm việc được tiếp (như khi bọn mình cần phải học để còn viết xong Trấn Kỳ), thì có thể một số thứ trong đây sẽ hữu ích cho bạn.
 
 ## Các buổi hướng dẫn sử dụng Trấn Kỳ CLI
 Vậy, nếu bạn có mong muốn hiện thực hoá điều này, Quả Cầu sẽ cung cấp cho bạn cơ hội để hợp tác thực hiện thông qua việc đăng ký nhu cầu và tự định giá nhu cầu trong phiếu đăng ký dưới đây. 
@@ -71,7 +74,7 @@ Sau khi xem xét các đăng ký, Quả Cầu sẽ lựa chọn để trao đổ
 
 Đọc thêm các bài sau đây để hiểu hơn về ý tưởng này:
 - [Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?](../M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20c%E1%BB%A7a%20c%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh.md)
-- [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu](../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+- [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 - [Lý do viết Trấn Kỳ](../../../Tr%E1%BA%A5n%20K%E1%BB%B3/9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 Thông tin liên hệ:
