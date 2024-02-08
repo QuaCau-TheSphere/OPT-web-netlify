@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-17T14:43
+updated: 2024-02-07T15:05
 ---
 
 # Giới thiệu Trấn Kỳ
@@ -25,7 +25,7 @@ updated: 2023-11-17T14:43
 - Hiểu được rằng AI không ứng dụng được trong trường hợp này
 - Sẵn sàng học lập trình nếu có người hướng dẫn, hoặc chấp nhận thuê
 
-# [Hỏi đáp về việc bán Trấn Kỳ](../9%20Blog/H%E1%BB%8Fi%20%C4%91%C3%A1p%20v%E1%BB%81%20vi%E1%BB%87c%20b%C3%A1n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+# [Kế hoạch phát triển Trấn Kỳ](../9%20Blog/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 - Thấy rằng đây là một giải pháp cho những vấn đề tiền không đáp ứng được
 
 # Hướng dẫn sử dụng
