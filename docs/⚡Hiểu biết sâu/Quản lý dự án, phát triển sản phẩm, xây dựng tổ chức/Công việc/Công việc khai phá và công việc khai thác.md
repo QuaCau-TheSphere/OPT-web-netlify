@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-28T13:00
+updated: 2024-02-10T16:14
 ---
 
 | Khía cạnh                                                           | Công việc khai phá (exploration)                                                                                                                                          | Công việc khai thác (exploitation)                                                                                                                                                                                                     |
@@ -71,3 +71,4 @@ Tuy việc này sẽ làm cây mục tiêu đồ sộ hơn so với chỉ đính
 [Công việc khai phá chính là quản lý kiến thức](./C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20ch%C3%ADnh%20l%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 [Áp lực giết chết sự sáng tạo](./%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
 [Chỉ có thể ước lượng được thời gian cần có để hoàn thành khi công việc của ta gần như chỉ gồm công việc khai thác](./Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/Ch%E1%BB%89%20c%C3%B3%20th%E1%BB%83%20%C6%B0%E1%BB%9Bc%20l%C6%B0%E1%BB%A3ng%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%9Di%20gian%20c%E1%BA%A7n%20c%C3%B3%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh%20khi%20c%C3%B4ng%20vi%E1%BB%87c%20c%E1%BB%A7a%20ta%20g%E1%BA%A7n%20nh%C6%B0%20ch%E1%BB%89%20g%E1%BB%93m%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)
+[Học là quá trình cấu trúc hoá những thứ phi cấu trúc](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20l%C3%A0%20qu%C3%A1%20tr%C3%ACnh%20c%E1%BA%A5u%20tr%C3%BAc%20ho%C3%A1%20nh%E1%BB%AFng%20th%E1%BB%A9%20phi%20c%E1%BA%A5u%20tr%C3%BAc.md)
