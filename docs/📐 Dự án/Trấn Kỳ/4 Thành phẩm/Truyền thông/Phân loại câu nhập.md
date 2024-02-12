@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-06T22:48
+updated: 2024-02-09T17:03
 ---
 
 # Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -115,7 +115,7 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 * **Cảm xúc** : `xem phim:Inception thấy chấn động`
 * **Sức khoẻ:**  `chạy bộ 100m, hít đất 30 cái`
 
-# 👉 Link: tranky.deno.dev/vnts
+# 👉 Link: tranky.deno.dev/cdddss
 
 https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPapaozK8fpr64nQ4uVyaKerhv2j4uqd8KMWipvl
 
@@ -127,5 +127,5 @@ https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPap
 [10-11](10-11.md) Đăng trên [Dạy Nhau Học](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/D%E1%BA%A1y%20Nhau%20H%E1%BB%8Dc.md) 
 [10-11](10-11.md) Đăng trên [Tự học Data](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/T%E1%BB%B1%20h%E1%BB%8Dc%20Data.md) 
 [13-11](13-11.md) chờ duyệt [Cộng đồng FOSS Việt Nam](https://www.facebook.com/groups/fossvietnam/?__cft__[0]=AZVmMHpHWot4eQZeXt99FWS_auP15vxtV4mZgPuiKbd-PT3tyNgckHNjSp5flPs50wj-eSt1aRYBTjj0_rKMi5wsWUD3NAHJ1WLUZlnFWJRN1e8vQYgROT7vMVj3dMOuvBSxElxHr9Z4pRa4DoFFAQrZliRfduIlz4BItJPAqZYnPg&__tn__=-UC%2CP-R)
-[03-02](03-02.md) chờ duyệt [J2TEAM](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/L%E1%BA%ADp%20tr%C3%ACnh%20c%C3%B4ng%20ngh%E1%BB%87/J2TEAM.md) 
-[04-02](04-02.md) [Data Analytics Community - Unlimited](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/D%E1%BB%AF%20li%E1%BB%87u/Data%20Analytics%20Community%20-%20Unlimited.md) 
+[03-02](03-02.md) chờ duyệt [J2TEAM](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/S%E1%BB%9F%20th%C3%ADch%20c%C3%B4ng%20ngh%E1%BB%87/J2TEAM.md) 
+[04-02](04-02.md) [Khoa học dữ liệu](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/D%E1%BB%AF%20li%E1%BB%87u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.md) 
