@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-10T13:36
+updated: 2024-02-09T15:33
 ---
 
 # Mỗi lần phân loại chi tiêu bạn tốn bao nhiêu thời gian?

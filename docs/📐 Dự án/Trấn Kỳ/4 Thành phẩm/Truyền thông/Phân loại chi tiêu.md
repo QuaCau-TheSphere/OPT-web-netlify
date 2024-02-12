@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-12T12:54
-updated: 2024-02-07T23:37
+updated: 2024-02-08T23:33
 ---
 
 # Phân loại chi tiêu bằng tiếng Việt tự nhiên
@@ -121,7 +121,7 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 * **Cảm xúc** : `xem phim:Inception thấy chấn động`
 * **Sức khoẻ:**  `chạy bộ 100m, hít đất 30 cái`
 
-# 👉 Link: tranky.deno.dev/nns
+# 👉 Link: tranky.deno.dev/cditbavn
 
 https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPapaozK8fpr64nQ4uVyaKerhv2j4uqd8KMWipvl
 
@@ -132,5 +132,5 @@ https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPap
 ---
 [10-11](10-11.md) Đăng trên [Dạy Nhau Học](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/D%E1%BA%A1y%20Nhau%20H%E1%BB%8Dc.md) 
 [10-11](10-11.md) Đăng trên [Tự học Data](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/T%E1%BB%B1%20h%E1%BB%8Dc%20Data.md) 
-[29-11](29-11.md) Đăng trên [Fintech, tài chính cá nhân](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/Fintech,%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n.md) 
+[29-11](29-11.md) Đăng trên [Fintech, tài chính cá nhân](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/D%E1%BB%AF%20li%E1%BB%87u/Fintech,%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n.md) 
 [06-02](06-02.md) [SME, startup, khởi nghiệp](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/H%E1%BB%97%20tr%E1%BB%A3%20t%E1%BB%95%20ch%E1%BB%A9c/SME,%20startup,%20kh%E1%BB%9Fi%20nghi%E1%BB%87p.md) smebf

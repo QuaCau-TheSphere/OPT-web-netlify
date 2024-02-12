@@ -1,65 +1,92 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-01T14:30
+updated: 2024-02-09T02:38
 ---
 
 # Điều nhà đầu tư quan tâm
 ## Trấn Kỳ là gì
-Phân loại chi tiêu hoặc các dạng dữ liệu khác một cách tự động chỉ bằng cách diễn đạt thường ngày và tự động phân loại trong bảng excel. 
+Trấn Kỳ là một chương trình tự động phân loại, gắn nhãn thông tin theo thói quen và cách sắp xếp của riêng bạn bằng tiếng Việt tự nhiên, và có thể tích hợp được vào hệ thống vận hành hiện tại của bạn như báo cáo ngân hàng, Google Keep, Google Sheet, Notion, Obsidian, Fibery, Odoo, v.v.
 
-Bài chi tiết: 
+Ví dụ, với câu nhập đầu vào là:
+
+```
+thăn bò 30k lườn gà 20k (giảm giá) cho Parid ở coopmart vợ trả
+```
+
+Kết quả đầu ra sẽ là:
+
+| Tên                         | Giá trị          |
+| --------------------------- | ---------------- |
+| Món đồ                      | thăn bò, lườn gà |
+| Loại món đồ                 | Lương thực       |
+| Phương thức thanh toán      | vợ trả           |
+| Loại phương thức thanh toán | Tiền mặt         |
+| Nơi mua                     | CoopMart         |
+| Loại nơi mua                | Siêu thị         |
+| Người thụ hưởng             | Parid            |
+| Loại người thụ hưởng        | Gia đình         |
+| Số tiền                     | 50000            |
+| Ghi chú                     | giảm giá         |
+
+Ngoài ra bạn còn có thể dùng nó để phân loại nhiều thứ khác. Ví dụ:
+- **Ý tưởng**: `Kĩ thuật viết văn %topic_Writing @tác_giả_a`
+- **Mối quan hệ**: `Gặp @ông_A bàn về việc X, có đi ăn ở !nhà_hàng_Y 200k ck vcb`
+- **Công việc**: `Công việc A cần giao cho @bạn_B liên hệ với @@đối_tác_C tại !quán_D với chi phí dự kiến 300k ck vcb và nhận output &&item_X`
+- **Cảm xúc**: `xem phim:Inception thấy chấn động`
+- **Sức khoẻ:** `chạy bộ 100m, hít đất 30 cái`
 
 ## Tiềm năng thị trường
-Hiện nay có vẻ tới nay chưa có ai làm cái này. App gần nhất là MoneyLover sau 5 năm vẫn chỉ có 50k download, chứng tỏ nó vẫn còn quá bé, vẫn chưa chiếm lĩnh được thị trường. Khi nào có ai đó chiếm trên 70% thì mới không nên tham gia. 
+Theo nhóm tìm hiểu thì Trấn Kỳ là chương trình duy nhất hiện nay ở Việt Nam giúp phân loại dữ liệu một cách tự động mà dễ tiếp cận với mọi người. ChatGPT thì thực ra cũng có thể làm được, nhưng Trấn Kỳ có những ưu điểm mà ChatGPT không thể sánh được: đảm bảo chính xác 100% theo phân loại người dùng, không cần kết nối mạng khi chạy, không cần gửi dữ liệu ra bên ngoài, chạy số lượng lớn nhanh và rẻ.
 
-Việc phân loại chi tiêu là bước đầu tiên để một người gia nhập thị trường tài chính. Nó có thể giúp các ngân hàng tiếp cận những người không dùng tài khoản ngân hàng. Điều này đặc biệt phù hợp với nhóm đối tượng học sinh, khi họ chưa đủ 18 tuổi để mở tài khoản ngân hàng.
+Trong lĩnh vực tài chính cá nhân, với những app hiện có, ví dụ như MoneyLover, thì sau 5 năm hoạt động vẫn chỉ có 50k download, chứng tỏ nó vẫn còn quá bé, vẫn chưa chiếm lĩnh được thị trường. Ngoài ra, việc phân loại chi tiêu cũng là bước đầu tiên để một người gia nhập thị trường tài chính. Nó có thể giúp các ngân hàng tiếp cận những người không dùng tài khoản ngân hàng (nhóm unbanked). Nhất là với nhóm đối tượng học sinh, khi họ chưa đủ 18 tuổi để mở tài khoản ngân hàng. Đây là một mỏ dữ liệu cho các nhà đầu tư.
 
-Sau khi có dữ liệu người dùng thì 
-
-[Unbanked: What it Means, Statistics, Solutions](https://www.investopedia.com/terms/u/unbanked.asp)
-
-## Các thành tựu
+## Lịch sử phát triển
 ```mermaid
 gantt
-dateFormat  D/M
+dateFormat  D/M/YY
 axisFormat  %d/%m
 title       Lịch sử phát triển Trấn Kỳ
 
 section Làm MVP
-Phân loại trên Fibery                 : crit, 5/7, 13/8
-Lấy dữ liệu từ Google Keep: 23/8
-Docker, open graph: 23/8, 13/10
+Tạo phần lõi                 : crit, 5/7/23, 13/8/23
+Tạo plugin cho Google Keep và Fibery: 23/8/23, 13/10/23
 
 section Xây dựng sản phẩm
-Viết hướng dẫn sử dụng: 4/9, 10/10
-Sửa web: 28/10
-Lên kế hoạch: 11/11
-Phỏng vấn (5 buổi): 11/11, 23/11
-Gặp đối tác (4 buổi): 18/11, 24/11
+Viết hướng dẫn sử dụng: 4/9/23, 10/10/23
+Sửa web: 28/10/23
+Lên kế hoạch: 11/11/23
+Phỏng vấn (5 buổi): 11/11/23, 23/11/23
+Gặp đối tác (4 buổi): 18/11/23, 24/11/23
+
+section Dựng web cho Trấn Kỳ
+Dựng web cho Trấn Kỳ: 5/1/24, 7/2/24
 ```
 
-## Khám phá sâu sắc
+## Khám phá sâu về người dùng
 Có những người sử dụng chương trình này không chỉ để phân loại thu chi, mà còn để phân loại các loại dữ liệu khác, cũng như kết hợp vào hệ thống hoạch định tài nguyên doanh nghiệp của họ.
 
 Bài chi tiết: [Lý do viết Trấn Kỳ](../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 
 ## Mô hình kinh doanh
-- SaaS: tính theo số lượng giao dịch hoặc plugin
-- Chợ/hoạt động cộng đồng
+Dự kiến những người có nhu cầu phân loại dữ liệu lớn nhất là:
+- Những doanh nghiệp vừa và nhỏ
+- Những nhà nghiên cứu hoặc làm dự án xã hội mới được cấp quỹ làm dự án
+
+Đặc điểm chung của nhóm này là:
+1. dữ liệu của họ đủ lớn và quy trình đủ phức tạp để họ phải có một hệ thống xử lý dữ liệu mà các sản phẩm no-code không đáp ứng được, nhưng 
+2. nguồn lực cũng đủ nhỏ để không đủ tiền thuê lập trình viên cho mình và không đủ thời gian để tự học lập trình
+
+Thế nên hiện tại nhóm đang mở các buổi hỗ trợ các đối tượng này giải quyết nhu cầu công việc thông qua việc hướng dẫn lập trình để thu hút họ. Trong tương lai khi có thêm nhân lực thì có thể suy nghĩ thêm những cách làm sau:
+- SaaS: tính theo số lượng truy vấn hoặc plugin
 - Bán dữ liệu
 - Gia công cho các công ty
+- Quảng cáo
 
-Bài chi tiết: [Mô hình kinh doanh](../K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BA%A1o%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
+Bài chi tiết: [Mô hình kinh doanh Trấn Kỳ](../../9%20Blog/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 
 ## Đội ngũ
-- Lý Minh Nhật: tech, fulltime 
-- Nguyễn Đức Thịnh: nhân sự
-- Nguyễn Hữu Lộc: tech 2
-- Mai Quang: cố vấn kinh doanh, phát triển sản phẩm, bán hàng
-- Đỗ Hàng Minh Trí: cố vấn kinh doanh
-
-Về trung bình, 4/5 người đã làm việc với nhau hơn 2 năm cùng Quả Cầu.
+Hiện tại nhóm có 1 người làm toàn thời gian ở tất cả các vấn đề (nghiên cứu, lập trình, truyền thông, phỏng vấn, v.v.) và 1 người làm quản lý kiêm nhân sự. Ngoài ra còn có 2 người khác cũng quan tâm và thường xuyên cho đóng góp. Tất cả đều đã làm việc với nhau hơn 2 năm cùng Quả Cầu.
 
 # Điều muốn nhà đầu tư quan tâm
 ## Trấn Kỳ được sinh ra là để giúp Kendy
@@ -81,7 +108,7 @@ Giúp đỡ Kendy là điều kiện tiên quyết để nhóm xem xét đề ng
 - [Phân tích quyết định đa tiêu chí (MCDA) là phương pháp để tìm điểm đánh đổi tối ưu nhất](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ph%C3%A2n%20t%C3%ADch%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91a%20ti%C3%AAu%20ch%C3%AD%20(MCDA)%20l%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BB%91i%20%C6%B0u%20nh%E1%BA%A5t.md) 
 
 ## Động lực nội sinh và sự tin tưởng tạo ra tổ chức đáng làm
-- [Nhìn thấy được người kia đang làm gì làm tăng sự tin tưởng đối với họ](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%B3m/Nh%C3%ACn%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20ng%C6%B0%E1%BB%9Di%20kia%20%C4%91ang%20l%C3%A0m%20g%C3%AC%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20h%E1%BB%8D.md)
+- [Nhìn thấy được người kia đang làm gì làm tăng sự tin tưởng đối với họ](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/T%E1%BA%A1o%20s%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng/Nh%C3%ACn%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20ng%C6%B0%E1%BB%9Di%20kia%20%C4%91ang%20l%C3%A0m%20g%C3%AC%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20h%E1%BB%8D.md)
 - [Một tổ chức đáng làm tạo ra được động lực nội sinh ở nhân viên](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/M%E1%BB%99t%20t%E1%BB%95%20ch%E1%BB%A9c%20%C4%91%C3%A1ng%20l%C3%A0m%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20n%E1%BB%99i%20sinh%20%E1%BB%9F%20nh%C3%A2n%20vi%C3%AAn.md)
 
 ## Quả Cầu là một vùng đất, một sân chơi, một cộng đồng, một mạng lưới, một nền tảng, một hệ sinh thái
