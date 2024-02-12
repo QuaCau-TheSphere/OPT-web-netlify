@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-13T15:41
+updated: 2024-02-09T00:29
 ---
 
 F%20G%20%C2%BB%20J2TEAM%20Community%20%C2%BB%20ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%A1n%20h%C3%A0ng
@@ -44,6 +44,6 @@ https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPap
 
 
 ---
-[28-10](28-10.md) Bị từ chối đăng trên [Product Owner Vietnam](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/Product%20Owner%20Vietnam.md). Lý do: Bài viết không liên quan đến PO, spam, hoặc seeding
-[31-10](31-10.md) Đăng trên [Xử lý tiếng Việt](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/X%E1%BB%AD%20l%C3%BD%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
+[28-10](28-10.md) Bị từ chối đăng trên [Sản phẩm, phân tích kinh doanh](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/D%E1%BB%AF%20li%E1%BB%87u/S%E1%BA%A3n%20ph%E1%BA%A9m,%20ph%C3%A2n%20t%C3%ADch%20kinh%20doanh.md). Lý do: Bài viết không liên quan đến PO, spam, hoặc seeding
+[31-10](31-10.md) Đăng trên [Khoa học dữ liệu](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/D%E1%BB%AF%20li%E1%BB%87u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.md)
 [10-11](10-11.md) đăng trên [Symato](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/Symato.md) 
