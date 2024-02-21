@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-09T01:53
+updated: 2024-02-15T16:09
 ---
 
 # [03-02](03-02.md)
@@ -25,7 +25,6 @@ https://www.facebook.com/groups/j2team.community/posts/2308276892837751
 # [06-02](06-02.md)
 13:48 1.8k, 117 comment, 266 share
 
-
 So sánh với một số bài khác:
 - [J2TEAM Community | # \*\*Microsoft Edge Gestures\*\*](https://www.facebook.com/groups/j2team.community/posts/2305918139740293/?__cft__[0]=AZXcQTtwKO0nOStO1lEP3VgH2qNGqtamD7rg7tgBI-pXvZ0xd3z6bNzzQz2T7UHTNAFfkq-UvV2R1cKQz6sMI-QWw_4VmtJgnhZ0JlxapgzMXuO6Y9KSxk3n4XS3T9-drJnnCi6rZquDhna3wT2fwlxgilEyUmnaW0D9ngiTZ1FAV20zJmDwG4YzOppRGka6YMo&__tn__=%2CO%2CP-R)
 - [J2TEAM Community | Dự án của công ty / Team bài tập lớn trên trường / Project cá nhân của bạn đang viết commit message như thế nào](https://www.facebook.com/groups/j2team.community/posts/2304230613242379/?__cft__[0]=AZUP9Iks29_yQ6NEZGByjVMcrTTyI6zwvm3WeXh9AIwgLk3gW23p4lbXf1vEeGoRol40gW6z498nAg5MWsLtls9qU_Jz_1P1peBpC1aLpog_7FUage8qLts5XlXIc18VjXGNh5CSUcEU5dUrf33yTHLrwzMIORKOO_YXga6vmiwxqEKVpghjrzUAXdYGtw91_MM&__tn__=%2CO%2CP-R) 1k react, 53 comment, 380 share
@@ -34,3 +33,5 @@ So sánh với một số bài khác:
 
 # [07-02](07-02.md)
 22:28 2k react, 122 comment, 343 share
+# [15-02](15-02.md)
+10:20 2.3k react, 132 comment, 434 share
