@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-09T17:03
+updated: 2024-02-15T16:32
 ---
 
 # Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -42,14 +42,14 @@ Kết quả đầu ra sẽ là:
 ```
 Chương trình có thể tự động bắt được các giá trị trên nhờ vào cấu hình bạn đã thiết lập từ trước. Ở ví dụ này, bạn đã thiết lập như sau:
 ```
-| Từ khoá từ câu nhập... | ...thuộc nhãn phân loại... | ...thuộc chiều dữ liệu   |
-| ---------------------- | -------------------------- | ------------------------ |
-| `thăn bò`, `lườn gà`   | `Lương thực`               | `Món đồ`                 |
-| `vợ trả`               | `Tiền mặt`                 | `Phương thức thanh toán` |
-| `coopmart`             | `Siêu thị`                 | `Nơi mua`                |
-| `Parid`                | `Gia đình`                 | `Người thụ hưởng`        |
-| `20k`, `30k`           | Không thiết lập            | `Số tiền`                |
-| `giảm giá`             | Không thiết lập            | `Ghi chú`                |
+|Từ khoá từ câu nhập...|...thuộc nhãn phân loại...|...thuộc chiều dữ liệu|
+| --- | --- | --- |
+|thăn bò, lườn gà|Lương thực|Món đồ|
+|vợ trả|Tiền mặt|Phương thức thanh toán|
+|coopmart|Siêu thị|Nơi mua|
+|Parid|Gia đình|Người thụ hưởng|
+|20k, 30k|Không thiết lập|Số tiền|
+|giảm giá|Không thiết lập|Ghi chú|
 ```
 ## Giá trị mặc định
 Ví dụ, bạn có thể thiết lập để chương trình tự hiểu là nếu bạn không điền từ khoá gì trong chiều `Phương thức thanh toán` thì mặc định đó là `tiền mặt`.
@@ -93,18 +93,29 @@ Ví dụ, nếu lúc thiết lập cấu hình bạn có khai báo ba từ khoá
 ## Một từ khoá có thể thuộc về nhiều nhãn phân loại
 Ví dụ, từ khoá `ăn trưa với` vừa có thể thuộc nhãn `Mối quan hệ`, vừa có thể thuộc nhãn `Thực phẩm`
 
-## Xuất, nhập dữ liệu với các chương trình khác
-Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và xuất dữ liệu sang Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
-
+## Một số ví dụ về việc tích hợp Trấn Kỳ vào hệ thống
+### Nhập liệu từ Google Keep
 Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
+- Có trên iOS, Android và web
+- Mở rất nhanh và có thể mở trong tình trạng không có mạng
+- Đồng bộ nhanh chóng trên tất cả các thiết bị
+- Hoàn toàn miễn phí
+- Cho phép nhiều người cùng chỉnh sửa một ghi chú
+- Sử dụng giọng nói
+- Nhập số lượng lớn
 
-* Có trên iOS, Android và web
-* Mở rất nhanh và có thể mở trong tình trạng không có mạng
-* Đồng bộ nhanh chóng trên tất cả các thiết bị
-* Hoàn toàn miễn phí
-* Cho phép nhiều người cùng chỉnh sửa một ghi chú
+Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập nhanh những khoảng chi tiêu chung với khối lượng lớn vào lúc bạn không có đầu óc để phân loại, phù hợp cho gia đình, nhóm bạn, công ty những lúc chợ búa, du lịch, tổ chức sự kiện, v.v.
 
-Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập những khoảng chi tiêu chung, phù hợp cho gia đình, nhóm bạn, tổ chức.
+Hiện tại đã có sẵn plugin nhập dữ liệu từ Google Keep và tạo bảng phân loại trên Fibery. 
+
+### Nhập liệu từ Discord, Slack
+Discord và Slack là những phần mềm nhắn tin phổ biến cho cộng đồng hoặc tổ chức. Một server sẽ có nhiều kênh (channel) để việc thảo luận được tập trung, không bị lạc chủ đề quá nhiều. Thông thường, các bộ phận trong tổ chức sẽ có một kênh riêng.
+
+Trong quá trình thảo luận, thỉnh thoảng sẽ có những thông tin cần được phân loại và lưu vào hệ thống quản lý riêng, như quỹ hoặc công việc. Bạn có thể tạo bot để tự động gom các thông tin này ngay tại nơi thảo luận. Ví dụ:
+- `$ họp 70k` → Ghi vào trong sổ quỹ rằng 70000 VND đã được chi cho việc họp
+- `! sửa bug` → Ghi vào trong bảng tổng hợp công việc rằng cần sửa bug
+
+Những thông tin như người nhập, kênh nhập cũng sẽ được ghi lại. Ví dụ, ghi `$ họp 70k` trong kênh Trấn Kỳ thì sẽ hiểu là lý do chi là để họp về Trấn Kỳ. Nhưng cũng với câu nhập đó trong kênh Cảo Thần thì sẽ hiểu là lý do chi là để họp về Cảo Thần.
 
 # Không chỉ mỗi phân loại thu chi
 Thật ra, chương trình này không hẳn nên được đặt tên là "Phân loại thu chi", vì bạn còn có thể dùng nó để phân loại nhiều thứ khác. Ví dụ:
@@ -126,6 +137,6 @@ https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPap
 ---
 [10-11](10-11.md) Đăng trên [Dạy Nhau Học](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/D%E1%BA%A1y%20Nhau%20H%E1%BB%8Dc.md) 
 [10-11](10-11.md) Đăng trên [Tự học Data](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/T%E1%BB%B1%20h%E1%BB%8Dc%20Data.md) 
-[13-11](13-11.md) chờ duyệt [Cộng đồng FOSS Việt Nam](https://www.facebook.com/groups/fossvietnam/?__cft__[0]=AZVmMHpHWot4eQZeXt99FWS_auP15vxtV4mZgPuiKbd-PT3tyNgckHNjSp5flPs50wj-eSt1aRYBTjj0_rKMi5wsWUD3NAHJ1WLUZlnFWJRN1e8vQYgROT7vMVj3dMOuvBSxElxHr9Z4pRa4DoFFAQrZliRfduIlz4BItJPAqZYnPg&__tn__=-UC%2CP-R)
+[13-11](13-11.md) chờ duyệt [Cộng đồng FOSS Việt Nam](https://www.facebook.com/groups/fossvietnam)
 [03-02](03-02.md) chờ duyệt [J2TEAM](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/S%E1%BB%9F%20th%C3%ADch%20c%C3%B4ng%20ngh%E1%BB%87/J2TEAM.md) 
 [04-02](04-02.md) [Khoa học dữ liệu](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/D%E1%BB%AF%20li%E1%BB%87u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.md) 

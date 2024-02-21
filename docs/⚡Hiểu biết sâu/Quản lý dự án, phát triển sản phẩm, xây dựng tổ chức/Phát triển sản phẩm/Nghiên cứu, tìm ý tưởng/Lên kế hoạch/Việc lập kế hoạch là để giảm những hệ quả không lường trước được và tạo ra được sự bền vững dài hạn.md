@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-03T17:17
+updated: 2024-02-16T14:05
 ---
 
 Khái niệm:: [Kế hoạch](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/K%E1%BA%BF%20ho%E1%BA%A1ch.md), [Bền vững, dài hạn](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BB%81n%20v%E1%BB%AFng,%20d%C3%A0i%20h%E1%BA%A1n.md)
