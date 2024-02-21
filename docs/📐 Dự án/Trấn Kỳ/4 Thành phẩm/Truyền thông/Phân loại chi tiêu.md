@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-12T12:54
-updated: 2024-02-08T23:33
+updated: 2024-02-15T16:31
 ---
 
 # Phân loại chi tiêu bằng tiếng Việt tự nhiên
@@ -44,12 +44,12 @@ Chương trình có thể tự động bắt được các giá trị trên nh�
 ```
 |Từ khoá từ câu nhập...|...thuộc nhãn phân loại...|...thuộc chiều dữ liệu|
 | --- | --- | --- |
-|`thăn bò`, `lườn gà`|`Lương thực`|`Món đồ`|
-|`vợ trả`|`Tiền mặt`|`Phương thức thanh toán`|
-|`coopmart`|`Siêu thị`|`Nơi mua`|
-|`Parid`|`Gia đình`|`Người thụ hưởng`|
-|`20k`, `30k`|Không thiết lập|`Số tiền`|
-|`giảm giá`|Không thiết lập|`Ghi chú`|
+|thăn bò, lườn gà|Lương thực|Món đồ|
+|vợ trả|Tiền mặt|Phương thức thanh toán|
+|coopmart|Siêu thị|Nơi mua|
+|Parid|Gia đình|Người thụ hưởng|
+|20k, 30k|Không thiết lập|Số tiền|
+|giảm giá|Không thiết lập|Ghi chú|
 ```
 ## Giá trị mặc định
 
@@ -98,18 +98,29 @@ Ví dụ, nếu lúc thiết lập cấu hình bạn có khai báo ba từ khoá
 
 Ví dụ, từ khoá `ăn trưa với` vừa có thể thuộc nhãn `Mối quan hệ`, vừa có thể thuộc nhãn `Thực phẩm`
 
-## Xuất, nhập dữ liệu với các chương trình khác
-Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và xuất dữ liệu sang Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
-
+## Một số ví dụ về việc tích hợp Trấn Kỳ vào hệ thống
+### Nhập liệu từ Google Keep
 Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
+- Có trên iOS, Android và web
+- Mở rất nhanh và có thể mở trong tình trạng không có mạng
+- Đồng bộ nhanh chóng trên tất cả các thiết bị
+- Hoàn toàn miễn phí
+- Cho phép nhiều người cùng chỉnh sửa một ghi chú
+- Sử dụng giọng nói
+- Nhập số lượng lớn
 
-* Có trên iOS, Android và web
-* Mở rất nhanh và có thể mở trong tình trạng không có mạng
-* Đồng bộ nhanh chóng trên tất cả các thiết bị
-* Hoàn toàn miễn phí
-* Cho phép nhiều người cùng chỉnh sửa một ghi chú
+Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập nhanh những khoảng chi tiêu chung với khối lượng lớn vào lúc bạn không có đầu óc để phân loại, phù hợp cho gia đình, nhóm bạn, công ty những lúc chợ búa, du lịch, tổ chức sự kiện, v.v.
 
-Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập những khoảng chi tiêu chung, phù hợp cho gia đình, nhóm bạn, tổ chức.
+Hiện tại đã có sẵn plugin nhập dữ liệu từ Google Keep và tạo bảng phân loại trên Fibery. 
+
+### Nhập liệu từ Discord, Slack
+Discord và Slack là những phần mềm nhắn tin phổ biến cho cộng đồng hoặc tổ chức. Một server sẽ có nhiều kênh (channel) để việc thảo luận được tập trung, không bị lạc chủ đề quá nhiều. Thông thường, các bộ phận trong tổ chức sẽ có một kênh riêng.
+
+Trong quá trình thảo luận, thỉnh thoảng sẽ có những thông tin cần được phân loại và lưu vào hệ thống quản lý riêng, như quỹ hoặc công việc. Bạn có thể tạo bot để tự động gom các thông tin này ngay tại nơi thảo luận. Ví dụ:
+- `$ họp 70k` → Ghi vào trong sổ quỹ rằng 70000 VND đã được chi cho việc họp
+- `! sửa bug` → Ghi vào trong bảng tổng hợp công việc rằng cần sửa bug
+
+Những thông tin như người nhập, kênh nhập cũng sẽ được ghi lại. Ví dụ, ghi `$ họp 70k` trong kênh Trấn Kỳ thì sẽ hiểu là lý do chi là để họp về Trấn Kỳ. Nhưng cũng với câu nhập đó trong kênh Cảo Thần thì sẽ hiểu là lý do chi là để họp về Cảo Thần.
 
 # Không chỉ mỗi phân loại thu chi
 
