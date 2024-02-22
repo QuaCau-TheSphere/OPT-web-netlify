@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2024-02-20T00:34
+updated: 2024-02-22T21:08
 cssClasses: wide-table
 ---
 
@@ -62,7 +62,7 @@ Bảng này so sánh đặc điểm các mô hình học tập khác nhau để 
 # Một số nhu cầu công việc ví dụ và những sản phẩm và kiến thức cần có để làm được chúng
 | Nhu cầu                                                  | Sản phẩm thực hành                   | Ngôn ngữ               | Khái niệm                                  | Công cụ                     | Khuyến khích biết trước | Mô tả chi tiết                                                                                                                        |
 | -------------------------------------------------------- | ------------------------------------ | ---------------------- | ------------------------------------------ | --------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Quản lý tài chính cá nhân, phân loại câu nhập            | Trấn Kỳ                              | YAML                   | API, shell                                 | VS Code, terminal, Git      |                         | [Tích hợp Trấn Kỳ vào hệ thống của bạn](C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md){ .md-button .md-button--primary } |
+| Quản lý tài chính cá nhân, phân loại câu nhập            | Trấn Kỳ                              | YAML                   | API, shell                                 | VS Code, terminal, Git      |                         | [Tích hợp Trấn Kỳ vào hệ thống của bạn](./Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md){ .md-button .md-button--primary } |
 | Gom các lịch mình cần theo dõi vào Google Calendar       | Google Calendar                      | Pythop                 | Cào web, API, OOP                          | VS Code                     |                         | [Cào dữ liệu web vào Google Calendar](./Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20web%20v%C3%A0o%20Google%20Calendar.md){ .md-button .md-button--primary }     |
 | Nghiên cứu cộng đồng mạng, nắm bắt xu hướng, nhân văn số | WE1S                                 | Python                 | NLP, khối dữ liệu, API                     |                             | Git, terminal           |                                                                                                                                       |
 | Quản lý và chia sẻ kiến thức                             | Obsidian và web trên netlify         | Python                 | Web                                        | Obsidian, Mkdocs, Netlify   | Git, terminal           |                                                                                                                                       |
