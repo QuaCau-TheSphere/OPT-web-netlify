@@ -29,7 +29,7 @@ Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận
 
 
 
-[Giả thiết về thị trường của nền kinh tế phi chính thức](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md)
+[Giả thiết về thị trường của nền kinh tế phi chính thức](../../../2%20Gi%E1%BA%A3%20thi%E1%BA%BFt/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md)
 
 [Xù ngân hàng](./X%C3%B9%20ng%C3%A2n%20h%C3%A0ng.md)
 
