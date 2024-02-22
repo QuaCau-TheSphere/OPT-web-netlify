@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-20T00:44
+updated: 2024-02-22T19:49
 description: Nhập dữ liệu và tạo bảng phân loại ngay trên hệ thống bạn đang dùng
 alias:
   - Tích hợp Trấn Kỳ vào hệ thống của bạn
@@ -50,12 +50,17 @@ Trong quá trình thảo luận, thỉnh thoảng sẽ có những thông tin c�
 
 Những thông tin như người nhập, kênh nhập cũng sẽ được ghi lại. Ví dụ, ghi `$ họp 70k` trong kênh Trấn Kỳ thì sẽ hiểu là lý do chi là để họp về Trấn Kỳ. Nhưng cũng với câu nhập đó trong kênh Cảo Thần thì sẽ hiểu là lý do chi là để họp về Cảo Thần.
 
-### Tạo liên kết có tham số UTM cho Google Analytics
+### Tạo liên kết có tham số UTM tự động
+#### Liên kết có tham số UTM là gì?
 Để có thể đo lường hiệu quả các chiến dịch truyền thông trực tuyến trên Google Analytics, các tham số UTM sẽ được thêm vào đằng sau liên kết. Ví dụ, nếu bạn gửi liên kết `https://quảcầu.cc`  lên nhóm *Vùng đất Quả Cầu* và ở cả ở ngoài nhóm, thì Google Analytics sẽ không biết được có bao nhiêu người trong nhóm bấm vào và bao nhiêu người ngoài nhóm bấm vào. Nhưng nếu bạn thêm tham số UTM vào sau liên kết, ví dụ `https://quảcầu.cc/?source=Vùng đất Quả Cầu`, và chỉ gửi liên kết này vào nhóm, thì bạn sẽ biết được đã có bao nhiêu người từ nhóm bấm vào.
 
 Có nhiều loại tham số UTM, như `source`, `medium`, `campaign`, v.v. Mỗi tham số có những giá trị riêng phải điền, nhưng nhiều lúc chỉ cần biết một cái thì sẽ suy ra được cái còn lại. Ví dụ, đăng một bài trong chiến dịch A thì `campaign` chắc chắn là A, nơi đăng là một nhóm Facebook thì `source` chắc chắn chứa tên nhóm đó, và `medium` chắc chắn là `social`, v.v.
 
-Có những công cụ để giúp xây những liên kết UTM như vậy (gọi là UTM builder), nhưng chúng không tự động điền những giá trị có thể tự suy đoán được. Nếu dự án của bạn có nhiều bài viết khác nhau dành cho nhiều loại đối tượng khác nhau, việc phải làm thủ công từng liên kết như vậy sẽ tốn nhiều thời gian, nhàm chán và có thể làm đau tay. Chưa kể nếu có nhiều người cùng đăng bài thì cũng có thể tạo ra sự không nhất quán. Nếu tất cả những gì bạn cần chỉ là tên bài viết và nơi đăng là đủ để tạo được liên kết đầy đủ thì Trấn Kỳ sẽ tự động hoá được vấn đề này. Ví dụ:
+#### Vấn đề
+Có những công cụ để giúp xây những liên kết UTM như vậy (gọi là UTM builder), nhưng chúng không tự động điền những giá trị có thể tự suy đoán được. Nếu dự án của bạn có nhiều bài viết khác nhau dành cho nhiều loại đối tượng khác nhau, việc phải làm thủ công từng liên kết như vậy sẽ tốn nhiều thời gian, nhàm chán và có thể làm đau tay. Chưa kể nếu có nhiều người cùng đăng bài thì cũng có thể tạo ra sự không nhất quán. 
+
+#### Giải pháp
+Nếu tất cả những gì bạn cần chỉ là tên bài viết và nơi đăng là đủ để tạo được liên kết đầy đủ thì Trấn Kỳ sẽ tự động hoá được vấn đề này. Nó là một chương trình tự động phân loại, gắn nhãn thông tin theo thói quen và cách sắp xếp của riêng bạn bằng tiếng Việt tự nhiên, và mình đã viết thêm chức năng để nó làm được công việc này. Ví dụ:
 - `obsidian vùng đất quả cầu` → Tạo `https://obsidian.quảcầu.cc/?source=Vùng đất Quả Cầu&medium=social&campaign=Công cụ nghĩ`
 - `obs vdqc` → Tạo liên kết tương tự như trên, nhưng chỉ dùng mã sản phẩm và tên viết tắt
 
