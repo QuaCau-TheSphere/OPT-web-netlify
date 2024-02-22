@@ -1,11 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-22T20:15
+updated: 2024-02-22T21:09
 ---
 
 ## Cách 1: làm nhập liệu cho các cá nhân, tổ chức cần thuê ngoài
-[công việc nhập liệu](https://www.google.com/search?client=firefox-b-d&q=c%C3%B4ng+vi%E1%BB%87c+nh%E1%BA%ADp+li%E1%BB%87u&ibp=htl;jobs&sa=X&ved=2ahUKEwiutrePjqOEAxU3mVYBHTTIAR8Qkd0GegQIFRAB#fpstate=tldetail&htivrt=jobs&htiq=c%C3%B4ng+vi%E1%BB%87c+nh%E1%BA%ADp+li%E1%BB%87u&htidocid=omPcbeASS8_ch7MVAAAAAA%3D%3D&sxsrf=ACQVn0-AbylAiRPxZZKN5JAMa-LruGLo4w:1707648427622)
 Để một cá nhân, tổ chức cần thuê ngoài cần hội đủ các điều kiện sau đây:
 - Khách hàng cần phân loại, gắn nhãn, biến dữ liệu phi cấu trúc thành dữ liệu có cấu trúc
 - Khách hàng không tin tưởng kết quả phân loại của ChatGPT, hoặc thấy nó quá đắt hoặc bất tiện
@@ -23,10 +22,13 @@ Như bạn thấy, càng nhiều điều kiện thì khả năng kiếm được
 - Bạn chủ động nhắn tin hỏi về nhu cầu của họ
 - Bạn chủ động đăng tin sẵn sàng nhận làm việc này
 
+[Danh sách các công ty tuyển nhân viên nhập liệu](https://www.google.com/search?client=firefox-b-d&q=c%C3%B4ng+vi%E1%BB%87c+nh%E1%BA%ADp+li%E1%BB%87u&ibp=htl;jobs&sa=X&ved=2ahUKEwiutrePjqOEAxU3mVYBHTTIAR8Qkd0GegQIFRAB#fpstate=tldetail&htivrt=jobs&htiq=c%C3%B4ng+vi%E1%BB%87c+nh%E1%BA%ADp+li%E1%BB%87u&htidocid=omPcbeASS8_ch7MVAAAAAA%3D%3D&sxsrf=ACQVn0-AbylAiRPxZZKN5JAMa-LruGLo4w:1707648427622){ .md-button .md-button--primary }
+
 ## Cách 2: giúp các cá nhân, tổ chức xây dựng hệ thống quản lý và xử lý dữ liệu
 Nếu họ đã biết đến Trấn Kỳ thì bạn không còn làm cách 1 được nữa. Nhưng có thể họ vẫn cần một hệ thống quản lý và xử lý dữ liệu. Ví dụ như:
 - [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý > Nhập liệu từ Discord, Slack](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#nhap-lieu-tu-discord-slack)
-- [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý > Tạo liên kết có tham số UTM tự động](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#tao-lien-ket-co-tham-so-utm-tu-djong)
+- [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý > Tự động tạo liên kết có tham số UTM](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#tu-djong-tao-lien-ket-co-tham-so-utm)
+
 Để làm được việc này cần hội đủ các điều kiện sau đây:
 - Họ cần một hệ thống có thể đáp ứng đúng luồng làm việc, suy nghĩ của mình
 - Họ thấy rằng các hệ thống no-code không thể đáp ứng được nhu cầu đó
@@ -38,17 +40,19 @@ Bạn có thể đọc kỹ hơn về nhu cầu này trong bài [Lý do viết T
 Với mã nguồn và kiến thức lập trình bạn có được từ [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md) nói riêng và [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) nói chung, bạn có thể trở thành người hướng dẫn cho những người đến sau. Bạn sẽ được nhận những gì mà họ đóng góp. Nếu bạn chỉ cần tiền thì khi nào có tiền từ các hoạt động này bọn mình sẽ chuyển cho bạn.
 
 ## Cách 4: tham gia các startup làm app thu chi cá nhân
-Bọn mình đã lọt được vào sự chú ý của [Home - J.D.Everest](https://www.jdeverest.com/). Đây là [J.D. Everest](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Qu%E1%BB%B9/Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0/J.D.%20Everest.md)
-Theo [LinkedIn của người sáng lập](https://www.linkedin.com/in/swimano/) thì anh này là thạc sĩ hệ thống thông tin, giám đốc 
-- Founder Yeah1TV, phim Để Mai Tính, Long Ruồi
-- Đồng sáng lập Quỹ Đầu tư Khởi nghiệp Quốc gia (Vietnam Startup Investment Fund – VNSIF) (❓không tìm thấy website?) 
-- Làm việc với bộ khoa học kỹ thuật về không gian làm việc cho startup
----
+Bọn mình đã lọt được vào sự chú ý của [J.D.Everest](https://www.jdeverest.com/), một công ty tư vấn chiến lược cho các công ty quản lý tài sản gia đình (family office) và quỹ đầu tư tư nhân (private equity investment) ở Việt Nam. Theo [LinkedIn của người sáng lập](https://www.linkedin.com/in/swimano/) thì anh này trước khi sáng lập J.D.Everest thì từng là:
+- Thạc sĩ hệ thống thông tin,
+- Giám đốc điều hành số của [Early Risers Media Group](https://tuoitre.vn/early-risers-ke-hoach-dua-phim-viet-ra-the-gioi-20220424113728409.htm "Early Risers và kế hoạch đưa phim Việt ra thế giới - Tuổi Trẻ Online"), quản lý cho phim *Để Mai Tính*, *Long Ruồi*
+    - [Người sáng lập công ty này](https://tuoitre.vn/vy-vincent-ngo---nguoi-tram-lang-271245.htm) viết kịch bản cho phim *Hancook* và sửa chữa kịch bản cho *Dòng máu anh hùng* và *Lửa Phật*
+- Đồng sáng lập *Quỹ Đầu tư Khởi nghiệp Quốc gia (Vietnam Startup Investment Fund – VNSIF)*
 
-làm cho họ muốn nói ra nhu cầu của mình
+Bạn có thể xem [các ghi chép của bọn mình khi ngồi nói chuyện với họ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Qu%E1%BB%B9/Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0/J.D.%20Everest.md).
 
-Bạn có thể làm được điều cuối bằng việc chủ động
+Bên này nói rằng nếu làm app thu chi cá nhân và đánh thị trường Hàn Quốc trước thì khả năng ăn là 70%, vì bọn này mới thắng crypto. Tuy nhiên, một chị khác cũng từng làm fintech cho Hàn Quốc cho rằng fintech HQ đã phát triển trước mình 10 năm rồi, bây giờ tham gia vào thì không dễ ăn.
 
+Nếu bạn muốn tham gia hoặc hợp tác với các startup đã mua code của Trấn Kỳ, bọn mình sẽ giới thiệu cho bạn.
+
+%%
 em mới coi cái clip YouTube về cái này, trông có vẻ không phải là lừa đảo gì https://www.youtube.com/watch?v=Zd9vH8OZAO0
 
 chưa kể ở các công ty thực ra việc có sản phẩm tốt nhất không phải là tiêu chí duy nhất, mà còn nhiều yếu tố khác ảnh hưởng như chiến lược công ty, mối quan hệ, sự hiểu biết của sếp, v.v. Vẫn có những sản phẩm tệ mà bán thành công, và có những sản phẩm tốt thì không bán được gì cả. Cũng có những công ty tệ vẫn tồn tại được trên thị trường. Người thực sự muốn có công cụ tốt hơn chỉ là người làm trực tiếp chứ không phải là chủ. Chủ có muốn đáp ứng nhu cầu đó của nhân viên không thì là chuyện khác 
@@ -145,3 +149,4 @@ All they need is to seek jobs that the only requirement is to classify/annotate 
 
 Is this a feasible way to make money from this? Is there anything that I miss?
 
+%%
