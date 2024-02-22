@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-20T16:30
+updated: 2024-02-22T12:32
 ---
 
 # Bàn làm việc Google Calendar
@@ -25,3 +25,7 @@ Vậy, nếu bạn có mong muốn hiện thực hoá điều này, Quả Cầu 
 [29-12](29-12.md) [Profile QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Profile%20QC.md)
 [31-12](31-12.md) [Cộng Đồng Agency Truyền Thông - Marketing Việt Nam](C%E1%BB%99ng%20%C4%90%E1%BB%93ng%20Agency%20Truy%E1%BB%81n%20Th%C3%B4ng%20-%20Marketing%20Vi%E1%BB%87t%20Nam.md) 
 [31-12](31-12.md) [Sự kiện, HR](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/Ngh%E1%BB%81%20nghi%E1%BB%87p/S%E1%BB%B1%20ki%E1%BB%87n,%20HR.md) 
+
+Khái niệm:: 
+
+Nguồn:: 
