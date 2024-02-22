@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-14T22:54
+updated: 2024-02-22T20:15
 ---
 
 ## Cách 1: làm nhập liệu cho các cá nhân, tổ chức cần thuê ngoài
@@ -24,7 +24,10 @@ Như bạn thấy, càng nhiều điều kiện thì khả năng kiếm được
 - Bạn chủ động đăng tin sẵn sàng nhận làm việc này
 
 ## Cách 2: giúp các cá nhân, tổ chức xây dựng hệ thống quản lý và xử lý dữ liệu
-Nếu họ đã biết đến Trấn Kỳ thì bạn không còn làm cách 1 được nữa. Nhưng có thể họ vẫn cần một hệ thống quản lý và xử lý dữ liệu. Để làm được việc này cần hội đủ các điều kiện sau đây:
+Nếu họ đã biết đến Trấn Kỳ thì bạn không còn làm cách 1 được nữa. Nhưng có thể họ vẫn cần một hệ thống quản lý và xử lý dữ liệu. Ví dụ như:
+- [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý > Nhập liệu từ Discord, Slack](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#nhap-lieu-tu-discord-slack)
+- [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý > Tạo liên kết có tham số UTM tự động](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#tao-lien-ket-co-tham-so-utm-tu-djong)
+Để làm được việc này cần hội đủ các điều kiện sau đây:
 - Họ cần một hệ thống có thể đáp ứng đúng luồng làm việc, suy nghĩ của mình
 - Họ thấy rằng các hệ thống no-code không thể đáp ứng được nhu cầu đó
 - Họ cần phải làm nhiều việc khác hơn là dành thời gian để xây dựng hệ thống 
@@ -34,8 +37,12 @@ Bạn có thể đọc kỹ hơn về nhu cầu này trong bài [Lý do viết T
 ## Cách 3: trao đổi nhu cầu với người muốn có kiến thức về xây dựng hệ thống quản lý và xử lý dữ liệu
 Với mã nguồn và kiến thức lập trình bạn có được từ [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md) nói riêng và [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) nói chung, bạn có thể trở thành người hướng dẫn cho những người đến sau. Bạn sẽ được nhận những gì mà họ đóng góp. Nếu bạn chỉ cần tiền thì khi nào có tiền từ các hoạt động này bọn mình sẽ chuyển cho bạn.
 
-
-
+## Cách 4: tham gia các startup làm app thu chi cá nhân
+Bọn mình đã lọt được vào sự chú ý của [Home - J.D.Everest](https://www.jdeverest.com/). Đây là [J.D. Everest](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Qu%E1%BB%B9/Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0/J.D.%20Everest.md)
+Theo [LinkedIn của người sáng lập](https://www.linkedin.com/in/swimano/) thì anh này là thạc sĩ hệ thống thông tin, giám đốc 
+- Founder Yeah1TV, phim Để Mai Tính, Long Ruồi
+- Đồng sáng lập Quỹ Đầu tư Khởi nghiệp Quốc gia (Vietnam Startup Investment Fund – VNSIF) (❓không tìm thấy website?) 
+- Làm việc với bộ khoa học kỹ thuật về không gian làm việc cho startup
 ---
 
 làm cho họ muốn nói ra nhu cầu của mình

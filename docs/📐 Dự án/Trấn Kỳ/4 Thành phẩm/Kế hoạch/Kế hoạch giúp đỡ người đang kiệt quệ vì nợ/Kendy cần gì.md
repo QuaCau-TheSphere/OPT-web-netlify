@@ -1,9 +1,9 @@
 ---
 share: true
 title: Kendy cần gì?
-description: Giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, đáp ứng các nhu cầu sống khác
+description: giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-02-22T13:44
+updated: 2024-02-22T19:57
 ---
 
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình không nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
@@ -18,9 +18,11 @@ Như vậy, bọn mình cần tìm nguồn có thể cho Kendy mượn tầm 100
 # Tạo dòng tiền
 Thực ra việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) như [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md) hoặc [Các buổi hướng dẫn cào dữ liệu web vào Google Calendar](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20web%20v%C3%A0o%20Google%20Calendar.md) là để tạo ra dòng tiền để giúp Kendy. 
 
+Xem thêm:: [Kiếm tiền từ Trấn Kỳ](../../../9%20Blog/Ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+
 Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là MMO. Ý tưởng là nhanh chóng nắm bắt được các trào lưu, sự kiện mới nhất trên mạng, sau đó dùng AI chế biến thêm, rồi bán sản phẩm hàng loạt trên các mạng xã hội. Việc này cần giải quyết ở cả khâu đầu vào và đầu ra:
 - **Đầu vào:** 
-    - Nạp các sự kiện sắp diễn ra trên Ticketbox, Liquidpedia vào Google Calendar (đã xong) 
+    - Nạp các sự kiện sắp diễn ra trên Ticketbox, Liquidpedia vào Google Calendar ([đã xong](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20web%20v%C3%A0o%20Google%20Calendar.md)) 
     - Cào Reddit hay Facebook
 - **Đầu ra:** 
     - Bán hàng loạt trên Douyin thì cần có sđt TQ để nhận mã OTP → cần kiếm người ở TQ đồng ý cho mã OTP gửi về sđt của mình
@@ -50,6 +52,7 @@ Hệ thống quản lý hiện nay của Kendy là Fibery. Kendy rất đau đ�
 - Sợ bị lừa thêm lần nữa. Thấy rất ngạc nhiên khi thấy có những người sẵn sàng bỏ tiền ra để giúp người khác không vì điều gì cả
 - Nhất định phải có lợi ích cho cả hai bên. Nếu thấy người khác giúp mình mà điều đó không giúp được gì cho họ thì sẽ từ chối
 - Không muốn vì mình mà làm liên luỵ người khác, không lan toả sự tiêu cực của mình. Việc bàn về khó khăn của mình là sự tiêu cực, nên cũng không muốn bàn chuyện của mình để người khác không tiêu cực thêm
+- Là một người rất chú trọng việc giữ uy tín. Nếu đã vay thì tới hạn sẽ cố gắng trả cho bạn, dù bạn đã nói là cứ giữ tiền đó vì bạn không cần có tiền ngay lúc đó 
 
 Xem thêm:
 - [Kế hoạch giúp đỡ người đang kiệt quệ vì nợ](./index.md)

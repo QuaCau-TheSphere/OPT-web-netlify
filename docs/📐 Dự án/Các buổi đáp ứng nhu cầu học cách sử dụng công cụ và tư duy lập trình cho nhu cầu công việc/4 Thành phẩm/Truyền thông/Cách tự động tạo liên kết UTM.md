@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-21T23:14
+updated: 2024-02-22T19:47
 ---
 
 # Cách tự động tạo liên kết UTM
-## Bối cảnh
+## Liên kết UTM là gì?
 Để có thể đo lường hiệu quả các chiến dịch truyền thông trực tuyến trên Google Analytics, các tham số UTM sẽ được thêm vào đằng sau liên kết. Ví dụ, nếu bạn đăng liên kết `example. com`  lên nhóm *CHỢ NGHIỆN SEO* và ở cả ở ngoài nhóm, thì Google Analytics sẽ không biết được có bao nhiêu người trong nhóm bấm vào và bao nhiêu người ngoài nhóm bấm vào. Nhưng nếu bạn thêm tham số UTM vào sau liên kết, ví dụ `example. com/?source=CHỢ NGHIỆN SEO`, và chỉ đăng lên nhóm mỗi liên kết này, thì bạn sẽ biết được đã có bao nhiêu người từ nhóm bấm vào.
 
 Có nhiều loại tham số UTM, như `source`, `medium`, `campaign`, v.v. Mỗi tham số có những giá trị riêng phải điền, nhưng nhiều lúc chỉ cần biết một cái thì sẽ suy ra được cái còn lại. Ví dụ, đăng một bài trong chiến dịch A thì `campaign` chắc chắn là A, nơi đăng là một trang Facebook thì `source` chắc chắn chứa tên trang đó, và `medium` chắc chắn là `social`, v.v.
