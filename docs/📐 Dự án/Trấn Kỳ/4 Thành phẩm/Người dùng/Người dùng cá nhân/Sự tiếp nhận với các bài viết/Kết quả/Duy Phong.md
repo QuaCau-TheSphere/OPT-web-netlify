@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-17T22:36
+updated: 2024-02-22T21:24
 ---
 
 # Tiếp nhận khi đọc Giới thiệu Trấn Kỳ
@@ -94,7 +94,7 @@ có một cái nhỏ thì thấy giúp dễ hơn
 ## Vì sao bạn ngừng đọc?
 ## Bạn nghĩ ai là người sẽ quan tâm bài này?
 ## Vì sao bạn chưa chia sẻ bài này đến cho những người đó?
-# Tiếp nhận khi đọc [Kế hoạch phát triển Trấn Kỳ](../../../../../9%20Blog/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+# Tiếp nhận khi đọc [Mô hình kinh doanh Trấn Kỳ](../../../../../9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 ## Bạn đã biết tới bài này thế nào?
 ## Điều gì khiến bạn quyết định bấm vào đọc?
 ## Bạn thấy tiêu đề thế nào?
