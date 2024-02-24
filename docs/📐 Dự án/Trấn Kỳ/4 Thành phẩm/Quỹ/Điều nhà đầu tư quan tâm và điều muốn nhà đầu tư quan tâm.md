@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-09T02:38
+updated: 2024-02-22T21:24
 ---
 
 # Điều nhà đầu tư quan tâm
@@ -83,7 +83,7 @@ Thế nên hiện tại nhóm đang mở các buổi hỗ trợ các đối tư�
 - Gia công cho các công ty
 - Quảng cáo
 
-Bài chi tiết: [Mô hình kinh doanh Trấn Kỳ](../../9%20Blog/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
+Bài chi tiết: [Mô hình kinh doanh Trấn Kỳ](../../9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 
 ## Đội ngũ
 Hiện tại nhóm có 1 người làm toàn thời gian ở tất cả các vấn đề (nghiên cứu, lập trình, truyền thông, phỏng vấn, v.v.) và 1 người làm quản lý kiêm nhân sự. Ngoài ra còn có 2 người khác cũng quan tâm và thường xuyên cho đóng góp. Tất cả đều đã làm việc với nhau hơn 2 năm cùng Quả Cầu.

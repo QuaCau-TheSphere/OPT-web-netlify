@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-07T15:05
+updated: 2024-02-22T21:24
 ---
 
 # Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm
@@ -29,7 +29,7 @@ Người cần Trấn Kỳ là những người bị dày vò hằng ngày khi t
 
 Để hỗ trợ người sử dụng Trấn Kỳ cũng như thu hút sự quan tâm của cộng đồng, [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) sẽ được tổ chức. Những người cần có các buổi đó (bao gồm cả những người cần có Trấn Kỳ nhưng không có khả năng chi tiền) sẽ tham gia vào việc tổ chức chúng. Việc này đảm bảo rằng các buổi này sẽ diễn ra vào thời gian họ rảnh với nội dung được cá nhân hoá cho họ và ứng dụng được ngay vào dự án của họ. Những người tham gia các buổi này ngoài việc được đáp ứng các nhu cầu trước mắt sẽ có thêm cơ hội mở rộng mối quan hệ, kiến thức, trải nghiệm và các cơ hội khác.
 
-Bài chi tiết: [Hỏi đáp về việc bán Trấn Kỳ](../../9%20Blog/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md#mo-hinh-hoat-djong-la-gi){ .md-button .md-button--primary } [Kế hoạch](../K%E1%BA%BF%20ho%E1%BA%A1ch/index.md){ .md-button .md-button--primary }
+Bài chi tiết: [Hỏi đáp về việc bán Trấn Kỳ](../../9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md#mo-hinh-hoat-djong-la-gi){ .md-button .md-button--primary } [Kế hoạch](../K%E1%BA%BF%20ho%E1%BA%A1ch/index.md){ .md-button .md-button--primary }
 
 Đây là những hoạt động mà một người bạn sẽ làm. Startup này chỉ chuyên nghiệp hoá chúng lên để đạt hiệu quả cao nhất mà thôi.
 # Số tiền thu được sẽ dùng làm gì?
@@ -50,4 +50,4 @@ Mời bạn vào Discord của Quả Cầu để thảo luận với mọi ngư�
 [Tham gia](https://discord.com/channels/898550123007709204/1163106307495170108/1171076032342806548){ .md-button .md-button--primary }
 
 
-[06-11](06-11.md) đăng ở [Discord QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/Discord%20QC/index.md) và [AGB Saigon Plus](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/AGB%20Saigon%20Plus.md) 
+[06-11](06-11.md) đăng ở [Discord QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Qu%E1%BA%A3%20C%E1%BA%A7u/Discord%20QC/index.md) và [AGB Saigon Plus](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/K%C3%AAnh%20chat/AGB%20Saigon%20Plus.md) 

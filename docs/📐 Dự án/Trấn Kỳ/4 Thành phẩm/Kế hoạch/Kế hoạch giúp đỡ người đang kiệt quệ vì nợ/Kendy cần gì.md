@@ -1,12 +1,12 @@
 ---
 share: true
 title: Kendy cần gì?
-description: giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
+description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-02-22T19:57
+updated: 2024-02-23T00:24
 ---
 
-Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình không nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
+Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
 
 Đây là những thứ Kendy cần:
 
@@ -16,7 +16,7 @@ Một trong những cách để ngân hàng cấp lại tín dụng của mình 
 Như vậy, bọn mình cần tìm nguồn có thể cho Kendy mượn tầm 100tr để trong ngân hàng qua đêm, sáng hôm sau trả lại cũng được. Chỉ cần đến trước 5h chiều thì lại cho mượn tiếp. 
 
 # Tạo dòng tiền
-Thực ra việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) như [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md) hoặc [Các buổi hướng dẫn cào dữ liệu web vào Google Calendar](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20web%20v%C3%A0o%20Google%20Calendar.md) là để tạo ra dòng tiền để giúp Kendy. 
+Việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) như [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md) hoặc [Các buổi hướng dẫn cào dữ liệu web vào Google Calendar](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20web%20v%C3%A0o%20Google%20Calendar.md) là để tạo ra dòng tiền để giúp Kendy. Bạn có thể giúp đăng bài hỗ trợ.
 
 Xem thêm:: [Kiếm tiền từ Trấn Kỳ](../../../9%20Blog/Ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
@@ -29,7 +29,7 @@ Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh
     - Bán hàng loạt trên Etsy thì cần không bị quét IP → cần nguồn cung cấp IP Mỹ, cũng như cần học về API của Etsy
 
 # Xây dựng hệ thống quản lý
-Bản chất của việc tạo Trấn Kỳ là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
+Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
 
 > script này là 1 phần trong lộ trình xử lý nợ, nên anh thừa biết nó quan trọng ntn đối vs bản thân em, dù ở ngoài nhìn vào nó đơn giản chỉ là ghi chú chi tiêu, nhưng nó giảm áp lực khá nhiều khi e dần bản lĩnh nhìn vào từng con số, vì nó luôn layon trên cái calendar nên em fai đối mặt thay vì sợ nó như trước
 > nên giờ việc xử lý nợ hay script này đều là 1 part của việc giải quyết nợ, và nếu điều này xong thì tuyệt quá, e sẽ có thêm gaps để nhảy vào income, chứ thú thực e đang rất ngợp người, nay ngày 6 rồi a

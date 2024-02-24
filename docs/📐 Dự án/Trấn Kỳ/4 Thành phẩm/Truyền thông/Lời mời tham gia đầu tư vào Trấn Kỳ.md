@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-08T14:57
+updated: 2024-02-22T21:24
 ---
 
 # Lời mời tham gia đầu tư vào Trấn Kỳ
@@ -69,4 +69,4 @@ Trong tương lai khi có thêm nhân lực thì có thể có thêm những cá
 
 Bài chi tiết: 
 - [Lý do viết Trấn Kỳ](../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
-- [Mô hình kinh doanh Trấn Kỳ](../../9%20Blog/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+- [Mô hình kinh doanh Trấn Kỳ](../../9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
