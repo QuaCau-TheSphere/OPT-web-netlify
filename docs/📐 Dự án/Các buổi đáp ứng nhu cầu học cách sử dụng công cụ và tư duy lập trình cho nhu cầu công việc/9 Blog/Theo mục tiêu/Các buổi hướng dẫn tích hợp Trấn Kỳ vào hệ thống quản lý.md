@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-22T21:05
+updated: 2024-02-24T13:34
 description: Nhập dữ liệu và tạo bảng phân loại ngay trên hệ thống bạn đang dùng
 alias:
   - Tích hợp Trấn Kỳ vào hệ thống của bạn
@@ -41,7 +41,7 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 Hiện tại đã có sẵn plugin nhập dữ liệu từ Google Keep và tạo bảng phân loại trên Fibery. 
 ![Keep to Fibery.png](../../../../assets/attachments/Keep%20to%20Fibery.png)
 
-### Nhập liệu từ Discord, Slack
+### Tổng hợp công việc hoặc quỹ ngay trên phòng chat (Discord, Slack)
 Discord và Slack là những phần mềm nhắn tin phổ biến cho cộng đồng hoặc tổ chức. Một server sẽ có nhiều kênh (channel) để việc thảo luận được tập trung, không bị lạc chủ đề quá nhiều. Thông thường, các bộ phận trong tổ chức sẽ có một kênh riêng.
 
 Trong quá trình thảo luận, thỉnh thoảng sẽ có những thông tin cần được phân loại và lưu vào hệ thống quản lý riêng, như quỹ hoặc công việc. Bạn có thể tạo bot để tự động gom các thông tin này ngay tại nơi thảo luận. Ví dụ:
@@ -50,7 +50,7 @@ Trong quá trình thảo luận, thỉnh thoảng sẽ có những thông tin c�
 
 Những thông tin như người nhập, kênh nhập cũng sẽ được ghi lại. Ví dụ, ghi `$ họp 70k` trong kênh Trấn Kỳ thì sẽ hiểu là lý do chi là để họp về Trấn Kỳ. Nhưng cũng với câu nhập đó trong kênh Cảo Thần thì sẽ hiểu là lý do chi là để họp về Cảo Thần.
 
-### Tự động tạo liên kết có tham số UTM 
+### Tự động tạo liên kết UTM cho việc tiếp thị trực tuyến
 #### Liên kết có tham số UTM là gì?
 Để có thể đo lường hiệu quả các chiến dịch truyền thông trực tuyến trên Google Analytics, các tham số UTM sẽ được thêm vào đằng sau liên kết. Ví dụ, nếu bạn gửi liên kết `https://quảcầu.cc`  lên nhóm *Vùng đất Quả Cầu* và ở cả ở ngoài nhóm, thì Google Analytics sẽ không biết được có bao nhiêu người trong nhóm bấm vào và bao nhiêu người ngoài nhóm bấm vào. Nhưng nếu bạn thêm tham số UTM vào sau liên kết, ví dụ `https://quảcầu.cc/?source=Vùng đất Quả Cầu`, và chỉ gửi liên kết này vào nhóm, thì bạn sẽ biết được đã có bao nhiêu người từ nhóm bấm vào.
 
@@ -75,8 +75,9 @@ Các chức năng mở rộng khác:
 
 ![](https://i.imgur.com/SIG0zj7.png)
 
-### Lưu kết quả truyền thông trên mạng xã hội
+### Lưu kết quả tiếp thị trên mạng xã hội
 ### Tạo thông tin chứng từ cho kế toán
+### Hệ thống chấm điểm cảm xúc
 
 ## Các tính năng hỗ trợ khác (a.k.a. yêu cầu phi chức năng) 
 - **Viết cho người Việt** nên:
