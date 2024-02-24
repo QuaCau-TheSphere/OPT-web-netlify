@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-31T17:15
-updated: 2024-02-17T22:36
+updated: 2024-02-22T21:24
 ---
 
 [Giả thiết về tiếp nhận của người đọc](../../../../2%20Gi%E1%BA%A3%20thi%E1%BA%BFt/Ti%E1%BA%BFp%20nh%E1%BA%ADn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc.md)
@@ -70,7 +70,7 @@ updated: 2024-02-17T22:36
 - Vì sao họ ngừng đọc?
 - Họ nghĩ ai là người sẽ quan tâm bài này?
 - Vì sao họ chưa chia sẻ bài này đến cho những người đó?
-# Tiếp nhận khi đọc [Kế hoạch phát triển Trấn Kỳ](../../../../9%20Blog/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+# Tiếp nhận khi đọc [Mô hình kinh doanh Trấn Kỳ](../../../../9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 - Họ đã biết tới bài này thế nào?
 - Điều gì khiến họ quyết định bấm vào đọc?
 - Họ thấy tiêu đề thế nào?
