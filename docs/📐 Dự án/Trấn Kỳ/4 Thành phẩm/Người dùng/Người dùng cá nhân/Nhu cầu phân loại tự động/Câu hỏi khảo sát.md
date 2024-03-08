@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-17T22:36
+updated: 2024-02-24T22:19
 ---
-
 # Khi nào thì công việc kế toán cần tới việc nhập liệu và gắn nhãn dữ liệu?
 Em hiện đang nghiên cứu về **nhu cầu tự động hoá việc nhập liệu và phân loại, gắn nhãn, để biến dữ liệu phi cấu trúc thành dữ liệu có cấu trúc ở công việc kế toán**. Ví dụ, khi đi chợ thì ta có một dữ liệu thô (phi cấu trúc) như sau:
 ```**
@@ -55,7 +54,6 @@ Kết quả của việc phân loại, gắn nhãn nó để dữ liệu này tr
 Em muốn nó tự động phân loại chứ không phải nhập tay. Em có biết về regex nhưng cái này có lẽ phức tạp hơn chỉ dùng regex đơn thuần. Em nghĩ là cần phải có plugin chuyên biệt cho nó.
 
 # Mức độ thường xuyên phải phân loại, gắn nhãn thông tin (chuyển từ dữ liệu phi cấu trúc sang dữ liệu có cấu trúc) của bạn khi làm tiếp thị là như thế nào?
-
 Ví dụ về việc phân loại, gắn nhãn thông tin: giả sử bạn đi mua bánh ở coopmart mất 50k, và bạn cần nhập giao dịch này vào trong cơ sở dữ liệu của mình như sau:
 
 - Món đồ: bánh

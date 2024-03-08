@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2023-12-24T18:58
+updated: 2024-02-26T13:48
 ---
-
 | Giải pháp gợi ý                                | Hành vi cần đạt được | Giả thiết                                                     | Công việc                                                                                                         |
 | ---------------------------------------------- | -------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Nắm được các hạn trả nợ. Đạt kỷ luật tài chính |                      | Người dùng không cần chạy Docker khi dùng Google Keep         | Tạo server cho [Trấn Kỳ](../../../index.md)                                                                                        |
@@ -12,6 +11,7 @@ updated: 2023-12-24T18:58
 | Bán hàng loạt trên Douyin                      |                      | Có sđt TQ để nhận mã OTP. Tạo được nội dung hàng loạt bằng AI | Kiếm người ở TQ đồng ý cho mã OTP gửi về sđt của mình                                                             |
 | Bán được trên Etsy                             |                      | Không bị quét IP. Tạo được nội dung hàng loạt bằng AI         | Tìm IP Mỹ, Học Etsy API                                                                                           |
 
+[Kendy cần gì?](./Kendy%20c%E1%BA%A7n%20g%C3%AC.md)
 
 Các sự kiện trên fb event nó ko thuần tuý là 1 events như dạng ticketbox mà nó giống quảng bá hơn
 

@@ -3,9 +3,8 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-02-23T00:24
+updated: 2024-02-28T15:26
 ---
-
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
 
 Đây là những thứ Kendy cần:
@@ -47,9 +46,11 @@ Hệ thống quản lý hiện nay của Kendy là Fibery. Kendy rất đau đ�
 - **Y tế:** Cần tìm người có kiến thức y học để có thể lên một thực đơn 
 
 # Những vấn đề khác khiến việc giúp đỡ trở nên khó khăn
+Kendy:
 - Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn
 - Không muốn ngồi bàn vì cần tiền trong tay hơn là những lời hứa cho tương lai
 - Sợ bị lừa thêm lần nữa. Thấy rất ngạc nhiên khi thấy có những người sẵn sàng bỏ tiền ra để giúp người khác không vì điều gì cả
+- Rất tin tưởng rằng tất cả những người trong kinh doanh chỉ muốn đạt lợi ích lớn nhất cho mình, và việc đặt mục tiêu từ thiện làm mục tiêu kinh doanh là sai lầm lớn một người
 - Nhất định phải có lợi ích cho cả hai bên. Nếu thấy người khác giúp mình mà điều đó không giúp được gì cho họ thì sẽ từ chối
 - Không muốn vì mình mà làm liên luỵ người khác, không lan toả sự tiêu cực của mình. Việc bàn về khó khăn của mình là sự tiêu cực, nên cũng không muốn bàn chuyện của mình để người khác không tiêu cực thêm
 - Là một người rất chú trọng việc giữ uy tín. Nếu đã vay thì tới hạn sẽ cố gắng trả cho bạn, dù bạn đã nói là cứ giữ tiền đó vì bạn không cần có tiền ngay lúc đó 
