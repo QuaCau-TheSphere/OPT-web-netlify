@@ -1,18 +1,27 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-03-08T17:02
+updated: 2024-03-08T18:45
 ---
 # Mô tả chung
 Viết app kết nối người khuyết tật có nhu cầu di chuyển và người sẵn sàng hỗ trợ, tương tự như Grab
+
 ## Câu hỏi
-- Có những xe máy được thiết kế cho người khuyết tật, sao họ không dùng được?
-- Nếu trên bản đồ có nhiều người cùng thể hiện sẵn sàng thì họ có tâm lý [Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn](Hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m,%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20%C4%91%E1%BB%A9ng%20nh%C3%ACn.md) không?
-- Khác gì với WeShare? Khác gì Dichung?
-- Tài xế có lý do gì để mở app để đón khách?
+### Câu hỏi về chiến lược
+- Tại sao đối tượng thụ hưởng lại là nkt mà không phải cái khác? 
+- Tại sao lại là về hỗ trợ di chuyển cho họ mà không phải là cái khác?
+- Tại sao không dành nguồn lực để vận động chính sách cho việc cải thiện dịch vụ công cho họ?
 - Khả năng điều phối hiện nay là thế nào? Vì sao phải cần tới app mà không thuê một người để điều phối thủ công?
-- Tại sao không dành nguồn lực để vận động chính sách cho việc cải thiện dịch vụ công cho nkt?
+- Có những loại xe máy 3 bánh được thiết kế cho người khuyết tật, sao họ không mua về dùng?
+- Viết xong rồi thì sẽ duy trì việc vận hành nó thế nào?
+
+### Câu hỏi về sản phẩm
+- Khác gì với WeShare? Khác gì Dichung?
 - Có cần làm app cho đt ko hay làm web app là được?
+
+### Câu hỏi về hành vi người dùng
+- Tài xế có lý do gì để mở app để đón khách?
+- Nếu trên bản đồ có nhiều người cùng thể hiện sẵn sàng giúp đỡ thì họ có [Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn](Hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m,%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20%C4%91%E1%BB%A9ng%20nh%C3%ACn.md) không?
 
 # Yêu cầu
 ## Yêu cầu chức năng
@@ -41,13 +50,14 @@ Viết app kết nối người khuyết tật có nhu cầu di chuyển và ng�
 
 ## Yêu cầu phi chức năng
 Thời gian khởi động dưới 5s
+
 # Nhân sự 
- Lộc viết chính, Nhật hướng dẫn.
+Lộc viết chính, Nhật hướng dẫn.
 
 # Thời gian hoàn thành và giá
  Thời gian hoàn thành dự kiến (giả sử ngày làm 10 tiếng): 
  - Cho toàn bộ dự án (top-down): 5 tuần
- - Cho từng chức năng (bottom-up):  1 tuần nếu chưa có sẵn kiến thức về chức năng đó, 2 ngày nếu đã có sẵn kiến thức
+ - Cho từng chức năng (bottom-up): 1 tuần nếu chưa có sẵn kiến thức về chức năng đó, 2 ngày nếu đã có sẵn kiến thức
  
  Giá: 80k/h
  
