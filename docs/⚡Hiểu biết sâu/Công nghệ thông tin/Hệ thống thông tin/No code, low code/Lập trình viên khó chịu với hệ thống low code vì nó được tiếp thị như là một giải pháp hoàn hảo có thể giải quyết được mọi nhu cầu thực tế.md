@@ -2,9 +2,8 @@
 share: true
 title: Lập trình viên khó chịu với hệ thống low code không phải vì nó ưu tiên sự tiện lợi và chi phí thấp cho người dùng, mà vì nó được tiếp thị như là một giải pháp hoàn hảo có thể giải quyết được mọi nhu cầu thực tế
 created: 2023-09-05T16:17
-updated: 2024-02-11T16:03
+updated: 2024-03-08T18:24
 ---
-
 Khái niệm:: [Đánh đổi](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i.md), [Ưu tiên](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C6%AFu%20ti%C3%AAn.md)
 [Dùng low code để xây dựng hệ thống là đang mang nợ kỹ thuật vào người](./D%C3%B9ng%20low%20code%20%C4%91%E1%BB%83%20x%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20l%C3%A0%20%C4%91ang%20mang%20n%E1%BB%A3%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di.md) 
 Nguồn:: [If the concept of low code/no code program is nothing new, then why do developers talking about it still get frustrated? (closed)](https://softwareengineering.stackexchange.com/q/447976/192731)
@@ -16,3 +15,5 @@ Nguồn:: [If the concept of low code/no code program is nothing new, then why d
 [kelseyhightower/nocode: The best way to write secure and reliable applications. Write nothing; deploy nowhere.](https://github.com/kelseyhightower/nocode "kelseyhightower/nocode: The best way to write secure and reliable applications. Write nothing; deploy nowhere.")
 
 ![](https://i.stack.imgur.com/ARBSs.jpg) 
+
+[Một công ty không có sản phẩm tốt nhưng tiếp thị tốt sẽ khiến người dùng không biết về sản phẩm tốt hơn](../../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3,%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/M%E1%BB%99t%20c%C3%B4ng%20ty%20kh%C3%B4ng%20c%C3%B3%20s%E1%BA%A3n%20ph%E1%BA%A9m%20t%E1%BB%91t%20nh%C6%B0ng%20ti%E1%BA%BFp%20th%E1%BB%8B%20t%E1%BB%91t%20s%E1%BA%BD%20khi%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20kh%C3%B4ng%20bi%E1%BA%BFt%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m%20t%E1%BB%91t%20h%C6%A1n.md)
