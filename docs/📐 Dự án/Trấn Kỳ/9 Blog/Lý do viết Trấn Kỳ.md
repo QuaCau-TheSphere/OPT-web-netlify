@@ -1,14 +1,13 @@
 ---
 share: true
 created: 2023-09-12T16:39
-updated: 2024-02-22T21:24
+updated: 2024-03-17T12:35
 description: Tại sao các phần mềm nocode hay ChatGPT vẫn không đủ để thay thế lập trình trong việc quản trị?
 alias:
   - Tại sao các phần mềm nocode hay ChatGPT vẫn không đủ để thay thế lập trình trong việc quản trị?
 tags:
   - file_thành-phẩm_bài-viết
 ---
-
 %%
 #file/thành-phẩm/bài-viết 
 # Tại sao không sử dụng cơ sở dữ liệu (Excel, SQL) 
@@ -104,14 +103,16 @@ Do Kendy đã có nhiều thiết lập rất nhiều thứ trên Fibery rồi, 
 
 Từ khối dữ liệu đầu vào, chương trình xử lý để ra khối dữ liệu đầu ra. Xem thêm [Mô hình xử lý dữ liệu](https://lậptrình.quảcầu.cc/%F0%9F%91%8FTr%E1%BA%A5n%20K%E1%BB%B3/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/3.%20Hi%E1%BB%83u%20code%20n%C3%B3i%20g%C3%AC/3.1%20M%C3%B4%20h%C3%ACnh%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/?utm_source=CW+Obsidian%2C+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+v%C3%A0+c%C3%B4ng+c%E1%BB%A5+ngh%C4%A9+%C2%BB+L%C3%BD+do+vi%E1%BA%BFt+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=th%C3%A0nh+ph%E1%BA%A9m).
 
-##  Tại sao không dùng ChatGPT để phân loại thông tin? 
+##  Tại sao không dùng các mô hình ngôn ngữ lớn (như ChatGPT) để phân loại thông tin? 
 Lý do quan trọng nhất là **kết quả không đáng tin cậy**:
-- Nếu nhu cầu của bạn là để **quản lý tài chính**, các mô hình ngôn ngữ dựa trên thống kê như ChatGPT sẽ không cho ra tổng số tiền chính xác, trong khi đây là điều kiện quan trọng trong việc tiền bạc
-- Nếu nhu cầu của bạn là để **tạo dữ liệu có cấu trúc từ dữ liệu phi cấu trúc**, thì ChatGPT không nhất thiết có cùng hệ thống phân loại (ontology) mà người dùng muốn xác lập. Nếu muốn đảm bảo nó ra kết quả đúng thì cũng phải nói cho nó hệ thống phân loại mà mình muốn, mà như vậy thì thì không cần phải dùng đến nó nữa. Để các mô hình ngôn ngữ lớn có ưu thế trong việc này đòi hỏi dữ liệu đầu vào phải có bối cảnh lớn
+- Nếu nhu cầu của bạn là để **quản lý tài chính**, các mô hình ngôn ngữ lớn dựa trên thống kê như ChatGPT sẽ không cho ra tổng số tiền chính xác, trong khi đây là điều kiện quan trọng trong việc tiền bạc
+- Nếu nhu cầu của bạn là để **tạo dữ liệu có cấu trúc từ dữ liệu phi cấu trúc**, thì các mô hình ngôn ngữ lớn không nhất thiết có cùng hệ thống phân loại (ontology) mà người dùng muốn xác lập. Nếu muốn đảm bảo nó ra kết quả đúng thì cũng phải nói cho nó hệ thống phân loại mà mình muốn, mà như vậy thì thì không cần phải dùng đến nó nữa
+
+Tiếp cận dựa trên quy luật sẽ có hiệu quả nếu có ít các từ đồng âm hoặc đồng nghĩa, và cũng không có nhiều nhãn phân loại cho mỗi từ. Tức là ngữ cảnh (context) của câu nhập (prompt) thấp. Các mô hình ngôn ngữ lớn không phải là không đạt được kết quả tương đương khi có câu nhập không đòi hỏi phải có nhiều ngữ cảnh để hiểu, nhưng nếu so sánh với các yếu tố khác như đòi hỏi nhiều ngữ liệu và tài nguyên máy để huấn luyện, và không biết được kết quả đã được tạo sinh ra thế nào, thì tiếp cận dựa trên quy luật sẽ có lợi thế lớn.
 
 Xem thêm:: [AI là định dạng ảnh mờ của web](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/AI/AI%20l%C3%A0%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%E1%BA%A3nh%20m%E1%BB%9D%20c%E1%BB%A7a%20web.md)
 
-Các nhược điểm khác của ChatGPT:
+Nếu sử dụng ChatGPT thì còn có thêm những nhược điểm khác:
 - Chậm
 - Cần có mạng
 - Phải gửi thông tin ra ngoài
