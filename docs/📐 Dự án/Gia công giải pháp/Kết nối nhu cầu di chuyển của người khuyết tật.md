@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-03-08T18:45
+updated: 2024-03-14T12:37
 ---
 # Mô tả chung
 Viết app kết nối người khuyết tật có nhu cầu di chuyển và người sẵn sàng hỗ trợ, tương tự như Grab
@@ -9,8 +9,11 @@ Viết app kết nối người khuyết tật có nhu cầu di chuyển và ng�
 ## Câu hỏi
 ### Câu hỏi về chiến lược
 - Tại sao đối tượng thụ hưởng lại là nkt mà không phải cái khác? 
+	- Vì thương họ nhiều hơn
 - Tại sao lại là về hỗ trợ di chuyển cho họ mà không phải là cái khác?
+	- ❓Vì đây là nhu cầu họ cần nhất
 - Tại sao không dành nguồn lực để vận động chính sách cho việc cải thiện dịch vụ công cho họ?
+	- Không đủ nguồn lực vận động chính sách
 - Khả năng điều phối hiện nay là thế nào? Vì sao phải cần tới app mà không thuê một người để điều phối thủ công?
 - Có những loại xe máy 3 bánh được thiết kế cho người khuyết tật, sao họ không mua về dùng?
 - Viết xong rồi thì sẽ duy trì việc vận hành nó thế nào?
@@ -18,6 +21,8 @@ Viết app kết nối người khuyết tật có nhu cầu di chuyển và ng�
 ### Câu hỏi về sản phẩm
 - Khác gì với WeShare? Khác gì Dichung?
 - Có cần làm app cho đt ko hay làm web app là được?
+- Có cần phải có bản đồ không hay có thể mặc định là người dùng chỉ cần đọc địa chỉ là đã biết là mình có thể đến được rồi?
+	- ❓Người ở trọ mới lên HN 
 
 ### Câu hỏi về hành vi người dùng
 - Tài xế có lý do gì để mở app để đón khách?
@@ -52,7 +57,8 @@ Viết app kết nối người khuyết tật có nhu cầu di chuyển và ng�
 Thời gian khởi động dưới 5s
 
 # Nhân sự 
-Lộc viết chính, Nhật hướng dẫn.
+- Lộc: viết chính
+- Nhật: hướng dẫn lập trình và kiểm tra code của Lộc, nhận yêu cầu và tư vấn giải pháp cho anh Lâm
 
 # Thời gian hoàn thành và giá
  Thời gian hoàn thành dự kiến (giả sử ngày làm 10 tiếng): 
