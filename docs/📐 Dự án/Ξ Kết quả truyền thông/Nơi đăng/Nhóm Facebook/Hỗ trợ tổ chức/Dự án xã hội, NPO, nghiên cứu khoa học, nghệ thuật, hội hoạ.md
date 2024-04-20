@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-03-14T23:41
+updated: 2024-03-21T20:34
 ---
 # [Các buổi đáp ứng nhu cầu học lập trình](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 ## Pending
@@ -11,16 +11,17 @@ updated: 2024-03-14T23:41
     [09-02](09-02.md) 17:06 gửi trong chat
     [14-02](14-02.md) từ chối
 
-[26-02](26-02.md) Vietnamese Humanities & Social Sciences Association (VHSSA) https://www.facebook.com/groups/3687586671347776/my_pending_content
+## 1 like
+[07-02](07-02.md) 11:28 WORKSHOP CHO NGƯỜI TRẺ https://www.facebook.com/groups/1870723840010036/posts/1938176049931481
 
 ## SNPO
 ### [07-02](07-02.md)
 14:50 duyệt sau khi hỏi anh Sơn tại sao chưa được duyệt https://www.facebook.com/groups/mangluoisnpo/permalink/1438222743706828
 21:55 4 react
 
-# 1 like
-[07-02](07-02.md) 11:28 WORKSHOP CHO NGƯỜI TRẺ https://www.facebook.com/groups/1870723840010036/posts/1938176049931481
-[29-02](29-02.md) 20:00 Vietnamese Humanities & Social Sciences Association (VHSSA) https://www.facebook.com/groups/viethssa/posts/6699423853497361/
+## Vietnamese Humanities & Social Sciences Association (VHSSA) 
+[29-02](29-02.md) 20:00 https://www.facebook.com/groups/viethssa/posts/6699423853497361/
+[21-03](21-03.md) 20:33 3 like, 2 share
 
 # [Câu hỏi khảo sát > Việc nhập liệu và gắn nhãn dữ liệu áp dụng vào công việc gì trong công tác xã hội?](../../../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md#Việc%20nhập%20liệu%20và%20gắn%20nhãn%20dữ%20liệu%20áp%20dụng%20vào%20công%20việc%20gì%20trong%20công%20tác%20xã%20hội?)
 ## Pending
@@ -59,6 +60,7 @@ Cái này gần với semantic tagging trong frame semantics, loại frame là s
 ## Thống Kê Y Học
 [14-03](14-03.md) 22:44 https://www.facebook.com/groups/thongkeyhocandr/posts/2120466424990496
 Làm suốt, dùng R, tạo một nhóm từ theo list phân loại sẵn để tâch nội dung.
+[21-03](21-03.md) 10:06 8 react 25 comment 2 share
 ## Dữ liệu nghệ thuật Việt Nam / Vietnam Art Archive / VAA
 [15-02](15-02.md) 17:54 https://www.facebook.com/groups/1176033822752394/posts/2084805781875189
 22:35 3 react
@@ -70,5 +72,7 @@ Làm suốt, dùng R, tạo một nhóm từ theo list phân loại sẵn để 
 [16-02](16-02.md) 20:01 11 react, 4 comment
 
 # [Chuyển từ giả định nghiên cứu sang bảng hỏi định lượng thế nào cho hiệu quả](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Chuy%E1%BB%83n%20t%E1%BB%AB%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20nghi%C3%AAn%20c%E1%BB%A9u%20sang%20b%E1%BA%A3ng%20h%E1%BB%8Fi%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20th%E1%BA%BF%20n%C3%A0o%20cho%20hi%E1%BB%87u%20qu%E1%BA%A3.md)
-## Pending
-[25-02](25-02.md) VSRM-Vietnam Social Research Methodology  https://www.facebook.com/groups/277566036004587/my_pending_content
+## VSRM-Vietnam Social Research Methodology
+[25-02](25-02.md) submit
+[16-03](16-03.md) 07:31 Accept https://www.facebook.com/groups/277566036004587/posts/1797587164002459/
+[21-03](21-03.md) 20:30 21 react, 9 share https://www.facebook.com/groups/277566036004587/posts/1797587164002459/
