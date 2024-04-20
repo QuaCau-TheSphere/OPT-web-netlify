@@ -1,15 +1,14 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-17T23:26
+updated: 2024-03-30T11:41
 ---
-
 Khái niệm:: 
 [Các câu hỏi về việc thành lập quỹ tín dụng, nền kinh tế phi chính thức, bản chất CSR của doanh nghiệp và tâm lý con người về tiền](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20ki%E1%BB%87t%20qu%E1%BB%87%20v%C3%AC%20n%E1%BB%A3/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20th%C3%A0nh%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng,%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20CSR%20c%E1%BB%A7a%20doanh%20nghi%E1%BB%87p%20v%C3%A0%20t%C3%A2m%20l%C3%BD%20con%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%81%20ti%E1%BB%81n.md)
 
 ## Ai là người muốn có giải pháp cho người đang ngập trong nợ nhất?
 Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ
-## Nếu [Cho vay ngang hàng](../Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc,%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20s%E1%BB%91/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho mượn theo nhóm đảm bảo hơn](../Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc,%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20s%E1%BB%91/Cho%20m%C6%B0%E1%BB%A3n%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20h%C6%A1n.md), tại sao các doanh nghiệp, ngân hàng không áp dụng?
+## Nếu [Cho vay ngang hàng](../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho mượn theo nhóm đảm bảo hơn](../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20m%C6%B0%E1%BB%A3n%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20h%C6%A1n.md), tại sao các doanh nghiệp, ngân hàng không áp dụng?
 mô hình vay nhóm chỉ áp dụng cho người nghèo, còn kinh doanh thì có nhiều hình thức khác. Người nghèo hầu như không có theo nhóm được
 ## Các chương trình hỗ trợ người lao động của chính phủ gặp vấn đề gì mà không phát triển được?
 Họ vô vì xoasd đói giảm nghèo, hết bệnh. Cho mượn là lồng ghép để thoát nghèo thôi
@@ -24,7 +23,7 @@ Tiền giải ngân của tphcm chỉ giải ngân được 12% mà quy trình k
 LIN theo sứ mệnh quản lý tổ chức, chứ ko phải là phát triển cộng đồng, chỉ có kết nối
 Sứ mạng của họ là thương người chứ không phải là phát triển cộng đồng. 
 ## Điều gì khiến một người có tiền nhiều tới mức đầu tư cũng ko hết vẫn ko muốn cho tiền? Tại sao việc đáp ứng nhu cầu người khác lại không mạnh hơn việc tối đa hoá tiền? 
-HỌc viện mà Mark Zuckerberg ọc ở cấp 3 là nhân bản
+Học viện mà Mark Zuckerberg học ở cấp 3 là nhân bản
 - truyền thống thì mình có, nhưng phải nuôi dưỡng. Nuôi dưỡng thông qua giáo dục thì mình ko có. Và phải
 
 - Mỹ: đề cao tư bản, nhưng có luật sòng phẳng. Định hình thể chế philanthropy thông qua luật
@@ -45,29 +44,6 @@ LIN khác vì dữ liệu đối tác rất lớn
 Không có con người biết đủ các tố chất 2 bên: doanh nghiệp
 tầm nhìn của weshare rất lớn, nhưng ko toàn tâm toàn ý được để có tiền để xây dựng đội ngũ
 
-### Trong tháng vừa qua anh đã phân loại dữ liệu bao nhiêu lần?
-### Mỗi lần phân loại anh tốn bao nhiêu thời gian?
-### Anh thường phải phân loại những gì?
-### Bao lâu anh phân loại một lần?
-### Mỗi lần phân loại tốn bao nhiêu thời gian?
-### Sau khi phân loại xong thì anh làm những gì tiếp theo?
-### Có lúc nào anh không phân loại không? Tại sao?
-## Giá trị của việc phân loại
-### Việc phân loại giúp ích được những gì cho anh?
-### Thứ anh có được sau khi phân loại xong giúp ích được những gì cho anh?
-### Nếu không phải tốn thời gian cho việc phân loại thì anh sẽ làm gì?
-### Anh cảm thấy như thế nào vào lúc phải phân loại?
-
-## Giải pháp phân loại tự động
-### Anh có bao giờ nghĩ giá như có một giải pháp giúp tự động hoá những chuyện này không?
-### Anh có nghĩ giải pháp đó là đơn giản không?
-### Theo anh tại sao anh chưa có giải pháp đó?
-### Anh nghĩ rằng giải pháp cho anh nên là như thế nào?
-### Nếu là AI thì sao?
-### Anh nghĩ giá của nó nên như thế nào?
-### Giả sử như bây giờ anh đã có giải pháp đó luôn rồi, thì anh có dành thời gian để áp dụng nó ngay không?
-#### Điều gì quan trọng hơn cả việc đấy?
-
 # Nhu cầu về quản lý dữ liệu
 - Các hoạt động của bọn anh có cái nào mở không. Em có thể đọc các tài liệu của bọn anh được không?
 - Tại sao LIN lại cần bảo mật dữ liệu? 
@@ -75,6 +51,10 @@ tầm nhìn của weshare rất lớn, nhưng ko toàn tâm toàn ý được đ
 - Số đối tác của LIN là rất lớn, nhưng các bên liên quan của các tổ chức cũng lớn mà
 
 - Anh còn quan tâm đến việc tích luỹ kiến thức để có thể tư vấn cho các tổ chức được tốt hơn không?
+## Ai cũng nói về sự hợp tác, nhưng tại sao không ai quan tâm đến việc lưu trữ dữ liệu?
+Tại sao ai cũng lấy bản đồ các bên liên quan ra, nhưng việc lập một bản đồ thực sự không ai quan tâm?
+
+
 
 - Anh cảm thấy mình muốn chia sẻ điều gì nhất cho mọi người? 
 - Anh có ý định mở các buổi chia sẻ không?
@@ -82,3 +62,7 @@ tầm nhìn của weshare rất lớn, nhưng ko toàn tâm toàn ý được đ
 - Hệ thống tri thức cá nhân của anh và chia sẻ cho mọi người
 
 - SNPO khác gì LIN
+- DRD, quỹ hoà bình và phát triển có gì phucwsc tạp như LIN ko?
+- vì  sao kiểm toán 
+- Các tổ chức đầu tàu có quan tâm đến minh bạch dữ liệu nội bộ ko?
+- trao đổi thoongtin kém có là lý do hệ sinh thái kém phát triển?
