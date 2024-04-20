@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-04-17T20:57
+updated: 2024-04-20T23:39
 ---
 Khái niệm:: 
 Nếu chỉ nói về việc được đọc mã nguồn thì nên gọi là "source available" thì hơn. 
@@ -9,4 +9,4 @@ Nếu chỉ nói về việc được đọc mã nguồn thì nên gọi là "so
 
 Nguồn:: [Why Open Source Misses the Point of Free Software - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 
-[Trước đây, khái niệm ❝chính phủ mở❞ là để nói về trách nhiệm giải trình minh bạch của chính phủ. Sau khi O'Reilly sử dụng nó như một dạng kết hợp giữa chính phủ và mã nguồn mở, ý niệm này đã bị lu mờ](../M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A2y,%20kh%C3%A1i%20ni%E1%BB%87m%20%E2%9D%9Dch%C3%ADnh%20ph%E1%BB%A7%20m%E1%BB%9F%E2%9D%9E%20l%C3%A0%20%C4%91%E1%BB%83%20n%C3%B3i%20v%E1%BB%81%20tr%C3%A1ch%20nhi%E1%BB%87m%20gi%E1%BA%A3i%20tr%C3%ACnh%20minh%20b%E1%BA%A1ch%20c%E1%BB%A7a%20ch%C3%ADnh%20ph%E1%BB%A7.%20Sau%20khi%20O'Reilly%20s%E1%BB%AD%20d%E1%BB%A5ng%20n%C3%B3%20nh%C6%B0%20m%E1%BB%99t%20d%E1%BA%A1ng%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20ch%C3%ADnh%20ph%E1%BB%A7%20v%C3%A0%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20%C3%BD%20ni%E1%BB%87m%20n%C3%A0y%20%C4%91%C3%A3%20b%E1%BB%8B%20lu%20m%E1%BB%9D.md) 
+[Khái niệm ❝chính phủ mở❞ như một dạng kết hợp giữa chính phủ và mã nguồn mở làm lu mờ trách nhiệm giải trình của chính phủ](../M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Kh%C3%A1i%20ni%E1%BB%87m%20%E2%9D%9Dch%C3%ADnh%20ph%E1%BB%A7%20m%E1%BB%9F%E2%9D%9E%20nh%C6%B0%20m%E1%BB%99t%20d%E1%BA%A1ng%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20ch%C3%ADnh%20ph%E1%BB%A7%20v%C3%A0%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F%20l%C3%A0m%20lu%20m%E1%BB%9D%20tr%C3%A1ch%20nhi%E1%BB%87m%20gi%E1%BA%A3i%20tr%C3%ACnh%20c%E1%BB%A7a%20ch%C3%ADnh%20ph%E1%BB%A7.md) 

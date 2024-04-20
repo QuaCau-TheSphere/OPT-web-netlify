@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-04-17T21:01
+updated: 2024-04-20T23:39
+title: Trước đây, khái niệm ❝chính phủ mở❞ là để nói về trách nhiệm giải trình minh bạch của chính phủ. Sau khi O'Reilly sử dụng nó như một dạng kết hợp giữa chính phủ và mã nguồn mở, ý niệm này đã bị lu mờ
 ---
 Khái niệm:: 
 Following the open source model, citizens are invited to find bugs in the system, not to ask whether the system’s goals are right to begin with
