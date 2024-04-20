@@ -1,15 +1,16 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-03-14T12:37
+updated: 2024-04-02T12:58
 ---
 # Mô tả chung
-Viết app kết nối người khuyết tật có nhu cầu di chuyển và người sẵn sàng hỗ trợ, tương tự như Grab
+Nhu cầu: người khuyết tật khi có nhu cầu di chuyển chi phí tốn kém
+Giải pháp: viết app kết nối họ evà người sẵn sàng hỗ trợ, tương tự như Grab
 
 ## Câu hỏi
 ### Câu hỏi về chiến lược
 - Tại sao đối tượng thụ hưởng lại là nkt mà không phải cái khác? 
-	- Vì thương họ nhiều hơn
+	- Vì nhà đầu tư tiếp xúc với họ nhiều hơn 
 - Tại sao lại là về hỗ trợ di chuyển cho họ mà không phải là cái khác?
 	- ❓Vì đây là nhu cầu họ cần nhất
 - Tại sao không dành nguồn lực để vận động chính sách cho việc cải thiện dịch vụ công cho họ?
@@ -66,6 +67,9 @@ Thời gian khởi động dưới 5s
  - Cho từng chức năng (bottom-up): 1 tuần nếu chưa có sẵn kiến thức về chức năng đó, 2 ngày nếu đã có sẵn kiến thức
  
  Giá: 80k/h
+ [90% lượng code ban đầu tốn 90% thời gian lập trình. 10% lượng code còn lại tốn thêm 90% thời gian lập trình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Th%E1%BB%9Di%20gian%20ho%C3%A0n%20th%C3%A0nh/90%25%20l%C6%B0%E1%BB%A3ng%20code%20ban%20%C4%91%E1%BA%A7u%20t%E1%BB%91n%2090%25%20th%E1%BB%9Di%20gian%20l%E1%BA%ADp%20tr%C3%ACnh.%2010%25%20l%C6%B0%E1%BB%A3ng%20code%20c%C3%B2n%20l%E1%BA%A1i%20t%E1%BB%91n%20th%C3%AAm%2090%25%20th%E1%BB%9Di%20gian%20l%E1%BA%ADp%20tr%C3%ACnh.md)
+ [Điều nhà đầu tư quan tâm và điều muốn nhà đầu tư quan tâm](../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Qu%E1%BB%B9/%C4%90i%E1%BB%81u%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20quan%20t%C3%A2m%20v%C3%A0%20%C4%91i%E1%BB%81u%20mu%E1%BB%91n%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20quan%20t%C3%A2m.md)
+ [Nếu bạn nghĩ rằng bạn có thể hoàn thành đúng kế hoạch, có thể bạn đang ngộ nhận](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/N%E1%BA%BFu%20b%E1%BA%A1n%20ngh%C4%A9%20r%E1%BA%B1ng%20b%E1%BA%A1n%20c%C3%B3%20th%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh%20%C4%91%C3%BAng%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B3%20th%E1%BB%83%20b%E1%BA%A1n%20%C4%91ang%20ng%E1%BB%99%20nh%E1%BA%ADn.md)
  
 # Nền tảng cần dùng
 ## Cơ sở dữ liệu
