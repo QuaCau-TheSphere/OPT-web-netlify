@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-03-21T20:41
+updated: 2024-06-13T21:16
 ---
 # [Các buổi đáp ứng nhu cầu học lập trình](../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 [09-11](09-11.md) 15:38 https://www.facebook.com/quacau.sphere/posts/pfbid0ePQADgc8zmQH7FyVa2GjHtmaMF1Rv4h8MnwMiy3f7LgSn3YQf9tDtvUzCwwuYJmQl
@@ -28,3 +28,25 @@ updated: 2024-03-21T20:41
 [21-02](21-02.md) 01:17 2 react
 [23-02](23-02.md) 19:32  248 impression, 33 engagement
 [24-02](24-02.md) 13:09 319 impression, 36 engagement
+
+# [đối ⊷ thoại](../../../%C4%91%E1%BB%91i%20%E2%8A%B7%20tho%E1%BA%A1i/index.md)
+[23-05](23-05.md) 16:08 [dạng link](https://www.facebook.com/quacau.sphere/posts/pfbid05EsAmUkU2LwiYksgXhE55NnZdZ1Xs2NoHxUhg4hzt6yTZwDa4uco397NQKQ7KCRKl) 
+16:30 3 view
+19:01 3 view. Share lại trên [Profile QC](./Profile%20QC.md)
+https://www.facebook.com/qua.cau.the.sphere/posts/pfbid0K1dS32XBxSdz7po9zx4YgqFhWvei1Q4cBCEfAmBHHbnBKDNfKhtCSi151iWrBNVZl
+
+[24-05](24-05.md) 18:00 27 view, 27 impression, 1 like
+dạng ảnh https://www.facebook.com/quacau.sphere/posts/pfbid02KYRdxC6aAXdkDJLB1L4c2PUM4mUsSs4Lw9XbcymSheQ56dPZDbNVhDdDSEj1VsT2l
+23:00 23 view, 23 impression, 1 like
+
+[08-06](08-06.md) 20:52 đăng dạng ảnh trang chủ https://www.facebook.com/quacau.sphere/posts/pfbid0Y6Rsu6rQuBtPtwDj4xzonDkyh8Jrpbr8YrsJUvbTWwaw7MyEwW4jLEkjhAvkUAfjl
+21:10 1 like
+[09-06](09-06.md) 00:28 21 view, 21 impression, 1 like
+13:07 26 view, 26 impression, 1 like
+
+|                                   | Reach | Impression | React             |
+| --------------------------------- | ----- | ---------- | ----------------- |
+| Link sihouette                    | 90    | 96         | 2 (có 1 tự share) |
+| Ảnh sihouette                     | 46    | 46         | 1                 |
+| Ảnh trang chủ                     | 26    | 26         | 1                 |
+| Ảnh trang chủ , link dưới comment |       |            |                   |
