@@ -5,7 +5,6 @@ updated: 2023-12-26T18:11
 tags:
   - file_thành-phẩm_bài-viết
 ---
-
 %%
 #file/thành-phẩm/bài-viết
 %%
@@ -19,9 +18,9 @@ Thành quả cần có::
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
+- [Kế hoạch truyền thông](./K%E1%BA%BF%20ho%E1%BA%A1ch%20truy%E1%BB%81n%20th%C3%B4ng.md)
 - [Email gửi Hanoi Grapevine](./Email%20g%E1%BB%ADi%20Hanoi%20Grapevine.md)
 - [Từ việc lưu dữ liệu tại chỗ](./T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97.md)
-- [Kế hoạch truyền thông](./K%E1%BA%BF%20ho%E1%BA%A1ch%20truy%E1%BB%81n%20th%C3%B4ng.md)
 
 
 Giả thuyết:
