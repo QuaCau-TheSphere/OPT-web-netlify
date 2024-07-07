@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2024-02-02T16:48
 ---
-
 Thời gian sắp xếp cho buổi hướng dẫn đầu tiên
 
 Lý do bạn muốn tham gia là gì? Mục đích học cách sử dụng công cụ của bạn?
