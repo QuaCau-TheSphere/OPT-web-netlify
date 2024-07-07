@@ -3,7 +3,6 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-08T20:06
 ---
-
 # Những thứ Fibery muốn giải quyết
 1.  Knowledge lives in many tools (Notion, Miro, Canny, Slack, Jira)
 2.  Discussions out of context
