@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2024-02-21T23:33
 ---
-
 [Mục tiêu và câu hỏi nghiên cứu người dùng cá nhân cần phân loại tự động](./M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n%20c%E1%BA%A7n%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 # Thông tin cơ bản
 ## Giới thiệu về bản thân, công việc
