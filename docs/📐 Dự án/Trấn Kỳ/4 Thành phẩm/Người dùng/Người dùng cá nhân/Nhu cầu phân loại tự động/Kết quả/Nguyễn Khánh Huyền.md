@@ -4,7 +4,6 @@ created: 2024-02-17T14:05
 updated: 2024-02-22T00:49
 ---
 
-
 ## Thông tin cơ bản
 [Nguyễn Khánh Huyền](https://www.facebook.com/pistachio.212/) bình luận trong nhóm
 [Phân tích và xử lý dữ liệu - Data analysis and Processing](https://www.facebook.com/groups/dataanalysisandprocessing/posts/1616590132480059/?comment_id=1621108902028182)
