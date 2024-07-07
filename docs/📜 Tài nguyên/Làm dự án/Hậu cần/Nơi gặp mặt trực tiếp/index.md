@@ -4,7 +4,6 @@ created: 2023-06-09T12:01
 updated: 2023-10-22T12:35
 title: Nơi gặp mặt trực tiếp
 ---
-
 - [Nơi gặp mặt trực tiếp tại TPHCM](./Theo%20th%C3%A0nh%20ph%E1%BB%91/TPHCM/index.md)
 - [Nơi gặp mặt trực tiếp tại Hà Nội](./Theo%20th%C3%A0nh%20ph%E1%BB%91/H%C3%A0%20N%E1%BB%99i/index.md)
 
