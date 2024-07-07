@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-12-13T15:14
 ---
-
 Khái niệm:: 
 
 giờ giả sử như hết sạch nợ thì em cần vay bao nhiêu để làm ăn?

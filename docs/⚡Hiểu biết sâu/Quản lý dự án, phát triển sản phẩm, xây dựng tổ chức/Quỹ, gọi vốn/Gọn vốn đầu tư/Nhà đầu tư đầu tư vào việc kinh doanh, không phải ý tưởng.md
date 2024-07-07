@@ -3,7 +3,6 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-12-06T19:52
 ---
-
 Khái niệm:: [Ý tưởng](%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Đầu tư](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BA%A7u%20t%C6%B0.md)
 - You must show them scalable and sustainable opportunities
 - Demonstrate awareness of comprehensive business management

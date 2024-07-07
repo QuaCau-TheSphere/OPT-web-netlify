@@ -7,7 +7,6 @@ tags:
   - tt_chưa-hoàn-thành
   - đct_trung-bình
 ---
-
 %%
 #file/thành-quả
 %%

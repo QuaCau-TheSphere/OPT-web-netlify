@@ -6,7 +6,6 @@ tags:
   - file_thành-phẩm
 title: Các buổi phỏng vấn người tham gia tích cực trong kênh Obsidian tiếng Việt về cảm nhận, nhu cầu của họ về vault và lý do chưa đóng góp
 ---
-
 %%
 #file/thành-phẩm
 %%

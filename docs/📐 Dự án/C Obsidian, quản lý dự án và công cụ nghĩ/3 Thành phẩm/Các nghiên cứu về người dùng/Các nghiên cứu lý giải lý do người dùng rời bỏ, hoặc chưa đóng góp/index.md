@@ -6,7 +6,6 @@ tags:
   - file_thành-phẩm
 title: Các nghiên cứu lý giải lý do người dùng rời bỏ, hoặc chưa đóng góp
 ---
-
 %%
 #file/thành-phẩm
 %%

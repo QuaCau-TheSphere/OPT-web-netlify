@@ -3,7 +3,6 @@ share: true
 created: 2023-11-25T15:33
 updated: 2023-11-30T10:17
 ---
-
 - [ ] Hiểu được quan điểm về cho tiền của người cho vay tiền (chủ nợ) nói riêng và người giàu/nhà tư bản nói chung
 - [ ] Tạo cảm giác an toàn và thời gian rảnh để Kendy nói thêm về chủ nợ
 

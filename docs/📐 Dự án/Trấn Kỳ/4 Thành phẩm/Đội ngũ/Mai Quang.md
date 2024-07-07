@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-03T13:39
+updated: 2024-07-07T14:50
 ---
-
 # Vì sao anh muốn phát triển nó? Tại sao thấy nó tiềm năng?
 Nhu cầu tiềm năng là rất lớn. Viết trong giấy ... thôi khỏi làm
 test từng quán. khi nhập hàng, phát sinh chi phí. Note trong tin nhắn . Chi phí ko ghi nhận lại luôn. Canh vào số tiền họ thu được. Nhìn lướt khoảng khoảng 5tr. Đối với họ ko còn phải là painpoint nữa. Nhưng sau mọt thời gian nhìn lại thì ko có lời

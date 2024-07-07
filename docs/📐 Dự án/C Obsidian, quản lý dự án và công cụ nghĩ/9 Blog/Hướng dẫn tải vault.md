@@ -3,7 +3,6 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-12-07T13:51
 ---
-
 > [!info] [Tại sao lại cần tải vault về hơn là đọc trên web？](./T%E1%BA%A1i%20sao%20l%E1%BA%A1i%20c%E1%BA%A7n%20t%E1%BA%A3i%20vault%20v%E1%BB%81%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20tr%C3%AAn%20web%EF%BC%9F.md)
 
 # Cài đặt tự động

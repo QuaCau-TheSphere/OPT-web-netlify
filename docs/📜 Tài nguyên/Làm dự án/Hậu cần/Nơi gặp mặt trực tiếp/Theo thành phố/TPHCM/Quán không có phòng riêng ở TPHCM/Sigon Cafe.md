@@ -3,7 +3,6 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
-
 Wifi:: ✔
 Địa chỉ:: [85/38 Trần Đình Xu, Q1]
 Ưu đãi giá:: Chi phí cao nhất là 500k (xem phim)

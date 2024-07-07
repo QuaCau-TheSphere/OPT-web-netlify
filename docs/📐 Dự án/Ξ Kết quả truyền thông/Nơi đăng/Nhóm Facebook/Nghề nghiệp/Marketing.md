@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-26T16:58
+updated: 2024-07-06T14:59
 ---
 # [Bàn làm việc Google Calendar](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar.md)
 ## Pending
@@ -35,3 +35,10 @@ updated: 2024-02-26T16:58
 2 react, 1 comment
 
 [Web dev, GA, Ads, SEO, MMO](./Web%20dev,%20GA,%20Ads,%20SEO,%20MMO.md) 
+
+# [Rút gọn liên kết và thống kê lưu lượng truy cập cho các dự án, tổ chức hiện diện trên nhiều nền tảng](../../../../%C4%91%E1%BB%91i%20%E2%8A%B7%20tho%E1%BA%A1i/R%C3%BAt%20g%E1%BB%8Dn%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20th%E1%BB%91ng%20k%C3%AA%20l%C6%B0u%20l%C6%B0%E1%BB%A3ng%20truy%20c%E1%BA%ADp%20cho%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n,%20t%E1%BB%95%20ch%E1%BB%A9c%20hi%E1%BB%87n%20di%E1%BB%87n%20tr%C3%AAn%20nhi%E1%BB%81u%20n%E1%BB%81n%20t%E1%BA%A3ng.md)
+## Reject 
+[05-07](05-07.md) 19:33 [Log in to Facebook](https://www.facebook.com/groups/826780827386335/pending_posts/8016738338390512/)
+[06-07](06-07.md) 14:58 [Page not found | Facebook](https://www.facebook.com/groups/826780827386335/pending_posts/?search=&has_selection=false&is_notif_background=false&post_id=8021023211295358)
+## UAN Telegram
+[05-07](05-07.md) 20:47 https://t.me/uan_mkt/864/2738

@@ -4,7 +4,6 @@ created: 2023-05-26T14:51
 updated: 2023-12-30T21:42
 title: Tôi có thể giúp gì?
 ---
-
 Xem thêm:: [Kế hoạch phát triển dự án](../6%20K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20d%E1%BB%B1%20%C3%A1n.md)
 
 Đây là một số thứ bạn có thể giúp mà không cần dùng tiền. 
@@ -21,4 +20,4 @@ Bạn có thể chọn một ghi chú ạn thấy thú vị nhất và [thảo l
 # Ủng hộ tiền
 https://opencollective.com/nhom-tu-hoc/donate
 
-[Quyên góp cho mã nguồn mở thiếu sự khẩn cấp và đồng cảm cá nhân mà các tổ chức từ thiện hay có](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/G%E1%BB%8Di%20v%E1%BB%91n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Quy%C3%AAn%20g%C3%B3p%20cho%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F%20thi%E1%BA%BFu%20s%E1%BB%B1%20kh%E1%BA%A9n%20c%E1%BA%A5p%20v%C3%A0%20%C4%91%E1%BB%93ng%20c%E1%BA%A3m%20c%C3%A1%20nh%C3%A2n%20m%C3%A0%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%E1%BB%AB%20thi%E1%BB%87n%20hay%20c%C3%B3.md), [Crowdfunding depends on highly visible public work](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/G%E1%BB%8Di%20v%E1%BB%91n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Crowdfunding%20depends%20on%20highly%20visible%20public%20work.md)
+[Quyên góp cho mã nguồn mở thiếu sự khẩn cấp và đồng cảm cá nhân mà các tổ chức từ thiện hay có](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Nh%C3%A2n%20h%E1%BB%8Dc,%20kinh%20t%E1%BA%BF,%20khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c%20trong%20CNTT/M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do/M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Quy%C3%AAn%20g%C3%B3p%20cho%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F%20thi%E1%BA%BFu%20s%E1%BB%B1%20kh%E1%BA%A9n%20c%E1%BA%A5p%20v%C3%A0%20%C4%91%E1%BB%93ng%20c%E1%BA%A3m%20c%C3%A1%20nh%C3%A2n%20m%C3%A0%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%E1%BB%AB%20thi%E1%BB%87n%20hay%20c%C3%B3.md), [Crowdfunding depends on highly visible public work](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/G%E1%BB%8Di%20v%E1%BB%91n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Crowdfunding%20depends%20on%20highly%20visible%20public%20work.md)

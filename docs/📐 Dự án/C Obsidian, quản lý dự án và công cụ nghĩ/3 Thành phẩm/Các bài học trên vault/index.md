@@ -6,7 +6,6 @@ tags:
   - file_thành-phẩm
 title: Các bài học trên vault
 ---
-
 %%
 #file/thành-phẩm
 %%

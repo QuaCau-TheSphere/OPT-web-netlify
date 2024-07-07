@@ -6,8 +6,8 @@ title: Lĩnh vực
 ---
 
 - 1 Nhu cầu: 
-    - [Lý thuyết đồ thị](./L%C3%BD%20thuy%E1%BA%BFt%20%C4%91%E1%BB%93%20th%E1%BB%8B.md)
     - [Hệ thống thông tin & công cụ nghĩ](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20&%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9.md)
+    - [Lý thuyết đồ thị](./L%C3%BD%20thuy%E1%BA%BFt%20%C4%91%E1%BB%93%20th%E1%BB%8B.md)
     - [Lập trình hướng vật thể](./L%E1%BA%ADp%20tr%C3%ACnh%20h%C6%B0%E1%BB%9Bng%20v%E1%BA%ADt%20th%E1%BB%83.md)
     - [Lập trình web](./L%E1%BA%ADp%20tr%C3%ACnh%20web.md)
     - [Nhân văn số](./Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md)

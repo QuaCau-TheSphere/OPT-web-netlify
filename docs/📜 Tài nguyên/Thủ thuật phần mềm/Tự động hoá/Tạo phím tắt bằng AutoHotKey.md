@@ -3,7 +3,6 @@ share: true
 created: 2023-05-30T15:56
 updated: 2023-10-30T15:29
 ---
-
 Autohotkey là một phần mềm hỗ trợ người dùng Window, giúp thực hiện các thao tác nhanh và thuận tiện hơn, phù hợp với người làm văn phòng.
 
 Thay thế các nút vô dụng trên bàn phím, như <kbd>F1</kbd>, <kbd>Pause</kbd> bằng các nút khác

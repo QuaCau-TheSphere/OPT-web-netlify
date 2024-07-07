@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2024-02-18T15:09
 ---
-
 # Thông tin cơ bản
 ## Giới thiệu về bản thân, công việc
 khách hàng cá nhân chỉ muốn biết ghi chép

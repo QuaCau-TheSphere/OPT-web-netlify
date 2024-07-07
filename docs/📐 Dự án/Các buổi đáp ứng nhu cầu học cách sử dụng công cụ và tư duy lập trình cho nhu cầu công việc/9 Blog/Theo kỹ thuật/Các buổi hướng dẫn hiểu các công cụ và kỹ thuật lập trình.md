@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2024-02-06T17:59
 ---
-
 # Kết quả đầu ra
 - Biết được người ta nói cái gì khi google 
 - Biết cách dùng github

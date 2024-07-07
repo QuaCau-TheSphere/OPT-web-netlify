@@ -4,7 +4,6 @@ created: 2023-05-26T14:51
 updated: 2023-10-27T21:28
 ---
 
-
 Hiện tại có 2 nơi thảo luận chính:
 - Kênh `#tiếng-việt` trong [Discord Obsidian](https://discord.gg/obsidianmd)
 - Kênh `#quản-lý-dự-án-và-công-cụ-nghĩ` trong [Discord Quả Cầu](https://discord.gg/ynvxH2K7Ct) 

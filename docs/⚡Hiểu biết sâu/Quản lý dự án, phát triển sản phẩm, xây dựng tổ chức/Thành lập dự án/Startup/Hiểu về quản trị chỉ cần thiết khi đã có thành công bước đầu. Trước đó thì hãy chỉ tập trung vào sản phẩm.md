@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-26T15:24
 ---
-
 Những nhân viên đầu tiên ta không phải quản lý, vì họ cũng không khác gì người sáng lập cả
 
 Nguồn:: [Y Combinator](../../../%CE%9E%20Ngu%E1%BB%93n/Y%20Combinator.md), ![Lecture 3 - Before the Startup (Paul Graham) - YouTube](https://www.youtube.com/watch?v=ii1jcLg-eIQ)

@@ -4,7 +4,6 @@ title: Tôi học được gì sau khi viết Graphvidian?
 created: 2023-09-05T16:17
 updated: 2024-01-17T13:31
 ---
-
 Khái niệm:: 
 
 | Mong muốn                                                     | Mức độ thỏa mãn và lý do                                                                                                                                         |

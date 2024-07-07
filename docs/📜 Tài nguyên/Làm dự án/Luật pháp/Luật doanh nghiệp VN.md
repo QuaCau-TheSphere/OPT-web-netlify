@@ -3,7 +3,6 @@ share: true
 created: 2023-07-16T09:34
 updated: 2023-10-26T13:44
 ---
-
 [Luật VN không định nghĩa doanh nghiệp, mà chỉ nói về các yếu tố tạo nên nó](./Lu%E1%BA%ADt%20VN%20kh%C3%B4ng%20%C4%91%E1%BB%8Bnh%20ngh%C4%A9a%20doanh%20nghi%E1%BB%87p,%20m%C3%A0%20ch%E1%BB%89%20n%C3%B3i%20v%E1%BB%81%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20t%E1%BA%A1o%20n%C3%AAn%20n%C3%B3.md)
 
 Tài sản: có 3 cách chính:

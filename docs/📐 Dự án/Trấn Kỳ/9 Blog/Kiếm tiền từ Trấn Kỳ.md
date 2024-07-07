@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2024-02-24T13:40
 ---
-
 ## Cách 1: làm nhập liệu cho các cá nhân, tổ chức cần thuê ngoài
 Để một cá nhân, tổ chức cần thuê ngoài cần hội đủ các điều kiện sau đây:
 - Khách hàng cần phân loại, gắn nhãn, biến dữ liệu phi cấu trúc thành dữ liệu có cấu trúc
@@ -38,8 +37,8 @@ Chưa kể, cái gọi là chi phí thấp ở đây chỉ là miễn phí trong
 Bạn có thể đọc kỹ hơn về nhu cầu này trong bài [Lý do viết Trấn Kỳ](./L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md). 
 
 Đây là một số thứ đáp ứng được nhu cầu này, mà trước đây không làm được vì không có một thư viện phân loại dữ liệu bằng tiếng Việt tự nhiên có sẵn nào:
-- [Tổng hợp công việc hoặc quỹ ngay trên phòng chat (Discord, Slack)](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#tong-hop-cong-viec-hoac-quy-ngay-tren-phong-chat-discord-slack)
-- [Tự động tạo liên kết UTM cho việc tiếp thị trực tuyến](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#tu-djong-tao-lien-ket-utm-cho-viec-tiep-thi-truc-tuyen)
+- [Tổng hợp công việc hoặc quỹ ngay trên phòng chat (Discord, Slack)](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#Tổng%20hợp%20công%20việc%20hoặc%20quỹ%20ngay%20trên%20phòng%20chat%20(Discord,%20Slack))
+- [Tự động tạo liên kết UTM cho việc tiếp thị trực tuyến](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md#Tự%20động%20tạo%20liên%20kết%20UTM%20cho%20việc%20tiếp%20thị%20trực%20tuyến)
 
 Để làm được việc này cần hội đủ các điều kiện sau đây:
 - Họ cần một hệ thống có thể đáp ứng đúng luồng làm việc, suy nghĩ của mình

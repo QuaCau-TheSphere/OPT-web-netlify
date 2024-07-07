@@ -4,7 +4,6 @@ title: "Một số medium cho blog: social, referral, forum, blog, chat, form"
 created: 2023-05-26T14:51
 updated: 2023-12-30T11:12
 ---
-
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 
 Xem thêm:: [Hướng dẫn truyền thông](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20truy%E1%BB%81n%20th%C3%B4ng.md)
