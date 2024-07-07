@@ -6,7 +6,6 @@ tags:
   - file_thành-phẩm
 title: Các nghiên cứu về sản phẩm
 ---
-
 %%
 #file/thành-phẩm
 %%
