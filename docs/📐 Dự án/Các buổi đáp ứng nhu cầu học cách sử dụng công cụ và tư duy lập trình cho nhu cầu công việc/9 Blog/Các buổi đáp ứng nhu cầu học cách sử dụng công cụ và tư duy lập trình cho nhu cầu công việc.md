@@ -32,8 +32,8 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
 
 # Một số nhu cầu ví dụ và những kiến thức cần có để làm được chúng
 ### Các nhu cầu công việc ví dụ
-- Kỷ luật tài chính
 - Theo dõi cảm xúc
+- Kỷ luật tài chính
 - Chia sẻ nội dung trên các kênh khác nhau
 - Gom tất cả thông tin lại vào một chỗ
 - Nắm bắt xu hướng mạng
