@@ -3,7 +3,6 @@ share: true
 created: 2023-09-08T21:32
 updated: 2023-10-08T20:20
 ---
-
 1. raw data từ user research vs highlight from literature note là như nhau
 
 
