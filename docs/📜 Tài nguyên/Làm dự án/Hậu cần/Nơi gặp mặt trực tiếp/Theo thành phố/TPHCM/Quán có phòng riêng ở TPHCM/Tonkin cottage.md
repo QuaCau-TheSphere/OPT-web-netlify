@@ -3,7 +3,6 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
-
 Loại:: [Quán có phòng riêng ở TPHCM](./index.md), [Quán không có phòng riêng ở TPHCM](../Qu%C3%A1n%20kh%C3%B4ng%20c%C3%B3%20ph%C3%B2ng%20ri%C3%AAng%20%E1%BB%9F%20TPHCM/index.md)
 Địa chỉ:: [91 Lý Tự Trọng, Bến Thành, Q1]
 Có loa mic:: 
