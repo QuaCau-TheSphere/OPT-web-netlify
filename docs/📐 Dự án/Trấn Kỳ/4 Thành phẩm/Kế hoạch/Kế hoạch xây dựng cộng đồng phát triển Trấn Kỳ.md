@@ -5,7 +5,6 @@ updated: 2023-12-10T21:56
 alias:
   - Xây dựng cộng đồng phát triển Trấn Kỳ
 ---
-
 | Giải pháp gợi ý                                    | Hành vi cần đạt được | Giả thiết | Công việc |
 | -------------------------------------------------- | -------------------- | --------- | --------- |
 | Chuyển đổi từ những người muốn xây dựng PKM        |                      |           |           |
