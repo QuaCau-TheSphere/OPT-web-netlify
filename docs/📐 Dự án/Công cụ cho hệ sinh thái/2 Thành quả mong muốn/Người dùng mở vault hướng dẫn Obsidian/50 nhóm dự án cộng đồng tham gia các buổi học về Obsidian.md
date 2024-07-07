@@ -7,7 +7,6 @@ tags:
   - tt_đang-làm
   - đct_cao
 ---
-
 %%
 #file/thành-quả
 %%
@@ -23,5 +22,5 @@ Thành quả cần có::
 Thành phẩm:: 
 
 
-[Số người tham gia mới (user acquisition)](../../7%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20ch%E1%BB%89%20s%E1%BB%91/S%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20m%E1%BB%9Bi%20(user%20acquisition).md)
-[Số người tiếp tục tham gia theo thời gian (retention)](../../7%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20ch%E1%BB%89%20s%E1%BB%91/S%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20ti%E1%BA%BFp%20t%E1%BB%A5c%20tham%20gia%20theo%20th%E1%BB%9Di%20gian%20(retention).md)
+[Số người tham gia mới (user acquisition)](../../../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/7%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20ch%E1%BB%89%20s%E1%BB%91/S%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20m%E1%BB%9Bi%20(user%20acquisition).md)
+[Số người tiếp tục tham gia theo thời gian (retention)](../../../C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/7%20T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20ch%E1%BB%89%20s%E1%BB%91/S%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20ti%E1%BA%BFp%20t%E1%BB%A5c%20tham%20gia%20theo%20th%E1%BB%9Di%20gian%20(retention).md)
