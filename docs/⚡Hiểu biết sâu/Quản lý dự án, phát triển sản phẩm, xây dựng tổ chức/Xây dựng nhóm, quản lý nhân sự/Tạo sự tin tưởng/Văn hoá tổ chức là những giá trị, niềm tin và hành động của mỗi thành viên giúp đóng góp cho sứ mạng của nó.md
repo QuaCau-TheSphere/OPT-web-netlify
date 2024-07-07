@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-12-06T17:22
 ---
-
 Khái niệm:: [Văn hoá](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/V%C4%83n%20ho%C3%A1.md)
 
 Nguồn:: [Y Combinator](../../../%CE%9E%20Ngu%E1%BB%93n/Y%20Combinator.md), ![Lecture 10 - Culture (Brian Chesky, Alfred Lin) - YouTube](https://www.youtube.com/watch?v=RfWgVWGEuGE)
