@@ -4,7 +4,6 @@ created: 2023-09-05T16:17
 updated: 2024-02-18T13:16
 ---
 
-
 [Plain Text Accounting](https://blog.emacsen.net/profit-first-constraints-plain-text-accounting.html "")
 Beancount
 - [Plain Text Accounting (PTA) - plaintextaccounting.org](https://plaintextaccounting.org/ "Plain Text Accounting (PTA) - plaintextaccounting.org")
