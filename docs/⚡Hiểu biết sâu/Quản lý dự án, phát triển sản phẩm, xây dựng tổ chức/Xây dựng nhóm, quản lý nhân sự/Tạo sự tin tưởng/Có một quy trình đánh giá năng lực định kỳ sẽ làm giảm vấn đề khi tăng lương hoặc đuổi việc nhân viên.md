@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-12-06T17:22
 ---
-
 Khái niệm:: [Minh bạch](Minh%20b%E1%BA%A1ch.md)
 
 Nguồn:: [Y Combinator](../../../%CE%9E%20Ngu%E1%BB%93n/Y%20Combinator.md), ![Lecture 15 - How to Manage (Ben Horowitz) - YouTube](https://youtu.be/uVhTvQXfibU?si=X55G7g_lyph-oIMv&t=786)
