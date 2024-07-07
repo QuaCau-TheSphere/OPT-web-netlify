@@ -7,7 +7,6 @@ tags:
   - tt_đang-làm
   - đct_cao
 ---
-
 %%
 #file/thành-quả
 Đơn vị tính ở chủ ngữ:: nhóm dự án
