@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2024-02-22T21:24
 ---
-
 # Tiếp nhận khi đọc Giới thiệu Trấn Kỳ
 ## Bạn đã biết tới bài này thế nào?
 ## Điều gì khiến bạn quyết định bấm vào đọc?
