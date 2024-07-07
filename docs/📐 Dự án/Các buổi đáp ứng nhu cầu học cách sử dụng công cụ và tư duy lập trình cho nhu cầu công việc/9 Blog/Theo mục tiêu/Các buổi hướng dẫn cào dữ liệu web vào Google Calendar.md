@@ -5,7 +5,6 @@ updated: 2024-02-22T12:33
 alias: Cào dữ liệu web vào Google Calendar
 description: Các buổi hướng dẫn cào dữ liệu web vào Google Calendar
 ---
-
 ![Bàn làm việc Google Calendar.png](../../../../assets/attachments/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar.png)
 Bộ phận HR, marketing hoặc truyền thông nội bộ của công ty bạn muốn cập nhật các sự kiện trong năm để xây dựng nội dung nhưng việc cập nhật thủ công qua từng tháng, từng năm là một công việc mất nhiều thời gian? Việc nắm bắt xu hướng thông qua việc theo dõi các các sự kiện nổi bật trên các mạng xã hội như Facebook hay Tiktok rồi ghi chú thủ công trong Excel không đủ để bạn nhìn được số liệu dễ dàng và xem được sự kiện trong  tuần hoặc trong tháng?
 
