@@ -4,7 +4,6 @@ created: 2023-09-05T16:17
 updated: 2024-02-16T14:05
 ---
 
-
 # Giả thiết về người đọc
 - Thấy ở đây người tổ chức thực sự quan tâm đến nhu cầu của mình
 	- Thấy việc được chủ động định giá làm họ thấy công sức lao động của mình được tôn trọng, thấy được trao quyền
