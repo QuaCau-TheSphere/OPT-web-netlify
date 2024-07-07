@@ -77,6 +77,6 @@ Làm suốt, dùng R, tạo một nhóm từ theo list phân loại sẵn để 
 [16-03](16-03.md) 07:31 Accept https://www.facebook.com/groups/277566036004587/posts/1797587164002459/
 [21-03](21-03.md) 20:30 21 react, 9 share https://www.facebook.com/groups/277566036004587/posts/1797587164002459/
 
-# [đối ⊷ thoại lấy nhu cầu của các tổ chức phi lợi nhuận làm trung tâm](../../../../%C4%91%E1%BB%91i%20%E2%8A%B7%20tho%E1%BA%A1i/%C4%91%E1%BB%91i%20%E2%8A%B7%20tho%E1%BA%A1i%20l%E1%BA%A5y%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20phi%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20l%C3%A0m%20trung%20t%C3%A2m.md)
+# [đối ⊷ thoại lấy nhu cầu của các tổ chức phi lợi nhuận làm trung tâm](%C4%91%E1%BB%91i%20%E2%8A%B7%20tho%E1%BA%A1i%20l%E1%BA%A5y%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20phi%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20l%C3%A0m%20trung%20t%C3%A2m.md)
 ## SNPO
 [17-06](17-06.md) 18:16 https://www.facebook.com/groups/mangluoisnpo/posts/1515032052692563
