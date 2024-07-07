@@ -4,7 +4,6 @@ created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 title: Phần mềm xây dựng cộng đồng
 ---
-
 Discord:
 - Bot, API
 - Nhiều kênh chat
