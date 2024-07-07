@@ -3,7 +3,6 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-06T16:09
 ---
-
 Tổ chức Y tế thế giới (WHO) kêu gọi mọi người đừng hảo ngọt nữa: lượng đường tiêu thụ mỗi ngày chỉ nên dưới 10% mức đóng góp calo trong khẩu phần.  
   
 Mức sử dụng mà WHO thực sự mong muốn là thấp hơn 5%, nghĩa là chỉ nên dùng không quá 25g đường/ngày.  
