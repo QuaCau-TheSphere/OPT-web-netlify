@@ -6,7 +6,6 @@ alias:
   - Điểm giống và khác nhau giữa các chương trình về quản lý chi tiêu cá nhân
   - Quang cảnh giữa các chương trình về quản lý chi tiêu cá nhân
 ---
-
 # Đầu vào
 ## Phần mềm chat
 PiPu (Telegram) 
