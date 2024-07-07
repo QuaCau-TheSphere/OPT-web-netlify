@@ -4,7 +4,6 @@ created: 2023-09-05T16:17
 updated: 2024-02-21T17:56
 ---
 
-
 ![Pasted image 20240221020431.png](../../../../assets/attachments/Pasted%20image%2020240221020431.png)
 
 E ơi như hôm trước trao đổi, chị gửi lại em 1 số nội dung liên quan đến data/lập trình chị muốn tìm hiểu và muốn nhờ em bố trí giúp chị 1 lộ trình Coach 1:1 để chị có thể tìm hiểu về lập trình/AI/data và các công cụ . Em xem và advise giúp chị 1 lộ trình nhé. 
