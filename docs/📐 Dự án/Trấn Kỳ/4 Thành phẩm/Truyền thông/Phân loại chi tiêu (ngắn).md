@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-15T17:32
+updated: 2024-07-07T14:57
 ---
-
 
 Bạn có cảm thấy chán nản, mất năng lượng vì phải tốn quá nhiều thời gian để phân loại chi tiêu cũng như các loại dữ liệu khác không? Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:
 
@@ -58,7 +57,7 @@ Chương trình sẽ tự động phân loại kết quả đầu ra cho bạn:
 
 https://www.facebook.com/quacau.sphere/posts/pfbid072iAT8Y3zdAP5L7VGiHkmxjxQfPapaozK8fpr64nQ4uVyaKerhv2j4uqd8KMWipvl
 
-![Keep to Fibery.png](../../../../assets/attachments/Keep%20to%20Fibery.png)
+![Keep to Fibery](../../../../assets/attachments/Keep%20to%20Fibery.png)
 [29-10](29-10.md) [Launch](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/H%E1%BB%97%20tr%E1%BB%A3%20t%E1%BB%95%20ch%E1%BB%A9c/Launch.md)
 [07-11](07-11.md) [Dự án xã hội, NPO, nghiên cứu khoa học, nghệ thuật, hội hoạ](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/H%E1%BB%97%20tr%E1%BB%A3%20t%E1%BB%95%20ch%E1%BB%A9c/D%E1%BB%B1%20%C3%A1n%20x%C3%A3%20h%E1%BB%99i,%20NPO,%20nghi%C3%AAn%20c%E1%BB%A9u%20khoa%20h%E1%BB%8Dc,%20ngh%E1%BB%87%20thu%E1%BA%ADt,%20h%E1%BB%99i%20ho%E1%BA%A1.md) [Page not found | Facebook](https://www.facebook.com/groups/562933844569060/pending_posts/?search=&has_selection=false&is_notif_background=false&post_id=1388363565359413)
 [09-11](09-11.md) [Kingdom of Cubes](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/Kingdom%20of%20Cubes.md)
