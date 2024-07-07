@@ -7,7 +7,6 @@ tags:
   - tt_đang-làm
   - đct_cao
 ---
-
 %%
 #file/thành-quả
 %%
@@ -26,13 +25,12 @@ Thành phẩm::
 
 <pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of undefined (reading '0')
     at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:2:95)
-    at DataviewInlineApi.eval (plugin:dataview:18638:16)
-    at evalInContext (plugin:dataview:18639:7)
-    at asyncEvalInContext (plugin:dataview:18649:32)
-    at DataviewJSRenderer.render (plugin:dataview:18670:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18260:14)
-    at e.load (app://obsidian.md/app.js:1:715749)
-    at DataviewApi.executeJs (plugin:dataview:19198:18)
-    at eval (plugin:obsidian-mkdocs-publisher:22:31380)
-    at Generator.next (&lt;anonymous&gt;)
-    at r (plugin:obsidian-mkdocs-publisher:2:729)</pre>
+    at DataviewInlineApi.eval (plugin:dataview:18885:16)
+    at evalInContext (plugin:dataview:18886:7)
+    at asyncEvalInContext (plugin:dataview:18896:32)
+    at DataviewJSRenderer.render (plugin:dataview:18922:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
+    at e.load (app://obsidian.md/app.js:1:1166483)
+    at DataviewApi.executeJs (plugin:dataview:19465:18)
+    at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:27:159282)
+    at convertDataviewQueries (plugin:obsidian-mkdocs-publisher:30:1380)</pre>
