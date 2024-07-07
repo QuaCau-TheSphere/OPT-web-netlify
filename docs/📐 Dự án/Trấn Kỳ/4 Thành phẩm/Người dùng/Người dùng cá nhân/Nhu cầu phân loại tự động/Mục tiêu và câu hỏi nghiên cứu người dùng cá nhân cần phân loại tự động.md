@@ -3,7 +3,6 @@ share: true
 created: 2023-09-05T16:17
 updated: 2024-02-21T23:33
 ---
-
 [Giả thiết về thái độ người dùng](../../../../2%20Gi%E1%BA%A3%20thi%E1%BA%BFt/Ti%E1%BA%BFp%20nh%E1%BA%ADn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%C3%A1i%20%C4%91%E1%BB%99%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 [Giả thiết về giá trị của Trấn Kỳ](../../../../2%20Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20Tr%E1%BA%A5n%20K%E1%BB%B3/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 # Thông tin cơ bản
