@@ -6,7 +6,6 @@ created: 2023-05-26T14:51
 updated: 2023-10-22T12:35
 ---
 
-
 > [!info] Hướng dẫn sử dụng
 > Để lọc ra được những địa điểm phù hợp với mình, bấm <kbd>Ctrl+E</kbd> để thấy phần Dataview. Ở dòng where ghi lại những tiêu chí mình cần có, xong <kbd>Ctrl+E</kbd> thêm lần nữa
 > Ví dụ:
@@ -35,4 +34,4 @@ updated: 2023-10-22T12:35
 
 where không-bị-ồn-từ-bên-ngoài="✔" 
 
-![Nơi gặp mặt trực tiếp](../../index.md#3a53fd)
+![Nơi gặp mặt trực tiếp](../../index.md#^3a53fd)
