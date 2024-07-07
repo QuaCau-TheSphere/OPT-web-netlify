@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-06-09T22:34
+updated: 2024-07-04T15:28
 title: đối ⊷ thoại
 ---
 # đối ⊷ thoại
@@ -15,6 +15,9 @@ title: đối ⊷ thoại
 - Thống kê số lượng truy cập tới liên kết được chia sẻ
 
 Liên lạc với chúng tôi để thêm bài đăng và nơi đăng của bạn vào chương trình với số lượng lớn, hoặc tải [mã nguồn](https://doi-thoai.deno.dev/aI.đốithoại.1) để dùng với tên miền và hệ thống của bạn. Trong tương lai chúng tôi cũng sẽ tạo một plugin Obsidian để bạn có thể tạo nội dung chia sẻ ngay trên kho thông tin của mình. Chúng tôi hướng tới việc đem lại [sự tự do và tự trị dữ liệu](https://doi-thoai.deno.dev/local-first.đốithoại.1) cho bạn.
+
+Tìm hiểu thêm:
+<button>*đối ⊷ thoại* dành cho ai? *đối ⊷ thoại* giúp được gì?</button>
 
 Sản phẩm khác:
 - [Trấn Kỳ — Phân loại dữ liệu bằng tiếng Việt tự nhiên](https://tranky.deno.dev/?utm_source=doi-thoai.deno.dev+(Trang+chủ)&utm_medium=Website&utm_campaign=&utm_content=&utm_term=)
