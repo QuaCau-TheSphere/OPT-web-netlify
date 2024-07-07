@@ -5,7 +5,6 @@ updated: 2023-11-22T12:48
 tags:
   - ⬛
 ---
-
 (English below) 
 
 ⬛ Vấn đề: Sự hợp tác giữa các nhóm dự án chưa đạt được hiệu quả tối ưu
