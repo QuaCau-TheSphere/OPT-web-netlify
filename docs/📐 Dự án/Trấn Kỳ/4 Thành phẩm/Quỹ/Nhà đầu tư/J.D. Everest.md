@@ -4,7 +4,6 @@ created: 2023-10-30T14:29
 alias: jdeverest
 updated: 2024-02-22T20:11
 ---
-
 # Buổi gặp 1
 ## Nội dung chính
 Để đấu với những hãng kia thì phải có b2b, mà như vậy thì phải cần data lớn. Có data thì mới scale đc. Đây không phải là vấn đề về kỹ thuật, mà là vấn đề về kinh doanh.
