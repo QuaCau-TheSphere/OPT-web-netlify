@@ -3,7 +3,6 @@ share: true
 created: 2023-05-26T14:51
 updated: 2023-10-27T21:28
 ---
-
 <iframe width=100% height=300 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXAwSmM2AvOqpD3fE5TXI3pP1RgR4_X5czY_mgsADHTDoL3hXtrtC5z7zz997-loIW6xiWrWOc_jw-/pubhtml?widget=true&amp;headers=false"></iframe>
 
 # Giải pháp dữ liệu cho các dự án cộng đồng
