@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-13T20:13
+updated: 2024-07-20T23:18
+---
+Trong khi tư duy cần dùng cho mỗi loại công việc này là khác nhau
+[Công việc khai phá và công việc khai thác](../C%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)
+
 ---
 NGHĨ VỀ CHIẾN LƯỢC VÀ THỰC THI  
   
@@ -43,4 +47,3 @@ Hoặc là, nhiều người làm chuyên môn tốt, thế là được đề b
 
 Nguồn:: [Hoàng Đức Minh](../../%CE%9E%20Ngu%E1%BB%93n/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ho%C3%A0ng%20%C4%90%E1%BB%A9c%20Minh.md), [NGHĨ VỀ CHIẾN LƯỢC VÀ THỰC THI](https://www.facebook.com/minh5e/posts/pfbid0tC3p2ECjrEcEp11mV2p1AHpFQD5NCKqaDG64vreBxUwDpfjGNNcc4pX1hD3KamXal)
 
-[Công việc khai phá và công việc khai thác](../C%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)
