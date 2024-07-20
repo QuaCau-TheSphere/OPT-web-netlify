@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2024-03-13T18:00
+updated: 2024-07-18T00:23
 cssClasses: wide-table
 ---
 Nếu bạn muốn:
@@ -32,41 +32,9 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
 
 # Một số nhu cầu ví dụ và những kiến thức cần có để làm được chúng
 ### Các nhu cầu công việc ví dụ
-- Kỷ luật tài chính
-- Theo dõi cảm xúc
-- Chia sẻ nội dung trên các kênh khác nhau
-- Nắm bắt xu hướng mạng
-- Tạo báo cáo
-- Tạo danh sách hạch toán vào các phần mềm kế toán
-- Tạo website
-- Tổng hợp những sự kiện sẽ diễn ra
-- Xây dựng mạng lưới đối tác, các bên liên quan
-- Gom tất cả thông tin lại vào một chỗ
-- Chia sẻ kho tri thức của mình cho mọi người
-- Dễ dàng chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý
-- Nghiên cứu cộng đồng mạng
-- Phân tích dữ liệu định lượng
-- Tra lại lịch sử ghi chép
-- Xây dựng kho tri thức
-- Phân tích dữ liệu định tính
 
 
 ### Các nhu cầu công nghệ ví dụ
-- Chạy thống kê
-- Cào web
-- Hệ thống quản lý kiến thức
-- Kiểm soát phiên bản (version control)
-- Nhập sự kiện vào Google Calendar
-- Phân loại dữ liệu tự động theo quy tắc
-- Truy vấn dữ liệu
-- Tạo liên kết UTM rút gọn ngay trên nội dung chuẩn bị chia sẻ
-- Tạo web tĩnh
-- Tự động hoá các công việc lặp đi lặp lại
-- Viết plugin
-- WYSIWYM
-- Xác định các chủ đề có trong ngữ liệu
-- Xây dựng hệ thống quản lý, báo cáo nhu cầu các bên
-- Tạo đồ thị mạng lưới
 
 
 ### Tiêu chí lựa chọn
@@ -84,7 +52,7 @@ Các giải pháp kỹ thuật chỉ là những giải pháp thường được
 
 Một số buổi có bài viết chi tiết:
  - [Tích hợp Trấn Kỳ vào hệ thống của bạn](./Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md){ .md-button .md-button--primary } 
- - [Cào dữ liệu web vào Google Calendar](./Theo%20m%E1%BB%A5c%20ti%C3%AAu/C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20web%20v%C3%A0o%20Google%20Calendar.md){ .md-button .md-button--primary } 
+ - [Cào dữ liệu web vào Google Calendar](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20Google%20Calendar.md){ .md-button .md-button--primary } 
 # Lộ trình
 Vì đây là dự án phục vụ nhu cầu của bạn, nên số lượng buổi học, thời gian học, và hình thức học (trực tuyến hay trực tiếp) đều do bạn quyết định. 
 
