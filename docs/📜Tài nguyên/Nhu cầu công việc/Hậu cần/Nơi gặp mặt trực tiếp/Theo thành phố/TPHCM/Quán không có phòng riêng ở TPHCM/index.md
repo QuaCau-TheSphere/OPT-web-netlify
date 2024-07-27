@@ -9,7 +9,7 @@ Nhà vệ sinh:: ✔
 Được nói to:: tuỳ
 
 - [Chuk](./Chuk.md)
+- [Nhà hàng Ấn](./Nh%C3%A0%20h%C3%A0ng%20%E1%BA%A4n.md)
 - [Mr Bean](./Mr%20Bean.md)
 - [Sigon Cafe](./Sigon%20Cafe.md)
-- [Nhà hàng Ấn](./Nh%C3%A0%20h%C3%A0ng%20%E1%BA%A4n.md)
 
