@@ -30,7 +30,12 @@ Thành phẩm::
     at asyncEvalInContext (plugin:dataview:18896:32)
     at DataviewJSRenderer.render (plugin:dataview:18922:19)
     at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1166483)
+    at e.load (app://obsidian.md/app.js:1:1166456)
     at DataviewApi.executeJs (plugin:dataview:19465:18)
     at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:27:159367)
-    at convertDataviewQueries (plugin:obsidian-mkdocs-publisher:30:1380)</pre>
+    at convertDataviewQueries (plugin:obsidian-mkdocs-publisher:30:1380)
+    at async mainConverting (plugin:obsidian-mkdocs-publisher:39:1666)
+    at async GithubBranch.publish (plugin:obsidian-mkdocs-publisher:39:5264)
+    at async shareAllMarkedNotes (plugin:obsidian-mkdocs-publisher:27:138638)
+    at async uploadAllNotes (plugin:obsidian-mkdocs-publisher:27:137952)
+    at async Object.callback (plugin:obsidian-mkdocs-publisher:27:137549)</pre>
