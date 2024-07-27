@@ -46,7 +46,7 @@ Bọn mình cho rằng **bạn nên được quyền quyết định giá trị
 https://www.facebook.com/quacau.sphere/posts/pfbid02iFL5QSkjx9ozKuxFGjEhco2n8cMcSEkQFvQ4RPQC1jmrk6kprigoBHeg3L7XgZYPl
 
 --- 
-[Kế hoạch tạo lợi nhuận](../../../K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BA%A1o%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md) 
+[Kế hoạch tạo lợi nhuận](K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BA%A1o%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md) 
 [Kế hoạch tổ chức các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình](../K%E1%BA%BF%20ho%E1%BA%A1ch/index.md)
 
 Mục tiêu: Mỗi ngày có 4 người đọc hơn 50% bài
