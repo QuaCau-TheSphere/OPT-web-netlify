@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-07-16T23:27
+updated: 2024-07-27T21:08
 ---
 [PowerShell là một ngôn ngữ shell](PowerShell%20l%C3%A0%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20shell.md)
 [The Complete Guide to PowerShell Punctuation - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/the-complete-guide-to-powershell-punctuation/)
@@ -23,13 +23,13 @@ $list|ForEach-Object {"`"$_`"," } |clip
 ```
 # Đổi tên hàng loạt
 ```PowerShell
-Get-ChildItem *.md -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
+Get-ChildItem *.md, *.json -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
 ```
 - `-cmatch`: match có case sensitive
 # Tìm và thay chuỗi hàng loạt
 [VS Code nhiều khi không tìm hết được do tên file dài quá](VS%20Code%20nhi%E1%BB%81u%20khi%20kh%C3%B4ng%20t%C3%ACm%20h%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20do%20t%C3%AAn%20file%20d%C3%A0i%20qu%C3%A1.md)
 ```PowerShell
-Get-ChildItem *.md -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
+Get-ChildItem *.md, *.json -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
 ```
 # Xoá tất cả desktop.ini 
 ```PowerShell

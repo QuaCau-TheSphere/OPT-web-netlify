@@ -12,7 +12,7 @@ title: Bộ cài
 
 Phục vụ cho thành quả:
 
-Người chơi:: [Nhật](../../../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/%C4%90%E1%BB%99i%20ng%C5%A9/Nh%E1%BA%ADt.md)
+Người chơi:: [Nhật](Nh%E1%BA%ADt.md)
 
 Thành quả cần có::
 Thành quả hỗ trợ::

@@ -11,7 +11,7 @@ updated: 2024-02-20T16:31
 
 
 
-# [Câu hỏi khảo sát > Khi nào thì công việc nhân sự cần tới việc nhập liệu và gắn nhãn dữ liệu?](../../../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md#Khi%20nào%20thì%20công%20việc%20nhân%20sự%20cần%20tới%20việc%20nhập%20liệu%20và%20gắn%20nhãn%20dữ%20liệu?)
+# [Câu hỏi khảo sát > Khi nào thì công việc nhân sự cần tới việc nhập liệu và gắn nhãn dữ liệu?](C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md#Khi%20nào%20thì%20công%20việc%20nhân%20sự%20cần%20tới%20việc%20nhập%20liệu%20và%20gắn%20nhãn%20dữ%20liệu?)
 ## Cộng Đồng Chủ Quán - Khởi Nghiệp Và Kinh Doanh FNB
 [17-02](17-02.md) 19:13 https://www.facebook.com/groups/chuquankinhdoanhfnb/posts/1732944450524967/
 Quán nhỏ thì họ cứ giấy viết sổ sách thôi, họ làm ngày nào xào ngày ấy nên chả quan tâm report hay nhãn dữ liệu là cái gì đâu.

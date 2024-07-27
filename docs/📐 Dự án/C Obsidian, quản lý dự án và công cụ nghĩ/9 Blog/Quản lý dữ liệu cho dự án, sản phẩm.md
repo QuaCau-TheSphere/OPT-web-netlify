@@ -21,7 +21,7 @@ Nếu Quả Cầu là thiên chúa, thì ba ngôi chính là ba khái niệm: v�
 Trong toán học thì chắc gọi là đẳng cấu (isomorphism)
 
 Khi quản lý dữ liệu cho dự án, đừng quản lý công việc, mà hãy quản lý thành phẩm.
-Thành phẩm [Kế hoạch phát triển Trấn Kỳ](../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) vừa là:
+Thành phẩm [Kế hoạch phát triển Trấn Kỳ](%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md) vừa là:
   - Một bản kế hoạch (alias: Kế hoạch phát triển Trấn Kỳ) 
   - Một công việc (alias: phát triển Trấn Kỳ) 
   - Một công việc lên kế hoạch (alias: Lên kế hoạch phát triển Trấn Kỳ ) 
@@ -31,11 +31,11 @@ Bởi vì [Giả định có mặt ở khắp nơi](../../../%E2%9A%A1Hi%E1%BB%8
 
 Chỉ khi nào công việc bắt đầu phức tạp thì mới tách ra thành folder riêng, còn trước đó thì vẫn để trong kế hoạch
 Ví dụ: sản phẩm `vault dạy Obsidian` có những thành phẩm sau:
-- [Thành phẩm](Th%C3%A0nh%20ph%E1%BA%A9m.md)
-- [Các buổi cố vấn riêng](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20c%E1%BB%91%20v%E1%BA%A5n%20ri%C3%AAng/index.md)
-- [Các buổi giới thiệu vault](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20vault/index.md)
-- [15 - 3](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dp%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n/15%20-%203.md)
-- [Các buổi họp xây dựng kế hoạch phát triển](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dp%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n/index.md)
+- [Kế hoạch truyền thông](../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/K%E1%BA%BF%20ho%E1%BA%A1ch%20truy%E1%BB%81n%20th%C3%B4ng.md)
+- [Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/9%20Blog/Theo%20k%E1%BB%B9%20thu%E1%BA%ADt/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
+- [Web](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/Ph%E1%BA%A7n%20m%E1%BB%81m/Web/index.md)
+- [Các nghiên cứu về sản phẩm](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m/index.md)
+- [Các nghiên cứu về người dùng](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20v%E1%BB%81%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/index.md)
 
 
 Mỗi một thành phẩm chính là một khía cạnh khác nhau của sản phẩm. Giống như con voi được tạo thành từ vòi, ngà, tai, thân, chân, đuôi. Các bộ phận ấy đến lượt chúng lại được cấu tạo từ những bộ phận nhỏ hơn. Cho nên, thành phẩm thực chất là sản phẩm. Bởi vì [Sản phẩm là vật thể](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%C3%A0nh%20qu%E1%BA%A3,%20th%C3%A0nh%20ph%E1%BA%A9m,%20t%E1%BA%A7m%20nh%C3%ACn,%20m%E1%BB%A5c%20ti%C3%AAu/S%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%A0%20v%E1%BA%ADt%20th%E1%BB%83.md), nên thành phẩm cũng là một vật thể. Các vật thể này cứ lồng vào nhau như fractal. Một lúc nào đó, khi một thành phẩm trở nên đủ phức tạp, ta có thể tách nó ra thành một sản phẩm riêng của tổ chức.
@@ -48,7 +48,7 @@ Quy hồi (recursive) là việc [một sản phẩm được tạo nên bởi n
 
 Oái oăm là, mặc dù về lý thuyết thì ta biết là nên đi từ thành quả mong muốn cao nhất rồi chẻ nhỏ ra, và phải luôn gắn giả thiết vào thành quả mong muốn đó, nhưng thực tế nhiều khi mình biết mình cần công việc gì luôn mà não chưa nghĩ ra được nó dùng để kiểm định giả thiết gì, và thành quả mong muốn ra sao. Thường đó là công việc nghiên cứu một cái gì đó, vì [thành quả mong muốn và giả định của nó là chính nó](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n%20v%C3%A0%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20vi%E1%BB%87c%20t%C3%ACm%20hi%E1%BB%83u%20m%E1%BB%99t%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20n%C3%A0o%20%C4%91%C3%B3%20l%C3%A0%20ch%C3%ADnh%20n%C3%B3.md). Cho nên, vào lúc chưa nghĩ ra thì để dưới dạng list, khi nghĩ ra rồi thì mới chuyển sang dạng bảng.
 
-Ví dụ, lúc mới lên kế hoạch [Đi năn nỉ](../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20ki%E1%BB%87t%20qu%E1%BB%87%20v%C3%AC%20n%E1%BB%A3/%C4%90i%20n%C4%83n%20n%E1%BB%89.md), thì phải hiểu được quan điểm về cho tiền của người cho vay tiền (chủ nợ) nói riêng và người giàu/nhà tư bản nói chung. Bạn hãy cho tôi biết thành quả mong muốn và giả định của nó là gì, nếu không phải là lặp lại câu vừa rồi?
+Ví dụ, lúc mới lên kế hoạch [Đi năn nỉ](%C4%90i%20n%C4%83n%20n%E1%BB%89.md), thì phải hiểu được quan điểm về cho tiền của người cho vay tiền (chủ nợ) nói riêng và người giàu/nhà tư bản nói chung. Bạn hãy cho tôi biết thành quả mong muốn và giả định của nó là gì, nếu không phải là lặp lại câu vừa rồi?
 
 Chưa hiểu được cái này thì không làm được gì cả.
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-16T23:06
+updated: 2024-07-27T21:27
 title: 📜Tài nguyên
 ---
 
@@ -31,8 +31,14 @@ Phiên bản đồ thị: 0.2. Bài chi tiết sẽ có phiên bản mới nhấ
 
 ---
 
-Theo sơ đồ trên, thì không nên tạo liên kết ở một ghi chú về lĩnh vực đến ghi chú về nhu cầu công nghệ. [Sắp chữ, thiết kế, xuất bản](./L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md) là một lĩnh vực. Nhưng khi làm thì cảm giác rất muốn để nhu cầu công nghệ là [WYSIWYM](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/WYSIWYM.md), và nhu cầu công việc là [Dễ dàng chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/D%E1%BB%85%20d%C3%A0ng%20ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md), vì chỉ thấy việc sắp chữ chỉ có cái này.
+```mermaid
+flowchart LR
+nccv[Nhu cầu công việc] --> nccn[Nhu cầu công nghệ] --> lv[Lĩnh vực] 
+nccv --> lv --> gpkt[Giải pháp kỹ thuật] 
+nccn --> gpkt --> gpkt
+```
+Xét ghi chú [Sắp chữ, thiết kế, xuất bản](./L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md). Nó là một lĩnh vực. Theo sơ đồ trên, thì trong ghi chú này không nên tạo liên kết đến ghi chú về nhu cầu công nghệ. Nhưng trong lúc viết thì cảm giác rất muốn để nhu cầu công nghệ là [WYSIWYM](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/WYSIWYM.md), và nhu cầu công việc là [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md), vì chỉ thấy việc sắp chữ chỉ có cái này.
 
-Tuy nhiên để ý là [Nhân văn số](./L%C4%A9nh%20v%E1%BB%B1c/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md) cũng là một lĩnh vực, mà không thấy cần để nhu cầu công nghệ là [Xác định các chủ đề có trong ngữ liệu](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md), và nhu cầu công việc là [Nắm bắt xu hướng mạng](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md) hay [Nghiên cứu cộng đồng mạng](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md), vì tự thấy rằng nhân văn số còn nhiều thứ hơn cái này
+Tuy nhiên, để ý là [Nhân văn số](./L%C4%A9nh%20v%E1%BB%B1c/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md) cũng là một lĩnh vực, mà không thấy cần để nhu cầu công nghệ là [Xác định các chủ đề có trong ngữ liệu](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md), và nhu cầu công việc là [Nắm bắt xu hướng mạng](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md) hay [Nghiên cứu cộng đồng mạng](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md), vì tự thấy rằng nhân văn số còn nhiều thứ hơn cái này.
 
-Trong [Giải pháp kỹ thuật](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/index.md) thì có thể chia lại folder theo nhu cầu công việc, công nghệ hoặc lĩnh vực, vì lúc đó các file thường là rời rạc
+Trong [Giải pháp kỹ thuật](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/index.md) thì có thể chia lại thư mục theo nhu cầu công việc, công nghệ hoặc lĩnh vực, vì lúc đó các ghi chú thường là rời rạc
