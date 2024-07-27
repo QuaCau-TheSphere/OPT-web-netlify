@@ -23,7 +23,7 @@ updated: 2024-07-21T21:43
 [29-02](29-02.md) 20:00 https://www.facebook.com/groups/viethssa/posts/6699423853497361/
 [21-03](21-03.md) 20:33 3 like, 2 share
 
-# [Câu hỏi khảo sát > Việc nhập liệu và gắn nhãn dữ liệu áp dụng vào công việc gì trong công tác xã hội?](../../../../Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md#Việc%20nhập%20liệu%20và%20gắn%20nhãn%20dữ%20liệu%20áp%20dụng%20vào%20công%20việc%20gì%20trong%20công%20tác%20xã%20hội?)
+# [Câu hỏi khảo sát > Việc nhập liệu và gắn nhãn dữ liệu áp dụng vào công việc gì trong công tác xã hội?](C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md#Việc%20nhập%20liệu%20và%20gắn%20nhãn%20dữ%20liệu%20áp%20dụng%20vào%20công%20việc%20gì%20trong%20công%20tác%20xã%20hội?)
 ## Pending
 [15-02](15-02.md) Mạng lưới liên kết các dự án, cộng đồng trên toàn quốc https://www.facebook.com/groups/524373501783128/my_pending_content
 [15-02](15-02.md) Mạng lưới sinh viên, học viên, NCS Khoa Khoa học quản lý https://www.facebook.com/groups/181147522273100/my_pending_content
