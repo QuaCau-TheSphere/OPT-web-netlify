@@ -29,4 +29,4 @@ Học Lập Trình Web (Freetuts.net) https://www.facebook.com/groups/freetutsdo
 [26-02](26-02.md) 17:46 Cộng đồng SEO Mũ Trắng Việt Nam https://www.facebook.com/groups/seomutrangvietnam/posts/389043517074520/
 [21-03](21-03.md) bị xoá
 
-# [Rút gọn liên kết và thống kê lưu lượng truy cập cho các dự án, tổ chức hiện diện trên nhiều nền tảng](../../../../%C4%91%E1%BB%91i%20%E2%8A%B7%20tho%E1%BA%A1i/R%C3%BAt%20g%E1%BB%8Dn%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20th%E1%BB%91ng%20k%C3%AA%20l%C6%B0u%20l%C6%B0%E1%BB%A3ng%20truy%20c%E1%BA%ADp%20cho%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n,%20t%E1%BB%95%20ch%E1%BB%A9c%20hi%E1%BB%87n%20di%E1%BB%87n%20tr%C3%AAn%20nhi%E1%BB%81u%20n%E1%BB%81n%20t%E1%BA%A3ng.md)
+# [Rút gọn liên kết và thống kê lưu lượng truy cập cho các dự án, tổ chức hiện diện trên nhiều nền tảng](../../../../%C4%91%E1%BB%91i%20%E2%8A%B7%20tho%E1%BA%A1i/9%20Blog/R%C3%BAt%20g%E1%BB%8Dn%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20th%E1%BB%91ng%20k%C3%AA%20l%C6%B0u%20l%C6%B0%E1%BB%A3ng%20truy%20c%E1%BA%ADp%20cho%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n,%20t%E1%BB%95%20ch%E1%BB%A9c%20hi%E1%BB%87n%20di%E1%BB%87n%20tr%C3%AAn%20nhi%E1%BB%81u%20n%E1%BB%81n%20t%E1%BA%A3ng.md)
