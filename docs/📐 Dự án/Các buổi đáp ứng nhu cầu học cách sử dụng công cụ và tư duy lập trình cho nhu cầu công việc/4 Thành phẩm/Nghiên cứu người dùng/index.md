@@ -13,8 +13,8 @@ title: Nghiên cứu người dùng
     - [Bản khảo sát nhu cầu học lập trình](./Nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh/B%E1%BA%A3n%20kh%E1%BA%A3o%20s%C3%A1t%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 
 - Sự tiếp nhận với ý tưởng: 
-    - [Mục tiêu và câu hỏi phỏng vấn](./S%E1%BB%B1%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%E1%BB%9Bi%20%C3%BD%20t%C6%B0%E1%BB%9Fng/M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
     - [Văn Đinh Phú](V%C4%83n%20%C4%90inh%20Ph%C3%BA.md)
+    - [Mục tiêu và câu hỏi phỏng vấn](./S%E1%BB%B1%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%E1%BB%9Bi%20%C3%BD%20t%C6%B0%E1%BB%9Fng/M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
 
 - Trải nghiệm sau buổi học: 
     - [Chị Hoà](Ch%E1%BB%8B%20Ho%C3%A0.md)
