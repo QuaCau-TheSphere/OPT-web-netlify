@@ -65,7 +65,7 @@ Phản ví dụ:
 Ví dụ:
 - Wikipedia, deno, docker
 
-[Mô hình kinh doanh Trấn Kỳ](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+[Mô hình kinh doanh Trấn Kỳ](M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 [Chỉ khi có sự trao đổi thì giá cả mới xuất hiện](./Ch%E1%BB%89%20khi%20c%C3%B3%20s%E1%BB%B1%20trao%20%C4%91%E1%BB%95i%20th%C3%AC%20gi%C3%A1%20c%E1%BA%A3%20m%E1%BB%9Bi%20xu%E1%BA%A5t%20hi%E1%BB%87n.md) 
 
 Pricing strategy
