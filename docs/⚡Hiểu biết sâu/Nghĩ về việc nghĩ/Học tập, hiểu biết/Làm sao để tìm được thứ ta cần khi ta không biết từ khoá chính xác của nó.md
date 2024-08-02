@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-08-02T16:45
+updated: 2024-08-02T19:06
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 title: Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?
@@ -69,10 +69,9 @@ Lĩnh vực nghiên cứu về môi trường nghĩ này cũng chỉ mới đư�
 Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu vậy thì là mình cũng đang không biết từ khóa của nó để mà tìm.
 
 ## Đọc thêm
-- [Có từ khoá rồi thì làm gì?](../../../assets/attachments/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.pdf)
+- [Khai thác một từ khoá](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
 - [Bản chất của sự mơ hồ](https://quảcầu.cc/ly-thuyet-ve-goc-nhin?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=hiểu+lầm%2Cnét+nghĩa+ẩn%2Cthay+đổi+góc+nhìn%2CHiện+tượng+học%2C+khoa+học+nhận+thức%2C+vật+lý+luận%2Chiện+tượng+học&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=)
 - [Nghịch lý triển ngôn](./Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
-- [Xây dựng hệ thống tri thức cộng đồng](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 
 
 %%
