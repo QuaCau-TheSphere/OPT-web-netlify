@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-07-16T23:27
+updated: 2024-08-02T16:28
 ---
 
 > [!Info] Xem thêm: [Ý tưởng nền tảng dịch thuật ngữ](https://xn--qucu-hr5aza.cc/y-tuong-nen-tang-dich-thuat-ngu/?utm_source=CV+%C2%BB+Ph%C6%B0%C6%A1ng+%C3%A1n+d%E1%BB%8Bch+m%E1%BB%99t+s%E1%BB%91+t%E1%BB%AB&utm_medium=%C3%9D+t%C6%B0%E1%BB%9Fng+n%E1%BB%81n+t%E1%BA%A3ng+d%E1%BB%8Bch+thu%E1%BA%ADt+ng%E1%BB%AF&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2)
@@ -101,7 +101,7 @@ Meta
 
 ## Philathrophy 
 Thiện nguyện, nhân ái, hiến tặng, phúc thiện
-[Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt](./T%E1%BB%AB%20c%C3%A1ch%20m%E1%BB%99t%20t%E1%BB%AB%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%95%20ngh%C4%A9a%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20d%E1%BB%8Bch%20kh%C3%A1i%20ni%E1%BB%87m%20philanthropy%20sang%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
+[Để dịch một khái niệm, hãy vét cạn các nét nghĩa, các cách dùng, các cách hiểu về nó, rồi tìm những từ chứa đựng được càng nhiều nét nghĩa càng tốt](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Ng%C3%B4n%20ng%E1%BB%AF,%20ngo%E1%BA%A1i%20ng%E1%BB%AF,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/%C4%90%E1%BB%83%20d%E1%BB%8Bch%20m%E1%BB%99t%20kh%C3%A1i%20ni%E1%BB%87m,%20h%C3%A3y%20v%C3%A9t%20c%E1%BA%A1n%20c%C3%A1c%20n%C3%A9t%20ngh%C4%A9a,%20c%C3%A1c%20c%C3%A1ch%20d%C3%B9ng,%20c%C3%A1c%20c%C3%A1ch%20hi%E1%BB%83u%20v%E1%BB%81%20n%C3%B3,%20r%E1%BB%93i%20t%C3%ACm%20nh%E1%BB%AFng%20t%E1%BB%AB%20ch%E1%BB%A9a%20%C4%91%E1%BB%B1ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A0ng%20nhi%E1%BB%81u%20n%C3%A9t%20ngh%C4%A9a%20c%C3%A0ng%20t%E1%BB%91t.md)
 
 Mình thấy kể cả khi nó có nghĩa ngầm trong đó rồi, thì việc hiển ngôn nó ra cũng rất quan trọng. Việc mọi người cảm thấy các phương án khác là không đủ để diễn tả hết nội hàm của nó là vì các phương án đó không làm cho mình cảm thấy các nét nghĩa của well-being được hiển ngôn đủ hết. Vậy thì chỉ có cách liệt kê hết tất cả các nét nghĩa của nó ra thì mới cảm thấy đầy đủ được.
 
