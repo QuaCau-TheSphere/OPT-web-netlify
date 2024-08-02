@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-13T19:21
-updated: 2024-02-06T17:59
+updated: 2024-07-30T15:45
 tags:
   - file_thành-phẩm_bài-viết
 ---
@@ -46,7 +46,6 @@ Một số thứ sẽ giúp bạn hiểu code nói gì:
 - Biết một số kỹ thuật debug: console.log, debugger, unit test
 # Thao tác với IDE
 [Phím tắt cho VS Code](Ph%C3%ADm%20t%E1%BA%AFt%20cho%20VS%20Code.md)
-Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 
 # Hiểu quy tắc viết tài liệu
 ```js

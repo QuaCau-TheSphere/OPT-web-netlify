@@ -1,7 +1,13 @@
 ---
 share: true
-created: 2023-09-05T16:17
-updated: 2024-03-22T11:21
+created: 2024-03-17T21:05
+updated: 2024-08-02T12:23
+alias:
+  - Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
+  - Hệ thống tri thức cộng đồng
+  - Bản đồ tri thức
+  - Xây dựng hệ thống tri thức cộng đồng
+description: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
 ---
 | Hình thức                                                                                                                                                                                                                                                          | Ví dụ                                                                                                                                                                    | Giống | Khác |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | ---- |
@@ -20,14 +26,16 @@ Nếu là vấn đề liên kết giữa các khái niệm thì khác gì Tana, 
 Câu hỏi:
 - Vấn đề nào thì nên dành thời gian để làm? Vấn đề nào có thể bỏ qua?
 - Có dễ dàng làm với số lượng lớn không?
-- Tốt nhất ở đây là tốt nhất về mặt lý thuyết hay là về sự khả thi
-- Không phải lúc nào con người cũng dùng thứ tốt nhất. Nếu có cái không tốt bằng nhưng tiện hơn thì họ sẽ dùng ([Excel là người bạn tuổi thơ tuyệt vời, nhưng là kẻ thù của tuổi dậy thì](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/Excel/Excel%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20tu%E1%BB%95i%20th%C6%A1%20tuy%E1%BB%87t%20v%E1%BB%9Di,%20nh%C6%B0ng%20l%C3%A0%20k%E1%BA%BB%20th%C3%B9%20c%E1%BB%A7a%20tu%E1%BB%95i%20d%E1%BA%ADy%20th%C3%AC.md)) 
-- 
+- Tốt nhất ở đây là tốt nhất về mặt lý thuyết hay là về sự khả thi?
+- Không phải lúc nào con người cũng dùng thứ tốt nhất. Nếu có cái không tốt bằng nhưng tiện hơn thì họ sẽ dùng (VD: [Excel](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/Excel/Excel%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20tu%E1%BB%95i%20th%C6%A1%20tuy%E1%BB%87t%20v%E1%BB%9Di,%20nh%C6%B0ng%20l%C3%A0%20k%E1%BA%BB%20th%C3%B9%20c%E1%BB%A7a%20tu%E1%BB%95i%20d%E1%BA%ADy%20th%C3%AC.md), [WordPress](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/T%E1%BA%A1o%20website.md) đều là những thứ tuyệt vời ban đầu, tệ về sau) 
 
-# Điều gì khiến cho sản phẩm của mình không bị lạc hậu?
+## Điều gì khiến cho sản phẩm của mình không bị lạc hậu?
 Vấn đề lạc hậu khó tránh, nhưng em không nghĩ làm việc với lịch sử là một việc sẽ có ngày lạc hậu, nếu có thì cùng lắm là cách mình làm chứ không hẳn là thứ mình tạo ra, tất nhiên trong quá trình đó em cũng cố nghĩ giải pháp tốt hơn. Em nghĩ vậy là bởi dù ở tương lai mọi thứ càng tân tiến hiện đại nhưng chừng nào họ còn chưa thể quay ngược về quá khứ, thì quan điểm trong quá khứ vẫn là thứ có giá trị hơn bởi nó có thể lưu giữ những context mà theo thời gian đã có thể mất đi và không có cách nào truy lại được chính xác
 
-# Điều gì khiến cho người cần tới sản phẩm của mình nhất tìm ra được nó?
+## Điều gì khiến cho người cần tới sản phẩm của mình nhất tìm ra được nó?
+Phải chăng rốt cuộc cũng quay trở lại thành wiki: được lên đầu Google ở nhiều lĩnh vực nhất có thể?
+[Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20ta%20c%E1%BA%A7n%20khi%20ta%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
+[❓Biểu đồ là cách để ta biết mình cần gì khi còn chưa cảm nhận được thứ mình cần là gì](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/%E2%9D%93Bi%E1%BB%83u%20%C4%91%E1%BB%93%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%E1%BA%A7n%20g%C3%AC%20khi%20c%C3%B2n%20ch%C6%B0a%20c%E1%BA%A3m%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20m%C3%ACnh%20c%E1%BA%A7n%20l%C3%A0%20g%C3%AC.md)
 
-[Cách nhanh nhất để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó là đọc các bài tổng quan](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/C%C3%A1ch%20nhanh%20nh%E1%BA%A5t%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20ta%20c%E1%BA%A7n%20khi%20ta%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3%20l%C3%A0%20%C4%91%E1%BB%8Dc%20c%C3%A1c%20b%C3%A0i%20t%E1%BB%95ng%20quan.md)
-
+## Nơi thảo luận
+![](https://i.imgur.com/pvuBJff.png)

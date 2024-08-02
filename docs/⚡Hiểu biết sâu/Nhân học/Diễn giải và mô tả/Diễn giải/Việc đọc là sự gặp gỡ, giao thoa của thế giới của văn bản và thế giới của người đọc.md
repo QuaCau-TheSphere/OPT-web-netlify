@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-09T12:40
+updated: 2024-08-02T11:26
 ---
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Văn bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%C4%83n%20b%E1%BA%A3n.md)
 Chân trời là giới hạn của sự hiểu. Ta có thể thấy được chân trời nhưng không bao giờ đến được chân trời. Cái quan sát của chúng ta tưởng là sẽ hiểu nhưng sẽ không bao giờ hiểu thực sự. Chỉ có một giải pháp duy nhất là sự gặp gỡ, sự giao thoa, sự tương giao của thế giới văn bản và thế giới của người đọc.
@@ -10,4 +10,4 @@ Chân trời là giới hạn của sự hiểu. Ta có thể thấy được ch
 Nguồn:: [Nguyễn Đức Lộc](../../../%CE%9E%20Ngu%E1%BB%93n/Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20L%E1%BB%99c.md)
 
 [Tổng Quan Về Thông Diễn Học (Hermeneutics)](https://www.simonhoadalat.com/hochoi/triethoc/hermeneuticschapter%201.htm "Tổng Quan Về Thông Diễn Học (Hermeneutics)")
-[Những câu trả lời luôn giả định người đọc hiểu trước một vài khái niệm](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Nh%E1%BB%AFng%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20lu%C3%B4n%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20hi%E1%BB%83u%20tr%C6%B0%E1%BB%9Bc%20m%E1%BB%99t%20v%C3%A0i%20kh%C3%A1i%20ni%E1%BB%87m.md)
+[Những câu trả lời luôn giả định người hỏi hiểu trước một vài khái niệm](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Nh%E1%BB%AFng%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20lu%C3%B4n%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Fi%20hi%E1%BB%83u%20tr%C6%B0%E1%BB%9Bc%20m%E1%BB%99t%20v%C3%A0i%20kh%C3%A1i%20ni%E1%BB%87m.md)
