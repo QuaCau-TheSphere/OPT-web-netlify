@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-27T23:23
+updated: 2024-07-29T14:09
 ---
-Khái niệm:: 
+Khái niệm:: [Quỹ](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9.md), [Sản phẩm](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%A3n%20ph%E1%BA%A9m.md)
 
 Nguồn:: [Y Combinator](../../%CE%9E%20Ngu%E1%BB%93n/Y%20Combinator.md), ![David Rusenko - How To Find Product Market Fit - YouTube](https://youtu.be/0LNQxT9LvM0?si=t0Na8uT-tMSYXUa4&t=1201)
 
