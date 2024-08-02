@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-08-02T13:14
+updated: 2024-08-02T16:45
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 title: Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?
@@ -11,24 +11,25 @@ Khái niệm:: [Mental modal](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%A
 > The difference between the almost right word and the right word is really a large matter - 'tis the difference between the lightning-bug and the lightning.
 > — Mark Twain
 
-Thực ra trong rất nhiều trường hợp, thứ cản trở ta có được từ khoá không hẳn là ở việc không biết phải bắt đầu tìm hiểu ở đâu, mà ở việc không có thời gian nghiên cứu. [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md). [Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google](../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/C%C3%B3%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ta%20r%E1%BA%A5t%20mu%E1%BB%91n%20c%C3%B3%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%C6%B0ng%20m%C3%A3i%20m%C3%A0%20v%E1%BA%ABn%20ch%C6%B0a%20%C4%91i%20google.md). Sẽ thật tốt nếu như bạn có ngay một người am hiểu về lĩnh vực đó và sẵn sàng trả lời cho bạn. Nhưng nếu bạn không có ai am hiểu lĩnh vực quanh mình, hoặc bạn không muốn làm phiền họ nên không muốn hỏi họ, hoặc họ cũng không biết câu trả lời, thì lúc này câu hỏi "Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó" sẽ trở thành:
+Thực ra trong rất nhiều trường hợp, thứ cản trở ta có được từ khoá không hẳn là ở việc không biết phải bắt đầu tìm hiểu ở đâu, mà ở việc không có thời gian tìm hiểu. [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md). [Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google](../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/C%C3%B3%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ta%20r%E1%BA%A5t%20mu%E1%BB%91n%20c%C3%B3%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%C6%B0ng%20m%C3%A3i%20m%C3%A0%20v%E1%BA%ABn%20ch%C6%B0a%20%C4%91i%20google.md). Sẽ thật tốt nếu như bạn có ngay một người am hiểu về lĩnh vực đó và sẵn sàng trả lời cho bạn. Nhưng nếu bạn không có ai am hiểu lĩnh vực quanh mình, hoặc bạn không muốn làm phiền họ nên không muốn hỏi họ, hoặc họ cũng không biết câu trả lời, thì lúc này câu hỏi "Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó" sẽ trở thành:
 
 ## Nếu tôi phải tự tìm hiểu một mình, thì đâu là nơi có tôi dễ gặp được từ khoá cần tìm nhất?
 Các gợi ý được sắp xếp theo mức độ dễ dàng.
 ### Máy tìm kiếm
 Nhược điểm của nó là không ít chủ đề bị tấn công bởi SEO rác. 
 
+Xem thêm:: [Ẩn kết quả tìm kiếm rác trên Google](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Lo%E1%BA%A1i%20b%E1%BB%8F%20phi%E1%BB%81n%20nhi%E1%BB%85u,%20v%C6%B0%E1%BB%A3t%20r%C3%A0o%20c%E1%BA%A3n/Web/%E1%BA%A8n%20k%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20r%C3%A1c%20tr%C3%AAn%20Google.md)
 Câu hỏi:: [❓Tác giả của một bài viết không bao giờ vét cạn được mọi từ khoá mà người đọc có thể sẽ nhập vào máy tìm kiếm để được gợi ý tới bài viết đó](./%E2%9D%93T%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20v%C3%A9t%20c%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%8Di%20t%E1%BB%AB%20kho%C3%A1%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%BD%20nh%E1%BA%ADp%20v%C3%A0o%20m%C3%A1y%20t%C3%ACm%20ki%E1%BA%BFm%20%C4%91%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%A3i%20%C3%BD%20t%E1%BB%9Bi%20b%C3%A0i%20vi%E1%BA%BFt%20%C4%91%C3%B3.md)
-
+[[kinh nghiệm ] ] 
 ### Các công cụ tổng hợp và liệt kê khái niệm
 - [Globe Explorer](https://explorer.globe.engineer/): tự động liệt kê các khái niệm liên quan và phân loại chúng 
 - [Không gian vector từ của Google](https://projector.tensorflow.org/)
 - Từ điển các từ đồng nghĩa, gần nghĩa (synonyms) 
 
 ### Các cộng đồng liên quan
-Các diễn đàn chuyên về hỏi đáp [Stack Exchange](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange.md) có cơ chế bầu chọn theo tập thể, giúp đưa thông tin hữu ích nhất lên cao. Quora cũng là một diễn đàn hỏi đáp có cơ chế bầu chọn theo tập thể, nhưng chất lượng câu hỏi và câu trả lời kém hơn. Nếu muốn có những cuộc thảo luận mở thì Reddit tốt hơn hẳn.
+Diễn đàn chuyên về hỏi đáp [Stack Exchange](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange.md) có cơ chế bầu chọn theo tập thể, giúp đưa thông tin hữu ích nhất lên cao. Quora cũng là một diễn đàn hỏi đáp có cơ chế bầu chọn theo tập thể, nhưng chất lượng câu hỏi và câu trả lời kém hơn. Nếu muốn có những cuộc thảo luận mở thì Reddit tốt hơn hẳn.
 
-Nếu cần nơi tổng hợp tiếng Việt thì có [500 nhóm Facebook hay](https://quảcầu.cc/cac-nhom-facebook-hay?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=Tài+nguyên+khác%2CLàm+việc+hiệu+quả&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
+Nếu cần nơi tổng hợp tiếng Việt thì mình có tổng hợp [500 nhóm Facebook hay](https://quảcầu.cc/cac-nhom-facebook-hay?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=Tài+nguyên+khác%2CLàm+việc+hiệu+quả&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=). (Hồi lúc mới làm thôi, giờ cũng phải cập nhật nhiều. Mình sẽ làm sau.) 
 
 Nếu dành thời gian để viết những gì bạn đã thử mà không được thì câu hỏi của bạn sẽ trở nên hấp dẫn hơn, tạo được nhiều tương tác hơn.
 
@@ -36,7 +37,7 @@ Nếu dành thời gian để viết những gì bạn đã thử mà không đ�
  - Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia")
 - Các kho kiến thức. Với tiếng Việt thì có [trang giới thiệu về đối ⊷ thoại](https://doi-thoai.deno.dev/blog?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=đối+⊷+thoại&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
 
-Xem thêm:: [Sự khác biệt của bản đồ tri thức với các hình thức khác trong việc dẫn một người đến thứ họ cần nhất](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20c%E1%BB%A7a%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20tri%20th%E1%BB%A9c%20v%E1%BB%9Bi%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20kh%C3%A1c%20trong%20vi%E1%BB%87c%20d%E1%BA%ABn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%BFn%20th%E1%BB%A9%20h%E1%BB%8D%20c%E1%BA%A7n%20nh%E1%BA%A5t.md)
+Xem thêm:: [Xây dựng hệ thống tri thức cộng đồng](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 ### Các nghiên cứu tổng quan, sách nhập môn, bài giảng đại học
 Hết cách rồi, phải lao đầu vào nghiên cứu thật kỹ thôi.
 
@@ -50,12 +51,13 @@ Xem thêm:: [Tinh túy của một cuốn sách chính là mục lục của nó
 Quay trở lại câu hỏi ban đầu:
 > Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?
 
-Có lẽ tốt nhất là ta không cần phải quy nó về:
-> Nếu tôi phải tự tìm hiểu một mình, thì đâu là nơi có tôi dễ gặp được từ khoá cần tìm nhất?
+Như có đề cập ở đầu bài, trong rất nhiều trường hợp, thứ cản trở ta có được từ khoá không hẳn là ở việc không biết phải bắt đầu tìm hiểu ở đâu, mà ở việc không có thời gian tìm hiểu. Cho nên, giải pháp tốt nhất cho vấn đề ban đầu không phải là hỏi xem "Nếu tôi phải tự tìm hiểu một mình, thì đâu là nơi có tôi dễ gặp được từ khoá cần tìm nhất?", mà là:
 
-Tức là ta không cần phải tự tìm hiểu một mình, mà là luôn có một người am hiểu về lĩnh vực đó và sẵn sàng trả lời cho mình. Điều này quay về ý tưởng [Các buổi chia sẻ kỹ năng miễn phí với nhau](https://quảcầu.cc/cac-buoi-chia-se-ky-nang-mien-phi-voi-nhau?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=Dự+án&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
+> Làm sao để tôi có thể luôn tìm được người sẵn sàng chia sẻ hiểu biết của mình với chi phí chấp nhận được?
 
-Những lúc ta phải tự tìm hiểu một mình, thì câu hỏi ban đầu sẽ trở thành câu hỏi:
+Điều này quay về ý tưởng [Tổ chức các buổi chia sẻ kỹ năng miễn phí với nhau](https://quảcầu.cc/cac-buoi-chia-se-ky-nang-mien-phi-voi-nhau?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=Dự+án&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
+
+Trong trường hợp vẫn phải tự tìm hiểu một mình, thì câu hỏi ban đầu thực chất là câu hỏi:
 > Từ khoá nào sẽ giúp tôi đi tìm từ khoá tôi chưa biết một cách hiệu quả?
 
 Ban đầu mình nghĩ từ khoá đó là *Chiến lược tìm kiếm (Search strategy)*, là một chủ đề nằm trong ngành [Khoa học thông tin](https://en.wikipedia.org/wiki/Information_science "Information science - Wikipedia"). Nhưng sau đó mình nhận ra nó thiên về việc tìm kiếm tài liệu liên quan, vốn là phần đã được nói ở trên, hơn là đưa ra những lập luận để có một kết luận rằng liệu những gì đã nói ở trên là đã vét cạn mọi cách hiệu quả nhất chưa. Dù sao thì mình cũng chưa tìm hiểu sâu về nó nên cũng có thể kết luận sai.
@@ -67,13 +69,10 @@ Lĩnh vực nghiên cứu về môi trường nghĩ này cũng chỉ mới đư�
 Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu vậy thì là mình cũng đang không biết từ khóa của nó để mà tìm.
 
 ## Đọc thêm
-- [Có từ khoá rồi thì làm gì?](../../../assets/attachments/khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.pdf)
-- Bản chất của sự mơ hồ
+- [Có từ khoá rồi thì làm gì?](../../../assets/attachments/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.pdf)
+- [Bản chất của sự mơ hồ](https://quảcầu.cc/ly-thuyet-ve-goc-nhin?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=hiểu+lầm%2Cnét+nghĩa+ẩn%2Cthay+đổi+góc+nhìn%2CHiện+tượng+học%2C+khoa+học+nhận+thức%2C+vật+lý+luận%2Chiện+tượng+học&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=)
 - [Nghịch lý triển ngôn](./Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
-- [Xây dựng hệ thống tri thức cộng đồng](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20c%E1%BB%A7a%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20tri%20th%E1%BB%A9c%20v%E1%BB%9Bi%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20kh%C3%A1c%20trong%20vi%E1%BB%87c%20d%E1%BA%ABn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%BFn%20th%E1%BB%A9%20h%E1%BB%8D%20c%E1%BA%A7n%20nh%E1%BA%A5t.md)
-
-[❓Biểu đồ là cách để ta biết mình cần gì khi còn chưa cảm nhận được thứ mình cần là gì](../%E2%9D%93Bi%E1%BB%83u%20%C4%91%E1%BB%93%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%E1%BA%A7n%20g%C3%AC%20khi%20c%C3%B2n%20ch%C6%B0a%20c%E1%BA%A3m%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20m%C3%ACnh%20c%E1%BA%A7n%20l%C3%A0%20g%C3%AC.md)
-
+- [Xây dựng hệ thống tri thức cộng đồng](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 
 
 %%
