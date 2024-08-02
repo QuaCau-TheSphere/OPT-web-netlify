@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-11T20:14
+updated: 2024-07-29T17:50
 ---
-Khái niệm:: [Công việc](C%C3%B4ng%20vi%E1%BB%87c.md), [Quản trị kiến thức](Qu%E1%BA%A3n%20tr%E1%BB%8B%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Quản lý công việc](Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c.md)
+Khái niệm:: [Công việc](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c.md), [Quản trị kiến thức](Qu%E1%BA%A3n%20tr%E1%BB%8B%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 Lý do:: [Cần nghĩ về công việc như là một cách để kiểm định giả thiết, chứ không phải chỉ để hoàn thành](./C%E1%BA%A7n%20ngh%C4%A9%20v%E1%BB%81%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thi%E1%BA%BFt,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh.md)
 [Công việc khai phá và công việc khai thác](./C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)
 [Knowledge forms when we accumulate, mix, connect and visualize information](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Knowledge%20forms%20when%20we%20accumulate,%20mix,%20connect%20and%20visualize%20information.md) 
