@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-06-21T14:21
-updated: 2024-07-16T23:27
+updated: 2024-08-02T16:28
+alias: Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt
 ---
 ## Cách một từ được đổ nghĩa
 Tôi chưa tìm hiểu đủ vững về lý luận dịch thuật, nhưng qua những lần tôi tự ngẫm nghĩ về việc dịch thì tôi cảm thấy là mọi người sẽ có xu hướng muốn dịch những khái niệm ngành khoa học xã hội, nhân văn, triết học ra tiếng Việt hơn là mượn luôn từ nước ngoài, còn với những khái niệm ngành khoa học tự nhiên thì việc vay mượn từ nước ngoài không làm mình ngứa ngáy bằng. Tôi không chắc.
@@ -53,16 +54,16 @@ Trước đây có một số người đề xuất dịch những từ này nh�
 Nhìn chung những người làm trong lĩnh vực này tránh dùng từ `từ thiện`, vì cảm thấy nó có nét nghĩa `*thường mang tính khẩn cấp, ngắn hạn` mà `philanthropy` không có. Tuy nhiên họ vẫn không cảm thấy những cách dịch trên là chưa đạt, vì với nhiều người tiếp nhận họ vẫn hiểu hoạt động này không khác gì `từ thiện`.
 
 Ta hãy biểu diễn tất cả các nét nghĩa này lên không gian nghĩa:
-![Các nét nghĩa.png](../../../../assets/attachments/C%C3%A1c%20n%C3%A9t%20ngh%C4%A9a.png)
+![Các nét nghĩa.png](../../../assets/attachments/C%C3%A1c%20n%C3%A9t%20ngh%C4%A9a.png)
 
 Dễ cảm thấy rằng nghĩa mặt chữ của `nhân ái` chỉ bao gồm `*xuất phát từ lòng thương người (thiện)` và không bao gồm những cái khác:
-![Nhân ái.png](../../../../assets/attachments/Nh%C3%A2n%20%C3%A1i.png)
+![Nhân ái.png](../../../assets/attachments/Nh%C3%A2n%20%C3%A1i.png)
 
 Cả `phúc thiện` cũng vậy:
-![Nhân ái + phúc thiện.png](../../../../assets/attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n.png)
+![Nhân ái + phúc thiện.png](../../../assets/attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n.png)
 
 Đối với `thiện nguyện` thì lại có thêm `*làm một cách tự nguyện` trong nghĩa mặt chữ:
-![Nhân ái + phúc thiện + thiện nguyện.png](../../../../assets/attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n.png)
+![Nhân ái + phúc thiện + thiện nguyện.png](../../../assets/attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n.png)
 
 Ở đây hãy giả định rằng nghĩa mặt chữ của các từ này đồng nhất với nghĩa thực sự được dùng của chúng. 
 
@@ -73,15 +74,15 @@ Giờ hãy tạm xoá đi làm lại. Ta xét từ `từ thiện`. Nghĩa mặt 
 - `*thường mang tính khẩn cấp, ngắn hạn`
 
 Ta hãy xem nó sẽ được biểu diễn thế nào:
-![Từ thiện.png](../../../../assets/attachments/T%E1%BB%AB%20thi%E1%BB%87n.png)
+![Từ thiện.png](../../../assets/attachments/T%E1%BB%AB%20thi%E1%BB%87n.png)
 
 Ta bật hết cả 4 từ `từ thiện`, `nhân ái`, `thiện nguyện`, `phúc thiện` này lên:
-![Nhân ái + phúc thiện + thiện nguyện + từ thiện.png](../../../../assets/attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n%20+%20t%E1%BB%AB%20thi%E1%BB%87n.png)
+![Nhân ái + phúc thiện + thiện nguyện + từ thiện.png](../../../assets/attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n%20+%20t%E1%BB%AB%20thi%E1%BB%87n.png)
 
 Ta thấy rằng nghĩa thực sự được dùng của `từ thiện` đã ôm hết tất cả nghĩa của các từ kia. Chính vì như vậy, nên nghĩa thực sự được dùng của chúng sẽ dần mở rộng ra cho bằng với `từ thiện` (quan sát 6b). Đây chính là nguyên do của sự chưa thoả mãn của nhiều người với những phương án dịch hiện tại. Để thoát khỏi cái bóng ma của `từ thiện`, ta cần tìm một từ nào có một nét nghĩa mà `từ thiện` không có (quan sát 6a).
 
 Gọi `X` là cách dịch của `philanthropy`. Đây là `X`:
-![Từ thiện + X.png](../../../../assets/attachments/T%E1%BB%AB%20thi%E1%BB%87n%20+%20X.png)
+![Từ thiện + X.png](../../../assets/attachments/T%E1%BB%AB%20thi%E1%BB%87n%20+%20X.png)
 
 Bởi vì `X` chưa tồn tại trong tiếng Việt, nên tốt nhất khi tạo nó ta nên có càng nhiều nét nghĩa của `X` trên mặt chữ. Và để thoát khỏi cái bóng ma của `từ thiện`, nhất thiết trên mặt chữ đó phải thể hiện ngay được nét nghĩa `*dựa trên tri thức` hoặc `*có tính bền vững và dài hạn`. 
 
@@ -89,7 +90,7 @@ Thấy rằng ta đã có `thiện nguyện` chứa được nhiều nét nghĩa
 - `thiện nguyện dựa trên tri thức`
 - `thiện nguyện có tính bền vững và dài hạn`
 
-![Thiện nguyện dựa trên tri thức + X.png](../../../../assets/attachments/Thi%E1%BB%87n%20nguy%E1%BB%87n%20d%E1%BB%B1a%20tr%C3%AAn%20tri%20th%E1%BB%A9c%20+%20X.png)
+![Thiện nguyện dựa trên tri thức + X.png](../../../assets/attachments/Thi%E1%BB%87n%20nguy%E1%BB%87n%20d%E1%BB%B1a%20tr%C3%AAn%20tri%20th%E1%BB%A9c%20+%20X.png)
 
 Mặc dù nghĩa mặt chữ của `thiện nguyện dựa trên tri thức` chưa bao hàm được hết tất cả những nghĩa thực sự được dùng của `X`, nhưng ít nhất nó đã thoát ra khỏi cái bóng ma của `từ thiện`. Và vì nghĩa mặt chữ của nó không chứa nét nghĩa nào mà `X` không có, nên việc đồng nhất nó với `X` sẽ dễ dàng được chấp nhận. 
 
