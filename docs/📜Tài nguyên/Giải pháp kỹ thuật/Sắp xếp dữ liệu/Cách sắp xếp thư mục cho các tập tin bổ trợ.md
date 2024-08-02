@@ -78,4 +78,4 @@ Pop-Location
 
 Nhưng do các thư mục đích trong `destList` cũng thay đổi thường xuyên, nên dạo này mình cũng chỉ sao chép bằng tay. Ảnh nào phải chỉnh quá nhiều thì mình mới chỉnh script. 
 
-Cách tiếp cận mình nghĩ là triệt để hơn là tạo một plugin để mỗi lần kho được mở lên thì nó sẽ kiểm tra trong thư mục ảnh xem ảnh gốc có thời điểm tạo mới hơn ảnh hiện tại hay không. Nếu có thì tự động chép đè vào ảnh hiện tại.
+Cách tiếp cận mình nghĩ là triệt để hơn là tạo một plugin để mỗi lần kho được mở lên thì nó sẽ kiểm tra trong thư mục ảnh xem ảnh gốc có thời điểm tạo mới hơn ảnh hiện tại hay không. Nếu có thì tự động chép đè vào ảnh trên kho.
