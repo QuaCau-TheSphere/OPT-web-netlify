@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2023-05-26T14:51
-updated: 2024-07-27T12:55
+created: 2023-10-22T21:45
+updated: 2024-08-02T15:32
 ---
 Khái niệm:: [Ẩn dụ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5.md)
 But he talked about how in the very beginning when, mostly at Apple, they were starting to try and design those icons, and figure out a way to give cause, right, Apple designed the desktop metaphor right? So before that, all computers were just the command line. You know, you just don't have anywhere to start. And they designed this idea of like, okay, your computer is like your desk and the code on your thing is contained into files, just like your paper on the desk.
@@ -16,3 +16,5 @@ But he talked about how in the very beginning when, mostly at Apple, they were s
 
 
 Nguồn:: [Maggie Appleton](../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Maggie%20Appleton.md), [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=37:57)
+
+[Các cửa sổ phần mềm không giống như một bàn làm việc thật](./C%C3%A1c%20c%E1%BB%ADa%20s%E1%BB%95%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%B4ng%20gi%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20b%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20th%E1%BA%ADt.md) 
