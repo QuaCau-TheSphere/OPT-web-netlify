@@ -3,7 +3,7 @@ Alias: Động lực dự án, Tại sao lại chọn Obsidian, Sứ mệnh
 description: Động lực dự án này là gì? Tại sao lại chọn Obsidian?
 share: true
 created: 2023-07-26T10:33
-updated: 2023-12-25T19:51
+updated: 2024-08-02T20:15
 ---
 <sub>English below</sub>
 
@@ -16,7 +16,7 @@ Việc tìm kiếm người hợp tác cho các dự án mới có ý tưởng �
 # Hướng giải quyết: Tạo thói quen sử dụng dữ liệu ở tại chỗ cho mọi người
 Trong những phần mềm quản lý công việc trên thị trường hiện nay, mình thấy có duy nhất Obsidian (và Git) là có thể đáp ứng nhu cầu đó. Triết lý của Obsidian là:
 
-- [Dữ liệu nằm trên máy của người dùng và ở định dạng đơn giản](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20n%E1%BA%B1m%20tr%C3%AAn%20m%C3%A1y%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+- [Dữ liệu nằm trên máy của người dùng và ở định dạng đơn giản](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20tr%C3%AAn%20m%C3%A1y%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 - [Liên kết là công dân hạng nhất](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20xem%20li%C3%AAn%20k%E1%BA%BFt%20l%C3%A0%20c%C3%B4ng%20d%C3%A2n%20h%E1%BA%A1ng%20nh%E1%BA%A5t.md)
 - [Cực kỳ dễ mở rộng tính năng](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/Obsidian%20c%E1%BB%B1c%20k%E1%BB%B3%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20t%C3%ADnh%20n%C4%83ng.md)
 
