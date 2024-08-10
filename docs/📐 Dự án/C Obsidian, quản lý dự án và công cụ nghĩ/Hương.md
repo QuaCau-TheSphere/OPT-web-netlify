@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-01T22:56
+updated: 2024-08-09T15:58
 ---
 # [30-07](30-07.md)
 Đúc kết thì hơi quá
@@ -36,28 +36,84 @@ Thấy 2 tiếng là dài rồi.
 Các hoạt động hiện tại
 - Đi bộ 
 - Trả hẹn
-- Muốn biết thế giới ngoài kia đang có gì khác
+- Muốn biết thế giới ngoài kia đang có gì khác: ngoài cái lần trước mình đã làm: workshop, gặp bạn
 - Xử lý số liệu và học hỏi thêm
 
 Các tổ chức phi chính phủ vẫn cần
 
 # Bữa sau
 Trong thang điểm từ 1 đến 5, với 1 là không hứng thú, còn 5 là rất hứng thú, bà hãy liệt kê:
-- Những thứ 1 điểm:
+- Những thứ 1 điểm: ko hwngs thus laf ko caanf timf hieeur ngay baay giowf, chứ ko tới mức để out ra, chứ hỏi ngay trong đầu thì
+- Những thứ 4 điểm: tìm nguồn thu đầu tư để có thu nhập thụ động
+- Những thứ 5 điểm: nghỉ ngơi: làm việc chân tay, việc làm trong tuần
 
 Tuần trước bà nói những thứ bà làm là đi bộ, trả hẹn, tìm hiểu thế giới ngoài kia đang có gì khác, với tìm việc liên quan đến xử lý số liệu. Tui liệt kê vậy có đủ chưa? Bà có muốn bổ sung gì không?
 
+nhóm thiền 3.5
+
+dọn nhà: có những cái kỷ niệm, có những cái mình lại bỏ đi. Theo thời gian thì mới biết cái nào với mình là quan trọng
 Ưu tiên cái nào trước? 
 
 Trong tuần qua bà có còn làm những gì ngoài những việc này không?
+## Bà đã đọc những nguồn nào về xử lý số liệu rồi? 
+chỉ gặp bạn bè, hoặc thấy thông báo
 
+Cái ưu tiên là dọn dẹp, ít nhất nhìn thấy gọn gàng
+4 điểm: tìm việc
 ## Vì sao không phải là lập trình mà là xử lý số liệu?
 Có hứng thú với lập trình không?
+hứng thú với BA, python
+thử tiếp xúc lập trình web thì ko hứng thú bằng
+thấy con số mà ráp nó vô thì thấy hay
+thấy những cái xu hướng đằng sau đều có mô hình
+
 Vì sao hứng thú với việc làm trên google dóc? Nó liên quan tới xử lý số liệu thế nào?
+lúc trước 
 
+phải liên kết số liệu, bảng biểu. Nếu biết ứng dụng với cái mới thì mọi thứ sẽ đơn giản hơn
 Thích việc phân tích xử lý số liệu, hay thích về phân tích nói chung? 
+về cơ bản thì cũng thích, còn cụ thể thì phải thử
 
-demo Công việc cũ về xử lý số liệu
+hứng thú dựa vào trải nghiệm trước đây. Nếu trước đây không có trải nghiệm thì việc làm ngày này qua ngày nọ sẽ có thể tạo đc hứng thú, còn nếu ko thì hơi khó
+
+
 
 
 Quacau trong bà là thế nào? 
+
+- Hứng thú về buổi nói chuyện: ban đầu là 3, coi qua là 5. Vì nó làm bất ngờ vì nó có khả năng định lượng hoá, khoa học hoá 
+- Hứng thú về discord: lúc đầu tưởng là hỗ trợ người trầm cảm, mở ra được rất nhiều thứ
+
+muốn gửi riêng cho admin rồi phân bài đó cho người phù hợp.
+có nhiều vấn đề ko muốn chia sẻ. Giờ nhìn lại ko còn sợ, ko muốn mọi người bàn tán, thấy nó bình thường thì 
+
+thích cả sự riêng tư và sự quan tâm. Sự riêng tư, tĩnh lặng làm bình an, làm mọi thứ trơn tru hơn
+Ko thích sự quan tâm mấy cái hôm nay ăn gì, bạn trai mới
+
+nếu trong công việc có gì đó mang tính bực bội, thì gặp bạn bè thì chia sẻ thôi, chứ ko muốn giải quyết giùm. Thấm chí nếu chỉ trích người đó để vui thì cũng ko muốn
+
+Những cái ngày xưa ko muốn nói giờ thoải mái nói: định hướng cá nhân, cắt may
+những cái cá nhân ko muốn chia sẻ là vì sợ bị đánh giá
+có duyên thì 
+
+## discord QUả cầu
+phát triển bản thân
+tâm tư tình cảm: cùng suy tư
+lưu trữ
+
+c hệ thống tri thức với c nhu cầu công việc thích cái gì đó ngắn gon hơn
+
+Các câu hỏi:
+-  có thay đổi gì với ngày trước
+
+Muốn 6 tháng để chứng minh với nhà tuyeenr dụng
+1 tuần là hơi quá ít
+
+làm cv
+1 viết ra hết những cái đã làm gì. Tuỳ nhu cầu công việc rồi mà tuỳ chỉnh lại
+
+demo Công việc cũ về xử lý số liệu
+
+# 
+## Hứng thú trò chuyện với tui
+## Hứng thú trả lời những câu hỏi này
