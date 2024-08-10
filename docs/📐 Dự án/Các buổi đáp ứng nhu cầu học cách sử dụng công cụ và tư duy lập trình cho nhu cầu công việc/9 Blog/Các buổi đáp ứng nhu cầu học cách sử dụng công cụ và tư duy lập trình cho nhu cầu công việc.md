@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2024-07-18T00:23
+updated: 2024-08-10T17:22
 cssClasses: wide-table
 ---
 Nếu bạn muốn:
@@ -32,9 +32,50 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
 
 # Một số nhu cầu ví dụ và những kiến thức cần có để làm được chúng
 ### Các nhu cầu công việc ví dụ
+- [Doanh nghiệp hoặc tổ chức](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/index.md)
+- [Chia sẻ lịch với nhau](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/Chia%20s%E1%BA%BB%20l%E1%BB%8Bch%20v%E1%BB%9Bi%20nhau.md)
+- [Nghiên cứu người dùng, phát triển sản phẩm](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
+- [Gom tất cả thông tin lại vào một chỗ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/Gom%20t%E1%BA%A5t%20c%E1%BA%A3%20th%C3%B4ng%20tin%20l%E1%BA%A1i%20v%C3%A0o%20m%E1%BB%99t%20ch%E1%BB%97.md)
+- [Nắm bắt xu hướng mạng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md)
+- [Tạo website](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/T%E1%BA%A1o%20website.md)
+- [Tổng hợp những sự kiện sẽ diễn ra](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/T%E1%BB%95ng%20h%E1%BB%A3p%20nh%E1%BB%AFng%20s%E1%BB%B1%20ki%E1%BB%87n%20s%E1%BA%BD%20di%E1%BB%85n%20ra.md)
+- [Tạo danh sách hạch toán hàng loạt vào các phần mềm kế toán](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/T%E1%BA%A1o%20danh%20s%C3%A1ch%20h%E1%BA%A1ch%20to%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t%20v%C3%A0o%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20k%E1%BA%BF%20to%C3%A1n.md)
+- [Xây dựng mạng lưới đối tác, các bên liên quan](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Doanh%20nghi%E1%BB%87p%20ho%E1%BA%B7c%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
+- [Chia sẻ kho tri thức của mình cho mọi người](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+- [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md)
+- [Cơ sở dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/C%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u.md)
+- [Kinh nghiệm tìm thuật ngữ tiếng Việt](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/D%E1%BB%8Bch/Kinh%20nghi%E1%BB%87m%20t%C3%ACm%20thu%E1%BA%ADt%20ng%E1%BB%AF%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
+- [Phương án dịch một số từ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/D%E1%BB%8Bch/Ph%C6%B0%C6%A1ng%20%C3%A1n%20d%E1%BB%8Bch%20m%E1%BB%99t%20s%E1%BB%91%20t%E1%BB%AB.md)
+- [Kinh nghiệm mua sách giấy](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Kinh%20nghi%E1%BB%87m%20mua%20s%C3%A1ch%20gi%E1%BA%A5y.md)
+- [Phân tích dữ liệu định lượng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md)
+- [Nghiên cứu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/index.md)
+- [Phân tích dữ liệu định tính](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20t%C3%ADnh.md)
+- [Khai thác một từ khoá](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
+- [Bản đồ lập luận](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/B%E1%BA%A3n%20%C4%91%E1%BB%93%20l%E1%BA%ADp%20lu%E1%BA%ADn.md)
+- [Quản lý kiến thức cá nhân](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20c%C3%A1%20nh%C3%A2n.md)
+- [Tổng quan tài liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/T%E1%BB%95ng%20quan%20t%C3%A0i%20li%E1%BB%87u.md)
+- [Nghiên cứu cộng đồng mạng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
+- [Tra lại lịch sử ghi chép](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Tra%20l%E1%BA%A1i%20l%E1%BB%8Bch%20s%E1%BB%AD%20ghi%20ch%C3%A9p.md)
+- [Xây dựng kho tri thức](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/X%C3%A2y%20d%E1%BB%B1ng%20kho%20tri%20th%E1%BB%A9c.md)
 
 
 ### Các nhu cầu công nghệ ví dụ
+- [Chạy thống kê](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Ch%E1%BA%A1y%20th%E1%BB%91ng%20k%C3%AA.md)
+- [Cào web](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/C%C3%A0o%20web.md)
+- [Hệ thống quản lý kiến thức](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
+- [Delightful humane design](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Delightful%20humane%20design.md)
+- [Kiểm soát phiên bản (version control)](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Ki%E1%BB%83m%20so%C3%A1t%20phi%C3%AAn%20b%E1%BA%A3n%20(version%20control).md)
+- [Phân loại dữ liệu tự động](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
+- [Nhập sự kiện vào Google Calendar](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20Google%20Calendar.md)
+- [Truy vấn dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Truy%20v%E1%BA%A5n%20d%E1%BB%AF%20li%E1%BB%87u.md)
+- [Tạo liên kết UTM rút gọn nhanh chóng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/T%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20UTM%20r%C3%BAt%20g%E1%BB%8Dn%20nhanh%20ch%C3%B3ng.md)
+- [Tạo đồ thị mạng lưới](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/T%E1%BA%A1o%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
+- [Tự động hoá các công việc lặp đi lặp lại](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md)
+- [Viết plugin](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20plugin.md)
+- [Tạo web](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/T%E1%BA%A1o%20web.md)
+- [Xác định các chủ đề có trong ngữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md)
+- [WYSIWYM](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/WYSIWYM.md)
+- [Xây dựng hệ thống quản lý, báo cáo nhu cầu các bên](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD,%20b%C3%A1o%20c%C3%A1o%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20b%C3%AAn.md)
 
 
 ### Tiêu chí lựa chọn
