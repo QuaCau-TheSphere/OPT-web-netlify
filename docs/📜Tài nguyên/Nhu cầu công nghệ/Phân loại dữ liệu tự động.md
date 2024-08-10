@@ -1,10 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-07-18T00:20
+updated: 2024-08-07T20:00
 ---
 Lĩnh vực:: [Xử lý ngôn ngữ tự nhiên (NLP)](../L%C4%A9nh%20v%E1%BB%B1c/X%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn%20(NLP).md)
-
 
 Phục vụ cho nhu cầu:
 - [Ghi chép chi tiêu](https://kiếmtiền.quảcầu.cc/Tài-nguyên-hỗ-trợ/Quang-cảnh-thị-trường/Chương-trình-quản-lý-tiền/4-Loại-chương-trình/Chương-trình-ghi-chép-thu-chi-cá-nhân?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Tài+nguyên)&utm_medium=Vault&utm_campaign=&utm_content=📜Tài+nguyên%2FNhu+cầu+công+nghệ%2FPhân+loại+dữ+liệu+tự+động.md&utm_term=)
