@@ -1,14 +1,20 @@
 ---
 share: true
 created: 2024-03-17T21:05
-updated: 2024-08-02T15:56
+updated: 2024-08-10T16:15
 alias:
   - Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
+  - Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
   - Hệ thống tri thức cộng đồng
   - Bản đồ tri thức
   - Sự khác biệt của bản đồ tri thức với các hình thức khác trong việc dẫn một người đến thứ họ cần nhất
 description: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
 ---
+IDE sẽ không chỉ là viết code mà còn là instruction, mental model, workflow, mindset, knowledge network/liên ngành, reverse engineer để có thể làm thế. 1 nền kinh tế mới, loại hết cò, thay thế các doanh nghiệp lớn, đưa mọi thứ về tay từng người và cộng đồng (có những thứ k cần làm 2 lần - quan điểm của tech, nghe kiểu có thể chất vấn theo cách k làm thì sao biết) nhưng đó sẽ là vde thay thế giáo dục (có những thứ k cần làm 2 lần/1 người/toàn nhân loại). Với digital education em có thể cho con người khả năng làm tất cả mọi thứ.
+
+Xem thêm:: [Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
+Xem thêm:: [Nền kinh tế tri thức](../../assets/attachments/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20tri%20th%E1%BB%A9c.canvas.md)
+
 | Hình thức                                                                                                                                                                                                                                                          | Ví dụ                                                                                                                                                                    | Giống                                                          | Khác                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Infographic                                                                                                                                                                                                                                                        |                                                                                                                                                                          |                                                                |                                                                  |
@@ -22,7 +28,7 @@ description: Làm sao để một người có thể tìm đến tài nguyên t�
 | Môi trường tạo khả năng ([enabling environment](https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby?stackedNotes=z8ZWYXFwXV38qiCgRx7zf2ySy9WCxWvcizNVr&stackedNotes=z2qBbdZidZNjbpdggRbmgeUeVf2H7aCevSYvE&stackedNotes=z8DyCwRiC8HT89mMvtBjwcGVs5ucHPHcrScch)) | [The Humane Representation of Thought](https://vimeo.com/115154289 "The Humane Representation of Thought on Vimeo")                                                      |                                                                |                                                                  |
 | Không gian vector từ                                                                                                                                                                                                                                               | Phần giới thiệu cái mình có thể quan tâm ở YouTube, Netflix, Spotify                                                                                                     |                                                                |                                                                  |
 
-Nếu là vấn đề liên kết giữa các khái niệm thì khác gì Tana, Neo4j, Xanadu?                                                         
+Nếu là vấn đề liên kết giữa các khái niệm thì khác gì Tana, Neo4j, Xanadu?                                   [A Short History of Bi-Directional Links](https://maggieappleton.com/bidirectionals)                      
 Câu hỏi:
 - Vấn đề nào thì nên dành thời gian để làm? Vấn đề nào có thể bỏ qua?
 - Có dễ dàng làm với số lượng lớn không?
@@ -34,7 +40,7 @@ Vấn đề lạc hậu khó tránh, nhưng em không nghĩ làm việc với l�
 
 ## Điều gì khiến cho người cần tới sản phẩm của mình nhất tìm ra được nó?
 Phải chăng rốt cuộc cũng quay trở lại thành wiki: được lên đầu Google ở nhiều lĩnh vực nhất có thể?
-[Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20ta%20c%E1%BA%A7n%20khi%20ta%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
+[Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
 [❓Bản đồ là cách để ta biết mình cần gì khi còn chưa cảm nhận được thứ mình cần là gì](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/%E2%9D%93B%E1%BA%A3n%20%C4%91%E1%BB%93%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%E1%BA%A7n%20g%C3%AC%20khi%20c%C3%B2n%20ch%C6%B0a%20c%E1%BA%A3m%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20m%C3%ACnh%20c%E1%BA%A7n%20l%C3%A0%20g%C3%AC.md)
 
 ## Nơi thảo luận
