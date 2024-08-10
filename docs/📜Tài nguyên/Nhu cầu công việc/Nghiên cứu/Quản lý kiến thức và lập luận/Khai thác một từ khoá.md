@@ -1,15 +1,8 @@
 ---
 share: true
 created: 2024-08-02T17:03
-updated: 2024-08-02T17:21
+updated: 2024-08-08T13:36
 ---
-import {Chart} from './snowfall.js'
-export const year = 2023 
-
-# Last year’s snowfall In {year}, the snowfall was above average. It was followed by a warm spring which caused flood conditions in many of the nearby rivers. 
-
-<Chart year={year} color="#fcb32c" />
-
 ## Phân Tích Ngôn Ngữ (Linguistic Analysis)
 - Từ điển định nghĩa (dictionary definition) từ này như thế nào?
 - Các từ đồng nghĩa (synonyms) của từ này là gì?
@@ -69,3 +62,5 @@ export const year = 2023
 - Những nghiên cứu hoặc lý thuyết nào đã kiểm chứng hoặc phản đối khái niệm này?
 
 Nguồn:: ![Khai thác một từ khoá.pdf](../../../../assets/attachments/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.pdf)
+
+![Connect Ideas with The Idea Compass and Visualize Connections with ExcaliBrain - YouTube](https://www.youtube.com/watch?v=7rnsULzez-g)

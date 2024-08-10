@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2024-08-02T21:18
-description: Cùng là một tập tin (ví dụ như một biểu đồ), khi ta đang làm việc A thì đầu óc ta sẽ nghĩ đến nó với cái tên và ở cấu trúc phân cấp khác với khi ta đang làm việc B. Nên xử lý việc này thế nào?
+updated: 2024-08-06T14:54
+description: Cùng là một tập tin hỗ trợ, khi đang làm việc A thì đầu óc ta sẽ nghĩ đến nó với cái tên và ở cấu trúc phân cấp khác với khi đang làm việc B. Ngoài ra khi quản lý các tập tin như vậy thì muốn tách chúng ra ngoài kho và để riêng vào một thư mục, trong khi lúc cần dùng thì lại cần để vào trong kho. Nên xử lý việc này thế nào?
 ---
-Bài viết [The Knowledge Organization](https://fibery.io/blog/gems/the-knowledge-organization/) của Fibery có nói đến việc [cấu trúc phân cấp của cây thư mục thường cứng nhắc và nhân tạo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Ch%E1%BB%89%20m%E1%BB%A5c,%20ph%C3%A2n%20lo%E1%BA%A1i/C%E1%BA%A5u%20tr%C3%BAc%20ph%C3%A2n%20c%E1%BA%A5p%20th%C6%B0%E1%BB%9Dng%20c%E1%BB%A9ng%20nh%E1%BA%AFc%20v%C3%A0%20nh%C3%A2n%20t%E1%BA%A1o.md). Cùng là một tập tin (ví dụ như một biểu đồ), khi ta đang làm việc A thì đầu óc ta sẽ nghĩ đến nó với cái tên và ở cấu trúc phân cấp khác với khi ta đang làm việc B:
+Bài viết [The Knowledge Organization](https://fibery.io/blog/gems/the-knowledge-organization/) của Fibery có nói đến việc [cấu trúc phân cấp của cây thư mục thường cứng nhắc và nhân tạo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Ch%E1%BB%89%20m%E1%BB%A5c,%20ph%C3%A2n%20lo%E1%BA%A1i/C%E1%BA%A5u%20tr%C3%BAc%20ph%C3%A2n%20c%E1%BA%A5p%20th%C6%B0%E1%BB%9Dng%20c%E1%BB%A9ng%20nh%E1%BA%AFc%20v%C3%A0%20nh%C3%A2n%20t%E1%BA%A1o.md). Cùng là một tập tin, khi đang làm việc A thì đầu óc ta sẽ nghĩ đến nó với cái tên và ở cấu trúc phân cấp khác với khi đang làm việc B:
 ![](https://fibery.io/blog/static/7bae05409fa1f5c4550c798c2725fe3a/573d3/competing-hierarchies.png) 
 
 Bởi vì [Obsidian lưu dữ liệu ở định dạng đơn giản](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md), bạn sẽ bị trói buộc vào cấu trúc phân cấp của cây thư mục. Khi bạn bắt tay viết một ghi chú, bạn sẽ muốn các tập tin hỗ trợ (ảnh, video, code, v.v.) ở trong cùng một thư mục. Nhưng đến khi số lượng ghi chú nhiều hơn, và một ảnh của bạn có thể dùng cho nhiều ghi chú khác nhau, bạn sẽ muốn tách riêng mỗi loại tập tin ra một thư mục khác nhau: ảnh ra thư mục ảnh, ghi chú ra thư mục ghi chú, v.v. Chuyện này không phải là vấn đề lớn. Nếu số lượng ảnh trong thư mục ảnh nhiều quá khó kiểm soát thì mình thường lặp lại cấu trúc ở thư mục ghi chú. VD:
@@ -78,4 +78,8 @@ Pop-Location
 
 Nhưng do các thư mục đích trong `destList` cũng thay đổi thường xuyên, nên dạo này mình cũng chỉ sao chép bằng tay. Ảnh nào phải chỉnh quá nhiều thì mình mới chỉnh script. 
 
-Cách tiếp cận mình nghĩ là triệt để hơn là tạo một plugin để mỗi lần kho được mở lên thì nó sẽ kiểm tra trong thư mục ảnh xem ảnh gốc có thời điểm tạo mới hơn ảnh hiện tại hay không. Nếu có thì tự động chép đè vào ảnh trên kho.
+Cách tiếp cận mình nghĩ là triệt để hơn là tạo một plugin để mỗi lần kho được mở lên thì nó sẽ kiểm tra trong thư mục ảnh xem ảnh gốc có thời điểm tạo mới hơn ảnh hiện tại hay không. Nếu có thì tự động chép đè vào ảnh trên kho. Không biết là đã có ai làm cái này chưa?
+
+
+
+cho nên em đổi từ area sang insights em thấy dễ xử lý với em hơn. Cái nào mang tính là kiến thức thôi thì là insight. Kiến thức thì nó độc lập với mong muốn của mình. Còn cái nào đi từ một mục tiêu cụ thể thì là project.

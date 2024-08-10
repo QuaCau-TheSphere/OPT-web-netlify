@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-18T13:17
+updated: 2024-08-10T16:04
 ---
 Bài này chưa viết xong. Nhưng bạn có thể đọc một bài có nhiều liên quan tới nó tại
 
@@ -16,3 +16,5 @@ Bằng quan sát cá nhân, chúng tôi thấy dù có rất nhiều tổ chức
 [Để một hệ sinh thái hoạt động thực sự hiệu quả thì lượng năng lượng dành ra để nắm bắt tín hiệu của môi trường phải giảm tới mức gần như bằng 0](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/%C4%90%E1%BB%83%20m%E1%BB%99t%20h%E1%BB%87%20sinh%20th%C3%A1i%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20th%E1%BB%B1c%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20th%C3%AC%20l%C6%B0%E1%BB%A3ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20d%C3%A0nh%20ra%20%C4%91%E1%BB%83%20n%E1%BA%AFm%20b%E1%BA%AFt%20t%C3%ADn%20hi%E1%BB%87u%20c%E1%BB%A7a%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ph%E1%BA%A3i%20gi%E1%BA%A3m%20t%E1%BB%9Bi%20m%E1%BB%A9c%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200.md). Bạn không cần phải hỏi mà vẫn biết nhu cầu của những thành viên xung quanh, và họ không cần phải hỏi cũng biết bạn đang cần gì. Mặc dù chúng ta luôn khuyến khích đặt câu hỏi, nhưng [Một hệ sinh thái không hoạt động bằng cách đặt câu hỏi, mà bằng cách không cần hỏi cũng biết câu trả lời là gì](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/M%E1%BB%99t%20h%E1%BB%87%20sinh%20th%C3%A1i%20kh%C3%B4ng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20b%E1%BA%B1ng%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi,%20m%C3%A0%20b%E1%BA%B1ng%20c%C3%A1ch%20kh%C3%B4ng%20c%E1%BA%A7n%20h%E1%BB%8Fi%20c%C5%A9ng%20bi%E1%BA%BFt%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20l%C3%A0%20g%C3%AC.md). Và các công cụ quản lý dự án hiện nay không có chức năng cung cấp thông tin của nhóm cho những nhóm khác. Chỉ khi nào nhu cầu của các bên liên quan hiện ra ngay trong kho dữ liệu của nhóm mà không cần phải hỏi họ hay thậm chí là nhập liệu, thì lúc đó chúng ta mới có thể bắt đầu nói về một hệ sinh thái mà những thành viên mới – vốn rất thiếu nhân lực – vẫn có thể hưởng lợi.
 
 kiếm được các tài nguyên đã được tạo ra bởi các dự án khác, 
+
+Xem thêm:: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
