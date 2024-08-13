@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2023-09-05T16:17
-updated: 2024-07-26T13:24
+created: 2023-11-08T18:22
+updated: 2024-08-13T08:06
 ---
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/_ArVh3Cj9rw?start=454" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [Thay vì suy luận để đi tới kết luận, chúng ta thường dùng kết luận để suy luận](../Suy%20lu%E1%BA%ADn/Thay%20v%C3%AC%20suy%20lu%E1%BA%ADn%20%C4%91%E1%BB%83%20%C4%91i%20t%E1%BB%9Bi%20k%E1%BA%BFt%20lu%E1%BA%ADn,%20ch%C3%BAng%20ta%20th%C6%B0%E1%BB%9Dng%20d%C3%B9ng%20k%E1%BA%BFt%20lu%E1%BA%ADn%20%C4%91%E1%BB%83%20suy%20lu%E1%BA%ADn.md)
