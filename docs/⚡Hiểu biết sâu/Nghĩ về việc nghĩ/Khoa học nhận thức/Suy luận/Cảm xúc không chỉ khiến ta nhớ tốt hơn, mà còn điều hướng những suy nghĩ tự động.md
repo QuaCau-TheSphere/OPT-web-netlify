@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2023-05-26T14:51
-updated: 2023-10-27T12:31
+created: 2023-10-22T21:45
+updated: 2024-08-13T08:06
 ---
 Vì thiên kiến là những kết luận xảy ra một cách tự động, nên cảm xúc vừa là cách để tạo ra thiên kiến, vừa là cách để khắc phục thiên kiến.
 
