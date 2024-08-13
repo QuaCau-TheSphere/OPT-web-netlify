@@ -6,7 +6,7 @@ alias:
   - Homepage
   - Trang chủ
 created: 2023-06-25T19:58
-updated: 2024-07-18T00:09
+updated: 2024-08-11T00:46
 title: 🌟 Mở đầu
 ---
   
@@ -23,7 +23,7 @@ Sau khi đọc xong những điều này, hiện có những câu hỏi nào xu�
 | Câu hỏi của bạn                                                                               | Loại câu hỏi | Nơi cho câu trả lời           |
 | --------------------------------------------------------------------------------------------- | ------------ | ----------------------------- |
 | Obsidian có gì hay? Nó giúp ích gì trong việc tư duy, hệ thống kiến thức, hoặc quản lý dự án? | What         | [💎 Giới thiệu về Obsidian](./%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/index.md) |
-| Tôi cần thành thạo thêm những công cụ gì để dự án của tôi được trôi chảy?                     | How          | [[📜Tài nguyên             |
+| Tôi cần thành thạo thêm những công cụ gì để dự án của tôi được trôi chảy?                     | How          | [📜Tài nguyên](./%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/index.md)              |
 | Hmm, bản chất của những vấn đề này là gì? Còn những gì tôi không biết là tôi không biết?      | Why          | [⚡Hiểu biết sâu](./%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/index.md)           |
 
 
