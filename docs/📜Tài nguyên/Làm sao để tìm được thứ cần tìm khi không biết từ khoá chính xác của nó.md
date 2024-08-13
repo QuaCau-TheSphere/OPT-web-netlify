@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-08-09T21:13
+updated: 2024-08-13T07:55
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
@@ -74,6 +74,7 @@ Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu 
 - [Bản chất của sự mơ hồ](https://quảcầu.cc/ly-thuyet-ve-goc-nhin?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=hiểu+lầm%2Cnét+nghĩa+ẩn%2Cthay+đổi+góc+nhìn%2CHiện+tượng+học%2C+khoa+học+nhận+thức%2C+vật+lý+luận%2Chiện+tượng+học&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=)
 - [Nghịch lý triển ngôn](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
 - [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+- [Làm sao để giỏi hơn?](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20(expertise)%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)
 
 
 %%

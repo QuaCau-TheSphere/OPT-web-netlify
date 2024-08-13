@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2024-08-10T15:07
-updated: 2024-08-10T17:48
+updated: 2024-08-11T00:45
 ---
 Xin chào bạn Lê Nguyễn Tường Vân,
 
 Mình tên là Lý Minh Nhật, là người sáng lập ra dự án Quả Cầu, và cũng là một người tham gia buổi giao lưu của Viện ABG và Fulbright vào ngày 9/8/2024 vừa qua. Buổi chia sẻ chỉ có 10 phút nói về nhân văn số, và rất tiếc là mình phải về sớm, nên mình chưa hiểu rõ định hướng phát triển các dự án nhân văn số của trường, ngoài việc thấy rằng chúng cần liên quan đến căn tính Việt Nam.
 
-Đây là những ý tưởng Quả Cầu đã triển khai, mà mình nghĩ rằng là phù hợp để được gọi là nhân văn số:
+Đây là những ý tưởng Quả Cầu đang triển khai, mà mình nghĩ rằng là phù hợp để được gọi là nhân văn số:
 - Giáo dục số: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](../../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 - Xã hội học số: Đồ thị mạng lưới 100+ niềm tin
 - Văn hoá số: Các cuộc đối thoại đang được chia sẻ như thế nào? 
