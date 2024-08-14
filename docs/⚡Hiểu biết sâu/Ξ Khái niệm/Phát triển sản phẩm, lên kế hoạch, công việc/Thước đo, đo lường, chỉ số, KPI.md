@@ -1,8 +1,0 @@
----
-share: true
-created: 2023-06-12T00:57
-updated: 2024-07-29T13:46
----
-- [Dựa vào KPI thì bộ phận kinh doanh sẽ có tiếng nói lớn nhất, còn đội phát triển sản phẩm rất ít có tiếng nói](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/D%E1%BB%B1a%20v%C3%A0o%20KPI%20th%C3%AC%20b%E1%BB%99%20ph%E1%BA%ADn%20kinh%20doanh%20s%E1%BA%BD%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i%20l%E1%BB%9Bn%20nh%E1%BA%A5t,%20c%C3%B2n%20%C4%91%E1%BB%99i%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20r%E1%BA%A5t%20%C3%ADt%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i.md)
-- [Khi một phép đo trở thành mục tiêu, nó thường mất đi sự hiệu quả của nó](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Khi%20m%E1%BB%99t%20ph%C3%A9p%20%C4%91o%20tr%E1%BB%9F%20th%C3%A0nh%20m%E1%BB%A5c%20ti%C3%AAu,%20n%C3%B3%20th%C6%B0%E1%BB%9Dng%20m%E1%BA%A5t%20%C4%91i%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%E1%BB%A7a%20n%C3%B3.md)
-- [Nếu bạn không thể đo lường, bạn không thể cải tiến](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/N%E1%BA%BFu%20b%E1%BA%A1n%20kh%C3%B4ng%20th%E1%BB%83%20%C4%91o%20l%C6%B0%E1%BB%9Dng,%20b%E1%BA%A1n%20kh%C3%B4ng%20th%E1%BB%83%20c%E1%BA%A3i%20ti%E1%BA%BFn.md)
