@@ -1,7 +1,8 @@
 ---
 share: true
+filename: Có thể có tới 40％ người dùng dùng adblock. Số độc giả rành công nghệ có thể lên tới 58％
 created: 2023-10-30T14:29
-updated: 2024-04-24T15:23
+updated: 2024-08-15T13:57
 ---
 Nguồn:: [analytics - What would be the reasons for not using UTM parameters? - Webmasters Stack Exchange](https://webmasters.stackexchange.com/questions/144604/what-would-be-the-reasons-for-not-using-utm-parameters/144608?noredirect=1#comment203122_144608)
 
