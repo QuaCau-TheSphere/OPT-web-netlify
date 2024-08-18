@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-07T16:20
-updated: 2023-10-10T20:44
+updated: 2024-08-16T19:48
 tags:
   - tt_chưa-hoàn-thành
   - file_bài-học
@@ -10,6 +10,7 @@ tags:
 #tt/chưa-hoàn-thành
 #file/bài-học
 %%
+Kinh nghiệm tạo web của mình: Dùng plugin Enveloppe + mkdocs/lume + github page/Netlify
 
 2. Copy folder plugin
 3. Thêm share key
@@ -30,9 +31,6 @@ pip freeze > requirements.txt
 Những file nào ko muốn cho hiện lên thì bỏ `share: true` trong yaml đi, rồi dùng lệnh này
 ![](https://i.imgur.com/hipQiyn.png)
 
-# Thêm subdomain
+## Thêm subdomain
 - Cloudflare
 - Netlify
-
-[Mkdocs giúp dựng một web tĩnh từ các file markdown](Mkdocs%20gi%C3%BAp%20d%E1%BB%B1ng%20m%E1%BB%99t%20web%20t%C4%A9nh%20t%E1%BB%AB%20c%C3%A1c%20file%20markdown.md)
-> [!tip] Mẹo
