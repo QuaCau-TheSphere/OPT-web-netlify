@@ -19,9 +19,9 @@ Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
 - [Hanoi Grapevine](./Email/Hanoi%20Grapevine.md)
-- [Lê Nguyễn Tường Vân](./Email/L%C3%AA%20Nguy%E1%BB%85n%20T%C6%B0%E1%BB%9Dng%20V%C3%A2n.md)
-- [Nguyễn Cảnh Bình](./Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)
 - [Nguyễn Hoàng Hải](./Email/Nguy%E1%BB%85n%20Ho%C3%A0ng%20H%E1%BA%A3i.md)
+- [Nguyễn Cảnh Bình](./Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)
+- [Lê Nguyễn Tường Vân](./Email/L%C3%AA%20Nguy%E1%BB%85n%20T%C6%B0%E1%BB%9Dng%20V%C3%A2n.md)
 - [Kế hoạch truyền thông](./K%E1%BA%BF%20ho%E1%BA%A1ch%20truy%E1%BB%81n%20th%C3%B4ng.md)
 - [Từ việc lưu dữ liệu tại chỗ](./T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97.md)
 
