@@ -3,9 +3,9 @@ share: true
 created: 2023-05-30T14:31
 updated: 2023-11-27T22:22
 ---
-![300](../../../../assets/attachments/Eisenhower-Matrix-920x1024.png)
-![300](../../../../assets/attachments/Eisenhower-Matrix-Actions-539x600.png)
-![300](../../../../assets/attachments/Procrastinators-Matrix1-539x600.png) 
+![300](../../../../attachments/Eisenhower-Matrix-920x1024.png)
+![300](../../../../attachments/Eisenhower-Matrix-Actions-539x600.png)
+![300](../../../../attachments/Procrastinators-Matrix1-539x600.png) 
 # Các lý do khiến cho mình không theo được cái bảng khẩn cấp – quan trọng
 Ứng với mỗi ô sẽ có một nhóm các lý do để không làm được ô đó (hoặc cứ phải làm ô đó) 
 
