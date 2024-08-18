@@ -5,4 +5,4 @@ updated: 2024-02-28T17:47
 ---
 Khái niệm:: 
 
-Nguồn:: ![Raju-Smart-Pricing.pdf](../../../../assets/attachments/Raju-Smart-Pricing.pdf)
+Nguồn:: ![Raju-Smart-Pricing.pdf](../../../../attachments/Raju-Smart-Pricing.pdf)
