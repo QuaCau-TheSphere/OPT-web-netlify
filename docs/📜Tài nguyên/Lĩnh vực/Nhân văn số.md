@@ -14,7 +14,7 @@ description: Nhân văn số là một lĩnh vực giao thoa giữa ngành khoa 
 Nhiều dự án nhân văn số rồi, nên chỉ tập trung vào các tài liệu giúp hướng dẫn một người tìm ra được dự án mình đang cần
 
 ### Xã hội học số: [Đồ thị mạng lưới 100+ niềm tin](https://xn--qucu-hr5aza.cc/phan-tich-mot-mang-luoi-100-niem-tin/?utm_source=CV+%C2%BB+T%C3%A0i+nguy%C3%AAn+NLP+v%C3%A0+nh%C3%A2n+v%C4%83n+s%E1%BB%91&utm_medium=Ph%C3%A2n+t%C3%ADch+m%E1%BB%99t+m%E1%BA%A1ng+l%C6%B0%E1%BB%9Bi+100%2B+ni%E1%BB%81m+tin&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2) 
-![Đồ thị 100+ niềm tin.gif](../../assets/attachments/%C4%90%E1%BB%93%20th%E1%BB%8B%20100+%20ni%E1%BB%81m%20tin.gif)
+![Đồ thị 100+ niềm tin.gif](../../attachments/%C4%90%E1%BB%93%20th%E1%BB%8B%20100+%20ni%E1%BB%81m%20tin.gif)
 
 ### Văn hoá số: Các cuộc đối thoại đang được chia sẻ như thế nào? 
 đối ⊷ thoại là một chương trình tạo liên kết UTM và rút gọn liên kết dành cho người Việt. Nó hướng đến việc:
@@ -28,7 +28,7 @@ Dữ liệu của nó là công khai.
 Hanoi Grapevine từ lúc sáng lập cho tới nay đã có được 2 TB dữ liệu về các sự kiện nghệ thuật ở Hà Nội. Tuy nhiên họ không có nhân lực để làm được gì với đống dữ liệu này. Mong muốn của họ là làm được một cái tương tự như [Tinh thần bằng hữu](http://www.spiritoffriendship.org/artists), một bản đồ khái quát hoạt động của ít nhất 20 nhóm nghệ sĩ thị giác trên khắp Việt Nam.
 
 Trong [các dự án nhân văn số về lịch sử nghệ thuật](http://imageresources.weebly.com/digital-humanities-projects.html "Digital humanities projects - Digital Resources Guide") thì có dự án [Inventing Abstraction](https://www.moma.org/interactives/exhibitions/2012/inventingabstraction) giúp sơ đồ hoá mối quan hệ giữa các nghệ sĩ, là có vẻ tham khảo được.
-![Pasted image 20231111161912.png](../../assets/attachments/Pasted%20image%2020231111161912.png)
+![Pasted image 20231111161912.png](../../attachments/Pasted%20image%2020231111161912.png)
 
 Nếu nói chung về nhân văn số trong nghệ thuật, thì nổi tiếng nhất chắc là dự án [Google Arts &amp; Culture](https://artsandculture.google.com/ "Google Arts &amp; Culture"). Ai quan tâm có thể xem thêm bài giới thiệu của giám đốc dự án này trên TED: [Every piece of art you've ever wanted to see -- up close and searchable | Amit Sood](https://www.youtube.com/watch?v=cSpOCSVt--k "Every piece of art you've ever wanted to see -- up close and searchable | Amit Sood - YouTube"). 
 

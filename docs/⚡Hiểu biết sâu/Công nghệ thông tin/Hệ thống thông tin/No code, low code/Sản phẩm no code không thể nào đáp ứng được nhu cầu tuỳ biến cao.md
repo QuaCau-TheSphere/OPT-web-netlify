@@ -4,7 +4,7 @@ created: 2023-09-05T16:17
 updated: 2024-04-15T14:30
 ---
 ### Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù
-![Dùng ERP dựng sẵn.png](../../../../assets/attachments/D%C3%B9ng%20ERP%20d%E1%BB%B1ng%20s%E1%BA%B5n.png)
+![Dùng ERP dựng sẵn.png](../../../../attachments/D%C3%B9ng%20ERP%20d%E1%BB%B1ng%20s%E1%BA%B5n.png)
 
 Có hai loại công việc: [Công việc khai phá và công việc khai thác](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md). Công việc khai phá (exploration) là những công việc mà nếu ta chưa làm xong thì cũng không chắc lắm kết quả trông như thế nào, còn công việc khai thác (exploitation) là những công việc chưa làm cũng biết chính xác kết quả trông như thế nào. Công việc khai phá sử dụng dạng tư duy phi tuyến, và hợp với kiểu dữ liệu phi cấu trúc. Còn công việc khai thác sử dụng dạng tư duy tuyến tính, và hợp với kiểu dữ liệu có cấu trúc.
 

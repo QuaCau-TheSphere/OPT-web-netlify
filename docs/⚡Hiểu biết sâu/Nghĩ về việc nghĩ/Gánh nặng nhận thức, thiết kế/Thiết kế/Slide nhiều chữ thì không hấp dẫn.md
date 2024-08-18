@@ -19,8 +19,8 @@ Càng khó để chia nhau ra làm slide.
 Explorable explanation , 4 level of abstractiom
 [[Công cụ nghĩ
 
-![mts-made-to-stick-model.pdf](../../../../assets/attachments/mts-made-to-stick-model.pdf)
-![James Le.jpg](../../../../assets/attachments/James%20Le.jpg)
-![Boris Divjak.jpeg](../../../../assets/attachments/Boris%20Divjak.jpeg)
+![mts-made-to-stick-model.pdf](../../../../attachments/mts-made-to-stick-model.pdf)
+![James Le.jpg](../../../../attachments/James%20Le.jpg)
+![Boris Divjak.jpeg](../../../../attachments/Boris%20Divjak.jpeg)
 
 phong cách truyện tranh

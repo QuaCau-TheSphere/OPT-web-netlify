@@ -17,4 +17,4 @@ Chào tất cả mọi người. Hiện tại bọn mình đang xây dựng mộ
 • Hiện tại giải pháp quản lý của bạn là gì?
 • Nếu có một công cụ có vẻ như sẽ giúp bạn tốt hơn trong việc này thì bạn sẵn sàng bỏ ra bao nhiêu thời gian để thử nghiệm? Cần những gì để bạn thấy được là nó có vẻ sẽ giúp bạn làm việc hiệu quả hơn?
 
-![Mối quan tâm chung.jpeg](../../../../../../assets/attachments/M%E1%BB%91i%20quan%20t%C3%A2m%20chung.jpeg)
+![Mối quan tâm chung.jpeg](../../../../../../attachments/M%E1%BB%91i%20quan%20t%C3%A2m%20chung.jpeg)

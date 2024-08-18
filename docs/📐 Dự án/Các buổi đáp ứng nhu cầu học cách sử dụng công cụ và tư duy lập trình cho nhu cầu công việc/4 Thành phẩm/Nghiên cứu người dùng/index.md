@@ -17,6 +17,6 @@ title: Nghiên cứu người dùng
     - [Văn Đinh Phú](V%C4%83n%20%C4%90inh%20Ph%C3%BA.md)
 
 - Trải nghiệm sau buổi học: 
-    - [Chị Hoà](Ch%E1%BB%8B%20Ho%C3%A0.md)
     - [Mục tiêu và câu hỏi phỏng vấn](./Tr%E1%BA%A3i%20nghi%E1%BB%87m%20sau%20bu%E1%BB%95i%20h%E1%BB%8Dc/M%E1%BB%A5c%20ti%C3%AAu%20v%C3%A0%20c%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
+    - [Chị Hoà](Ch%E1%BB%8B%20Ho%C3%A0.md)
 

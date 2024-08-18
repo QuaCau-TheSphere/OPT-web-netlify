@@ -9,7 +9,7 @@ Lĩnh vực:: [Lập trình hướng vật thể](../L%C4%A9nh%20v%E1%BB%B1c/L%E
 Giải pháp kỹ thuật:: [Python](../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Nghi%C3%AAn%20c%E1%BB%A9u/K%E1%BB%B9%20thu%E1%BA%ADt%20d%E1%BB%AF%20li%E1%BB%87u/Python.md), [API](../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/L%E1%BA%ADp%20tr%C3%ACnh/API.md), [VS Code](../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/L%E1%BA%ADp%20tr%C3%ACnh/VS%20Code.md), [Google Calendar](../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Google%20Calendar.md)
 
 
-![Bàn làm việc Google Calendar.png](../../assets/attachments/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar.png)
+![Bàn làm việc Google Calendar.png](../../attachments/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar.png)
 Bộ phận HR, marketing hoặc truyền thông nội bộ của công ty bạn muốn cập nhật các sự kiện trong năm để xây dựng nội dung nhưng việc cập nhật thủ công qua từng tháng, từng năm là một công việc mất nhiều thời gian? Việc nắm bắt xu hướng thông qua việc theo dõi các các sự kiện nổi bật trên các mạng xã hội như Facebook hay Tiktok rồi ghi chú thủ công trong Excel không đủ để bạn nhìn được số liệu dễ dàng và xem được sự kiện trong  tuần hoặc trong tháng?
 
 Quả Cầu mong muốn tìm gặp và giới thiệu cho bạn hướng khai phá khả năng quản lý thời gian thông qua một công cụ quen thuộc – Google Calendar, đó là là nâng cấp ***“cuốn lịch biểu”*** Google Calendar của bạn trở thành ***“bàn làm việc”*** Google Calendar.
@@ -31,7 +31,7 @@ Về vấn đề đăng ký nhu cầu, Quả Cầu khuyến khích bạn nêu r�
 	- Truyền dữ liệu lấy từ web vào Google Calendar
 
 Kết quả đầu ra ví dụ:
-![Bàn làm việc Google Calendar demo.png](../../assets/attachments/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar%20demo.png)
+![Bàn làm việc Google Calendar demo.png](../../attachments/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar%20demo.png)
 
 Về vấn đề tự định giá, Quả Cầu cho rằng **bạn nên được quyền quyết định giá trị của buổi hướng dẫn** vì đây là dự án phục vụ nhu cầu và dựa trên thiết kế lộ trình làm việc của bạn. Với nhu cầu và thiết kế đó, Quả Cầu khuyến khích bạn đề xuất giá trị của buổi hướng dẫn này với đa dạng hình thức chi trả/trao đổi nhu cầu (ví dụ: tiền hoặc các tác vụ hỗ trợ Quả Cầu theo thoả thuận).
 

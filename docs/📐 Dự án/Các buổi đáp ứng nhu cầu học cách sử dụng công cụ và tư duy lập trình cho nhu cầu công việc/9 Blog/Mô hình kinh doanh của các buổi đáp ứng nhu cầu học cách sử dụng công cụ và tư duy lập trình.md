@@ -9,7 +9,7 @@ title: Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt đư
 description: Liệu nó có thể áp dụng cho các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình không?
 ---
 
-Theo quyển [Smart Pricing: How Google, Priceline, and Leading Businesses Use Pricing Innovation for Profitability](../../../assets/attachments/Raju-Smart-Pricing.pdf) của NXB Wharton School, các dự án áp dụng chiến lược định giá trả tuỳ tâm thành công có 5 đặc điểm chung sau:
+Theo quyển [Smart Pricing: How Google, Priceline, and Leading Businesses Use Pricing Innovation for Profitability](../../../attachments/Raju-Smart-Pricing.pdf) của NXB Wharton School, các dự án áp dụng chiến lược định giá trả tuỳ tâm thành công có 5 đặc điểm chung sau:
 1. Chi phí biên thấp
 2. Khách hàng có ý định sòng phẳng
 3. Sản phẩm có thể bán được ở nhiều mức giá khác nhau (VD: người mua $3, $10 hay $20 đều có cái lý của họ) 
