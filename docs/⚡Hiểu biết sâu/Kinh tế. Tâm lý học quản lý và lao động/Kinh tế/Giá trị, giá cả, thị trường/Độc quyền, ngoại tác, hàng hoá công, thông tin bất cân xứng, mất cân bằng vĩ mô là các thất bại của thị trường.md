@@ -5,4 +5,4 @@ updated: 2024-04-16T22:34
 ---
 Khái niệm:: 
 
-Nguồn:: ![Thị trường và thất bại của thị trường.pdf](../../../../assets/attachments/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20th%E1%BA%A5t%20b%E1%BA%A1i%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.pdf)
+Nguồn:: ![Thị trường và thất bại của thị trường.pdf](../../../../attachments/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20th%E1%BA%A5t%20b%E1%BA%A1i%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.pdf)
