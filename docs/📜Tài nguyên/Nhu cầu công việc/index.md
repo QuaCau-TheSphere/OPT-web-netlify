@@ -16,8 +16,8 @@ title: Nhu cầu công việc
 
 - Hậu cần: 
     - [Các công việc tổ chức một buổi họp](./H%E1%BA%ADu%20c%E1%BA%A7n/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20m%E1%BB%99t%20bu%E1%BB%95i%20h%E1%BB%8Dp.md)
-    - [Làm livestream và video](./H%E1%BA%ADu%20c%E1%BA%A7n/L%C3%A0m%20livestream%20v%C3%A0%20video.md)
     - [Kinh nghiệm setup khi có cả online và offline](./H%E1%BA%ADu%20c%E1%BA%A7n/Kinh%20nghi%E1%BB%87m%20setup%20khi%20c%C3%B3%20c%E1%BA%A3%20online%20v%C3%A0%20offline.md)
+    - [Làm livestream và video](./H%E1%BA%ADu%20c%E1%BA%A7n/L%C3%A0m%20livestream%20v%C3%A0%20video.md)
 
 - Nghiên cứu: 
     - [Chia sẻ kho tri thức của mình cho mọi người](./Nghi%C3%AAn%20c%E1%BB%A9u/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
@@ -25,15 +25,15 @@ title: Nhu cầu công việc
     - [Cơ sở dữ liệu](./Nghi%C3%AAn%20c%E1%BB%A9u/C%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Kinh nghiệm tìm thuật ngữ tiếng Việt](./Nghi%C3%AAn%20c%E1%BB%A9u/D%E1%BB%8Bch/Kinh%20nghi%E1%BB%87m%20t%C3%ACm%20thu%E1%BA%ADt%20ng%E1%BB%AF%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
     - [Phương án dịch một số từ](./Nghi%C3%AAn%20c%E1%BB%A9u/D%E1%BB%8Bch/Ph%C6%B0%C6%A1ng%20%C3%A1n%20d%E1%BB%8Bch%20m%E1%BB%99t%20s%E1%BB%91%20t%E1%BB%AB.md)
-    - [Nghiên cứu cộng đồng mạng](./Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
     - [Kinh nghiệm mua sách giấy](./Nghi%C3%AAn%20c%E1%BB%A9u/Kinh%20nghi%E1%BB%87m%20mua%20s%C3%A1ch%20gi%E1%BA%A5y.md)
+    - [Nghiên cứu cộng đồng mạng](./Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
     - [Phân tích dữ liệu định lượng](./Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md)
     - [Phân tích dữ liệu định tính](./Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20t%C3%ADnh.md)
+    - [Tra lại lịch sử ghi chép](./Nghi%C3%AAn%20c%E1%BB%A9u/Tra%20l%E1%BA%A1i%20l%E1%BB%8Bch%20s%E1%BB%AD%20ghi%20ch%C3%A9p.md)
     - [Bản đồ lập luận](./Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/B%E1%BA%A3n%20%C4%91%E1%BB%93%20l%E1%BA%ADp%20lu%E1%BA%ADn.md)
-    - [Tổng quan tài liệu](./Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/T%E1%BB%95ng%20quan%20t%C3%A0i%20li%E1%BB%87u.md)
     - [Quản lý kiến thức cá nhân](./Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20c%C3%A1%20nh%C3%A2n.md)
     - [Khai thác một từ khoá](./Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
-    - [Tra lại lịch sử ghi chép](./Nghi%C3%AAn%20c%E1%BB%A9u/Tra%20l%E1%BA%A1i%20l%E1%BB%8Bch%20s%E1%BB%AD%20ghi%20ch%C3%A9p.md)
+    - [Tổng quan tài liệu](./Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/T%E1%BB%95ng%20quan%20t%C3%A0i%20li%E1%BB%87u.md)
     - [Xây dựng kho tri thức](./Nghi%C3%AAn%20c%E1%BB%A9u/X%C3%A2y%20d%E1%BB%B1ng%20kho%20tri%20th%E1%BB%A9c.md)
 
 
