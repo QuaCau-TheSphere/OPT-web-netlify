@@ -33,7 +33,7 @@ Chú trọng ghi lại những mối quan hệ giữa các khái niệm, chứ k
 Đa phần ghi chú trong đây đều ở trạng thái chưa hoàn thiện. Thứ cần được hoàn thiện là sự liên kết giữa các trang và nội dung một số trang hay được đọc và chia sẻ nhiều.
 
 # Các chủ đề được bàn đến trong [⚡Hiểu biết sâu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/index.md)
-![Các lĩnh vực trong vault.png](../../../assets/attachments/C%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20trong%20vault.png)
+![Các lĩnh vực trong vault.png](../../../attachments/C%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20trong%20vault.png)
 
 Có thể thấy là nó cũng quá đa dạng, và có thể bạn không cần biết hết. Nhưng tất cả những cái này bạn sẽ phải tự học, và khi dự án bạn còn nhỏ thì bạn sẽ phải cáng đáng hết tất cả những vấn đề này
 
