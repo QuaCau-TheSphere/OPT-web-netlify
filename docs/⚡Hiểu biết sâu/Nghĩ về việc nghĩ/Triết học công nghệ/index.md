@@ -7,9 +7,9 @@ title: Triết học công nghệ
 Khái niệm:: 
 
 - [Khi hành động của một người được tạo bởi thiên kiến, ta thường nói là nó phi lý. Khi một đồ vật được tạo bởi thiên kiến, ta thường bảo rằng nó trung lập](./Khi%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20b%E1%BB%9Fi%20thi%C3%AAn%20ki%E1%BA%BFn,%20ta%20th%C6%B0%E1%BB%9Dng%20n%C3%B3i%20l%C3%A0%20n%C3%B3%20phi%20l%C3%BD.%20Khi%20m%E1%BB%99t%20%C4%91%E1%BB%93%20v%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20b%E1%BB%9Fi%20thi%C3%AAn%20ki%E1%BA%BFn,%20ta%20th%C6%B0%E1%BB%9Dng%20b%E1%BA%A3o%20r%E1%BA%B1ng%20n%C3%B3%20trung%20l%E1%BA%ADp.md)
-- [Khi sử dụng công nghệ, ta không nghĩ là nó sẽ thay đổi bản thân mình](./Khi%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20ngh%E1%BB%87,%20ta%20kh%C3%B4ng%20ngh%C4%A9%20l%C3%A0%20n%C3%B3%20s%E1%BA%BD%20thay%20%C4%91%E1%BB%95i%20b%E1%BA%A3n%20th%C3%A2n%20m%C3%ACnh.md)
 - [Một dụng cụ có sự lý tính rất rõ ràng](./M%E1%BB%99t%20d%E1%BB%A5ng%20c%E1%BB%A5%20c%C3%B3%20s%E1%BB%B1%20l%C3%BD%20t%C3%ADnh%20r%E1%BA%A5t%20r%C3%B5%20r%C3%A0ng.md)
 - [Trong khi khoa học thường đi liền với công nghệ, triết học khoa học thường nói về chân lý, còn triết học công nghệ thường nói về đạo đức](./Trong%20khi%20khoa%20h%E1%BB%8Dc%20th%C6%B0%E1%BB%9Dng%20%C4%91i%20li%E1%BB%81n%20v%E1%BB%9Bi%20c%C3%B4ng%20ngh%E1%BB%87,%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20khoa%20h%E1%BB%8Dc%20th%C6%B0%E1%BB%9Dng%20n%C3%B3i%20v%E1%BB%81%20ch%C3%A2n%20l%C3%BD,%20c%C3%B2n%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87%20th%C6%B0%E1%BB%9Dng%20n%C3%B3i%20v%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
+- [Khi sử dụng công nghệ, ta không nghĩ là nó sẽ thay đổi bản thân mình](./Khi%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20ngh%E1%BB%87,%20ta%20kh%C3%B4ng%20ngh%C4%A9%20l%C3%A0%20n%C3%B3%20s%E1%BA%BD%20thay%20%C4%91%E1%BB%95i%20b%E1%BA%A3n%20th%C3%A2n%20m%C3%ACnh.md)
 
 
 ![](https://i.imgur.com/dthVmJc.png)
