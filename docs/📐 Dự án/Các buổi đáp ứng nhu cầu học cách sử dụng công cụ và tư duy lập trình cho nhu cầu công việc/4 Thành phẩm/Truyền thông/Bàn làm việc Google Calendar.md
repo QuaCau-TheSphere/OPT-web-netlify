@@ -16,7 +16,7 @@ Quả Cầu mong muốn tìm gặp và giới thiệu cho bạn hướng đi kha
 - ***GỌN:*** Mở rộng giao diện quen thuộc và quản lý dữ liệu trực quan 
 
 Vậy, nếu bạn có mong muốn hiện thực hoá điều này, Quả Cầu mời bạn vào link sau để biết thêm chi tiết: https://quacau.space/fgoi
-![Bàn làm việc Google Calendar.png](../../../../assets/attachments/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar.png)
+![Bàn làm việc Google Calendar.png](../../../../attachments/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar.png)
 
 [29-12](29-12.md) [Facebook page QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Qu%E1%BA%A3%20C%E1%BA%A7u/Facebook%20page%20QC.md)
 [29-12](29-12.md) [HrShare](HrShare.md) 
