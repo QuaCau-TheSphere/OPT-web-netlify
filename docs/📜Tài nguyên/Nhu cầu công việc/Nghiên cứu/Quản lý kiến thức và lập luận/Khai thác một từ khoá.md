@@ -61,6 +61,6 @@ updated: 2024-08-08T13:36
 - Các tranh luận chính liên quan đến khái niệm này là gì?
 - Những nghiên cứu hoặc lý thuyết nào đã kiểm chứng hoặc phản đối khái niệm này?
 
-Nguồn:: ![Khai thác một từ khoá.pdf](../../../../assets/attachments/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.pdf)
+Nguồn:: ![Khai thác một từ khoá.pdf](../../../../attachments/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=7rnsULzez-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
