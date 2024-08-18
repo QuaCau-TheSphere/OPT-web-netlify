@@ -38,7 +38,7 @@ Google Keep là một phần mềm ghi chú rất phổ biến với mọi ngư�
 Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập nhanh những khoảng chi tiêu chung với khối lượng lớn vào lúc bạn không có đầu óc để phân loại, phù hợp cho gia đình, nhóm bạn, công ty những lúc chợ búa, du lịch, tổ chức sự kiện, v.v.
 
 Hiện tại đã có sẵn plugin nhập dữ liệu từ Google Keep và tạo bảng phân loại trên Fibery. 
-![Keep to Fibery](../../../../assets/attachments/Keep%20to%20Fibery.png)
+![Keep to Fibery](../../../../attachments/Keep%20to%20Fibery.png)
 
 ### Tổng hợp công việc hoặc quỹ ngay trên phòng chat (Discord, Slack)
 Discord và Slack là những phần mềm nhắn tin phổ biến cho cộng đồng hoặc tổ chức. Một server sẽ có nhiều kênh (channel) để việc thảo luận được tập trung, không bị lạc chủ đề quá nhiều. Thông thường, các bộ phận trong tổ chức sẽ có một kênh riêng.
