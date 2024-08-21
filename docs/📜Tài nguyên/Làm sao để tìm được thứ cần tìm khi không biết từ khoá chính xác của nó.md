@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-08-13T07:55
+updated: 2024-08-21T18:22
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
@@ -29,12 +29,18 @@ ChatGPT hay Gemini thực ra cũng nằm trong nhóm này, nhưng có lẽ chún
 ### Các cộng đồng chuyên môn
 Diễn đàn chuyên về hỏi đáp [Stack Exchange](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange.md) có cơ chế bầu chọn theo tập thể, giúp đưa thông tin hữu ích nhất lên cao. Quora cũng là một diễn đàn hỏi đáp có cơ chế bầu chọn theo tập thể, nhưng có vẻ nó thiên về nghe những câu chuyện từ những người có uy tín hơn. Với những câu hỏi để tìm từ khoá thì bạn không có nhiều không gian để giải thích vấn đề, và cũng dễ gặp tình trạng câu trả lời chỉ chung chung. Nếu muốn có những cuộc thảo luận mở thì mình thấy Reddit tốt hơn.
 
+- [TOMT: When you can't remember that…thing…](https://www.reddit.com/r/tipofmytongue/)
+- [Need something found? Maybe we can help!](https://www.reddit.com/r/HelpMeFind/)
+- [The Signpost of Reddit!](https://www.reddit.com/r/findareddit/)
+- [For the identification of mysterious objects](https://www.reddit.com/r/whatisthisthing/)
+- [I Need a Name (INAN)](https://www.reddit.com/r/INeedAName/)
+
 Nếu cần nơi tổng hợp tiếng Việt thì mình có tổng hợp [500 nhóm Facebook hay](https://quảcầu.cc/cac-nhom-facebook-hay?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=Tài+nguyên+khác%2CLàm+việc+hiệu+quả&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=). Mục đích của danh sách này chủ yếu để seeding, không phải để tìm từ khoá, nhưng phần học thuật thì cũng có thể hữu ích cho bạn. Phần đó bây giờ cũng phải cập nhật lại.
 
 Nếu dành thời gian để viết những gì bạn đã thử mà không được thì câu hỏi của bạn sẽ trở nên hấp dẫn hơn, tạo được nhiều tương tác hơn.
 
 ### Các hệ thống tri thức cộng đồng
-- Wikipedia là.Có thời gian thì hãy hiểu [Uy quyền sự thật của Wikipedia](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Uy%20quy%E1%BB%81n%20s%E1%BB%B1%20th%E1%BA%ADt%20c%E1%BB%A7a%20Wikipedia.md)
+- Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia"). Có thời gian thì tìm hiểu thêm về [Uy quyền sự thật của Wikipedia](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Uy%20quy%E1%BB%81n%20s%E1%BB%B1%20th%E1%BA%ADt%20c%E1%BB%A7a%20Wikipedia.md)
 - Awesome
 - Các kho kiến thức. Với tiếng Việt thì có [trang giới thiệu về đối ⊷ thoại](https://doi-thoai.deno.dev/blog?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=đối+⊷+thoại&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
 
@@ -52,7 +58,7 @@ Xem thêm:: [Tinh túy của một cuốn sách chính là mục lục của nó
 Quay trở lại câu hỏi ban đầu:
 > Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?
 
-Như có đề cập ở đầu bài, trong rất nhiều trường hợp, thứ cản trở ta có được từ khoá không hẳn là ở việc không biết phải bắt đầu tìm hiểu ở đâu, mà ở việc không có thời gian tìm hiểu. [Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/Thi%E1%BA%BFt%20k%E1%BA%BF/K%E1%BB%83%20c%E1%BA%A3%20khi%20ta%20bi%E1%BA%BFt%20m%E1%BB%99t%20trang%20web%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ta,%20th%C3%AC%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20c%C5%A9ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md). Cho nên, giải pháp tốt nhất cho vấn đề ban đầu không phải là hỏi xem "Nếu tôi phải tự tìm hiểu một mình, thì đâu là nơi có tôi dễ gặp được từ khoá cần tìm nhất?", mà là:
+Như có đề cập ở đầu bài, trong rất nhiều trường hợp, thứ cản trở ta có được từ khoá không hẳn là ở việc không biết phải bắt đầu tìm hiểu ở đâu, mà ở việc không có thời gian tìm hiểu. [Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/Thi%E1%BA%BFt%20k%E1%BA%BF/K%E1%BB%83%20c%E1%BA%A3%20khi%20ta%20bi%E1%BA%BFt%20m%E1%BB%99t%20trang%20web%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ta,%20th%C3%AC%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20c%C5%A9ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md). [Các dự án xã hội không tập trung vào việc đối thoại với người bên cạnh mình](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%95%20ch%E1%BB%A9c%20x%C3%A3%20h%E1%BB%99i/C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20x%C3%A3%20h%E1%BB%99i%20kh%C3%B4ng%20t%E1%BA%ADp%20trung%20v%C3%A0o%20vi%E1%BB%87c%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20b%C3%AAn%20c%E1%BA%A1nh%20m%C3%ACnh.md)Cho nên, giải pháp tốt nhất cho vấn đề ban đầu không phải là hỏi xem "Nếu tôi phải tự tìm hiểu một mình, thì đâu là nơi có tôi dễ gặp được từ khoá cần tìm nhất?", mà là:
 
 > Làm sao để tôi có thể luôn tìm được người sẵn sàng chia sẻ hiểu biết của mình với chi phí chấp nhận được?
 
@@ -67,7 +73,7 @@ Mình nghĩ câu hỏi ban đầu là một chủ đề trong công cụ nghĩ. 
 
 Lĩnh vực nghiên cứu về môi trường nghĩ này cũng chỉ mới được để ý nhiều gần đây. Mình nghĩ hiện tại lĩnh vực này cũng chưa có câu trả lời tốt nhất cho bạn. Và có thể nó sẽ cùng giống như nhiều lĩnh vực khác, nghiên cứu được một hồi thì cũng lại gặp ngõ cụt? Có thể lý do cho ngõ cụt đó là vì vướng phải những câu hỏi chưa ai trả lời được của khoa học nhận thức và triết học tinh thần? Ngõ cụt là lý do của chính nó?
 
-Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu vậy thì là mình cũng đang không biết từ khóa của nó để mà tìm.
+Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu vậy thì là mình cũng đang không biết từ khóa của nó để mà tìm, và cũng không có thời gian để tìm tiếp.
 
 ## Đọc thêm
 - [Khai thác một từ khoá](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
