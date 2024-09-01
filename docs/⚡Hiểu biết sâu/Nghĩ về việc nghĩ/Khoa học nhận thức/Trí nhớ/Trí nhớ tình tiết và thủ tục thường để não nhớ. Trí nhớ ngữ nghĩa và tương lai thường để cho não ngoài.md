@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-05T17:16
-updated: 2024-08-06T13:31
+updated: 2024-08-26T13:54
 ---
 Khái niệm:: 
 ## Bộ nhớ trong (internal memory)
@@ -44,9 +44,13 @@ Bộ nhớ bên ngoài:
 - Giải phóng dung lượng
 ## Sử dụng chiến lược hỗ trợ trí nhớ
 Mọi người sử dụng chiến lược hỗ trợ bộ nhớ bên ngoài dựa trên tính chất của nhiệm vụ và loại thông tin. Ví dụ, ký ức tình tiết và thủ tục thường được lưu giữ bên trong, trong khi ký ức ngữ nghĩa và ký ức tương lai thường được chuyển cho các hỗ trợ bên ngoài.
+
 ## Metamemory - ký ức tự quy chiếu (ký ức về ký ức) và giảm tải nhận thức
 Metamemory hay nhận thức về chính quá trình bộ nhớ của chính mình, đóng một vai trò quan trọng trong việc quyết định thời điểm và cách thức sử dụng các công cụ hỗ trợ bộ nhớ ngoài.
 
-Nguồn:: ![](https://i.imgur.com/USfoDXS.jpeg)
+Nguồn::![](https://i.imgur.com/7Akkvmx.png)
+![](https://i.imgur.com/USfoDXS.jpeg)
 
 [Nhiều khi ta nhớ nơi lưu trữ thông tin hơn là chính thông tin đó](./Nhi%E1%BB%81u%20khi%20ta%20nh%E1%BB%9B%20n%C6%A1i%20l%C6%B0u%20tr%E1%BB%AF%20th%C3%B4ng%20tin%20h%C6%A1n%20l%C3%A0%20ch%C3%ADnh%20th%C3%B4ng%20tin%20%C4%91%C3%B3.md)
+
+[Trường phái bớt và trường phái thêm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/Tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i%20b%E1%BB%9Bt%20v%C3%A0%20tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i%20th%C3%AAm.md)
