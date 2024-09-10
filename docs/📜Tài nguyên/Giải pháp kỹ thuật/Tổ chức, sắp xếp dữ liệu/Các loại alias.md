@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-02T13:14
-updated: 2024-09-02T13:56
+updated: 2024-09-02T19:43
 ---
 Alias dùng để nối tiếp dòng suy nghĩ.
 
@@ -38,11 +38,11 @@ Thường thấy trong [⚡Hiểu biết sâu](../../../%E2%9A%A1Hi%E1%BB%83u%20
 
 Ưu điểm:
 - Làm gọn số lượng ghi chú do không có proxy,
-- Có được tóm tắt của bài
+- Có thể dùng alias làm tóm tắt của bài luôn
 
 Nhược điểm:
 - Khi query bằng dataview, xem trên breadcrumb hoặc lập đồ thị thì các ý độc lập không được hiện ra
-- Có khi cả bài thì có nhiều ý, nhưng mỗi ý thì chỉ cần một đoạn lập luận thôi
+- Có khi cả bài thì có nhiều ý, nhưng mỗi ý thì chỉ cần một đoạn lập luận thôi. Thấy ít chữ thì chịu khó đọc hơn
 
 Không hẳn là nhược điểm, nhưng khi có thông tin khác không ở trong đoạn lập luận đó hoặc khi mỗi ý có thể nằm ở các vị trí khác nhau trong cây thư mục thì cũng phải tách ra. Tách ra sớm thì tiện hơn. VD: 
 - [Sử dụng phương pháp đánh chỉ số tập tin giúp dễ tìm kiếm (search) hơn là truy cập (navigate)](../../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/S%E1%BB%AD%20d%E1%BB%A5ng%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%C3%A1nh%20ch%E1%BB%89%20s%E1%BB%91%20t%E1%BA%ADp%20tin%20gi%C3%BAp%20d%E1%BB%85%20t%C3%ACm%20ki%E1%BA%BFm%20(search)%20h%C6%A1n%20l%C3%A0%20truy%20c%E1%BA%ADp%20(navigate).md) thì nên ở *📜Tài nguyên/Lĩnh vực/Hệ thống thông tin/Sử dụng phương pháp đánh chỉ số tập tin giúp dễ tìm kiếm (search) hơn là truy cập (navigate).md*, còn

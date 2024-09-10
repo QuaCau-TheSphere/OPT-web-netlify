@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-08-21T18:22
+updated: 2024-09-02T16:28
+title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
-title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 ---
 Khái niệm:: [Mental modal](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Mental%20modal.md)
 
@@ -27,7 +27,7 @@ Nhược điểm của việc này là không ít chủ đề bị tấn công b
 ChatGPT hay Gemini thực ra cũng nằm trong nhóm này, nhưng có lẽ chúng không hiệu quả bằng các công cụ trên trong nhiệm vụ này.
 
 ### Các cộng đồng chuyên môn
-Diễn đàn chuyên về hỏi đáp [Stack Exchange](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange.md) có cơ chế bầu chọn theo tập thể, giúp đưa thông tin hữu ích nhất lên cao. Quora cũng là một diễn đàn hỏi đáp có cơ chế bầu chọn theo tập thể, nhưng có vẻ nó thiên về nghe những câu chuyện từ những người có uy tín hơn. Với những câu hỏi để tìm từ khoá thì bạn không có nhiều không gian để giải thích vấn đề, và cũng dễ gặp tình trạng câu trả lời chỉ chung chung. Nếu muốn có những cuộc thảo luận mở thì mình thấy Reddit tốt hơn.
+Diễn đàn chuyên về hỏi đáp [Stack Exchange](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange/index.md) có cơ chế bầu chọn theo tập thể, giúp đưa thông tin hữu ích nhất lên cao. Quora cũng là một diễn đàn hỏi đáp có cơ chế bầu chọn theo tập thể, nhưng có vẻ nó thiên về nghe những câu chuyện từ những người có uy tín hơn. Với những câu hỏi để tìm từ khoá thì bạn không có nhiều không gian để giải thích vấn đề, và cũng dễ gặp tình trạng câu trả lời chỉ chung chung. Nếu muốn có những cuộc thảo luận mở thì mình thấy Reddit tốt hơn.
 
 - [TOMT: When you can't remember that…thing…](https://www.reddit.com/r/tipofmytongue/)
 - [Need something found? Maybe we can help!](https://www.reddit.com/r/HelpMeFind/)
@@ -40,7 +40,7 @@ Nếu cần nơi tổng hợp tiếng Việt thì mình có tổng hợp [500 nh
 Nếu dành thời gian để viết những gì bạn đã thử mà không được thì câu hỏi của bạn sẽ trở nên hấp dẫn hơn, tạo được nhiều tương tác hơn.
 
 ### Các hệ thống tri thức cộng đồng
-- Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia"). Có thời gian thì tìm hiểu thêm về [Uy quyền sự thật của Wikipedia](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Uy%20quy%E1%BB%81n%20s%E1%BB%B1%20th%E1%BA%ADt%20c%E1%BB%A7a%20Wikipedia.md)
+- Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia"). Có thời gian thì tìm hiểu thêm về [Uy quyền sự thật của Wikipedia](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/Uy%20quy%E1%BB%81n%20s%E1%BB%B1%20th%E1%BA%ADt%20c%E1%BB%A7a%20Wikipedia.md)
 - Awesome
 - Các kho kiến thức. Với tiếng Việt thì có [trang giới thiệu về đối ⊷ thoại](https://doi-thoai.deno.dev/blog?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=đối+⊷+thoại&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
 

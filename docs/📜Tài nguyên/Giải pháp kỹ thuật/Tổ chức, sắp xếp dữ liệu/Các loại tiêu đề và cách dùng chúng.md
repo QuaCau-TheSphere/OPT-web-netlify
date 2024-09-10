@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-27T18:59
-updated: 2024-09-02T16:29
+updated: 2024-09-03T00:47
 alias: heading
 ---
 Lý tưởng nhất thì chỉ cần dùng một thứ để đặt cho tất cả những cái này. Và đó là filename. Chính vì như vậy, nên filename nên là thứ mặc định. Nhưng có những lúc nó chứa ký tự đặc biệt hoặc đường dẫn quá dài thì Windows hoặc Git sẽ không chịu, nên nên có một trường khác có chức năng làm mặc định cho những thứ còn lại. Đó chính là `title`. 
@@ -17,9 +17,9 @@ Nếu tiêu đề Khi truy cập từ cây thư mục thì đang đinh ninh tiê
 |                                                                                                                    | Search autocomplete, kết quả Google                                 | Không cần chỉnh | `alias`, `title`, filename                          |                                                                                    |
 | Tiêu đề lúc chia sẻ trên Facebook                                                                                  | Tiêu đề trong Open Graph (`meta property="og:title"`)               | `ogTitle`       | `title`, filename                                   |                                                                                    |
 
-Plugin [Front Matter Title](https://github.com/snezhig/obsidian-front-matter-title)  có thể đọc những cái này để thay đổi trên Obsidian.
+Plugin [Front Matter Title](https://github.com/snezhig/obsidian-front-matter-title) có thể đọc những cái này để thay đổi trên Obsidian.
 
-[alia](alia.md)
+Xem thêm:: [Các loại alias](./C%C3%A1c%20lo%E1%BA%A1i%20alias.md)
 ## Path
 Giữ nguyên path?
 Phản đối:
@@ -27,3 +27,4 @@ Phản đối:
 - Người muốn tìm đến thì sẽ tìm được thôi. Search cũng không khó
 
 
+Có lúc chỉ muốn đặt tiêu đề là câu hỏi, dù có thể đặt theo chủ đề: [Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?](../../L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md). Có lúc thì chỉ muốn đặt theo chủ đề, dù có thể đặt theo câu hỏi: [Các loại tiêu đề và cách dùng chúng](C%C3%A1c%20lo%E1%BA%A1i%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C3%A0%20c%C3%A1ch%20d%C3%B9ng%20ch%C3%BAng.md)
