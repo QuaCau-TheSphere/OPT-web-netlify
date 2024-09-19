@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-18T16:00
+updated: 2024-09-19T12:27
 alias: Kết quả từ AI không phải từ sự lựa chọn mà chỉ là từ việc lắc một cái xí ngầu không đồng đều
 ---
 Khái niệm:: 
