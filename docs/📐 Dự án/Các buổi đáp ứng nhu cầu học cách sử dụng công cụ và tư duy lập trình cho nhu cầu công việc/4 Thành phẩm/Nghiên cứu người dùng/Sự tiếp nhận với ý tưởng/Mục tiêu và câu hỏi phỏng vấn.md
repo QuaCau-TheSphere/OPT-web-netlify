@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-31T12:02
+updated: 2024-09-22T14:17
 ---
 # Mục tiêu phỏng vấn
 Hiểu được:
@@ -29,7 +29,6 @@ Hiểu được:
 	- Vì sao họ ngừng đọc?
 - Họ nghĩ ai là người sẽ quan tâm bài này?
 	- Vì sao họ chưa chia sẻ bài này đến cho những người đó?
-
 
 # Câu hỏi phỏng vấn
 ## Bạn đã biết tới bài này thế nào?
