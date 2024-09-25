@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-12-20T22:35
+updated: 2024-09-21T17:24
+description: Trước, trong và sau khi phát triển sản phẩm hoặc tính năng
 ---
-# Trước khi phát triển sản phẩm/tính năng
-
+## Trước khi phát triển sản phẩm/tính năng
 - Xác định xem người dùng có đang gặp vấn đề mà sản phẩm muốn giải quyết hay không và mức độ nghiêm trọng của vấn đề. (hoặc nhu cầu)
 - Hiểu cách người dùng hiện đang khắc phục sự cố (hoặc thỏa mãn nhu cầu), nếu có.
 - Xác định cách tiếp cận của người dùng đối với các giải pháp hoặc giải pháp thay thế hiện tại.
@@ -12,8 +12,7 @@ updated: 2023-12-20T22:35
 - Xác định các yếu tố ảnh hưởng đến quá trình ra quyết định của người dùng.
 - …
 
-# Trong quá trình phát triển sản phẩm/tính năng
-
+## Trong quá trình phát triển sản phẩm/tính năng
 - Kiểm tra cách khách hàng tiếp nhận ý tưởng về sản phẩm, tính năng, phản ứng với các thông điệp
 - Đánh giá khả năng chấp nhận của khách hàng với sản phẩm hoặc tính năng, kiểm tra mức giá
 - Kiểm tra mức độ ưu tiên của khách hàng với các yêu cầu tính năng cụ thể, tìm kiếm các yêu cầu còn chưa được đáp ứng
@@ -29,6 +28,8 @@ Sau khi sản phẩm/tính năng được phát hành, có thể tiến hành ph
 - Thu thập phản hồi về các cải tiến tiềm năng hoặc các tính năng mới cho các lần lặp lại trong tương lai
 - Đo lường mức độ thành công của sản phẩm/tính năng dựa trên việc chấp nhận và sử dụng của người dùng
 - Thu thập lời chứng thực hoặc câu chuyện thành công cho mục đích tiếp thị.
+
+---
 
 Mục tiêu `Kiểm tra cách khách hàng tiếp nhận ý tưởng về sản phẩm` nghe qua giống như mục tiêu `Xác định mức độ sẵn sàng khám phá sản phẩm của khách hàng`, tuy nhiên khác nhau ở chỗ một cái thì muốn tìm hiểu về thái độ, phương thức tiếp nhận, phản ứng đầu tiên khi nghe về sản phẩm, còn một cái thì muốn đánh giá nhu cầu, khả năng tiếp nhận. Nó đang cố dự đoán hành vi tương lai của người dùng (mà [Phỏng vấn thường kém chính xác trong việc dự đoán các hành vi tương lai của người dùng](./Ph%E1%BB%8Fng%20v%E1%BA%A5n%20th%C6%B0%E1%BB%9Dng%20k%C3%A9m%20ch%C3%ADnh%20x%C3%A1c%20trong%20vi%E1%BB%87c%20d%E1%BB%B1%20%C4%91o%C3%A1n%20c%C3%A1c%20h%C3%A0nh%20vi%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)). Nó kiểm tra khả năng bán hàng thì tốt hơn.
 

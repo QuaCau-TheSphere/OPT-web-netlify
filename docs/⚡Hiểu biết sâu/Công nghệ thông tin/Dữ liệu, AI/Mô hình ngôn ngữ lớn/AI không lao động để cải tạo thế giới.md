@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-19T12:17
-updated: 2024-09-19T12:27
+updated: 2024-09-19T14:01
 ---
 Khái niệm:: 
 # Chủ thể tính của lao động
@@ -22,3 +22,4 @@ Sáng tạo tất nhiên là một lao động. Chúng có đầy đủ các kh�
 Nguồn:: [A.I sáng tác văn chương - nhà văn Đức Anh](https://ducanhwriter.substack.com/p/ai-sang-tac-van-chuong)
 
 [Sự khác biệt giữa con người và mô hình ngôn ngữ lớn là con người có niềm tin và có thể kiểm chứng niềm tin từ môi trường bên ngoài](./S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20con%20ng%C6%B0%E1%BB%9Di%20v%C3%A0%20m%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn%20l%C3%A0%20con%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ni%E1%BB%81m%20tin%20v%C3%A0%20c%C3%B3%20th%E1%BB%83%20ki%E1%BB%83m%20ch%E1%BB%A9ng%20ni%E1%BB%81m%20tin%20t%E1%BB%AB%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i.md)
+[Đằng sau vẻ ngoài tự trị của AI là những người làm công việc dán nhãn và kiểm duyệt, vô hình và bếp bênh](./%C4%90%E1%BA%B1ng%20sau%20v%E1%BA%BB%20ngo%C3%A0i%20t%E1%BB%B1%20tr%E1%BB%8B%20c%E1%BB%A7a%20AI%20l%C3%A0%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B4ng%20vi%E1%BB%87c%20d%C3%A1n%20nh%C3%A3n%20v%C3%A0%20ki%E1%BB%83m%20duy%E1%BB%87t,%20v%C3%B4%20h%C3%ACnh%20v%C3%A0%20b%E1%BA%BFp%20b%C3%AAnh.md)
