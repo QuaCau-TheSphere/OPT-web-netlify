@@ -1,10 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-26T17:37
+updated: 2024-09-22T14:12
 ---
 [Khảo sát người muốn tham gia nhóm học lập trình](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Kh%E1%BA%A3o%20s%C3%A1t%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20nh%C3%B3m%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
-[Giả thiết về giá trị của Trấn Kỳ](Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 # Lý do muốn học
 - Chủ động hơn trong công việc hiện tại
 - Quản lý được thông tin, dữ liệu, kiến thức của mình
