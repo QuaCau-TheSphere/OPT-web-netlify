@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-10-27T18:59
-updated: 2024-09-17T18:37
+updated: 2024-09-22T14:33
 alias: heading
 ---
 Lý tưởng nhất thì chỉ cần dùng một thứ để đặt cho tất cả những cái này. Và đó là filename. Chính vì như vậy, nên filename nên là thứ mặc định. Nhưng có những lúc nó chứa ký tự đặc biệt hoặc đường dẫn quá dài thì Windows hoặc Git sẽ không chịu, nên nên có một trường khác có chức năng làm mặc định cho những thứ còn lại. Đó chính là `title`. 
 
-Nếu tiêu đề Khi truy cập từ cây thư mục thì đang đinh ninh tiêu đề phải giống, nếu khác thì sẽ bị khựng. Nhưng nếu để nguyên tiêu đề của cây thư mục thì sẽ bị lệch so với nội dung, nên cần phải có thể một tiêu đề khác để chuẩn bị cho mình rằng nội dung mới có tiêu đề khác với tiêu đề từ cây thư mục (VD: [Tạo website](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/T%E1%BA%A1o%20website.md))
+Nếu tiêu đề Khi truy cập từ cây thư mục thì đang đinh ninh tiêu đề phải giống, nếu khác thì sẽ bị khựng. Nhưng nếu để nguyên tiêu đề của cây thư mục thì sẽ bị lệch so với nội dung, nên cần phải có thể một tiêu đề khác để chuẩn bị cho mình rằng nội dung mới có tiêu đề khác với tiêu đề từ cây thư mục (VD: [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất](../Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20t%E1%BA%A1o%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md))
 
 | Vai trò                                                                                                            | Vị trí xuất hiện                                                    | Cách điều chỉnh | Nếu không điều chỉnh thì mặc định sẽ lấy giá trị từ | Lý do cần điều chỉnh mà không dùng mặc định được                                   |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | --------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
