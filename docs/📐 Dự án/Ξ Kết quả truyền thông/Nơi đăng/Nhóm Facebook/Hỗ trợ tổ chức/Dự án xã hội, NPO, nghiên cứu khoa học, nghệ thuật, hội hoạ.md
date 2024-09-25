@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-21T21:43
+updated: 2024-09-23T23:34
 ---
 # [Các buổi đáp ứng nhu cầu học lập trình](../../../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 ## Pending
@@ -22,7 +22,7 @@ updated: 2024-07-21T21:43
 ## Vietnamese Humanities & Social Sciences Association (VHSSA) 
 [29-02](29-02.md) 20:00 https://www.facebook.com/groups/viethssa/posts/6699423853497361/
 [21-03](21-03.md) 20:33 3 like, 2 share
-
+[22-09-24](22-09-24.md) 16:25 up
 # [Câu hỏi khảo sát > Việc nhập liệu và gắn nhãn dữ liệu áp dụng vào công việc gì trong công tác xã hội?](C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md#Việc%20nhập%20liệu%20và%20gắn%20nhãn%20dữ%20liệu%20áp%20dụng%20vào%20công%20việc%20gì%20trong%20công%20tác%20xã%20hội?)
 ## Pending
 [15-02](15-02.md) Mạng lưới liên kết các dự án, cộng đồng trên toàn quốc https://www.facebook.com/groups/524373501783128/my_pending_content
@@ -80,3 +80,16 @@ Làm suốt, dùng R, tạo một nhóm từ theo list phân loại sẵn để 
 # đối ⊷ thoại lấy nhu cầu của các tổ chức phi lợi nhuận làm trung tâm
 ## SNPO
 [17-06](17-06.md) 18:16 https://www.facebook.com/groups/mangluoisnpo/posts/1515032052692563
+
+# Bạn đang có nhu cầu được hướng dẫn, thảo luận về kỹ năng gì?
+## ABG Network Official
+[22-09-24](22-09-24.md) 16:22 https://www.facebook.com/groups/abgnetworkofficial/posts/2882848618536052
+[23-09-24](23-09-24.md) 20:43 https://www.facebook.com/groups/abgnetworkofficial/posts/2884117178409196
+22:28 Bài mời: 0, 0, 0. Trong khi đó [bài đăng 20 phút trước về AI](https://www.facebook.com/groups/abgnetworkofficial/posts/2884100345077546/) được 33, 7
+12, 9, 7, 4
+
+
+
+
+
+[Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan](../../../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
