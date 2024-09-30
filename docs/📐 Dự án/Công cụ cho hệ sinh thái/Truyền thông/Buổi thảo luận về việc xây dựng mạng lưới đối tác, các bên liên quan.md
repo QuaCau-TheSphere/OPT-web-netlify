@@ -1,9 +1,13 @@
 ---
 share: true
 created: 2024-09-23T15:29
-updated: 2024-09-23T22:24
+updated: 2024-09-28T09:48
 ---
+[Xác định thái độ và khó khăn của các tổ chức trong việc tham gia các hệ sinh thái](../Th%C3%A0nh%20ph%E1%BA%A9m/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20th%C3%A1i%20%C4%91%E1%BB%99%20v%C3%A0%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20trong%20vi%E1%BB%87c%20tham%20gia%20c%C3%A1c%20h%E1%BB%87%20sinh%20th%C3%A1i.md)
+
 Theo khảo sát hôm qua về các nhu cầu mà các bạn trong nhóm cần được thảo luận, hướng dẫn thì **Xây dựng mạng lưới đối tác, các bên liên quan** là nhu cầu được mọi người quan tâm nhất. Mọi người nghĩ sao nếu chúng ta có một buổi thảo luận để bàn về:
+# Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan
+Nội dung dự kiến:
 - Lý do chúng ta cần xây dựng một mạng lưới như thế
 - Các phương pháp, công cụ mà mọi người đang sử dụng
 - Những khó khăn chúng ta gặp phải trong việc xây dựng một mạng lưới
@@ -12,6 +16,26 @@ Theo khảo sát hôm qua về các nhu cầu mà các bạn trong nhóm cần �
 Tiêu chí của mình là chất lượng hơn số lượng, nên mong bạn dành chút thời gian cho biết vì sao đây là chủ đề bạn đã trăn trở từ lâu. Chúng ta sẽ đi sâu nhất có thể để đảm bảo bạn thực sự ra về một cách thoả mãn. Mình sẽ ưu tiên quyền chọn địa điểm, thời gian tham dự và hình thức tổ chức cho bạn. Ví dụ về hình thức tổ chức: ai sẽ được tham gia cùng với chúng ta? Có được quay màn hình để công khai hay không? V.v. Bạn có thể bình luận ở dưới đây hoặc nhắn tin riêng cho mình rồi chúng ta sẽ cùng sắp xếp thêm.
 
 Cảm ơn sự quan tâm của bạn.
+
+---
+BUỔI THẢO LUẬN VỀ VIỆC XÂY DỰNG MẠNG LƯỚI ĐỐI TÁC, CÁC BÊN LIÊN QUAN
+
+Nội dung dự kiến:
+• Lý do chúng ta cần xây dựng một mạng lưới như thế
+• Các phương pháp, công cụ mà mọi người đang sử dụng
+• Những khó khăn chúng ta gặp phải trong việc xây dựng một mạng lưới
+• Nguyên do gốc rễ khiến cho các khó khăn đó còn tồn đọng đến tận bây giờ
+
+Tiêu chí của mình là chất lượng hơn số lượng, nên mong bạn dành chút thời gian cho biết vì sao đây là chủ đề bạn đã trăn trở từ lâu. Chúng ta sẽ đi sâu nhất có thể để đảm bảo bạn thực sự ra về một cách thoả mãn. Mình sẽ ưu tiên quyền chọn địa điểm, thời gian tham dự và hình thức tổ chức cho bạn. Ví dụ về hình thức tổ chức: ai sẽ được tham gia cùng với chúng ta? Có được quay màn hình để công khai hay không? V.v. Bạn có thể bình luận ở dưới đây hoặc nhắn tin riêng cho mình rồi chúng ta sẽ cùng sắp xếp thêm.
+
+Bạn có thể xem thêm các buổi thảo luận trước đây ở dưới bình luận. Cảm ơn sự quan tâm của bạn.
+![Mối quan tâm chung.jpeg](../../../attachments/M%E1%BB%91i%20quan%20t%C3%A2m%20chung.jpeg)
+  
+Bạn có thể xem thêm một buổi thảo luận trước đây:  
+• Giới hạn của PKM nằm ở đâu: máy móc mình sử dụng hay chính người sử dụng nó? [https://lnkd.in/gntS5X7u](https://lnkd.in/gntS5X7u) (PKM là việc quản lý kiến thức cá nhân (personal knowledge management))  
+• Công nghệ và ký ức: trí nhớ của chúng ta có còn ở trong não không? [https://lnkd.in/gwTmTnZp](https://lnkd.in/gwTmTnZp)  
+Cảm ơn sự quan tâm của bạn.
+
 
 Khảo sát cũ: https://www.facebook.com/groups/abgnetworkofficial/posts/2882848618536052/
 
