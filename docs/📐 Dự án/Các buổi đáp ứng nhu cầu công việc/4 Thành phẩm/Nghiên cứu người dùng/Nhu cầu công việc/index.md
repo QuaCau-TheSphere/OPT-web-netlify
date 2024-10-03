@@ -1,8 +1,11 @@
 ---
 share: true
 created: 2024-09-23T20:01
-updated: 2024-10-03T20:52
+updated: 2024-10-03T22:27
+alias: Mục tiêu và câu hỏi nghiên cứu về nhu cầu công việc
+title: Nhu cầu công việc
 ---
+# Mục tiêu và câu hỏi nghiên cứu về nhu cầu công việc
 ## Mục tiêu nghiên cứu
 - Hiểu được vì sao đáp viên không tương tác với bài mời thảo luận
 - Hiểu được các nhu cầu công việc của đáp viên và các khó khăn của họ trong việc đáp ứng chúng

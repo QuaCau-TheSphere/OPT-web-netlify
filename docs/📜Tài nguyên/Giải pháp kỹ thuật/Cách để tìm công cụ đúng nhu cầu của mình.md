@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-04T22:48
-updated: 2024-09-29T07:47
+updated: 2024-10-03T22:26
 ---
 - Xem trong danh sách các [Nhu cầu công việc](../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md) và [Nhu cầu công nghệ](../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/index.md) và xem các hướng dẫn, thảo luận, nơi hỏi chuyên sâu về nó
 - Kiếm trên GitHub, Reddit, ProductHunt

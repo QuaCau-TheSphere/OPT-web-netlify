@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-29T12:05
-updated: 2024-07-29T19:01
+updated: 2024-10-03T22:30
 alias:
   - "Định luật Hofstadter: Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter"
 ---
