@@ -1,12 +1,13 @@
 ---
 share: true
 created: 2024-09-23T20:01
-updated: 2024-10-03T20:32
+updated: 2024-10-03T20:52
 ---
 ## Mục tiêu nghiên cứu
 - Hiểu được vì sao đáp viên không tương tác với bài mời thảo luận
 - Hiểu được các nhu cầu công việc của đáp viên và các khó khăn của họ trong việc đáp ứng chúng
-- Hiểu được thái độ của đáp viên trong việc 
+- Hiểu được các nhu cầu tham gia các buổi thảo luận của họ
+- Hiểu được thái độ của đáp viên trong việc hỏi về việc dành thời gian phỏng vấn nhu cầu bảo hiểm của họ hoặc của tổ chức của họ để được đáp ứng các nhu cầu này
 
 ## Câu hỏi nghiên cứu
 ### Lúc họ nhìn thấy cái bản khảo sát đó thì họ đã nghĩ những gì?
@@ -24,7 +25,6 @@ Nếu không thấy thì giả sử thấy và không tương tác gì thì lý 
 - Xây dựng kho tri thức, hệ thống quản lý kiến thức hoặc quản lý dự án
 
 ### Các nhu cầu cụ thể
-
 #### Xây dựng kho tri thức, hệ thống quản lý kiến thức hoặc quản lý dự án
 ##### Vì sao họ có nhu cầu này?
 ##### Họ đã làm những gì với nhu cầu này?
@@ -65,6 +65,8 @@ Nếu không thấy thì giả sử thấy và không tương tác gì thì lý 
 ##### Họ đã làm những gì với nhu cầu này?
 ##### Vì sao những nhu cầu này chưa thoả mãn họ?
 ##### Họ gặp phải những khó khăn gì khi tìm cách đáp ứng nhu cầu này?
+
+### Họ nghĩ cách thức tốt nhất để đáp ứng các nhu cầu này 
 
 ## Đáp viên
 [Võ Hoàng Thông](./V%C3%B5%20Ho%C3%A0ng%20Th%C3%B4ng.md)
