@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-09-23T15:29
-updated: 2024-09-28T09:48
+updated: 2024-10-03T20:25
 ---
-[Xác định thái độ và khó khăn của các tổ chức trong việc tham gia các hệ sinh thái](../Th%C3%A0nh%20ph%E1%BA%A9m/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20th%C3%A1i%20%C4%91%E1%BB%99%20v%C3%A0%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20trong%20vi%E1%BB%87c%20tham%20gia%20c%C3%A1c%20h%E1%BB%87%20sinh%20th%C3%A1i.md)
+[Xác định thái độ và khó khăn của các tổ chức trong việc đáp ứng nhu cầu công việc](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20th%C3%A1i%20%C4%91%E1%BB%99%20v%C3%A0%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20trong%20vi%E1%BB%87c%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
 Theo khảo sát hôm qua về các nhu cầu mà các bạn trong nhóm cần được thảo luận, hướng dẫn thì **Xây dựng mạng lưới đối tác, các bên liên quan** là nhu cầu được mọi người quan tâm nhất. Mọi người nghĩ sao nếu chúng ta có một buổi thảo luận để bàn về:
 # Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan
