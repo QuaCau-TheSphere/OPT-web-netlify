@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-09-24T10:58
+updated: 2024-10-03T13:48
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
@@ -23,6 +23,7 @@ Nhược điểm của việc này là không ít chủ đề bị tấn công b
 - [Không gian vector từ của Google](https://projector.tensorflow.org/)
 - Từ điển các từ đồng nghĩa, gần nghĩa (synonyms) 
 - Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia")
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
 
 ChatGPT hay Gemini thực ra cũng nằm trong nhóm này, nhưng có lẽ chúng không hiệu quả bằng các công cụ trên trong nhiệm vụ này. Xem thêm:: [AI là định dạng ảnh mờ của web](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/AI%20l%C3%A0%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%E1%BA%A3nh%20m%E1%BB%9D%20c%E1%BB%A7a%20web.md).
 
@@ -79,7 +80,7 @@ Lĩnh vực nghiên cứu về môi trường nghĩ này cũng chỉ mới đư�
 Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu vậy thì là mình cũng đang không biết từ khóa của nó để mà tìm, và cũng không có thời gian để tìm tiếp.
 
 ## Đọc thêm
-- [Khai thác một từ khoá](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
+- [Khai thác một từ khoá](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
 - [Bản chất của sự mơ hồ](https://quảcầu.cc/ly-thuyet-ve-goc-nhin?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=hiểu+lầm%2Cnét+nghĩa+ẩn%2Cthay+đổi+góc+nhìn%2CHiện+tượng+học%2C+khoa+học+nhận+thức%2C+vật+lý+luận%2Chiện+tượng+học&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=)
 - [Nghịch lý triển ngôn](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
 - [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
