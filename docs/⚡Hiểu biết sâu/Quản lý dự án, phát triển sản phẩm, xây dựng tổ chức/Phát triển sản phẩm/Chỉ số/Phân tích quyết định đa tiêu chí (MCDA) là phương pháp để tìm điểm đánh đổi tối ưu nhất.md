@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-14T11:49
+updated: 2024-10-03T14:45
 ---
 Không biết phương pháp này đã tối ưu nhất chưa? Không biết nó đã phải đánh đổi cái gì với cái gì?
 Bản chất là bài toán tính thể tích vật đa chiều
