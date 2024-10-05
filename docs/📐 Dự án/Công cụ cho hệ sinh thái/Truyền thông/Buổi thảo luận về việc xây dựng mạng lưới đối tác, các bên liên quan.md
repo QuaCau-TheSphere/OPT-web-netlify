@@ -1,10 +1,8 @@
 ---
 share: true
 created: 2024-09-23T15:29
-updated: 2024-10-03T22:30
+updated: 2024-10-04T11:46
 ---
-[Nhu cầu công việc](../../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md)
-
 Theo khảo sát hôm qua về các nhu cầu mà các bạn trong nhóm cần được thảo luận, hướng dẫn thì **Xây dựng mạng lưới đối tác, các bên liên quan** là nhu cầu được mọi người quan tâm nhất. Mọi người nghĩ sao nếu chúng ta có một buổi thảo luận để bàn về:
 # Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan
 Nội dung dự kiến:
