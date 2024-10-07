@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-23T20:01
-updated: 2024-10-05T21:05
+updated: 2024-10-06T15:34
 alias: Mục tiêu và câu hỏi nghiên cứu về nhu cầu công việc
 title: Nhu cầu công việc
 ---
@@ -22,7 +22,7 @@ title: Nhu cầu công việc
 - Họ có nhìn thấy cái [lời mời tiếp theo](../../../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md) không? 
 - Nếu có thì đã nghĩ những gì? 
 	- Vì sao không tương tác gì?
-- Nếu không thấy thì giả sử thấy và không tương tác gì thì lý do là gì?
+- Nếu không thấy thì giả sử bạn đã thấy và không tương tác gì cả thì lý do có thể là gì?
 
 ### Làm rõ các nhu cầu công việc của đáp viên và các khó khăn của họ trong việc đáp ứng chúng
 #### Thứ tự ưu tiên các nhu cầu của họ
