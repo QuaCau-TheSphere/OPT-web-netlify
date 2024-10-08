@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-10-06T18:12
+updated: 2024-10-08T15:10
 ---
-Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Tự động hoá các công việc lặp đi lặp lại](./T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md), [Cào dữ liệu web vào Google Calendar](./Nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20Google%20Calendar.md)
-Đáp ứng cho nhu cầu công việc: [Nắm bắt thông tin bên ngoài](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/N%E1%BA%AFm%20b%E1%BA%AFt%20th%C3%B4ng%20tin%20b%C3%AAn%20ngo%C3%A0i.md)
+Nhu cầu công nghệ:: [Cào web](./C%C3%A0o%20web.md), [Nhập sự kiện vào Google Calendar](./Nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20Google%20Calendar.md), [Hệ thống quản lý kiến thức](../Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Tự động hoá các công việc lặp đi lặp lại](./T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md)
+Đáp ứng cho nhu cầu công việc: [Cập nhật thông tin bên ngoài](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/C%E1%BA%ADp%20nh%E1%BA%ADt%20th%C3%B4ng%20tin%20b%C3%AAn%20ngo%C3%A0i.md)
 
 Các sự kiện trên fb event nó ko thuần tuý là 1 events như dạng ticketbox mà nó giống quảng bá hơn
 
