@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-09-01T21:08
+updated: 2024-10-07T23:12
 ---
 Groupware là phần mềm nhóm, giúp các cá nhân cộng tác trên các dự án với mục tiêu chung từ các địa điểm phân tán về mặt địa lý thông qua giao diện Internet chia sẻ như một phương tiện để giao tiếp trong nhóm[1](https://filegi.com/tech-term/groupware-3057/). Groupware có thể bao gồm hệ thống lưu trữ truy cập từ xa để lưu trữ thường xuyên sử dụng các file dữ liệu[1](https://filegi.com/tech-term/groupware-3057/).
 
@@ -44,3 +44,6 @@ Collaborative management tools facilitate and manage group activities. Examples 
 -   [Social software](https://en.wikipedia.org/wiki/Social_software "Social software") systems — organize social relations of groups
 -   [Online spreadsheets](https://en.wikipedia.org/wiki/Online_spreadsheet "Online spreadsheet") — collaborate and share structured data and information
 -   [Client portals](https://en.wikipedia.org/wiki/Client_portal "Client portal") — interact and share with your clients in a private online environment[_[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_]
+
+[Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/C%C3%A1c%20ERP%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%B1ng%20s%E1%BA%B5n%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nh%E1%BB%AFng%20lu%E1%BB%93ng%20l%C3%A0m%20vi%E1%BB%87c%20v%C3%A0%20suy%20ngh%C4%A9%20%C4%91%E1%BA%B7c%20th%C3%B9.md)
+[CRM tập trung vào tăng sale, ERP tập trung vào cắt giảm chi phí](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/H%C3%ACnh%20th%E1%BB%A9c%20l%C6%B0u%20tr%E1%BB%AF/CRM%20t%E1%BA%ADp%20trung%20v%C3%A0o%20t%C4%83ng%20sale,%20ERP%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%E1%BA%AFt%20gi%E1%BA%A3m%20chi%20ph%C3%AD.md)

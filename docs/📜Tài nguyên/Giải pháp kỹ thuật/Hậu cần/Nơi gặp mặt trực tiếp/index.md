@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2024-09-26T13:16
+updated: 2024-10-08T13:58
 alias: Hướng dẫn sử dụng
 title: Nơi gặp mặt trực tiếp
 ---
+# Bộ tài nguyên tìm nơi phù hợp để gặp mặt trực tiếp
 Đây là một hệ thống tổng hợp các địa điểm gặp mặt trực tiếp, bao gồm:
 - Địa điểm công cộng
 - Không gian làm việc chung
@@ -17,15 +18,13 @@ Chọn [TP.HCM](./TP.HCM/index.md) hoặc [Hà Nội](./H%C3%A0%20N%E1%BB%99i/in
 
 ## Tiêu chí thêm địa điểm
 - Có chính sách hỗ trợ các dự án phi lợi nhuận, hoặc có lợi ích cho người làm phi lợi nhuận (VD: gần nhà nhau, có người quen)
-- Được đề xuất trong nơi thảo luận, hoặc tạo PR trên GitHub
+- Được đề xuất trong nơi thảo luận, hoặc tạo yêu cầu trên GitHub để bọn mình kéo dữ liệu mới của bạn (pull request) 
 - Có điểm cộng khác lạ
 
 Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 
 ## Ý đồ thiết kế
-### Sự mặc định về các thuộc tính
-Vì đây là cho việc gặp mặt để thảo luận, nên sẽ xét về những thứ mà một cuộc thảo luận đòi hỏi, cùng với mặc định về không gian mà cuộc thảo luận sẽ diễn ra ở đó.
-
+### Phân loại các thuộc tính của địa điểm
 - Những thuộc tính được xem là **điểm cộng** khi ta không mặc định là nó luôn có ở đó. Có thì tốt, không có thì thường là không sao. Nên với những thuộc tính này, nếu địa điểm đó có thì sẽ liệt kê ra, còn nếu không thì sẽ không nói gì
 - Những thuộc tính được xem là **điểm trừ** khi ta mặc định là nó luôn có ở đó. Nếu không có thì thường là có sao. Nên với những thuộc tính này, nếu địa điểm đó không có thì sẽ có cảnh báo, còn nếu có thì sẽ không nói gì
 
@@ -47,13 +46,13 @@ Các thuộc tính này nếu có thì là điểm cộng:
 - [x] Webcam
 
 #### Những thuộc tính mà sự mặc định tuỳ vào loại địa điểm
-Với **không gian ngoài trời** thì mặc định là không có, nếu có thì là điểm cộng. Với các loại hình khác thì mặc định là luôn có, nếu không có thì là điểm trừ:
+Với **không gian ngoài trời** thì những thuộc tính này mặc định là không có, nếu có thì là điểm cộng. Với các loại hình khác thì mặc định là luôn có, nếu không có thì là điểm trừ:
 - [x] Wifi 
 - [x] Ổ điện
 - [x] Bàn đúng kích thước làm việc
 - [x] Không có khói thuốc lá
 
-Với **phòng họp riêng** hoặc **quán có phòng riêng** thì mặc định là luôn có, nếu không có thì là điểm trừ. Với những loại hình khác thì mặc định là không có, nếu có thì là điểm cộng:
+Với **phòng họp riêng** hoặc **quán có phòng riêng** thì những thuộc tính này mặc định là luôn có, nếu không có thì là điểm trừ. Với những loại hình khác thì mặc định là không có, nếu có thì là điểm cộng:
 - [x] Nói to được
 - [x] Vận động cơ thể được
 - [x] Máy chiếu

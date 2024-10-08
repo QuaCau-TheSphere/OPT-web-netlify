@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-10-07T20:04
+updated: 2024-10-07T23:27
 cssClass: wide-table
 ---
 | Discord           | Đặc điểm                                                                        | Phù hợp cho                                                                                                                                                               | Mục tiêu                                                                                                                                         | Cấu trúc dự án | Cách xác định                                                                  |
