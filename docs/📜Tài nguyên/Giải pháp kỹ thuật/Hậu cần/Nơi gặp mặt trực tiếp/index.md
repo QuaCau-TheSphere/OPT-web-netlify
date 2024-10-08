@@ -1,12 +1,13 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2024-10-08T13:58
+updated: 2024-10-08T20:09
 alias: Hướng dẫn sử dụng
 title: Nơi gặp mặt trực tiếp
 ---
-# Bộ tài nguyên tìm nơi phù hợp để gặp mặt trực tiếp
-Đây là một hệ thống tổng hợp các địa điểm gặp mặt trực tiếp, bao gồm:
+![](https://i.imgur.com/CXHXI7y.png)
+# Kho địa điểm để chọn nơi gặp mặt 
+Đây là một danh sách tổng hợp các địa điểm gặp mặt trực tiếp, bao gồm:
 - Địa điểm công cộng
 - Không gian làm việc chung
 - Phòng họp riêng
@@ -18,8 +19,9 @@ Chọn [TP.HCM](./TP.HCM/index.md) hoặc [Hà Nội](./H%C3%A0%20N%E1%BB%99i/in
 
 ## Tiêu chí thêm địa điểm
 - Có chính sách hỗ trợ các dự án phi lợi nhuận, hoặc có lợi ích cho người làm phi lợi nhuận (VD: gần nhà nhau, có người quen)
-- Được đề xuất trong nơi thảo luận, hoặc tạo yêu cầu trên GitHub để bọn mình kéo dữ liệu mới của bạn (pull request) 
-- Có điểm cộng khác lạ
+- Được đề xuất trong nơi thảo luận, hoặc được yêu cầu kéo dữ liệu mới (pull request) trên GitHub
+- Có điểm
+ cộng khác lạ
 
 Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 
@@ -27,7 +29,6 @@ Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 ### Phân loại các thuộc tính của địa điểm
 - Những thuộc tính được xem là **điểm cộng** khi ta không mặc định là nó luôn có ở đó. Có thì tốt, không có thì thường là không sao. Nên với những thuộc tính này, nếu địa điểm đó có thì sẽ liệt kê ra, còn nếu không thì sẽ không nói gì
 - Những thuộc tính được xem là **điểm trừ** khi ta mặc định là nó luôn có ở đó. Nếu không có thì thường là có sao. Nên với những thuộc tính này, nếu địa điểm đó không có thì sẽ có cảnh báo, còn nếu có thì sẽ không nói gì
-
 #### Những thuộc tính mặc định là luôn có
 Các thuộc tính này nếu không có thì là điểm trừ:
 - [x] Nhà vệ sinh
@@ -85,4 +86,5 @@ Cũng chính vì như vậy, nên sẽ có những điểm cộng, điểm trừ
 Để có thể điều chỉnh bảng so sánh, bạn cần [tải kho về máy](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%E1%BA%A3i%20kho.md).
 
 ## Nơi thảo luận
-![](https://i.imgur.com/ds6m65A.png)
+<button onclick="location.href='https://doi-thoai.deno.dev/Discord.4s.1'" type="button">Mở Discord</button>
+[![](https://i.imgur.com/ds6m65A.png)](https://doi-thoai.deno.dev/Discord.4s.1)
