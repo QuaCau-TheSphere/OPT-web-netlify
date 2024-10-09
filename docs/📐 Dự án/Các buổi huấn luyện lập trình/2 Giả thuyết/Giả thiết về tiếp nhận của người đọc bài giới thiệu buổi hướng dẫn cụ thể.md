@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-03T22:30
+updated: 2024-10-08T23:50
 ---
 ## Giả thiết về người đọc
 - Thấy ở đây người tổ chức thực sự quan tâm đến nhu cầu của mình
