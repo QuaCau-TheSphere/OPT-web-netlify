@@ -1,9 +1,12 @@
 ---
 share: true
 created: 2024-10-08T23:49
-updated: 2024-10-09T00:03
+updated: 2024-10-09T14:33
+title: Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?
 ---
-Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?
+# Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?
+
+Bạn có thể nói thêm chi tiết về khó khăn của mình trong phần bình luận nhé.
 
 TRONG CÁC NHU CẦU, KỸ NĂNG SAU ĐÂY, NHU CẦU NÀO BẠN ĐANG GẶP KHÓ KHĂN TRONG VIỆC GIẢI QUYẾT VÀ MUỐN ĐƯỢC HƯỚNG DẪN, THẢO LUẬN THÊM?
 
@@ -36,3 +39,4 @@ P. Hậu cần các buổi họp, trò chuyện, sự kiện
 Khác: ............
 
 [Nhu cầu công việc](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md)
+

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-05T16:19
+updated: 2024-10-14T09:28
 ---
 ## Vì sao anh không lo lắng là mình đang bị để ý? Dù sao anh cũng là người có tiếng trong cộng đồng mà
 Tiền giải ngân của tphcm chỉ giải ngân được 12% mà quy trình ko phê duyệt được. Nó là một bí ẩn
@@ -42,3 +42,5 @@ Tại sao ai cũng lấy bản đồ các bên liên quan ra, nhưng việc lậ
 - vì  sao kiểm toán 
 - Các tổ chức đầu tàu có quan tâm đến việc chia sẻ dữ liệu nội bộ ko?
 - trao đổi thôn tin kém có là lý do hệ sinh thái kém phát triển?
+
+Anh bảo các tổ chức giờ rã hết, nhưng em thấy vẫn có nhiều nhóm trên fb. VD như chính nhóm ung thư vú anh làm cố vấn. Vậy sao anh vẫn nói là ko có?
