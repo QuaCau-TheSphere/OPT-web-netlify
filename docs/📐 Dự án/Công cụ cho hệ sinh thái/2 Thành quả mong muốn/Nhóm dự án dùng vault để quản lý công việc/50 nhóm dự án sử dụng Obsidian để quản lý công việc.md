@@ -13,7 +13,7 @@ tags:
 Động ngữ:: sử dụng Obsidian để quản lý công việc
 %%
 Trạng thái:: #tt/đang-làm, [Nhật](Nh%E1%BA%ADt.md)
-Độ cấp thiết:: #đct/cao, [Các dự án có lợi nhuận không quan tâm đến các nhu cầu khác của nhóm](../../5%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20kh%C3%B4ng%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20c%C3%A1c%20nhu%20c%E1%BA%A7u%20kh%C3%A1c%20c%E1%BB%A7a%20nh%C3%B3m.md)
+Độ cấp thiết:: #đct/cao, [Các dự án có lợi nhuận không quan tâm đến các nhu cầu khác của nhóm](../../5%20Gi%E1%BA%A3%20thi%E1%BA%BFt/Nhu%20c%E1%BA%A7u/C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20kh%C3%B4ng%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20c%C3%A1c%20nhu%20c%E1%BA%A7u%20kh%C3%A1c%20c%E1%BB%A7a%20nh%C3%B3m.md)
 
 
 Phục vụ cho thành quả:

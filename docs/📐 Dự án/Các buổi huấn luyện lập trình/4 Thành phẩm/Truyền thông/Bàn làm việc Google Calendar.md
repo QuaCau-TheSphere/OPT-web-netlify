@@ -21,7 +21,7 @@ Vậy, nếu bạn có mong muốn hiện thực hoá điều này, Quả Cầu 
 [29-12](29-12.md) [Facebook page QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Qu%E1%BA%A3%20C%E1%BA%A7u/Facebook%20page%20QC.md)
 [29-12](29-12.md) [HrShare](HrShare.md) 
 [29-12](29-12.md) [Launch](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/H%E1%BB%97%20tr%E1%BB%A3%20t%E1%BB%95%20ch%E1%BB%A9c/Launch.md) 
-[29-12](29-12.md) [Profile QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Qu%E1%BA%A3%20C%E1%BA%A7u/Profile%20QC.md)
+[29-12](29-12.md) [Profile QC](Profile%20QC.md)
 [31-12](31-12.md) [Cộng Đồng Agency Truyền Thông - Marketing Việt Nam](C%E1%BB%99ng%20%C4%90%E1%BB%93ng%20Agency%20Truy%E1%BB%81n%20Th%C3%B4ng%20-%20Marketing%20Vi%E1%BB%87t%20Nam.md) 
 [31-12](31-12.md) [Sự kiện, HR](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/Ngh%E1%BB%81%20nghi%E1%BB%87p/S%E1%BB%B1%20ki%E1%BB%87n,%20HR.md) 
 

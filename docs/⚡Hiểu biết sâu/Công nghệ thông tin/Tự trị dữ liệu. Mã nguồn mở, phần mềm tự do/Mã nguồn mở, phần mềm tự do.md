@@ -10,7 +10,7 @@ Vì FSF xem [Khái niệm tài sản trí tuệ không có cơ sở vững chắ
 
 FSF xem việc không trao quyền tự trị dữ liệu cho người dùng là vô đạo đức. OSI không cho rằng như vậy, kể cả khi điều đó làm hại người khác. 
 
-[Excel dịch chuyển một phần quyền lực của chuyên gia IT vào người sử dụng](../H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/Excel/Excel%20d%E1%BB%8Bch%20chuy%E1%BB%83n%20m%E1%BB%99t%20ph%E1%BA%A7n%20quy%E1%BB%81n%20l%E1%BB%B1c%20c%E1%BB%A7a%20chuy%C3%AAn%20gia%20IT%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng.md) 
+[Excel dịch chuyển một phần quyền lực của chuyên gia IT vào người sử dụng](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/Excel/Excel%20d%E1%BB%8Bch%20chuy%E1%BB%83n%20m%E1%BB%99t%20ph%E1%BA%A7n%20quy%E1%BB%81n%20l%E1%BB%B1c%20c%E1%BB%A7a%20chuy%C3%AAn%20gia%20IT%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng.md) 
 
 
 # Đọc [The Meme Hustler](https://thebaffler.com/salvos/the-meme-hustler#footnote1 "The Meme Hustler") và các bài phản biện
