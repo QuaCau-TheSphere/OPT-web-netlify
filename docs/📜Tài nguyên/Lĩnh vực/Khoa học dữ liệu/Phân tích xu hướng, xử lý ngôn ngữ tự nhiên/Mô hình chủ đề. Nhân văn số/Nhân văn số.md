@@ -9,7 +9,7 @@ description: Nhân văn số là một lĩnh vực giao thoa giữa ngành khoa 
 Giới thiệu: [Nhân văn số thức: Một lát cắt của xã hội toàn cầu - Tạp chí Tia sáng](https://tiasang.com.vn/khoa-hoc-cong-nghe/nhan-van-so-thuc-mot-lat-cat-cua-xa-hoi-toan-cau-11139/)
 
 ## Dự án
-### Giáo dục số: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+### Giáo dục số: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](../../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 Nhiều dự án nhân văn số rồi, nên chỉ tập trung vào các tài liệu giúp hướng dẫn một người tìm ra được dự án mình đang cần
 
 ### Xã hội học số: [Đồ thị mạng lưới 100+ niềm tin](https://xn--qucu-hr5aza.cc/phan-tich-mot-mang-luoi-100-niem-tin/?utm_source=CV+%C2%BB+T%C3%A0i+nguy%C3%AAn+NLP+v%C3%A0+nh%C3%A2n+v%C4%83n+s%E1%BB%91&utm_medium=Ph%C3%A2n+t%C3%ADch+m%E1%BB%99t+m%E1%BA%A1ng+l%C6%B0%E1%BB%9Bi+100%2B+ni%E1%BB%81m+tin&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2) 
