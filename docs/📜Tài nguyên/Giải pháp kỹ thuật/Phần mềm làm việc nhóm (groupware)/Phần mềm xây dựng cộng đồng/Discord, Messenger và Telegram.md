@@ -11,4 +11,4 @@ updated: 2024-07-16T23:27
 | Channel Thread/Forum Post  | Sidechat       | ❌       |
 
 Sidechat của cộng đồng Messenger tương đương với channel thread hoặc forum post trên Discord, nhưng có tính tạm thời hơn
-[Server Discord](./Server%20Discord.md)
+[Server Discord](../../K%E1%BA%BFt%20n%E1%BB%91i%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Server%20Discord.md)
