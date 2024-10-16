@@ -34,7 +34,7 @@ Xem thêm:: [Quản lý dữ liệu cho dự án, sản phẩm](./Qu%E1%BA%A3n%2
 
 ## Liệt kê các cách diễn đạt khác nhau
 VD:
-- [AI không tất định mà tạo sinh kết quả mỗi lần mỗi khác dù với cùng một câu nhập](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/AI%20kh%C3%B4ng%20t%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20m%C3%A0%20t%E1%BA%A1o%20sinh%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BB%97i%20l%E1%BA%A7n%20m%E1%BB%97i%20kh%C3%A1c%20d%C3%B9%20v%E1%BB%9Bi%20c%C3%B9ng%20m%E1%BB%99t%20c%C3%A2u%20nh%E1%BA%ADp.md)
+- [AI không tất định mà tạo sinh kết quả mỗi lần mỗi khác dù với cùng một câu nhập](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/AI%20kh%C3%B4ng%20t%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20m%C3%A0%20t%E1%BA%A1o%20sinh%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BB%97i%20l%E1%BA%A7n%20m%E1%BB%97i%20kh%C3%A1c%20d%C3%B9%20v%E1%BB%9Bi%20c%C3%B9ng%20m%E1%BB%99t%20c%C3%A2u%20nh%E1%BA%ADp.md)
 - Kết quả từ AI không phải từ sự lựa chọn mà chỉ là từ việc lắc một cái xí ngầu không đồng đều
 
 ## Liệt kê các ý khác nhau của một đoạn lập luận thống nhất
