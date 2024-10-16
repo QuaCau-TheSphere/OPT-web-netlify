@@ -32,5 +32,5 @@ Thành phẩm::
     at DataviewJSRenderer.onload (plugin:dataview:18464:14)
     at e.load (app://obsidian.md/app.js:1:1166456)
     at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:27:159476)
+    at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:27:159960)
     at convertDataviewQueries (plugin:obsidian-mkdocs-publisher:30:1380)</pre>
