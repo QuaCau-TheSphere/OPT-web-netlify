@@ -8,4 +8,4 @@ Khái niệm::
 
 Nguồn:: [Manual Work is a Bug](https://queue.acm.org/detail.cfm?id=3197520)
 
-[Những gì ta viết thì nên được tự động được cấu trúc](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/C%E1%BA%A5u%20tr%C3%BAc/Nh%E1%BB%AFng%20g%C3%AC%20ta%20vi%E1%BA%BFt%20th%C3%AC%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A5u%20tr%C3%BAc.md)
+[Những gì ta viết thì nên được tự động được cấu trúc](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/C%E1%BA%A5u%20tr%C3%BAc/Nh%E1%BB%AFng%20g%C3%AC%20ta%20vi%E1%BA%BFt%20th%C3%AC%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A5u%20tr%C3%BAc.md)
