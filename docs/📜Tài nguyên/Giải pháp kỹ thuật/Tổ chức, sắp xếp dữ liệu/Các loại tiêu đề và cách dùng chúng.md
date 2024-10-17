@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-27T18:59
-updated: 2024-10-03T22:26
+updated: 2024-10-17T00:37
 alias: heading
 cssClass: wide-table
 ---
@@ -38,14 +38,16 @@ Giờ, nếu bạn không có tiêu : thì đang đinh ninh tiêu đề phải g
 Các ghi chú tương tự: [📜Tài nguyên](../../index.md), [Nhu cầu công việc](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md)
 
 ### Dùng `title` khi tiêu đề đọc từ cây thư mục giống với tiêu đề nội dung về mặt ngữ nghĩa
-Ví dụ, trong thư mục `📜Tài nguyên/Giải pháp kỹ thuật/Hậu cần/Nơi gặp mặt trực tiếp/TP.HCM` có [ghi chú này](../H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/TP.HCM/index.md). Nó cần có tên là 
+Ví dụ, trong thư mục `📜Tài nguyên/Giải pháp kỹ thuật/Hậu cần/Nơi gặp mặt trực tiếp/TP.HCM` có [ghi chú này](../H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/TP.HCM/index.md). Bởi vì nó là ghi chú thư mục, nên nó cần có tên là:
 ```
 TP.HCM
 ```
-bởi vì nó là ghi chú thư mục. Nhưng chỉ, nên đổi tiêu đề trên cao là "
+Nhưng lúc mở ra thì thấy hơi khó hiểu. Nếu tiêu đề trên cao là như này thì sẽ rõ nghĩa hơn:
 ```
 Nơi gặp mặt trực tiếp tại TP.HCM
 ```
+
+Ví dụ khác, [Kế hoạch (khái niệm)](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/K%E1%BA%BF%20ho%E1%BA%A1ch%20(kh%C3%A1i%20ni%E1%BB%87m).md) phải mở ngoặc vì nếu không nó sẽ trùng tên với [Kế hoạch tổ chức các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/index.md). Dùng `title` để không phải thấy cái ngoặc.
 
 Bổ sung những thông tin được hiểu ngầm trong lúc truy cập từ cây thư mục, nhưng không có khi liên kết từ nơi khác.
 
