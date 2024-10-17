@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-09T14:34
+updated: 2024-10-17T00:43
 ---
 # [Các buổi đáp ứng nhu cầu học lập trình](../../../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 ## Pending
@@ -95,14 +95,17 @@ Làm suốt, dùng R, tạo một nhóm từ theo list phân loại sẵn để 
 # [Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?](../../../../C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20c%C3%A1c%20nhu%20c%E1%BA%A7u/B%E1%BA%A1n%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20n%C3%A0o%20v%E1%BB%81%20nhu%20c%E1%BA%A7u%20n%C3%A0o.md)
 ## SNPO
 [05-10-24](05-10-24.md) 22:27 https://www.facebook.com/groups/562933844569060/pending_posts/1589179501944484/
-Không duyệt
+[16-10-24](16-10-24.md) 13:15 duyệt https://www.facebook.com/groups/mangluoisnpo/posts/1589179501944484/
+[17-10-24](17-10-24.md) 00:39 23 vote, 2 react, 1 comment
 
 # [Kho địa điểm để chọn nơi gặp mặt](../../../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
 ## Project Community
 https://www.facebook.com/groups/1027036950828309/pending_posts/2496992517166071/
 ## SNPO
 [08-10-24](08-10-24.md) 20:38 https://www.facebook.com/groups/562933844569060/pending_posts/1591228385072929/
+[16-10-24](16-10-24.md) 13:15 duyệt https://www.facebook.com/groups/mangluoisnpo/posts/1591228385072929/
+[17-10-24](17-10-24.md) 00:39 1 react
 ## ABG 
 [08-10-24](08-10-24.md) 20:44 Đăng
-[09-10-24](09-10-24.md) 14:34 Được duyệt https://www.facebook.com/groups/abgnetworkofficial/posts/2900536680100579/?notif_id=1728458246173469&notif_t=group_post_approved&ref=notif
+[09-10-24](09-10-24.md) 14:34 Được duyệt https://www.facebook.com/groups/abgnetworkofficial/posts/2900536680100579/
 [Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan](../../../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
