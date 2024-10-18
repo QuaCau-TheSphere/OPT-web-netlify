@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-08T23:50
+updated: 2024-10-18T15:35
 alias:
   - Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?
   - Mô hình kinh doanh của các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình
@@ -80,4 +80,4 @@ Không thể kết luận được gì, nhưng có thể dùng cho việc làm c
 ![Imagine Predictive Analytics Putting a Crystal Ball in Your Hand | Dr. Phil Wells | TEDxKanata - YouTube](https://youtu.be/QWps8A-hljw?si=-1uQbDlJ7Ww8sE_S)
 
 [Trực giác là việc nhìn ra mẫu hình không hơn không kém](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh%20kh%C3%B4ng%20h%C6%A1n%20kh%C3%B4ng%20k%C3%A9m.md)
-[Sự chuyên gia (expertise) đến từ việc nhìn ra mẫu hình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20(expertise)%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)
+[Sự chuyên gia đến từ việc nhìn ra mẫu hình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)

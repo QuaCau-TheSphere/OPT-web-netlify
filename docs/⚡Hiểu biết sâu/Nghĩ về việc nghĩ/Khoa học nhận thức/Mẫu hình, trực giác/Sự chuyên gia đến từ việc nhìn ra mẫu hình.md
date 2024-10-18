@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-07-26T10:33
-updated: 2024-10-07T12:18
+updated: 2024-10-18T15:35
 description: 4 yếu tố để một người trở thành chuyên gia":" (1) Dành nhiều thời gian tập luyện, (2) Quy luật trong lĩnh vực đó không thay đổi theo thời gian, (3) Nhận được sự phản hồi nhanh chóng cho những gì mình làm, (4) Luôn tìm cách bước ra ngoài vùng thoải mái
 alias:
   - Làm sao để giỏi hơn?
-  - Làm sao để giỏi hơn: Sự chuyên gia (expertise) đến từ việc nhìn ra mẫu hình
+  - Làm sao để giỏi hơn: Sự chuyên gia đến từ việc nhìn ra mẫu hình
 ---
 Khái niệm:: [Mẫu hình (pattern)](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh%20(pattern).md), [Chuyên gia](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/Chuy%C3%AAn%20gia.md)
 Khi bạn hỏi câu hỏi "Làm sao để giỏi?", thì cũng là bạn đang hỏi "Làm sao để trở thành chuyên gia?". Để trở thành chuyên gia thì cần hội đủ 4 yếu tố sau:
