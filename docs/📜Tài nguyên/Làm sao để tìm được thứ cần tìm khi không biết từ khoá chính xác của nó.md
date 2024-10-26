@@ -43,6 +43,7 @@ Diễn đàn chuyên về hỏi đáp [Stack Exchange](./Gi%E1%BA%A3i%20ph%C3%A1
 - [I Need a Name (INAN)](https://www.reddit.com/r/INeedAName/)
 
 Nếu cần nơi tổng hợp tiếng Việt thì mình có tổng hợp [500 nhóm Facebook hay](https://quảcầu.cc/cac-nhom-facebook-hay?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=Tài+nguyên+khác%2CLàm+việc+hiệu+quả&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=). Mục đích của danh sách này chủ yếu để seeding, không phải để tìm từ khoá, nhưng phần học thuật thì cũng có thể hữu ích cho bạn. Phần đó bây giờ cũng phải cập nhật lại.
+Phần khai báo trong đối thoại
 
 Nếu dành thời gian để viết những gì bạn đã thử mà không được thì câu hỏi của bạn sẽ trở nên hấp dẫn hơn, tạo được nhiều tương tác hơn.
 
