@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-08-31T22:26
-updated: 2024-09-22T15:45
+updated: 2024-10-18T17:06
 ---
-Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
+Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Tài liệu động](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
 Lĩnh vực:: [Sắp chữ, thiết kế, xuất bản](../../L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md), [Hệ thống thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/index.md)
 # Comprehensive Academic Workflow from Reading to Writing in Markdown
 ![The abstract version of the academic workflow from reading to writing](https://chris-grieser.de/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8afcb0cc-e145-46b4-a37b-fb968f26022d%2FUntitled.png?table=block&id=11b60946-15f4-483a-a7f6-8bf69503aa04&spaceId=59bcf46b-de3b-49d0-8351-c59ab6c69bd5&width=1730&userId=&cache=v2)
