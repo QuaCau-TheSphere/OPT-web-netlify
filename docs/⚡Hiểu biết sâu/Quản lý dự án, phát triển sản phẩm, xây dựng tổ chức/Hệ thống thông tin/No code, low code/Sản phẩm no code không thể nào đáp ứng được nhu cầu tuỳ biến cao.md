@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-02T15:18
+updated: 2024-10-28T22:10
 ---
 ### Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù
 ![Dùng ERP dựng sẵn.png](../../../../attachments/D%C3%B9ng%20ERP%20d%E1%BB%B1ng%20s%E1%BA%B5n.png)
@@ -17,3 +17,4 @@ Chưa kể, cái gọi là chi phí thấp ở đây chỉ là miễn phí trong
 [Dùng low code để xây dựng hệ thống là đang mang nợ kỹ thuật vào người](./D%C3%B9ng%20low%20code%20%C4%91%E1%BB%83%20x%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20l%C3%A0%20%C4%91ang%20mang%20n%E1%BB%A3%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di.md)
 [Chấp nhận giải pháp mì ăn liền là đang mang nợ vào người](../../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/Ch%E1%BA%A5p%20nh%E1%BA%ADn%20gi%E1%BA%A3i%20ph%C3%A1p%20m%C3%AC%20%C4%83n%20li%E1%BB%81n%20l%C3%A0%20%C4%91ang%20mang%20n%E1%BB%A3%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di.md) 
 ![](https://www.commitstrip.com/wp-content/uploads/2020/10/Strip-PM-et-le-Nocode650-finalenglish.jpg) 
+[Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù](./C%C3%A1c%20ERP%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%B1ng%20s%E1%BA%B5n%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nh%E1%BB%AFng%20lu%E1%BB%93ng%20l%C3%A0m%20vi%E1%BB%87c%20v%C3%A0%20suy%20ngh%C4%A9%20%C4%91%E1%BA%B7c%20th%C3%B9.md)
