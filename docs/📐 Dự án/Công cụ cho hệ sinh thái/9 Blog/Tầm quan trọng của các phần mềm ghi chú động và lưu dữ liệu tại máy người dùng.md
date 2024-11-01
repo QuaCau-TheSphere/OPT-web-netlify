@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-07-26T10:33
-updated: 2024-11-01T20:19
+updated: 2024-11-01T22:10
 description: Chỉ khi nào nhu cầu của các bên liên quan hiện ra ngay trong kho dữ liệu của nhóm mà không cần phải hỏi họ hay thậm chí là nhập liệu, thì lúc đó chúng ta mới có thể bắt đầu nói về một hệ sinh thái mà những thành viên mới – vốn rất thiếu nhân lực – vẫn có thể hưởng lợi.
-title: "Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng"
+title: "Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng"
 alias:
   - Từ việc lưu dữ liệu tại máy người dùng đến sự hợp tác đa phương và liên ngành và nền kinh tế không dùng tiền
 ---
