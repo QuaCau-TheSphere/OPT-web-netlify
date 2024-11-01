@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-28T13:13
-updated: 2024-11-01T21:10
+updated: 2024-11-01T22:26
 ---
 MỜI THÀNH VIÊN ABG TẠI SÀI GÒN ĐĂNG KÝ THUYẾT TRÌNH DỰ ÁN TẠI ABG DAY 17/11
 
@@ -22,22 +22,21 @@ ABG DAY là sự kiện kết nối các thế hệ giảng viên, học viên, 
 Nếu muốn đăng ký thuyết trình dự án tại ABG Day, vui lòng gửi email giới thiệu dự án, bao gồm các thông tin cụ thể về kết quả, hiện trạng đang triển khai trong thực tế của bạn về **email bdh.alumni@abg.edu.vn trước 12h trưa thứ 5 ngày 31/10.** Ban điều hành Alumni sẽ chủ động làm việc với các chủ dự án tiềm năng để process các bước tiếp theo.
 
 ---
+Xin chào BĐH ABG Alumni,
 
-## Giới thiệu
-Tên dự án: [Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng](../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/9%20Blog/T%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20ghi%20ch%C3%BA%20%C4%91%E1%BB%99ng%20v%C3%A0%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20m%C3%A1y%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
-Nói về các điểm sau:
+Mình xin tự giới thiệu, mình là Lý Minh Nhật, học viên ABG Open Special. Mình xin được đăng ký thuyết trình dự án tại ABG Day với dự án: **Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả thông qua việc quản lý dự án bằng các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng**
+
+Các điểm chính:
  - **Vấn đề:** Sự hợp tác giữa các nhóm dự án nhỏ chưa đạt được hiệu quả tối ưu do thiếu nhân lực và công cụ phù hợp
 - **Hướng giải quyết:** Phổ cập việc sử dụng các chương trình ghi chú động để xây dựng phần mềm cá nhân
 
 ## Kết quả, hiện trạng đang triển khai
-- Bài viết chi tiết [Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng](../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/9%20Blog/T%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20ghi%20ch%C3%BA%20%C4%91%E1%BB%99ng%20v%C3%A0%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20m%C3%A1y%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
-- Hệ thống kho thông tin:
-	- [Obsidian, quản lý dự án và công cụ nghĩ](https://obsidian.quảcầu.cc/?utm_source=W+Giới+thiệu+đối+⊷+thoại&utm_medium=Website&utm_campaign=&utm_content=&utm_term=)
-	- [Lập trình và các công cụ số](https://lậptrình.quảcầu.cc/?utm_source=W+Giới+thiệu+đối+⊷+thoại&utm_medium=Website&utm_campaign=&utm_content=&utm_term=)
-	- [Tồn tại trong thế giới tư bản](https://kiếmtiền.quảcầu.cc/?utm_source=W+Giới+thiệu+đối+⊷+thoại&utm_medium=Website&utm_campaign=&utm_content=&utm_term=)
-	- [Vật lý và ẩn dụ](https://vậtlý.quảcầu.cc/?utm_source=W+Giới+thiệu+đối+⊷+thoại&utm_medium=Website&utm_campaign=&utm_content=&utm_term=)
-
-- [Danh sách các nhu cầu công việc thường gặp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md), [Kho địa điểm để chọn nơi gặp mặt](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/index.md)
-- [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md): đã có các buổi hướng dẫn 1-1 với 5 người
+Đây là các thành phẩm, sản phẩm, chương trình đang có để đạt được dự án này:
+- Bài viết chi tiết: [Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng - Obsidian, quản lý dự án và công cụ nghĩ](https://doi-thoai.deno.dev/T5.2W.1)
+- [Hệ thống kho thông tin, tài nguyên, kế hoạch của dự án](https://doi-thoai.deno.dev/obsidianQC.2W.1). 2 kho tài nguyên thường được dùng:
+	- [Kho tài nguyên cho việc đáp ứng các nhu cầu thường gặp trong công việc](https://doi-thoai.deno.dev/YF.2W.1)
+	- [Kho địa điểm để chọn nơi gặp mặt](https://doi-thoai.deno.dev/UD.2W.1)
+- [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.2W.1)
 - Các buổi thảo luận nhóm: 
-	- 
+	- [Giới hạn của PKM nằm ở đâu: máy móc mình sử dụng hay chính người sử dụng nó? - YouTube](https://doi-thoai.deno.dev/qw.2W.1)
+	- [Công nghệ và ký ức: trí nhớ của ta có còn nằm trong não của ta nữa không? - YouTube](https://doi-thoai.deno.dev/qv.2W.1)
