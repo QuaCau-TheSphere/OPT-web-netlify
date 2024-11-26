@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-10-31T15:54
+updated: 2024-11-12T22:26
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
@@ -90,7 +90,7 @@ Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu 
 - [Khai thác một từ khoá](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
 - [Bản chất của sự mơ hồ](https://quảcầu.cc/ly-thuyet-ve-goc-nhin?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=hiểu+lầm%2Cnét+nghĩa+ẩn%2Cthay+đổi+góc+nhìn%2CHiện+tượng+học%2C+khoa+học+nhận+thức%2C+vật+lý+luận%2Chiện+tượng+học&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=)
 - [Nghịch lý triển ngôn: Ý tưởng có trước hay sự triển khai ngôn ngữ có trước?](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
-- [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+- [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md) 
 - [Làm sao để giỏi hơn: Sự chuyên gia (expertise) đến từ việc nhìn ra mẫu hình](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)
 
 
@@ -99,3 +99,4 @@ Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu 
 > Thứ gì có đuôi dài, bốn chân, kêu meo meo ấy nhỉ?
 
 `đuôi dài`, `bốn chân`, `kêu meo meo` là những **từ khoá định nghĩa nên từ khoá**. Dù họ không biết từ khoá chính xác là gì, họ cũng có những từ khoá sát với từ khoá họ cần tìm nhất. Bạn cũng đang giống họ, cố tìm một từ khoá để nắm bắt một ý niệm mơ hồ, nhưng bạn cũng lại thấy nó không mơ hồ chút nào. Có lẽ đây chính là một ví dụ điển hình của [Nghịch lý triển ngôn: Ý tưởng có trước hay sự triển khai ngôn ngữ có trước?](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md).%%
+

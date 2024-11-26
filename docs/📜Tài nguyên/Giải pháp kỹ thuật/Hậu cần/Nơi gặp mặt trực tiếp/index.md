@@ -21,7 +21,7 @@ title: Nơi gặp mặt trực tiếp
 Chọn [TP.HCM](./TP.HCM/index.md) hoặc [Hà Nội](./H%C3%A0%20N%E1%BB%99i/index.md) để bắt đầu. 
 
 ## Tiêu chí thêm địa điểm
-- Có chính sách hỗ trợ các dự án phi lợi nhuận, hoặc có lợi ích cho người làm phi lợi nhuận (VD: gần nhà nhau, có người quen)
+- Có chính sách hỗ trợ các dự án phi lợi nhuận, hoặc có lợi ích cho người làm phi lợi nhuận hoặc đối tượng hưởng lợi của họ (VD: gần nhà nhau, có người quen, tiếp cận được cho người khuyết tật)
 - Được đề xuất trong nơi thảo luận, hoặc được yêu cầu kéo dữ liệu mới (pull request) trên GitHub
 - Có điểm cộng khác lạ
 

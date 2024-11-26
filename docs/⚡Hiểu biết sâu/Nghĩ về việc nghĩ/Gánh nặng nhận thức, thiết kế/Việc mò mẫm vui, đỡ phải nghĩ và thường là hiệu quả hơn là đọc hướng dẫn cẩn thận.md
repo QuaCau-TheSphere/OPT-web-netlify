@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-10-07T23:30
+updated: 2024-11-25T23:48
 ---
 [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](./M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md)
 [Chúng ta không chọn phương án tối ưu khi chọn sai cũng chẳng hại gì](./Thi%E1%BA%BFt%20k%E1%BA%BF/Ch%C3%BAng%20ta%20kh%C3%B4ng%20ch%E1%BB%8Dn%20ph%C6%B0%C6%A1ng%20%C3%A1n%20t%E1%BB%91i%20%C6%B0u%20khi%20ch%E1%BB%8Dn%20sai%20c%C5%A9ng%20ch%E1%BA%B3ng%20h%E1%BA%A1i%20g%C3%AC.md) 
@@ -22,6 +22,7 @@ updated: 2024-10-07T23:30
 - Vì nó không quan trọng với mình
 - Vì nếu ta tìm được cách nào dùng được, ta sẽ dính với cách đó
 
+[Trải nghiệm truy cập web giống như trải nghiệm được dịch chuyển tức thời đến một nơi xa lạ](./Thi%E1%BA%BFt%20k%E1%BA%BF/Tr%E1%BA%A3i%20nghi%E1%BB%87m%20truy%20c%E1%BA%ADp%20web%20gi%E1%BB%91ng%20nh%C6%B0%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%8Bch%20chuy%E1%BB%83n%20t%E1%BB%A9c%20th%E1%BB%9Di%20%C4%91%E1%BA%BFn%20m%E1%BB%99t%20n%C6%A1i%20xa%20l%E1%BA%A1.md)
 Nguồn:: [Đừng bắt tôi nghĩ](../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%ABng%20b%E1%BA%AFt%20t%C3%B4i%20ngh%C4%A9.md)
 [Chơi là sự thử nghiệm các kỹ năng mới học trong những môi trường mới](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Game%20ho%C3%A1/Ch%C6%A1i%20l%C3%A0%20s%E1%BB%B1%20th%E1%BB%AD%20nghi%E1%BB%87m%20c%C3%A1c%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%20h%E1%BB%8Dc%20trong%20nh%E1%BB%AFng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20m%E1%BB%9Bi.md)
 [Con người chuyển từ kỹ năng này sang kỹ năng khác ngay cả khi họ chỉ có một khái niệm mơ hồ về đích đến cuối cùng](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/Con%20ng%C6%B0%E1%BB%9Di%20chuy%E1%BB%83n%20t%E1%BB%AB%20k%E1%BB%B9%20n%C4%83ng%20n%C3%A0y%20sang%20k%E1%BB%B9%20n%C4%83ng%20kh%C3%A1c%20ngay%20c%E1%BA%A3%20khi%20h%E1%BB%8D%20ch%E1%BB%89%20c%C3%B3%20m%E1%BB%99t%20kh%C3%A1i%20ni%E1%BB%87m%20m%C6%A1%20h%E1%BB%93%20v%E1%BB%81%20%C4%91%C3%ADch%20%C4%91%E1%BA%BFn%20cu%E1%BB%91i%20c%C3%B9ng.md)

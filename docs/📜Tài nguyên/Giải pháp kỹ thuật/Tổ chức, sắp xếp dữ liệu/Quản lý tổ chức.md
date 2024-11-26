@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-09-03T00:32
-updated: 2024-09-03T00:33
+updated: 2024-11-12T21:24
 ---
+Khái niệm:: [Quản trị kiến thức](Qu%E1%BA%A3n%20tr%E1%BB%8B%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 Trước tiên hãy nói về cách đánh số thư mục. Cách đánh số này lấy ý tưởng từ cách đánh số [Johnny•Decimal](https://johnnydecimal.com/).
 - Những sự kiện sẽ được đánh số riêng theo dạng YYMM
 
@@ -58,7 +59,7 @@ Trong doanh nghiệp, mục thử thách này gọi là đào tạo nội bộ, 
 
 Chia sẻ đam mê
 Sự sẵn sàng chia sẻ thường chỉ khi họ vẫn còn đang cần. Khi hiểu rành rẽ rồi thì sự hứng thú đó cũng giảm
-[Bản đồ là yếu tố tuyệt vời nhất của game mà các dự án có sử dụng game hoá chưa sử dụng triệt để](B%E1%BA%A3n%20%C4%91%E1%BB%93%20l%C3%A0%20y%E1%BA%BFu%20t%E1%BB%91%20tuy%E1%BB%87t%20v%E1%BB%9Di%20nh%E1%BA%A5t%20c%E1%BB%A7a%20game%20m%C3%A0%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20c%C3%B3%20s%E1%BB%AD%20d%E1%BB%A5ng%20game%20ho%C3%A1%20ch%C6%B0a%20s%E1%BB%AD%20d%E1%BB%A5ng%20tri%E1%BB%87t%20%C4%91%E1%BB%83.md)
+[Bản đồ là yếu tố tuyệt vời nhất của game mà các dự án có sử dụng game hoá chưa sử dụng triệt để](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/B%E1%BA%A3n%20%C4%91%E1%BB%93%20l%C3%A0%20y%E1%BA%BFu%20t%E1%BB%91%20tuy%E1%BB%87t%20v%E1%BB%9Di%20nh%E1%BA%A5t%20c%E1%BB%A7a%20game%20m%C3%A0%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20c%C3%B3%20s%E1%BB%AD%20d%E1%BB%A5ng%20game%20ho%C3%A1%20ch%C6%B0a%20s%E1%BB%AD%20d%E1%BB%A5ng%20tri%E1%BB%87t%20%C4%91%E1%BB%83.md)
 
 Các file trong đây file nào cũng có thể là tài liệu 
 
