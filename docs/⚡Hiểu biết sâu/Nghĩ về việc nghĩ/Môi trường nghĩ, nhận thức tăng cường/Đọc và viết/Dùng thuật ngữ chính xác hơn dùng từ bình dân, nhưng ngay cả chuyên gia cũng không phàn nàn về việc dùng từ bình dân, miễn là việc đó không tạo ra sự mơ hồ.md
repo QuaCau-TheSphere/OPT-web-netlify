@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-03-02T15:26
+updated: 2024-11-25T17:22
 ---
-Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Đơn giản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%C6%A1n%20gi%E1%BA%A3n.md)
+Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Đơn giản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%C6%A1n%20gi%E1%BA%A3n.md), [Chuyên gia](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/Chuy%C3%AAn%20gia.md)
 Thứ làm người đọc thấy mình có giá trị là 
 [Đọc một bài viết sâu làm ta biết mình cần phải làm gì nhiều hơn là đọc một bài viết nông](./%C4%90%E1%BB%8Dc%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20s%C3%A2u%20l%C3%A0m%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%E1%BA%A7n%20ph%E1%BA%A3i%20l%C3%A0m%20g%C3%AC%20nhi%E1%BB%81u%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20n%C3%B4ng.md) 
 Nguồn:: [nngroup](../../../%CE%9E%20Ngu%E1%BB%93n/nngroup.md), [Plain Language Is for Everyone, Even Experts](https://www.nngroup.com/articles/plain-language-experts/?lm=too-easy&pt=youtubevideo)
