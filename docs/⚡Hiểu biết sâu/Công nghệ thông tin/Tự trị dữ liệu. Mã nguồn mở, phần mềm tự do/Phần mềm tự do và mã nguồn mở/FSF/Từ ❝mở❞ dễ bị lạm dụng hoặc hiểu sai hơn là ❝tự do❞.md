@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-02T14:26
+updated: 2024-11-27T13:37
 ---
 Khái niệm:: 
 However, the obvious meaning for the expression “open source software” is “You can look at the source code.” Indeed, most people seem to misunderstand “open source software” that way. (The clear term for that meaning is “source available.”) That criterion is much weaker than the free software definition, much weaker also than the official definition of open source. It includes many programs that are neither free nor open source.
@@ -26,4 +26,4 @@ This fascination with “openness” stems mostly from the success of open-sourc
 Nguồn:: [Opinion | Open and Closed - The New York Times](https://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html)
 
 [Khi nói đến mã nguồn mở, đa số chỉ để ý tới việc được đọc mã nguồn, chứ không để ý đến quyền được chỉnh sửa và phân phối nó](./Khi%20n%C3%B3i%20%C4%91%E1%BA%BFn%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20%C4%91a%20s%E1%BB%91%20ch%E1%BB%89%20%C4%91%E1%BB%83%20%C3%BD%20t%E1%BB%9Bi%20vi%E1%BB%87c%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Dc%20m%C3%A3%20ngu%E1%BB%93n,%20ch%E1%BB%A9%20kh%C3%B4ng%20%C4%91%E1%BB%83%20%C3%BD%20%C4%91%E1%BA%BFn%20quy%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%89nh%20s%E1%BB%ADa%20v%C3%A0%20ph%C3%A2n%20ph%E1%BB%91i%20n%C3%B3.md)
-[Việc sử dụng từ ❝mở❞ đã khiến cho O'Reilly thành công trong việc PR mã nguồn mở](../M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20t%E1%BB%AB%20%E2%9D%9Dm%E1%BB%9F%E2%9D%9E%20%C4%91%C3%A3%20khi%E1%BA%BFn%20cho%20O'Reilly%20th%C3%A0nh%20c%C3%B4ng%20trong%20vi%E1%BB%87c%20PR%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F.md) 
+[Việc sử dụng từ ❝mở❞ đã khiến cho O'Reilly thành công trong việc PR mã nguồn mở](../OSI/Vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20t%E1%BB%AB%20%E2%9D%9Dm%E1%BB%9F%E2%9D%9E%20%C4%91%C3%A3%20khi%E1%BA%BFn%20cho%20O'Reilly%20th%C3%A0nh%20c%C3%B4ng%20trong%20vi%E1%BB%87c%20PR%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F.md) 
