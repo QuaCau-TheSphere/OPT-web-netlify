@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-11-12T22:26
+updated: 2024-12-11T17:18
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
@@ -62,7 +62,7 @@ Hết cách rồi, phải lao đầu vào nghiên cứu thật kỹ thôi.
 - Lên YouTube kiếm playlist bài giảng
 - Tìm trên Google Scholars bằng truy vấn `[chủ đề] literature review`
 - Lên [LibGen](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/LibGen.md) tải sách 
-
+- [Cách tìm kiếm các bài viết học thuật](https://phunghuy.wordpress.com/2016/01/05/academicsearch/)
 Xem thêm:: [Tinh túy của một cuốn sách chính là mục lục của nó](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Tinh%20t%C3%BAy%20c%E1%BB%A7a%20m%E1%BB%99t%20cu%E1%BB%91n%20s%C3%A1ch%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%A5c%20l%E1%BB%A5c%20c%E1%BB%A7a%20n%C3%B3.md)
 
 ## Liệu đây đã là cách hiệu quả nhất chưa? 
