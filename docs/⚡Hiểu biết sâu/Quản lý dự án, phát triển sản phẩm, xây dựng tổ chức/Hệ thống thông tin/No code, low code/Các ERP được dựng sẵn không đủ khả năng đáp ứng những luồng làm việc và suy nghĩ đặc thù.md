@@ -1,13 +1,14 @@
 ---
 share: true
 created: 2024-10-07T22:19
-updated: 2024-11-18T14:07
+updated: 2024-12-20T21:51
 ---
-## Liệu các phần mềm hoạch định tài nguyên doanh nghiệp (ERP) có giải quyết được vấn đề đảo thông tin này không?
-Các phần mềm hoạch định tài nguyên doanh nghiệp ([enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning "Enterprise resource planning - Wikipedia"), ERP) sẽ có những mô đun chuyên về quản lý tài chính. Tuy nhiên, với Kendy điều đó là không đủ. Đây là những yêu cầu cho một phần mềm quản trị mà Kendy cần. Thiếu một trong 3 đều không được:
+Bài viết này dành cho những ai đang tìm kiếm một hệ thống quản lý hoặc hoạch định tài nguyên doanh nghiệp (ERP — [enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning "Enterprise resource planning - Wikipedia")) đáp ứng được những nhu cầu này:
 - [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
 - [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
 - [ ] Chi phí thấp
+
+Bài viết hy vọng các lập luận nó đưa ra đủ thuyết phục để bạn thấy rằng một hệ thống đáp ứng được tất cả những điều kiện như vậy là không tồn tại.
 
 ### Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù
 ![Dùng ERP dựng sẵn.png](../../../../attachments/D%C3%B9ng%20ERP%20d%E1%BB%B1ng%20s%E1%BA%B5n.png)
@@ -56,3 +57,4 @@ Tức là nó hiểu rất rõ nhược điểm của đối thủ. Nhưng rốt
 
 Xem thêm:: [Nhược điểm của Obsidian và Fibery](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Nh%C6%B0%E1%BB%A3c%20%C4%91i%E1%BB%83m%20c%E1%BB%A7a%20Obsidian%20v%C3%A0%20Fibery.md)
 
+[Sản phẩm no code không thể nào đáp ứng được nhu cầu tuỳ biến cao](./S%E1%BA%A3n%20ph%E1%BA%A9m%20no%20code%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20%C4%91%C3%A1p%20%E1%BB%A9ng%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20tu%E1%BB%B3%20bi%E1%BA%BFn%20cao.md). [Các tiếp thị về no code hàm ý rằng việc code là việc khó nhất trong việc tạo sản phẩm, nhưng thực ra việc thảo luận và lên kế hoạch mới là thứ quan trọng nhất](./C%C3%A1c%20ti%E1%BA%BFp%20th%E1%BB%8B%20v%E1%BB%81%20no%20code%20h%C3%A0m%20%C3%BD%20r%E1%BA%B1ng%20vi%E1%BB%87c%20code%20l%C3%A0%20vi%E1%BB%87c%20kh%C3%B3%20nh%E1%BA%A5t%20trong%20vi%E1%BB%87c%20t%E1%BA%A1o%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20nh%C6%B0ng%20th%E1%BB%B1c%20ra%20vi%E1%BB%87c%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%C3%A0%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20m%E1%BB%9Bi%20l%C3%A0%20th%E1%BB%A9%20quan%20tr%E1%BB%8Dng%20nh%E1%BA%A5t.md).
