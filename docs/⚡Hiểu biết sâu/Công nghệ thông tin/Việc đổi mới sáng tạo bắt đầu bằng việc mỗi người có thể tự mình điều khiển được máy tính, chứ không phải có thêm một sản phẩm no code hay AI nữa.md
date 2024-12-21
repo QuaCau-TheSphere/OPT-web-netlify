@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2024-09-22T22:30
-updated: 2024-12-20T23:18
+updated: 2024-12-21T11:28
 alias: Phần mềm cá nhân
 ---
 Khái niệm:: [Sáng tạo](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%C3%A1ng%20t%E1%BA%A1o.md)
 Điều 3.16 [Luật Khoa học và công nghệ 2013](https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-khoa-hoc-va-cong-nghe-nam-2013-197387.aspx?anchor=dieu_3 "") giải thích rằng *đổi mới sáng tạo (innovation)* là việc tạo ra, ứng dụng thành tựu, giải pháp kỹ thuật, công nghệ, giải pháp quản lý để nâng cao hiệu quả phát triển kinh tế - xã hội, nâng cao năng suất, chất lượng, giá trị gia tăng của sản phẩm, hàng hóa. Về cơ bản là giải quyết được các nhu cầu trong [danh sách các nhu cầu công việc này](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md) một cách hiệu quả, đặc biệt là ở mảng vận hành. Điểm chung của các nhu cầu này là cần xử lý dữ liệu.
 
-Các phần mềm no code hay AI **có hỗ trợ** giải quyết các nhu cầu này ở một mức độ nhất định, nhưng chỉ dừng ở mức hỗ trợ một phần mà thôi, chứ không thể đáp ứng hoàn toàn được. Chúng không được tạo ra để trực tiếp giải quyết các nhu cầu này:
+Các phần mềm no code hay AI có hỗ trợ giải quyết các nhu cầu này ở một mức độ nhất định, nhưng không thể giải quyết hoàn toàn được. Chúng không được tạo ra để trực tiếp giải quyết các nhu cầu này:
 - [Mô hình ngôn ngữ lớn làm việc với ngôn ngữ, không phải kiến thức](./D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20ng%C3%B4n%20ng%E1%BB%AF,%20kh%C3%B4ng%20ph%E1%BA%A3i%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 - [Sản phẩm no code không thể nào đáp ứng được nhu cầu tuỳ biến cao](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/S%E1%BA%A3n%20ph%E1%BA%A9m%20no%20code%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20%C4%91%C3%A1p%20%E1%BB%A9ng%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20tu%E1%BB%B3%20bi%E1%BA%BFn%20cao.md)
 
