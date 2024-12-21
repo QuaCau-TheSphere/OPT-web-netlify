@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-10T11:18
-updated: 2024-07-17T00:09
+updated: 2024-12-21T21:03
 ---
 [Bloatware Removal Utility](https://github.com/arcadesdude/BRU)
 for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps

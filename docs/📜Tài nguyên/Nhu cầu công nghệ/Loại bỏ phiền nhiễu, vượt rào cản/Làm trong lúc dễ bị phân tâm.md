@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T10:58
-updated: 2024-09-26T11:20
+updated: 2024-12-21T21:03
 ---
 VD: phải ngồi chờ ở bệnh viện, phải tham dự buổi họp để điểm danh
 
