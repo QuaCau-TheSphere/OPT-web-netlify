@@ -1,20 +1,19 @@
 ---
 share: true
 created: 2024-09-02T13:14
-updated: 2024-12-20T21:49
+updated: 2024-12-24T21:54
 ---
 Mục đích của alias là để nối tiếp dòng suy nghĩ.
 
 Các loại alias:
 - Liệt kê từ đồng nghĩa không có trong tiêu đề
-- Liệt kê các phiên bản của tiêu đề
-- Liệt kê các cách diễn đạt khác nhau
+- Liệt kê các phiên bản, cách diễn đạt khác nhau của tiêu đề
 - Liệt kê các ý khác nhau của một đoạn lập luận thống nhất
 
 Xem thêm:: [Các loại tiêu đề và cách dùng chúng](./C%C3%A1c%20lo%E1%BA%A1i%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C3%A0%20c%C3%A1ch%20d%C3%B9ng%20ch%C3%BAng.md)
 ## Liệt kê từ đồng nghĩa không có trong tiêu đề
 
-## Liệt kê các phiên bản của tiêu đề
+## Liệt kê các phiên bản, các cách diễn đạt khác nhau của tiêu đề
 Thường thấy trong [📐 Dự án](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/index.md).
 - Biến danh ngữ thành động ngữ hoặc ngược lại
 - Biến câu khẳng định thành câu hỏi hoặc ngược lại
@@ -30,12 +29,13 @@ Biến câu khẳng định thành câu hỏi hoặc ngược lại:
 - WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 - Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?
 
-Xem thêm:: [Quản lý dữ liệu cho dự án, sản phẩm](./Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20d%E1%BB%B1%20%C3%A1n,%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
-
-## Liệt kê các cách diễn đạt khác nhau
-VD:
-- [LLM không tất định mà tạo sinh kết quả mỗi lần mỗi khác dù với cùng một câu nhập](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/LLM%20kh%C3%B4ng%20t%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20m%C3%A0%20t%E1%BA%A1o%20sinh%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BB%97i%20l%E1%BA%A7n%20m%E1%BB%97i%20kh%C3%A1c%20d%C3%B9%20v%E1%BB%9Bi%20c%C3%B9ng%20m%E1%BB%99t%20c%C3%A2u%20nh%E1%BA%ADp.md)
+Các cách diễn đạt ý khác nhau:
+- [LLM không tất định mà tạo sinh kết quả mỗi lần mỗi khác dù với cùng một câu nhập](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/Gi%E1%BB%9Bi%20h%E1%BA%A1n/LLM%20kh%C3%B4ng%20t%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20m%C3%A0%20t%E1%BA%A1o%20sinh%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BB%97i%20l%E1%BA%A7n%20m%E1%BB%97i%20kh%C3%A1c%20d%C3%B9%20v%E1%BB%9Bi%20c%C3%B9ng%20m%E1%BB%99t%20c%C3%A2u%20nh%E1%BA%ADp.md)
 - Kết quả từ AI không phải từ sự lựa chọn mà chỉ là từ việc lắc một cái xí ngầu không đồng đều
+- Một nửa dân số Mỹ đã có bảo hiểm nhân thọ
+- Chỉ một nửa dân số Mỹ là có bảo hiểm nhân thọ
+
+Xem thêm:: [Quản lý dữ liệu cho dự án, sản phẩm](./Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20d%E1%BB%B1%20%C3%A1n,%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
 
 ## Liệt kê các ý khác nhau của một đoạn lập luận thống nhất
 Thường thấy trong [⚡Hiểu biết sâu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/index.md). VD:
