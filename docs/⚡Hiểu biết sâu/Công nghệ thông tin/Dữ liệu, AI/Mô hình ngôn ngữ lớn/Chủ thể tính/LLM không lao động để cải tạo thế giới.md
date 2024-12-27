@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-19T12:17
-updated: 2024-10-14T10:04
+updated: 2024-12-26T20:11
 description: AI không có lao động trừu tượng và vì vậy không có chủ thể tính của một lao động. Nó không đòi hỏi nhuận bút hay cải tạo thế giới, nó cũng không cải tạo, phân công và khai thác lao động như một nhà quản lý
 ---
 # Chủ thể tính của lao động
@@ -19,6 +19,6 @@ Cho đến hiện tại, AI đang thay thế vai trò của một số khâu tro
 
 Sáng tạo tất nhiên là một lao động. Chúng có đầy đủ các khía cạnh của lao động trừu tượng. Ở mức cao nhất, một người làm sáng tạo trước hết vì ý chí của một Dasein: cải tạo tạo thế giới. Ngược lại, AI không lao động nghệ thuật vì chúng đang dừng ở mức mô phỏng lao động cụ thể của con người. Bất kể việc năng lực học hỏi giúp chúng tìm ra trong những gì đã trải nghiệm, một phương cách lao động mới mẻ, thậm chí là một tạo tác hoàn toàn mới, thì chúng không đại diện cho ý chí của lao động. Nói một cách có phần tiêu cực, AI đang là một tư liệu lao động cao cấp, nó biến những khả thể lao động trở nên giá trị hơn chỉ bởi năng lực nội tại của nó, về dữ liệu và về tốc độ xử lý. Vì không lao động nghệ thuật, ngày mà AI viết văn còn rất xa.
 Nguồn:: [A.I sáng tác văn chương - nhà văn Đức Anh](https://ducanhwriter.substack.com/p/ai-sang-tac-van-chuong)
-[Người sử dụng AI không thể tự nhận mình là tác giả của tác phẩm do nó tạo ra được, vì nghệ thuật đòi hỏi ta phải đưa ra rất nhiều lựa chọn](./Ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng%20AI%20kh%C3%B4ng%20th%E1%BB%83%20t%E1%BB%B1%20nh%E1%BA%ADn%20m%C3%ACnh%20l%C3%A0%20t%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20t%C3%A1c%20ph%E1%BA%A9m%20do%20n%C3%B3%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c,%20v%C3%AC%20ngh%E1%BB%87%20thu%E1%BA%ADt%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ta%20ph%E1%BA%A3i%20%C4%91%C6%B0a%20ra%20r%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BB%B1a%20ch%E1%BB%8Dn.md)
+[Người sử dụng LLM không thể tự nhận mình là tác giả của tác phẩm do nó tạo ra được, vì nghệ thuật đòi hỏi ta phải đưa ra rất nhiều lựa chọn](./Ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng%20LLM%20kh%C3%B4ng%20th%E1%BB%83%20t%E1%BB%B1%20nh%E1%BA%ADn%20m%C3%ACnh%20l%C3%A0%20t%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20t%C3%A1c%20ph%E1%BA%A9m%20do%20n%C3%B3%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c,%20v%C3%AC%20ngh%E1%BB%87%20thu%E1%BA%ADt%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ta%20ph%E1%BA%A3i%20%C4%91%C6%B0a%20ra%20r%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BB%B1a%20ch%E1%BB%8Dn.md)
 [Sự khác biệt giữa con người và mô hình ngôn ngữ lớn là con người có niềm tin và có thể kiểm chứng niềm tin từ môi trường bên ngoài](./S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20con%20ng%C6%B0%E1%BB%9Di%20v%C3%A0%20m%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn%20l%C3%A0%20con%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ni%E1%BB%81m%20tin%20v%C3%A0%20c%C3%B3%20th%E1%BB%83%20ki%E1%BB%83m%20ch%E1%BB%A9ng%20ni%E1%BB%81m%20tin%20t%E1%BB%AB%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i.md)
 [Đằng sau vẻ ngoài tự trị của AI là những người làm công việc dán nhãn và kiểm duyệt, vô hình và bếp bênh](./%C4%90%E1%BA%B1ng%20sau%20v%E1%BA%BB%20ngo%C3%A0i%20t%E1%BB%B1%20tr%E1%BB%8B%20c%E1%BB%A7a%20AI%20l%C3%A0%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%C3%B4ng%20vi%E1%BB%87c%20d%C3%A1n%20nh%C3%A3n%20v%C3%A0%20ki%E1%BB%83m%20duy%E1%BB%87t,%20v%C3%B4%20h%C3%ACnh%20v%C3%A0%20b%E1%BA%BFp%20b%C3%AAnh.md)
